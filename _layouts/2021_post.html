@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	{% include 2021_head.html %}
+
+	<body>
+		{% include 2021_header.html %}
+		{% include 2021_nav.html %}
+
+		<!-- Banner Image -->
+		{% if page.banner-image %}
+			{% include 2021_banner.html %}
+		{% endif %}		
+		<br/><br/>		
+			
+		<div class="container">
+
+			<div class="row">
+				
+				<div class="col-sm-8">
+
+					<br>
+				  	<!-- Page Title-->
+					{% if page.title %}
+		            	<h1>{{ page.title }}</h1>
+		            	<br>
+		            {% endif %}
+					
+					<!-- Content -->
+                    <article>
+                    	{{ content | smartify }}
+                                                         
+						<div class="PageNavigation">
+							{% if page.previous.url %}
+								<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+							{% endif %}
+							{% if page.next.url %}
+							 	<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+							{% endif %}
+						</div>
+                	</article>
+			  	</div>
+			  	
+				<div class="col-sm-4">
+		        	<br>
+					<div class="container-fluid">
+						{% include 2021_news.html %}
+					</div>
+					<br>
+					
+					<div class="container-fluid">
+						{% include 2021_dates.html %}
+					</div>
+					
+					<div class="container-fluid">
+						{% include 2021_sponsors.html %}
+					</div>
+				</div>
+			
+			</div>
+
+		</div>
+		
+		{% include 2021_footer.html %}
+
+		<!-- Scripts -->
+		{% include 2021_scripts.html %}
+
+	</body>
+</html>
