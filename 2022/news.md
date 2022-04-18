@@ -9,7 +9,7 @@ title: <i class="far fa-newspaper"></i> &nbsp;Latest News</h1>
   {% for post in site.posts %}
     {% if post.year == page.year %}
     <li>
-      <a href="{{ post.url }}">
+      <a href="{{site.url}}/{{ post.url }}">
       	<div>
       	<h4>{{ post.title }}</h4>
       	<b>{{ post.date  | date: "%-d %B %Y"}}</b>

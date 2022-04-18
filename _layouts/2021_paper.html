@@ -22,26 +22,34 @@
 					<br>
 				  	<!-- Page Title-->
 					{% if page.title %}
-		            	<h1>{{ page.title }}</h1>
+		            	<h3></h3>
 		            	<br>
 		            {% endif %}
 					
 					<!-- Content -->
                     <article>
-                    	{{ content | smartify }}
-                                                         
-						<div class="PageNavigation">
-							{% if page.previous.url %}
-							  {% if page.previous.year == page.year %}
-							  	<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-							  {% endif %}
-							{% endif %}
-							{% if page.next.url %}
-							  {% if page.previous.year == page.year %}
-							   	<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-							  {% endif %}
-							{% endif %}
-						</div>
+                    
+                    	<table class="table table-striped">
+                    		<thead>
+								<tr class="bg-dark text-light">
+									<th><h3>{{ page.title }}</h3></h3>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><b>Authors:</b><br/><p> {{page.authors}} </p></td>
+								</tr>
+								<tr>
+									<td><b>Abstract:</b><br/><p> {{page.abstract}}</p></td>
+								</tr>
+								<tr>
+									<td><a href="{{page.link}}" target="_blank">PDF (protected)</a></td>
+								</tr>
+							</tbody>
+							
+                    	</table>
+                           
+                                              
                 	</article>
 			  	</div>
 			  	
@@ -56,9 +64,9 @@
 						{% include 2021_dates.html %}
 					</div>
 					
-					<!--<div class="container-fluid">
+					<div class="container-fluid">
 						{% include 2021_sponsors.html %}
-          </div>-->
+					</div>
 				</div>
 			
 			</div>
