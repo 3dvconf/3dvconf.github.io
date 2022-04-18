@@ -1,0 +1,24 @@
+{% if page.year != null %}
+    {% assign year = page.year %}
+{% else %}
+    {% assign year = site.data.3dv.current-year %}
+{% endif %}
+
+<h3><i class="far fa-handshake"></i> &nbsp; Sponsors</h3>
+
+
+{% for section in site.data.sponsors[year] %}
+<div class="row">
+	{% assign sorted_company = section.company | sort:'name' %}
+	{% for company in sorted_company %}
+	<div class="col-md-6 align-self-center sponsor-logo-sidebar" style="padding:20px;" >
+		<a href="{{company.url}}" target="_blank"><img alt="{{company.name}} Logo" src="{{site.url}}/{{company.logo}}"></a>
+	</div>		
+	{% endfor %}
+</div>
+{% endfor %}
+
+
+
+
+

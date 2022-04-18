@@ -1,0 +1,35 @@
+title: "3DV"
+tagline: "International Conference on 3D Vision"
+
+url: https://ic3dv.github.io/3dv1/
+
+twitter: https://twitter.com/3DVconf
+
+permalink: pretty
+safe: true
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown
+
+kramdown:
+    smart_quotes:  ["apos", "apos", "ldquo", "rdquo"]
+
+encoding: utf-8
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+
+
+# Use this for production
+sass:
+    style: compressed
+exclude: [.scss, README.md, node_modules, gruntfile.js, package.json, assets/]
+
+
+collections:
+  papers:
+    output: true
+    permalink: /:collection/:name
+
+    
+future: true

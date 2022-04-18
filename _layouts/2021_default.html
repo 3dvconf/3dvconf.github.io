@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	{% include 2021_head.html %}
+
+	<body>
+				
+		{% include 2021_header.html %}
+		{% include 2021_nav.html %}
+	
+		<!-- Banner Image -->
+		{% if page.banner-image %}
+			{% include 2021_banner.html %}
+		{% endif %}
+		<br/><br/>		
+			
+		<div class="container">
+				
+			<!-- Page Title-->
+			{% if page.title %}
+			 	<h1>{% if page.title-logo %}{{page.title-logo}} {% endif %}{{ page.title }}</h1>
+            {% endif %}
+			
+			{{ content | smartify }}
+						
+		</div>
+		
+		{% include 2021_footer.html %}
+
+		<!-- Scripts -->
+		{% include 2021_scripts.html %}
+		
+	</body>
+</html>

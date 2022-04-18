@@ -1,0 +1,61 @@
+2021:
+ - section:
+   name: Platinum Partner
+   company:
+    - name: Facebook
+      logo: img/2021/sponsors/rl-black-logo.png
+      url: https://about.facebook.com/realitylabs/
+      height: 20em
+ - section:
+   name: Gold Partners
+   company:
+    - name: Microsoft
+      logo: img/2021/sponsors/Microsoft_Logo.png
+      url: https://www.microsoft.com/en-gb
+      height: 5em
+    - name: Naver Labs
+      logo: img/2021/sponsors/naverlabs_logo.jpg
+      url: https://europe.naverlabs.com/
+      height: 5em
+    - name: Huawei (UK)
+      logo: img/2021/sponsors/huawei_logo.png
+      url: https://www.huawei.com/en/
+      height: 12em
+ - section:
+   name: Silver Partners
+   company:
+    - name: Adobe
+      logo: img/2021/sponsors/adobe_logo.png
+      url: https://research.adobe.com/
+      height: 5em
+    - name: Google
+      logo: img/2021/sponsors/google_logo.png
+      url: https://research.google/ 
+      height: 5em
+ - section:
+   name: Bronze Partners
+   company:
+    - name: vzense
+      logo: img/2021/sponsors/vzense_logo.png
+      url: https://www.vzense.com/
+      height: 5em
+    - name: Meshcapade
+      logo: img/2021/sponsors/meshcapade_logo.png
+      url: https://meshcapade.com/
+      height: 10em
+    - name: Niantic
+      logo: img/2021/sponsors/niantic_logo.png
+      url: https://nianticlabs.com/en/
+      height: 10em
+    - name: NVIDIA
+      logo: img/2021/sponsors/nvidia_logo.png
+      url: https://www.nvidia.com/
+      height: 8em
+    - name: Ocado Technology
+      logo: img/2021/sponsors/ocado_logo.jpg
+      url: https://www.ocadogroup.com/technology/technology-pioneers
+      height: 5em
+    - name: Mujin
+      logo: img/2021/sponsors/mujin_logo.png
+      url: https://www.mujin.co.jp/
+      height: 7em

@@ -1,0 +1,32 @@
+- name: 3DV 2021
+  url: https://3dv2021.surrey.ac.uk/
+ 
+- name: 3DV 2020
+  url: http://3dv2020.dgcv.nii.ac.jp/
+ 
+- name: 3DV 2019
+  url: http://3dv19.gel.ulaval.ca/
+ 
+- name: 3DV 2018
+  url: http://3dv18.uniud.it/
+
+- name: 3DV 2017
+  url: http://irc.cs.sdu.edu.cn/3dv/
+
+- name: 3DV 2016
+  url: http://3dv.stanford.edu/
+ 
+- name: 3DV 2015
+  url: http://3dv2015.inria.fr/
+ 
+- name: 3DV 2014
+  url: http://3dv.sys.wakayama-u.ac.jp/
+ 
+- name: 3DV 2013
+  url: http://www.3dv.cs.washington.edu/
+ 
+- name: 3DIMPVT 2012
+  url: http://threedimpvt2012.ethz.ch/
+ 
+- name: 3DIMPVT 2011
+  url: http://www.vis.uky.edu/3dimpvt/

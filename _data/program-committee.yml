@@ -1,0 +1,370 @@
+2021:
+ - name: Hanno	Ackermann
+ - name: Gianmarco	Addari
+ - name: Thiemo	Alldieck
+ - name: Ignacio	Alzugaray
+ - name: Michel	Antunes
+ - name: Helder	Araujo
+ - name: Iro	Armeni
+ - name: Abhishek	Bajpayee
+ - name: Francesco	Banterle
+ - name: Daniel	Barath
+   emergency: true
+ - name: Konstantinos	Batsos
+ - name: Timo	Bolkart
+ - name: Davide	Boscaini
+ - name: Amine	Bourki
+   emergency: true
+ - name: Samarth	Brahmbhatt
+ - name: Nikolas	Brasch
+ - name: Benjamin	Busam
+   outstanding: true
+ - name: Akin	Caliskan
+   emergency: true
+ - name: Dan	Casas
+ - name: Zhiqin	Chen
+   emergency: true
+ - name: Jiayi	Chen
+ - name: Vasileios	Choutas
+   outstanding: true
+ - name: Henry M	Clever
+ - name: John	Collomosse
+ - name: Yezhen	Cong
+ - name: Enric	Corona
+ - name: Massimiliano	Corsini
+ - name: Darren	Cosker
+   emergency: true 
+ - name: Luca	Cosmo
+   emergency: true
+   outstanding: true
+ - name: Zhaopeng	Cui
+ - name: Yuchao	Dai
+ - name: Qiyu	Dai
+ - name: Muhammet Ali	Dede
+ - name: Aloisio	Dourado
+ - name: Bertram	Drost
+   emergency: true
+ - name: Enrique	Dunn
+ - name: Mihai	Dusmanu
+ - name: Farshad	Einabadi
+   emergency: true
+ - name: Martin	Eisemann
+   emergency: true
+ - name: Peter	Eisert
+ - name: Cathrin	Elich
+ - name: Victoria	Fernandez Abrevaya
+   emergency: true
+   outstanding: true
+ - name: Claudio	Ferrari
+   emergency: true
+ - name: Wolfgang	Foerstner
+ - name: David	Fofi
+ - name: Victor	Fragoso
+ - name: Jean-Sebastien	Franco
+ - name: Takuya	Funatomi
+ - name: Yasutaka	Furukawa
+ - name: Yakup	Genc
+ - name: Riccardo	Gherardi
+ - name: Enjie	Ghorbel
+ - name: Andrew	Gilbert
+ - name: Guy	Godin
+   emergency: true
+ - name: Bastian	Goldluecke
+ - name: Paulo	Gotardo
+ - name: Michael	Greenspan
+ - name: Steve	Grogorick
+ - name: Yulia	Gryaditskaya
+ - name: Ikhsanul	Habibie
+ - name: Simon	Hadfield
+   emergency: true
+ - name: Lars	Hammarstrand
+ - name: Xiaoguang	Han
+ - name: Rana	Hanocka
+ - name: Adam	Harley
+ - name: Xingzhe	He
+ - name: Janne	Heikkila
+ - name: Olaf	Hellwich
+ - name: Lionel	Heng
+   outstanding: true
+   emergency: true
+ - name: Franck	Hetroy-Wheeler
+ - name: Anna	Hilsmann
+ - name: Derek	Hoiem
+ - name: Yannick	Hold-Geoffroy
+ - name: Hidekata	Hontani
+ - name: Binh-Son	Hua
+ - name: Jingwei	Huang
+ - name: Qixing	Huang
+ - name: Martin	Humenberger
+   emergency: true
+ - name: Masaaki	Iiyama
+ - name: Umar	Iqbal
+   outstanding: true
+ - name: Arjun	Jain
+ - name: Wei	Jiang
+ - name: Yuhe	Jin
+ - name: Hanbyul	Joo
+   outstanding: true
+ - name: Laurent Valentin	Jospin
+ - name: Anis	Kacem
+ - name: Hiroshi	Kawasaki
+ - name: Sena	Kiciroglu
+ - name: Sunok	Kim
+ - name: Itaru	Kitahara
+   emergency: true
+ - name: Laurent	Kneip
+ - name: Kevin	Koeser
+ - name: Nikos	Kolotouros
+ - name: Adarsh	Kowdle
+ - name: Gregory	Kramida
+ - name: Suryansh	Kumar
+ - name: Robert	Laganiere
+ - name: Jochen	Lang
+ - name: Viktor	Larsson
+ - name: Verica	Lazova
+ - name: Huu Minh	Le
+   emergency: true
+ - name: Gim Hee	Lee
+ - name: Victor	Lempitsky
+   emergency: true
+ - name: Yangyan	Li
+ - name: Yanyan	Li
+ - name: Zhengqi	Li
+ - name: Chen-Hsuan	Lin
+ - name: Hubert	Lin
+ - name: Shaohui	Liu
+ - name: Liu	liu
+ - name: Yang	Liu
+ - name: Peidong	Liu
+ - name: Sandro	Lombardi
+ - name: Zhaoyang	Lv
+ - name: Ludovic	Magerand
+ - name: Utkarsh	Mall
+   emergency: true
+ - name: Riccardo	Marin
+   outstanding: true
+   emergency: true
+ - name: Takeshi	Masuda
+   emergency: true
+ - name: Brendan	McCane
+ - name: Simone	Melzi
+   outstanding: true
+ - name: Simone	Milani
+ - name: Steven	Mills
+   emergency: true
+ - name: Pedro	Miraldo
+ - name: Ikuhisa	Mitsugami
+ - name: Daisuke	Miyazaki
+ - name: Zhipeng	Mo
+ - name: Kaichun	Mo
+ - name: Michael	Moeller
+ - name: Pascal	Monasse
+ - name: Philippos	Mordohai
+   emergency: true
+ - name: Yasuhiro	Mukaigawa
+ - name: Koki	Nagano
+ - name: Dinesh Reddy	Narapureddy
+ - name: Jacinto C.	Nascimento
+ - name: Mertalp	Ocal
+ - name: Takeshi	Oishi
+ - name: Takahiro	Okabe
+   emergency: true
+ - name: Sergio	Orts-Escolano
+ - name: Magnus	Oskarsson
+ - name: Martin R.	Oswald
+ - name: Hao	Pan
+ - name: shaifali	parashar
+ - name: Paritosh	Parmar
+ - name: Despoina	Paschalidou
+ - name: Georgios	Pavlakos
+   outstanding: true
+ - name: Nick E.	Pears
+ - name: Fabrizio	Pedersoli
+ - name: Adithya	Pediredla
+ - name: Stephen	Phillips
+ - name: Soeren	Pirk
+   emergency: true
+ - name: Michal	Polic
+ - name: Emilian	Postolache
+ - name: Thomas	Probst
+ - name: Sergey	Prokudin
+ - name: Arianna	Rampini
+   outstanding: true
+ - name: Siddhant	Ranade
+   emergency: true
+ - name: Carolina	Raposo
+ - name: Nikhila	Ravi
+ - name: Daniel	Rebain
+ - name: Joao Pedro Cova	Regateiro
+ - name: Helge	Rhodin
+ - name: Christian	Richardt
+ - name: Mike	Roberts
+ - name: Patrick	Ruhkamp
+ - name: Ryusuke	Sagawa
+ - name: Hideo	Saito
+   emergency: true
+ - name: Shunsuke	Saito
+ - name: Ken	Sakurada
+ - name: Nikolaos	Sarafianos
+ - name: Manolis	Savva
+ - name: Daniel	Scharstein
+ - name: Karl	Schmeckpeper
+ - name: Akihito	Seki
+ - name: Anita	Sellent
+ - name: Tianjia	Shao
+ - name: Mansi	Sharma
+ - name: Aashish	Sharma
+   emergency: true
+ - name: Soshi	Shimada
+   emergency: true
+ - name: Ilan	Shimshoni
+ - name: Hidehiko	Shishido
+   emergency: true
+ - name: Chang	Shu
+ - name: Brandon M	Smith
+ - name: Lorenzo	Sorgi
+ - name: Cristovao	Sousa
+   emergency: true
+ - name: Riccardo	Spezialetti
+ - name: Shih-Yang	Su
+ - name: Weiwei	Sun
+ - name: Minhyuk	Sung
+ - name: Jan	Svoboda
+   emergency: true
+ - name: Chris	Sweeney
+ - name: Omid	Taheri
+ - name: Hajime	Taira
+ - name: Takafumi	Taketomi
+ - name: Toru	Tamaki
+   emergency: true
+ - name: David Joseph	Tan
+   emergency: true
+ - name: Jean-Philippe G	Tarel
+ - name: Gabriel	Taubin
+ - name: Lucas	Teixeira
+ - name: Justus	Thies
+ - name: Diego	Thomas
+   emergency: true
+ - name: Garvita	Tiwari
+ - name: Denis	Tome
+ - name: Anh T	Tran
+ - name: Shubham	Tulsiani
+ - name: Francisco	Vasconcelos
+ - name: Igor	Vasiljevic
+ - name: Roberto Vezzani
+ - name: Marco	Volino
+ - name: He	Wang
+ - name: Pengshuai	Wang
+   emergency: true
+ - name: Xi	Wang
+ - name: Chaoyang	Wang
+ - name: Fangyin	Wei
+   emergency: true
+ - name: Michael	Weinmann
+   emergency: true
+ - name: shuncheng	Wu
+ - name: Stefanie	Wuhrer
+ - name: Pengcheng Xi
+ - name: Chun	Xie
+ - name: Feng	Xu
+ - name: Jinlong	Yang
+ - name: Sai-Kit	Yeung
+   emergency: true
+ - name: Kwang Moo	Yi
+   outstanding: true
+ - name: Renjiao	Yi
+   emergency: true
+ - name: Wang	Yifan
+ - name: Changmin	Yoon
+ - name: Pietro	Zanuttigh
+ - name: Bernhard	Zeisl
+ - name: Jinsong	Zhang
+ - name: Yan	Zhang
+ - name: Yinda	Zhang
+ - name: Yi	Zhou
+ - name: Bingbing	Zhuang
+   emergency: true
+ - name: Zorah	Laehner
+   outstanding: true
+   emergency: true
+ - name: Nikos	Athanasiou
+   emergency: true
+ - name: Sai Kumar	Dwivedi
+   emergency: true
+ - name: Renato	Martins
+   emergency: true
+   outstanding: true
+ - name: Terrence C	Stewart
+   emergency: true
+ - name: Shubham	Goel
+   emergency: true
+ - name: Ryota	Yoshihashi
+   emergency: true
+ - name: Yahui	Zhang
+   emergency: true
+ - name: Takahiro	Maeda
+   emergency: true
+ - name: Takeru	Oba
+   emergency: true
+ - name: Changjae	Oh
+   emergency: true
+ - name: Matthew	Shere
+   emergency: true
+ - name: Zhaoyuan	Fang
+   emergency: true
+ - name: Kun	Li
+   emergency: true
+ - name: Mai	Nishimura
+   emergency: true
+ - name: Matteo	Poggi
+   emergency: true
+ - name: Keisuke	Shibata
+   emergency: true
+ - name: Yangang	Wang
+   emergency: true
+ - name: Lan	Xu
+   emergency: true
+ - name: Kohei	Yamashita
+   emergency: true
+ - name: Hongwen	Zhang
+   emergency: true
+ - name: Arman	Afrasiyabi
+   emergency: true
+ - name: Tien	Do
+   emergency: true
+ - name: Baris	Gecer
+   emergency: true
+ - name: Yasamin	Jafarian
+   emergency: true
+ - name: Mohammad Reza	Karimi Dastjerdi
+   emergency: true
+ - name: Numair	Khan
+   emergency: true
+ - name: Stylianos	Moschoglou
+   emergency: true
+ - name: Stylianos	Ploumpis
+   emergency: true
+ - name: Kai	Wang
+   emergency: true
+ - name: Jae Shin	Yoon
+   emergency: true
+ - name: Lourdes	Agapito
+   emergency: true
+ - name: Bharat Lal	Bhatnagar
+   emergency: true
+ - name: Elona	Dupont
+   emergency: true
+ - name: Vincent	Gaudilliere
+   emergency: true
+ - name: Nesryne	Mejri
+   emergency: true
+ - name: Aymen	Mir
+   emergency: true
+ - name: Yuqi	Yang
+   emergency: true
+ - name: Keyang	Zhou
+   emergency: true
+ - name: Marc-Andre	Gardner
+   emergency: true
+ - name: Nadine	Ruegg
+   emergency: true

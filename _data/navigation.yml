@@ -1,0 +1,125 @@
+2022:
+ - title: Attending
+   nested:
+   - title: Code of Conduct
+     url: code-of-conduct
+   - title: Important Dates
+     url: dates
+   - title: Registration
+     url: registration
+#- title: Keynotes
+#   url: keynotes
+ - title: Program
+   nested:
+   - title: Schedule
+     url: schedule
+#     #- title: Accepted papers
+#     #- url: accepted-papers
+#   - title: Demos
+#     url: demos
+#   - title: Tutorials
+#     url: tutorials
+#   - title: Prizes
+#     url: prizes
+ - title: Jobs
+   url: jobs
+# - title: Partnerships
+#   nested:
+#   - title: Partnership Program
+#     url: partnership
+#   - title: Sponsors
+#     url: sponsors
+ - title: People
+   nested:
+   - title: Organizers
+     url: people
+#   - title: Area Chairs
+#     url: area-chairs
+#   - title: Program Committee
+#     url: program-committee
+ - title: Calls
+   nested:
+   - title: Call for Papers
+     url: call-for-papers
+#   - title: Call for Demos
+#     url: call-for-demos
+   - title: Call for Tutorials
+     url: call-for-tutorials
+ - title: Submission
+   nested:
+   - title: Author Instructions
+     url: author-instructions
+   - title: Author FAQs
+     url: author-faq
+#   - title: Camera Ready Instructions
+#     url: camera-ready-instructions
+   - title: Policies
+     url: policies
+   - title: Reviewer Guidelines
+     url: reviewer-guidelines
+
+ - title: News
+   url: news
+
+2021:
+ - title: Attending
+   nested:
+   - title: Code of Conduct
+     url: code-of-conduct
+   - title: Important Dates
+     url: dates
+   - title: Registration
+     url: registration
+ - title: Keynotes
+   url: keynotes
+ - title: Program
+   nested:
+   - title: Schedule
+     url: schedule
+   - title: Accepted papers
+     url: accepted-papers
+   - title: Demos
+     url: demos
+   - title: Tutorials
+     url: tutorials
+   - title: Prizes
+     url: prizes
+ - title: Jobs
+   url: jobs
+ - title: Partnerships
+   nested:
+   - title: Partnership Program
+     url: partnership
+   - title: Sponsors
+     url: sponsors
+ - title: People
+   nested:
+   - title: Organizers
+     url: people
+   - title: Area Chairs
+     url: area-chairs
+   - title: Program Committee
+     url: program-committee
+ - title: Calls
+   nested:
+   - title: Call for Papers
+     url: call-for-papers
+   - title: Call for Demos
+     url: call-for-demos
+   - title: Call for Tutorials
+     url: call-for-tutorials
+ - title: Submission
+   nested:
+   - title: Author Instructions
+     url: author-instructions
+   - title: Author FAQs
+     url: author-faq
+   - title: Camera Ready Instructions
+     url: camera-ready-instructions
+   - title: Policies
+     url: policies
+   - title: Reviewer Guidelines
+     url: reviewer-guidelines
+
+ - title: News
+   url: news

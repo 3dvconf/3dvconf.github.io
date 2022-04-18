@@ -1,0 +1,25 @@
+
+conf-title: International Conference on 3D Vision 2021
+conf-acro: 3DV2021
+conf-location: London, UK / Virtual
+conf-date: December 1-3, 2021
+
+header-image: "img/2021/3dv2021_banner.jpg"
+favicon: "img/2021/3dv.ico"
+
+
+program:
+ - name: Tutorials
+   day: 0
+   date: 2021-11-30 08:30
+ - name: Day 1
+   day: 1
+   date: 2021-12-01 08:30
+ - name: Day 2  
+   day: 2
+   date: 2021-12-02 08:30  
+ - name: Day 3
+   day: 3
+   date: 2021-12-03 08:30
+   
+    

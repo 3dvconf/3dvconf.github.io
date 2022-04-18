@@ -1,0 +1,608 @@
+2021:
+ - title: "Tutorial 1"
+   subtitle: Inverse Computational Spectral Geometry
+   date: "2021-11-30 9:00 +0000"
+   day: 0
+   duration: "3:00:00"
+   type: "Tutorial"
+   index: "1"
+   platform: SlidesLive
+   delivery: Live
+   title-link: tutorials/#Tutorial1
+   chairs: Angela Dai and Michael Bronstein 
+   platform-link: https://slideslive.com/38972960
+ - title: "Break"
+   date: "2021-11-30 12:00 +0000"
+   day: 0
+   duration: "1:30:00"
+ - title: "Tutorial 2"
+   subtitle: Advances in Neural Rendering
+   date: "2021-11-30 13:30 +0000"
+   day: 0
+   duration: "3:00:00"
+   type: "Tutorial"
+   index: "2"
+   platform: SlidesLive
+   delivery: Live
+   title-link: tutorials/#Tutorial2
+   chairs: Angela Dai and Michael Bronstein 
+   platform-link: https://slideslive.com/38972960
+ - title: "End"
+   date: "2021-11-30 16:30 +0000"
+   day: 0
+ - title: "Opening Remarks and Paper Awards"
+   date: "2021-12-01 9:00 +0000"
+   day: 1
+   round: 1
+   duration: "0:15:00"
+   platform: SlidesLive
+   delivery: Video
+   title-link: prizes
+   chairs: Adrian Hilton and Lourdes Agapito
+   platform-link: https://slideslive.com/38972979
+ - title: "Keynote Speech 1A"
+   subtitle: Michael Black
+   date: "2021-12-01 9:15 +0000"
+   day: 1
+   round: 1
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "1"
+   platform: SlidesLive
+   delivery: Live
+   title-link: keynotes/#MichaelBlack
+   chairs: Djamila Aouada
+   platform-link: https://slideslive.com/38972979
+ - title: "Sponsor Session"
+   date: "2021-12-01 10:15 +0000"
+   day: 1
+   round: 1
+   duration: "0:45:00"
+   platform: SlidesLive
+   delivery: Video
+   title-link: sponsors
+   chairs: Federica Bogo and Christian Richardt
+   platform-link: https://slideslive.com/38972979
+ - title: "Oral Session 1A"
+   subtitle: 3D Human Analysis
+   date: "2021-12-01 11:00 +0000"
+   day: 1
+   round: 1
+   duration: "1:20:00"
+   type: "Oral"
+   index: "1"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral1
+   chairs: Dimitrios Tzionas and Stefanos Zafeiriou
+   platform-link: https://slideslive.com/38972979
+ - title: "Poster Spotlight 1A"
+   date: "2021-12-01 12:20 +0000"
+   day: 1
+   round: 1
+   duration: "0:40:00"
+   type: "Poster"
+   index: "1"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster1
+   chairs: Gerard Pons-Moll
+   platform-link: https://slideslive.com/38972979
+ - title: "Break"
+   date: "2021-12-01 13:00 +0000"
+   day: 1
+   round: 1
+   duration: "1:30:00"
+ - title: "Keynote Speech 2A"
+   subtitle: Katerina Fragkiadaki
+   date: "2021-12-01 14:30 +0000"
+   day: 1
+   round: 1
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "2"
+   platform: SlidesLive
+   delivery: Live
+   title-link: keynotes/#KaterinaFragkiadaki
+   chairs: Gerard Pons-Moll
+   platform-link: https://slideslive.com/38972979
+ - title: "Oral Session 2A"
+   subtitle: 3D Modelling and Synthesis
+   date: "2021-12-01 15:30 +0000"
+   day: 1
+   round: 1
+   duration: "1:20:00"
+   type: "Oral"
+   index: "2"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral2
+   chairs: Jean-Francois Lalonde and Hamid Laga
+   platform-link: https://slideslive.com/38972979
+ - title: "Poster Spotlight 2A"
+   date: "2021-12-01 16:50 +0000"
+   day: 1
+   round: 1
+   duration: "0:40:00"
+   type: "Poster"
+   index: "2"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster2
+   chairs: Silvia Zuffi
+   platform-link: https://slideslive.com/38972979
+ - title: "Interactive session 1A"
+   date: "2021-12-01 17:30 +0000"
+   day: 1
+   round: 1
+   duration: "1:20:00"
+   type: "Interactive"
+   index: "1"
+   platform: gather.town
+   delivery: Live
+   title-link: accepted-papers/#Oral1
+   platform-link: https://gather.town/app/tVe0dLcBOJG0LZ0d/3dv
+ - title: "End"
+   date: "2021-12-01 18:50 +0000"
+   day: 1
+   round: 1
+ - title: "Opening Remarks and Paper Awards"
+   date: "2021-12-01 21:45 +0000"
+   day: 1
+   round: 2
+   duration: "00:15:00"
+   platform: SlidesLive
+   delivery: Video
+   title-link: prizes
+   chairs: Adrian Hilton and Lourdes Agapito
+   platform-link: https://slideslive.com/38972980
+ - title: "Keynote Speech 1B"
+   subtitle:  Michael Black
+   date: "2021-12-01 22:00 +0000"
+   day: 1
+   round: 2
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "1"
+   platform: SlidesLive
+   delivery: Video
+   title-link: keynotes/#MichaelBlack
+   chairs: Djamila Aouada
+   platform-link: https://slideslive.com/38972980
+ - title: "Sponsor Session"
+   date: "2021-12-01 23:00 +0000"
+   day: 1
+   round: 2
+   duration: "0:45:00"
+   type: "Sponsor"
+   platform: SlidesLive
+   delivery: Video
+   title-link: sponsors
+   chairs: Federica Bogo and Christian Richardt
+   platform-link: https://slideslive.com/38972980
+ - title: "Oral Session 1B"
+   subtitle: 3D Human Analysis
+   date: "2021-12-01 23:45 +0000"
+   day: 1
+   round: 2
+   duration: "1:20:00"
+   type: "Oral"
+   index: "1"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral1
+   chairs: Dimitrios Tzionas and Stefanos Zafeiriou
+   platform-link: https://slideslive.com/38972980
+ - title: "Poster Spotlight 1B"
+   date: "2021-12-02 1:05 +0000"
+   day: 1
+   round: 2
+   duration: "0:40:00"
+   type: "Poster"
+   index: "1"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster1
+   chairs: Gerard Pons-Moll
+   platform-link: https://slideslive.com/38972980
+ - title: "Break"
+   date: "2021-12-02 1:45 +0000"
+   day: 1
+   round: 2
+   duration: "1:30:00"
+ - title: "Keynote Speech 2B"
+   subtitle: Katerina Fragkiadaki
+   date: "2021-12-02 3:15 +0000"
+   day: 1
+   round: 2
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "2"
+   platform: SlidesLive
+   delivery: Video
+   title-link: keynotes/#KaterinaFragkiadaki
+   chairs: Gerard Pons-Moll
+   platform-link: https://slideslive.com/38972980
+ - title: "Oral Session 2B"
+   subtitle: 3D Modelling and Synthesis
+   date: "2021-12-02 4:15 +0000"
+   day: 1
+   round: 2
+   duration: "1:20:00"
+   type: "Oral"
+   index: "2"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral2
+   chairs: Jean-Francois Lalonde and Hamid Laga
+   platform-link: https://slideslive.com/38972980
+ - title: "Poster Spotlight 2B"
+   date: "2021-12-02 5:35 +0000"
+   day: 1
+   round: 2
+   duration: "0:40:00"
+   type: "Poster"
+   index: "2"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster2
+   chairs: Silvia Zuffi
+   platform-link: https://slideslive.com/38972980
+ - title: "End"
+   date: "2021-12-02 6:15 +0000"
+   day: 1
+   round: 2
+ - title: "Oral Session 3A"
+   subtitle: Acquisition and Geometry
+   date: "2021-12-02 09:00 +0000"
+   day: 2
+   round: 1
+   duration: "1:20:00"
+   type: "Oral"
+   index: "3"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral3
+   chairs: Emanuele Rodola and Srikumar Ramalingam
+   platform-link: https://slideslive.com/38972981
+ - title: "Demo Session 1A"
+   date: "2021-12-02 10:20 +0000"
+   day: 2
+   round: 1
+   duration: "0:45:00"
+   type: "Demo"
+   platform: SlidesLive
+   delivery: Live
+   title-link: demos
+   chairs: Margarita Chli and Tony Tung
+   platform-link: https://slideslive.com/38972981
+ - title: "Poster Spotlight 3A"
+   date: "2021-12-02 11:05 +0000"
+   day: 2
+   round: 1
+   duration: "0:40:00"
+   type: "Poster"
+   index: "3"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster3
+   chairs: Shohei Nobuhara
+   platform-link: https://slideslive.com/38972981
+ - title: "Break"
+   date: "2021-12-02 11:45 +0000"
+   day: 2
+   round: 1
+   duration: "1:30:00"
+ - title: "Oral Session 4A"
+   subtitle: Depth and Optical Flow
+   date: "2021-12-02 13:15 +0000"
+   day: 2
+   round: 1
+   duration: "1:20:00"
+   type: "Oral"
+   index: "4"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral4
+   chairs: James Tompkin and Luigi Di Stefano
+   platform-link: https://slideslive.com/38972981
+ - title: "Poster Spotlight 4A"
+   date: "2021-12-02 14:35 +0000"
+   day: 2
+   round: 1
+   duration: "0:40:00"
+   type: "Poster"
+   index: "4"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster4
+   chairs: Silvia Zuffi
+   platform-link: https://slideslive.com/38972981
+ - title: "Interactive session 2A"
+   date: "2021-12-02 15:15 +0000"
+   day: 2
+   round: 1
+   duration: "1:20:00"
+   type: "Interactive"
+   index: "2"
+   platform: gather.town
+   delivery: Live
+   title-link: accepted-papers/#Oral3
+   platform-link: https://gather.town/app/tVe0dLcBOJG0LZ0d/3dv
+ - title: "Keynote Speech 3A"
+   subtitle: Richard Newcombe
+   date: "2021-12-02 16:35 +0000"
+   day: 2
+   round: 1
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "3"
+   platform: SlidesLive
+   delivery: Live
+   title-link: keynotes/#RichardNewcombe
+   chairs: Silvia Zuffi
+   platform-link: https://slideslive.com/38972981
+ - title: "End"
+   date: "2021-12-02 17:35 +0000"
+   day: 2
+   round: 1
+ - title: "Oral Session 3B"
+   subtitle: Acquisition and Geometry
+   date: "2021-12-02 22:00 +0000"
+   day: 2
+   round: 2
+   duration: "1:20:00"
+   type: "Oral"
+   index: "3"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral3
+   chairs: Emanuele Rodola and Srikumar Ramalingam
+   platform-link: https://slideslive.com/38972982
+ - title: "Demo Session 1B"
+   date: "2021-12-02 23:20 +0000"
+   day: 2
+   round: 2
+   duration: "0:45:00"
+   type: "Demo"
+   index: "1"
+   platform: SlidesLive
+   delivery: Video
+   title-link: demos
+   chairs: Margarita Chli and Tony Tung
+   platform-link: https://slideslive.com/38972982
+ - title: "Poster Spotlight 3B"
+   date: "2021-12-03 0:05 +0000"
+   day: 2
+   round: 2
+   duration: "0:40:00"
+   type: "Poster"
+   index: "3"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster3
+   chairs: Shohei Nobuhara
+   platform-link: https://slideslive.com/38972982
+ - title: "Break"
+   date: "2021-12-03 0:45 +0000"
+   day: 2
+   round: 2
+   duration: "1:30:00"
+   delivery: Video
+ - title: "Oral Session 4B"
+   subtitle: Depth and Optical Flow
+   date: "2021-12-03 2:15 +0000"
+   day: 2
+   round: 2
+   duration: "1:20:00"
+   type: "Oral"
+   index: "4"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral4
+   chairs: James Tompkin and Luigi Di Stefano
+   platform-link: https://slideslive.com/38972982
+ - title: "Poster Spotlight 4B"
+   date: "2021-12-03 3:35 +0000"
+   day: 2
+   round: 2
+   duration: "0:40:00"
+   type: "Poster"
+   index: "4"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster4
+   chairs: Silvia Zuffi
+   platform-link: https://slideslive.com/38972982
+ - title: "Keynote Speech 3B"
+   subtitle: Richard Newcombe
+   date: "2021-12-03 4:15 +0000"
+   day: 2
+   round: 2
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "3"
+   platform: SlidesLive
+   delivery: Video
+   title-link: keynotes/#RichardNewcombe
+   chairs: Silvia Zuffi
+   platform-link: https://slideslive.com/38972982
+ - title: "End"
+   date: "2021-12-03 5:15 +0000"
+   day: 2
+   round: 2
+ - title: "Keynote Speech 4A"
+   subtitle: Imari Sato
+   date: "2021-12-03 9:00 +0000"
+   day: 3
+   round: 1
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "4"
+   platform: SlidesLive
+   delivery: Live
+   title-link: keynotes/#ImariSato
+   chairs: Shohei Nobuhara
+   platform-link: https://slideslive.com/38972983
+ - title: "Oral Session 5A"
+   subtitle: Human Modeling, Registration, and Synthesis
+   date: "2021-12-03 10:00 +0000"
+   day: 3
+   round: 1
+   duration: "1:20:00"
+   type: "Oral"
+   index: "5"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral5
+   chairs: Hyun Soo Park and Tony Tung
+   platform-link: https://slideslive.com/38972983
+ - title: "Poster Spotlight 5A"
+   date: "2021-12-03 11:20 +0000"
+   day: 3
+   round: 1
+   duration: "0:40:00"
+   type: "Poster"
+   index: "5"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster5
+   chairs: Shohei Nobuhara
+   platform-link: https://slideslive.com/38972983
+ - title: "Break"
+   date: "2021-12-03 12:00 +0000"
+   day: 3
+   round: 1
+   duration: "1:30:00"
+   delivery: Video
+ - title: "Oral Session 6A"
+   subtitle: Reconstruction and Registration
+   date: "2021-12-03 13:30 +0000"
+   day: 3
+   round: 1
+   duration: "1:20:00"
+   type: "Oral"
+   index: "6"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral6
+   chairs: Torsten Sattler and Federico Tombari
+   platform-link: https://slideslive.com/38972983
+ - title: "Poster Spotlight 6A"
+   date: "2021-12-03 14:50 +0000"
+   day: 3
+   round: 1
+   duration: "0:40:00"
+   type: "Poster"
+   index: "6"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster6
+   chairs: Silvia Zuffi
+   platform-link: https://slideslive.com/38972983
+ - title: "Interactive session 3A"
+   date: "2021-12-03 15:30 +0000"
+   day: 3
+   round: 1
+   duration: "1:20:00"
+   type: "Interactive"
+   index: "3"
+   platform: gather.town
+   delivery: Live
+   title-link: accepted-papers/#Oral5
+   platform-link: https://gather.town/app/tVe0dLcBOJG0LZ0d/3dv
+ - title: "Closing Remarks"
+   date: "2021-12-03 16:50 +0000"
+   day: 3
+   round: 1
+   duration: "0:30:00"
+   platform: SlidesLive
+   delivery: Video
+   chairs: Adrian Hilton and Lourdes Agapito
+   platform-link: https://slideslive.com/38972983
+ - title: "End"
+   date: "2021-12-03 17:20 +0000"
+   day: 3
+   round: 1
+ - title: "Keynote Speech 4B"
+   subtitle: Imari Sato
+   date: "2021-12-03 22:00 +0000"
+   day: 3
+   round: 2
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "4"
+   platform: SlidesLive
+   delivery: Video
+   title-link: keynotes/#ImariSato
+   chairs: Shohei Nobuhara
+   platform-link: https://slideslive.com/38972984
+ - title: "Oral Session 5B"
+   subtitle: Human Modeling, Registration, and Synthesis
+   date: "2021-12-03 23:00 +0000"
+   day: 3
+   round: 2
+   duration: "1:20:00"
+   type: "Oral"
+   index: "5"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral5
+   chairs: Hyun Soo Park and Tony Tung
+   platform-link: https://slideslive.com/38972984
+ - title: "Poster Spotlight 5B"
+   date: "2021-12-04 0:20 +0000"
+   day: 3
+   round: 2
+   duration: "0:40:00"
+   type: "Poster"
+   index: "5"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster5
+   chairs: Shohei Nobuhara
+   platform-link: https://slideslive.com/38972984
+ - title: "Break"
+   date: "2021-12-04 1:00 +0000"
+   day: 3
+   round: 2
+   duration: "1:30:00"
+   delivery: Video
+ - title: "Oral Session 6B"
+   subtitle: Reconstruction and Registration
+   date: "2021-12-04 2:30 +0000"
+   day: 3
+   round: 2
+   duration: "1:20:00"
+   type: "Oral"
+   index: "6"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Oral6
+   chairs: Torsten Sattler and Federico Tombari
+   platform-link: https://slideslive.com/38972984
+ - title: "Poster Spotlight 6B"
+   date: "2021-12-04 3:50 +0000"
+   day: 3
+   round: 2
+   duration: "0:40:00"
+   type: "Poster"
+   index: "6"
+   platform: SlidesLive
+   delivery: Video
+   title-link: accepted-papers/#Poster6
+   chairs: Silvia Zuffi
+   platform-link: https://slideslive.com/38972984
+ - title: "Closing Remarks"
+   date: "2021-12-04 4:30 +0000"
+   day: 3
+   round: 2
+   duration: "0:30:00"
+   platform: SlidesLive
+   delivery: Video
+   chairs: Adrian Hilton and Lourdes Agapito
+   platform-link: https://slideslive.com/38972984
+ - title: "End"
+   date: "2021-12-04 5:00 +0000"
+   day: 3
+   round: 2

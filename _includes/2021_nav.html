@@ -1,0 +1,55 @@
+{% capture nav_prefix %}/{% endcapture %}
+
+{% if page.year != null %}
+    {% assign year = page.year %}
+{% else %}
+    {% assign year = site.data.3dv.current-year %}
+{% endif %}
+
+<nav class="container navbar navbar-expand-lg navbar-dark bg-dark">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+  
+  <div class="collapse navbar-collapse" id="mainNavbar">
+    <a class="navbar-brand" href="{{site.url}}/{{year}}">{{site.data.3dv[year]conf-acro}}</a>
+    
+	<ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+  {% for nav in site.data.navigation[year] %}
+		{% if nav.url %}
+      		<li class="nav-item">
+            <a class="nav-link" href="{{site.url}}/{{year}}/{{ nav.url }}">{{ nav.title }}</a>
+			</li>
+		{% else %}
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-toggle="dropdown" aria-expanded="false">{{ nav.title }}</a>
+		
+				<ul class="dropdown-menu " aria-labelledby="navbarScrollingDropdown">
+            	{% for nestednav in nav.nested %}
+              <li><a class="dropdown-item" href="{{site.url}}/{{year}}/{{nestednav.url}}">{{nestednav.title}}</a></li>
+				{% endfor %}
+		    	</ul>
+		  	</li>
+		{% endif %}
+	{% endfor %}
+    </ul>
+
+	<ul class="navbar-nav ml-auto navbar-dark bg-dark">
+		
+		{% if site.twitter %}
+		<li class="nav-item">
+			<a class="nav-link" target="_blank" href="{{site.twitter}}"><i class="fab fa-twitter fa-lg"></i></a>
+		</li>
+		{% endif %}
+		<li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Years</a>
+			<ul class="dropdown-menu " aria-labelledby="navbarScrollingDropdown">
+				{% for conf in site.data.confs %}
+				<li><a class="dropdown-item" target="_blank" href="{{conf.url}}">{{conf.name}}</a></li>
+				{% endfor %}
+	    	</ul>
+	  </li>
+	</ul>
+  </div>
+</nav>

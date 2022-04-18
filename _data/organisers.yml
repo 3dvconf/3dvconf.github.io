@@ -1,0 +1,269 @@
+2022:
+ - section:
+   name: General Chairs
+   people:
+    - name: Zuzana Kukelova
+      affiliation: Visual Recognition Group, Czech Technical University in Prague
+      image: img/2022/people/kukelova.png
+      url: https://kukelova.weebly.com/
+    - name: Tomas Pajdla
+      affiliation: Applied Algebra & Geometry Group, CIIRC, Czech Technical University in Prague
+      image: img/2022/people/pajdla.png
+      url: https://people.ciirc.cvut.cz/~pajdla/
+    - name: Torsten Sattler
+      affiliation: Spatial Intelligence group, CIIRC, Czech Technical University in Prague
+      image: img/2022/people/sattler.jpg
+      url: https://tsattler.github.io/
+ - section:
+   name: Program Chairs
+   people:
+    - name: Angela Dai
+      affiliation: Technical University of Munich, Germany
+      image: img/2021/people/dai.jpg
+      url: https://www.3dunderstanding.org/team.html
+    - name: Gim Hee Lee
+      affiliation: Computer Vision and Robotic Perception Laboratory, National University of Singapore
+      image: img/2022/people/lee.jpeg
+      url: https://www.comp.nus.edu.sg/~leegh/
+    - name: Jana Kosecka
+      affiliation: George Mason University, USA
+      image: img/2022/people/kosecka.jpeg
+      url: https://cs.gmu.edu/~kosecka/
+    - name: Konrad Schindler
+      affiliation: Dep. of Civil, Env. and Geomatic Eng., ETH Zurich
+      image: img/2022/people/schindler.jpeg
+      url: https://igp.ethz.ch/personen/person-detail.html?persid=143986
+# - section:
+#   name: Tutorial Chairs
+#   people:
+#    - name: Angela Dai
+#      affiliation: Technical University of Munich, Germany
+#      image: img/2021/people/dai.jpg
+#      url: https://www.3dunderstanding.org/team.html
+#    - name: Michael Bronstein
+#      affiliation: Imperial College London
+#      image: img/2021/people/bronstein.jpg
+#      url: https://www.imperial.ac.uk/people/m.bronstein
+# - section:
+#   name: Demo and Exhibition Chairs 
+#   people:
+#    - name: Margarita Chli 
+#      affiliation: IRIS, D-MAVT, ETH Zurich
+#      image: img/2021/people/chli.jpg
+#      url: http://margaritachli.com/
+#    - name: Tony Tung
+#      affiliation: Facebook Reality Labs, USA
+#      image: img/2021/people/tung.png
+#      url: http://www.tonytung.org/
+# - section:
+#   name: Industrial Liaison/Sponsorship Chairs
+#   people:
+#    - name: Federica Bogo
+#      affiliation: Microsoft Mixed Reality & AI lab in Zurich, Switzerland
+#      image: img/2021/people/bogo.png
+#      url: https://www.microsoft.com/en-us/research/people/febogo/
+#    - name: Christian Richardt
+#      affiliation: University of Bath, UK
+#      image: img/2021/people/richardt.jpg
+#      url: https://richardt.name/
+# - section:
+#   name: Publication Chairs
+#   people:
+#    - name: Jean-Yves Guillemaut
+#      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+#      image: img/2021/people/guillemaut.jpg
+#      url: http://personal.ee.surrey.ac.uk/Personal/J.Guillemaut/
+#    - name: Armin Mustafa
+#      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+#      image: img/2021/people/mustafa.jpg
+#      url: https://arminmustafa.github.io/
+# - section:
+#   name: Local/Virtual Chairs 
+#   people:
+#    - name: Hansung Kim
+#      affiliation:  University of Southampton
+#      image: img/2021/people/kim.jpg
+#      url: https://www.ecs.soton.ac.uk/people/hk1f20
+#    - name: Maggie Kosek
+#      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+#      image: img/2021/people/kosek.png
+#      url: https://www.surrey.ac.uk/people/maggie-kosek
+#    - name: Akin Caliskan
+#      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+#      image: img/2021/people/caliskan.jpg
+#      url: https://akincaliskan3d.github.io/
+#    - name: Marco Pesavento
+#      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+#      image: img/2021/people/pesavento.jpg
+#      url: https://www.surrey.ac.uk/people/marco-pesavento
+# - section:
+#   name: Publicity Chair
+#   people:
+#    - name: Bob Fisher
+#      affiliation: University of Edinburgh
+#      image: img/2021/people/fisher.png
+#      url: https://homepages.inf.ed.ac.uk/rbf/
+# - section:
+#   name: Finance Chair
+#   people:
+#    - name: Elizabeth James
+#      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+#      image: img/2021/people/james.jpg
+#      url: https://www.surrey.ac.uk/people/elizabeth-liz-james
+ - section:
+   name: Web and Social Media Chair
+   people:
+    - name: Assia Benbihi
+      affiliation: Visual Recognition Group, Czech Technical University in Prague
+      image: img/2022/people/benbihi.jpg
+      url: https://abenbihi.github.io/
+# - section:
+#   name: Steering Committee
+#   people:
+#    - name: Guy Godin
+#      affiliation: National Research Council Canada
+#      image: img/2021/people/todo.png
+#      url: 
+#    - name: Edmond Boyer
+#      affiliation:  INRIA Grenoble Rhône-Alpes, France
+#      image: img/2021/people/boyer.jpg
+#      url: http://morpheo.inrialpes.fr/people/Boyer/
+#    - name: Marc Pollefeys
+#      affiliation: Computer Vision and Geometry lab, ETH Zurich
+#      image: img/2021/people/pollefeys.jpg
+#      url: https://people.inf.ethz.ch/pomarc/
+
+2021:
+ - section:
+   name: General Chairs
+   people:
+    - name: Adrian Hilton
+      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+      image: img/2021/people/hilton.png
+      url: https://www.surrey.ac.uk/people/adrian-hilton
+    - name: Lourdes Agapito
+      affiliation: University College London
+      image: img/2021/people/agapito.jpg
+      url: http://www0.cs.ucl.ac.uk/staff/L.Agapito/
+ - section:
+   name: Program Chairs
+   people:
+    - name: Silvia Zuffi
+      affiliation: IMATI-CNR,Milan, Italy
+      image: img/2021/people/zuffi.jpg
+      url: https://imati.cnr.it/mypage.php?idk=PG-2
+    - name: Shohei Nobuhara
+      affiliation: Kyoto University, Japan
+      image: img/2021/people/nobuhara.jpg
+      url: https://shohei.nobuhara.org/index.en.html
+    - name: Gerard Pons-Moll
+      affiliation: University of Tüebingen, Germany
+      image: img/2021/people/pons-moll.jpg
+      url: https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html
+    - name: Djamila Aouada
+      affiliation: SnT, University of Luxembourg
+      image: img/2021/people/aouada.jpg
+      url: https://cvi2.uni.lu/people/
+ - section:
+   name: Tutorial Chairs
+   people:
+    - name: Angela Dai
+      affiliation: Technical University of Munich, Germany
+      image: img/2021/people/dai.jpg
+      url: https://www.3dunderstanding.org/team.html
+    - name: Michael Bronstein
+      affiliation: Imperial College London
+      image: img/2021/people/bronstein.jpg
+      url: https://www.imperial.ac.uk/people/m.bronstein
+ - section:
+   name: Demo and Exhibition Chairs 
+   people:
+    - name: Margarita Chli 
+      affiliation: IRIS, D-MAVT, ETH Zurich
+      image: img/2021/people/chli.jpg
+      url: http://margaritachli.com/
+    - name: Tony Tung
+      affiliation: Facebook Reality Labs, USA
+      image: img/2021/people/tung.png
+      url: http://www.tonytung.org/
+ - section:
+   name: Industrial Liaison/Sponsorship Chairs
+   people:
+    - name: Federica Bogo
+      affiliation: Microsoft Mixed Reality & AI lab in Zurich, Switzerland
+      image: img/2021/people/bogo.png
+      url: https://www.microsoft.com/en-us/research/people/febogo/
+    - name: Christian Richardt
+      affiliation: University of Bath, UK
+      image: img/2021/people/richardt.jpg
+      url: https://richardt.name/
+ - section:
+   name: Publication Chairs
+   people:
+    - name: Jean-Yves Guillemaut
+      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+      image: img/2021/people/guillemaut.jpg
+      url: http://personal.ee.surrey.ac.uk/Personal/J.Guillemaut/
+    - name: Armin Mustafa
+      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+      image: img/2021/people/mustafa.jpg
+      url: https://arminmustafa.github.io/
+ - section:
+   name: Local/Virtual Chairs 
+   people:
+    - name: Hansung Kim
+      affiliation:  University of Southampton
+      image: img/2021/people/kim.jpg
+      url: https://www.ecs.soton.ac.uk/people/hk1f20
+    - name: Maggie Kosek
+      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+      image: img/2021/people/kosek.png
+      url: https://www.surrey.ac.uk/people/maggie-kosek
+    - name: Akin Caliskan
+      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+      image: img/2021/people/caliskan.jpg
+      url: https://akincaliskan3d.github.io/
+    - name: Marco Pesavento
+      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+      image: img/2021/people/pesavento.jpg
+      url: https://www.surrey.ac.uk/people/marco-pesavento
+ - section:
+   name: Publicity Chair
+   people:
+    - name: Bob Fisher
+      affiliation: University of Edinburgh
+      image: img/2021/people/fisher.png
+      url: https://homepages.inf.ed.ac.uk/rbf/
+ - section:
+   name: Finance Chair
+   people:
+    - name: Elizabeth James
+      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+      image: img/2021/people/james.jpg
+      url: https://www.surrey.ac.uk/people/elizabeth-liz-james
+ - section:
+   name: Web and Social Media Chair
+   people:
+    - name: Marco Volino
+      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+      image: img/2021/people/volino.jpg
+      url: https://marcovolino.github.io/
+    - name: Moira Shooter
+      affiliation: Centre for Vision, Speech and Signal Processing, University of Surrey
+      image: img/2021/people/shooter.jpg
+      url: https://www.surrey.ac.uk/people/moira-shooter
+ - section:
+   name: Steering Committee
+   people:
+    - name: Guy Godin
+      affiliation: National Research Council Canada
+      image: img/2021/people/todo.png
+      url: 
+    - name: Edmond Boyer
+      affiliation:  INRIA Grenoble Rhône-Alpes, France
+      image: img/2021/people/boyer.jpg
+      url: http://morpheo.inrialpes.fr/people/Boyer/
+    - name: Marc Pollefeys
+      affiliation: Computer Vision and Geometry lab, ETH Zurich
+      image: img/2021/people/pollefeys.jpg
+      url: https://people.inf.ethz.ch/pomarc/

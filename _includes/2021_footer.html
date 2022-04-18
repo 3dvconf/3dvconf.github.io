@@ -1,0 +1,11 @@
+{% if page.year != null %}
+    {% assign year = page.year %}
+{% else %}
+    {% assign year = site.data.3dv.current-year %}
+{% endif %}
+
+<footer class="footer">
+	<div class="container">
+    <span class="text-muted">&copy; 3DV {{year}} </span>
+	</div>
+</footer>

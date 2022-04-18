@@ -1,0 +1,40 @@
+
+
+<table style="width:100%;">
+<thead>
+  <tr style="background-color: #777; text-align: center;">
+    <th style="text-align: center;">GMT</th>
+    <th style="text-align: center;">CET</th>
+    <th style="text-align: center;">JST</th>
+    <th style="text-align: center;">PST</th>
+    <th style="text-align: center;">EST</th>
+    <th style="text-align: center;">Duration</th>
+    <th style="text-align: center;">Location</th>
+    <th style="text-align: center;">Delivery</th>
+  </tr>
+</thead>
+<tbody>
+
+	{% assign gmt_time = page.date | date: "%s"   %}
+	{% assign cet_time = gmt_time  | plus:  3600  %}
+	{% assign jst_time = gmt_time  | plus:  32400 %}
+	{% assign pst_time = gmt_time  | minus: 28800 %}
+	{% assign est_time = gmt_time  | minus:  18000 %}
+
+  <tr>
+    <td style="text-align: center;">{{ gmt_time | date: "%H:%M" }}</td>
+    <td style="text-align: center;">{{ cet_time | date: "%H:%M" }}</td>
+    <td style="text-align: center;">{{ jst_time | date: "%H:%M" }}</td>
+    <td style="text-align: center;">{{ pst_time | date: "%H:%M" }}</td>
+    <td style="text-align: center;">{{ est_time | date: "%H:%M" }}</td>
+    <td style="text-align: center;">{{page.duration}}</td>
+    <td style="text-align: center;"><a href="{{talk.url}}">{{page.location}}</a></td>
+    <td style="text-align: center;">{{page.delivery}}</td>
+  </tr>
+
+</tbody>
+
+</table>
+
+
+

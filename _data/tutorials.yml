@@ -1,0 +1,10 @@
+2021:
+ - title: "Spectral Geometry in Practice"
+   organisers: "Riccardo Marin, Luca Cosmo, Simone Melzi, Arianna Rampini and Emanuele Rodola"
+   description: "The tutorial will give an overview of the foundations and the current state of the art on computational spectral geometry to highlight the main benefits of spectral pipelines, as well as their current limitations and future developments in the context of computer graphics and computer vision. We will discuss both the “forward” path typical of spectral geometry pipelines (e.g. computing Laplacian eigenvalues and eigenvectors of a given shape) with its widespread applicative relevance and the inverse path (e.g. recovering a shape from given Laplacian eigenvalues, like in the classical “hearing the shape of the drum” problem) with its ill-posed nature and the benefits showcased on several challenging tasks in graphics and geometry processing.
+ The tutorial aims at a broad audience with a basic understanding of geometry processing."
+   order: 1
+ - title: "Advances in Neural Rendering"
+   organisers: "Michael Zollhoefer, Ayush Tewari, Vincent Sitzmann, Gordon Wetzstein, Christoph Lassner, Lingjie Liu, Justus Thies"
+   description: "Neural rendering is a fast evolving field at the intersection of computer graphics and computer vision. In this tutorial, we will talk about the advances in neural rendering, especially the underlying 2D and 3D representations that allow for novel viewpoint synthesis, controllability and editability. Specifically, we will discuss neural rendering methods based on 2D GANs, techniques using 3D Neural Radiance Fields or learnable sphere proxies. Besides methods that handle static content, we will talk about dynamic content as well."
+   order: 2

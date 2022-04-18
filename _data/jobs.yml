@@ -1,0 +1,213 @@
+2021:
+ - company:
+   name: Adobe
+   jobs:
+    - title:  Research Scientist​
+      location: London, UK
+      url:  https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/Research-Scientist-Engineer-3_R115712
+
+ - company:
+   name: CVSSP
+   jobs:
+    - title: Research Fellow/Senior Research Fellow in Computer Vision, Spatial Audio and Audio-Visual AI​
+      location: Guildford, UK
+      url: https://jobs.surrey.ac.uk/vacancy.aspx?ref=073621
+    - title: PhD Studentships in Audio-Visual AI​
+      location: Guildford, UK
+      url: https://www.surrey.ac.uk/centre-vision-speech-signal-processing/postgraduate-research-study#accordion-727466   
+    - title: PhD Studentships in Computer Vision, Spatial Audio and Audio-Visual AI (AI4ME)​
+      location: Guildford, UK
+      url: https://ai4me.surrey.ac.uk/training.html
+
+ - company:
+   name: Google
+   jobs:
+    - title: Multiple Positions​
+      location: Multiple Locations
+      url: https://careers.google.com/
+ 
+ - company:
+   name: Huawei
+   jobs:
+    - title: Research Intern – Computer Vision​
+      location: London, UK
+      url: files/2021/jobs/Intern - Computer Vision - Nov.2021.pdf
+      local: true
+    - title: Research Scientist – Computer Vision​
+      location: London, UK       
+      url: files/2021/jobs/Research Scientist - Computer Vision - Nov.2021.pdf
+      local: true
+
+          
+ - company:
+   name: Meshcapade
+   jobs:
+    - title:  AI/ML iOS Developer​
+      location: Tübingen, Germany or EU-wide remote option
+      url:  https://info.meshcapade.com/careers/ios-developer
+    - title:  ML Engineer (focus on body shape & pose)​
+      location: Tübingen, Germany or EU-wide remote option
+      url:  https://info.meshcapade.com/careers/machine-learning-engineer
+  
+ - company:
+   name: Mujin
+   jobs:
+    - title: 3D Sensor Software Engineer
+      location: Tokyo, Japan
+      url: https://jobs.lever.co/mujininc/2b959d77-eac6-405d-a80f-86128c2bbb55?lever-origin=applied&lever-source%5B%5D=3DV
+    - title: Camera Calibration Engineer
+      location: Tokyo, Japan
+      url: https://jobs.lever.co/mujininc/c0944d93-d93c-48c6-b5a1-a846b1d0fc44?lever-origin=applied&lever-source%5B%5D=3DV
+    - title: Sr. Software Engineer
+      location: Tokyo, Japan
+      url: https://jobs.lever.co/mujininc/7f41b248-482b-4ec6-86f1-531c75af5492?lever-origin=applied&lever-source%5B%5D=3DV
+    - title: Computer Vision Engineer (Object Detection & 3D Pose Estimation)
+      location: Tokyo, Japan
+      url: https://jobs.lever.co/mujininc/e54984b2-b0f3-427a-ac3e-7a1840ebd88f?lever-origin=applied&lever-source%5B%5D=3DV
+      
+ - company:
+   name: Naver Labs Europe
+   jobs:
+    - title: PostDoc - Robotic and Machine Learning Research scientist​
+      location:  Grenoble, France
+      url: https://europe.naverlabs.com/job/postdoc-robotic-and-machine-learning-research-scientist/
+    - title: Research Scientist - AI for Robotics
+      location:  Grenoble, France
+      url: https://europe.naverlabs.com/job/research-scientist-in-ai-for-robotics/
+    - title: Researcher in Deep Learning and Reinforcement Learning (multiple positions)
+      location:  Grenoble, France
+      url: https://europe.naverlabs.com/job/researcher-in-deep-learning-and-reinforcement-learning-multiple-positions/
+    - title:  Research Engineer - AI for Robotics
+      location:  Grenoble, France
+      url:  https://europe.naverlabs.com/job/research-engineer-on-ai-for-robotics/
+
+ - company:
+   name: Niantic
+   jobs:
+    - title: Multiple Positions​
+      location: Multiple Locations
+      url: https://careers.nianticlabs.com/openings/
+
+ - company:
+   name: Ocado
+   jobs:
+    - title: Software Engineer - Machine Learning​
+      location: Welwyn Garden City, UK
+      url: https://boards.greenhouse.io/ocadotechnology/jobs/4853100002
+    - title: Robotics Research Engineer - Computer Vision
+      location: Welwyn Garden City, UK
+      url: https://boards.greenhouse.io/ocadotechnology/jobs/5142650002
+    - title: Systems  Software Development and Test Engineer
+      location: Welwyn Garden City, UK
+      url: https://boards.greenhouse.io/ocadotechnology/jobs/5625133002
+    - title:  Robotics Software Engineer (Robotics picking)
+      location: Welwyn Garden City, UK
+      url:  https://boards.greenhouse.io/ocadotechnology/jobs/5600396002
+    - title: Robotics Software Engineer (Autonomous Mobility)​
+      location: Welwyn Garden City, UK
+      url: https://boards.greenhouse.io/ocadotechnology/jobs/5688491002
+    - title: Software Engineer
+      location: Welwyn Garden City, UK
+      url: https://boards.greenhouse.io/ocadotechnology/jobs/5288114002
+    - title: Simulation Software Engineer
+      location: Welwyn Garden City, UK
+      url: https://boards.greenhouse.io/ocadotechnology/jobs/5288014002
+    - title:  Manufacturing Design Engineer
+      location: Welwyn Garden City, UK
+      url:  https://boards.greenhouse.io/ocadotechnology/jobs/5332310002
+    - title: Mechatronics Engineer​
+      location: Welwyn Garden City, UK
+      url: https://boards.greenhouse.io/ocadotechnology/jobs/5237636002
+    - title: Robotics Engineer
+      location: Welwyn Garden City, UK
+      url: https://boards.greenhouse.io/ocadotechnology/jobs/5525186002
+    - title: Technical Writer
+      location: Welwyn Garden City, UK
+      url: https://boards.greenhouse.io/ocadotechnologyindeed/jobs/5473586002
+      
+     
+ - company:
+   name: Synthesia
+   jobs:
+    - title:  Research Engineer -- Digital Humans ​
+      location: London, UK
+      url:  https://apply.workable.com/synthesia/j/960D530485/
+    - title:  Research Engineer -- Digital Humans​
+      location: Munich, Germany
+      url:  https://apply.workable.com/synthesia/j/DC525A47BF/
+
+
+ - company:
+   name: SnT, University of Luxembourg
+   jobs:
+    - title: Doctoral candidate (PhD student) in 3D computer vision
+      location: Luxembourg
+      url: https://recruitment.uni.lu/en/details.html?id=QMUFK026203F3VBQB7V7VV4S8&nPostingID=58121&nPostingTargetID=81399&mask=karriereseiten&lg=UK
+
+    - title:  Research Associate (Postdoc) in computer vision
+      location: Luxembourg
+      url:  https://recruitment.uni.lu/en/details.html?id=QMUFK026203F3VBQB7V7VV4S8&nPostingID=66716&nPostingTargetID=95899&mask=karriereseiten&lg=UK
+
+    - title: Research Associates (Postdocs) in artificial intelligence for space applications
+      location: Luxembourg
+      url: https://recruitment.uni.lu/en/details.html?id=QMUFK026203F3VBQB7V7VV4S8&nPostingID=62076&nPostingTargetID=89725&mask=karriereseiten&lg=UK
+
+    - title: PhD candidates in computer vision
+      location: Luxembourg
+      url:  https://recruitment.uni.lu/en/details.html?id=QMUFK026203F3VBQB7V7VV4S8&nPostingID=56656&nPostingTargetID=77119&mask=karriereseiten&lg=UK
+
+    - title: Research Associate (Postdoc) in computer vision
+      location: Luxembourg
+      url: https://recruitment.uni.lu/en/details.html?id=QMUFK026203F3VBQB7V7VV4S8&nPostingID=66716&nPostingTargetID=95899&mask=karriereseiten&lg=UK
+
+    - title: Research Associate (Postdoc) in computer vision for biomedical applications
+      location: Luxembourg
+      url: https://recruitment.uni.lu/en/details.html?id=QMUFK026203F3VBQB7V7VV4S8&nPostingID=69296&nPostingTargetID=100661&mask=karriereseiten&lg=UK
+
+
+
+
+ - company:
+   name: Reality Labs Research
+   jobs:
+    - title: Research Scientist Intern, Body Capture, Reconstruction and Understanding (PhD)
+      location: Sausalito, CA or Redmond, WA
+      url: https://www.facebookcareers.com/v2/jobs/429821148710861/
+    - title: Research Scientist Intern, Interaction Tracking (PhD)
+      location: Multiple locations (US)
+      url: https://www.facebookcareers.com/v2/jobs/3506098749531519/
+    - title: Software Engineer, Intern/Co-op
+      location: Multiple locations (US)
+      url: https://www.facebookcareers.com/v2/jobs/946116176191468/
+    - title: Research Scientist, Digital Humans (PhD)
+      location: Sausalito, CA or Redmond, WA
+      url: https://www.facebookcareers.com/v2/jobs/3020431758169071/
+    - title: Research Engineer, Digital Humans (University Grad)
+      location: Sausalito, CA
+      url: https://www.facebookcareers.com/v2/jobs/193280412986323/
+    - title: Research Scientist, Digital Humans
+      location: Sausalito, CA or Redmond, WA
+      url: https://www.facebookcareers.com/v2/jobs/2957916521143101/
+    - title: Research Engineer, Virtual Humans - High Fidelity Face Reconstruction
+      location: Sausalito, CA
+      url: https://www.facebookcareers.com/v2/jobs/367444428367364/
+    - title: Character Rigging Research Engineer
+      location: Sausalito, CA
+      url: https://www.facebookcareers.com/v2/jobs/636826490639687/
+    - title: Software Engineer (University Grad)
+      location: Multiple locations (US)
+      url: https://www.facebookcareers.com/v2/jobs/213402246952404/
+    - title: Technical Artist
+      location: Sausalito, CA or Redmond, WA
+      url: https://www.facebookcareers.com/v2/jobs/402791484324408/
+
+ - company:
+   name: Microsoft
+   jobs:
+    - title: Senior Researcher - Mixed Reality​
+      location: Redmond, USA
+      url: https://careers.microsoft.com/us/en/job/1165429
+
+
+
+    
