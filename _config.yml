@@ -1,13 +1,14 @@
 title: "3DV"
 tagline: "International Conference on 3D Vision"
 
-url: https://ic3dv.github.io/
+url: https://ic3dv.github.io/3dv
 #url: "http://www.3dv.org"
+#url: "localhost:4000"
 
 twitter: https://twitter.com/3DVconf
 
-permalink: pretty
-safe: true
+permalink: /:categories/:title/
+safe: false
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 
