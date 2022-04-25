@@ -4,11 +4,12 @@ tagline: "International Conference on 3D Vision"
 url: https://ic3dv.github.io/3dv
 #url: "http://www.3dv.org"
 #url: "localhost:4000"
+baseurl: ""
 
 twitter: https://twitter.com/3DVconf
 
 permalink: /:categories/:title/
-safe: false
+safe: true
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 
@@ -21,6 +22,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
+whitelist:
+    - jekyll-redirect-from
 
 # Use this for production
 sass:
