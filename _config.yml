@@ -1,8 +1,8 @@
 title: "3DV"
 tagline: "International Conference on 3D Vision"
 
-#url: https://ic3dv.github.io/3dv
-url: "http://www.3dv.org"
+url: https://ic3dv.github.io/3dv
+#url: "http://www.3dv.org"
 #url: "localhost:4000"
 baseurl: ""
 
