@@ -3,7 +3,7 @@ redirect_from: "/"
 layout: 2021_sidebar
 title: International Conference on 3D Vision 2022
 year: 2022
-banner-image: img/2022/clock.jpg
+banner-image: img/2022/clock_prague.png
 banner-title: Welcome to 3DV 2022
 header-image: img/2022/3dv2022_banner.png
 background: ADD0B3
