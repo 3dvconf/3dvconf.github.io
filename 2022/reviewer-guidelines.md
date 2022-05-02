@@ -14,7 +14,7 @@ guidelines can be found in the materials of two past tutorials on reviewing:
 <br><br>
 
 ### Check your papers for conflicts
-As soon as you get your reviewing assignment, please download your papers and go through them to make sure that there is no obvious conflict with you (e.g., a paper authored by your recent collaborator from a different institution). If you feel you are in conflict with a paper, please let us know right away by emailing the Program Chairs: **TBD** 
+As soon as you get your reviewing assignment, please download your papers and go through them to make sure that there is no obvious conflict with you (e.g., a paper authored by your recent collaborator from a different institution). If you feel you are in conflict with a paper, please let us know right away by emailing the Program Chairs: **3dv22PC [at] googlegroups [dot] com** 
 <br><br>
 
 ### What to Look For

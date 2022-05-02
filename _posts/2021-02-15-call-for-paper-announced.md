@@ -6,7 +6,7 @@ author: Marco Volino
 ---
 
 
-**The 3DV programme committee are pleased to announce the 2021 [call for papers]({{site.url}}/call-for-papers)!**
+**The 3DV programme committee are pleased to announce the 2021 [call for papers]({{site.url}}/{{page.year}}/call-for-papers)!**
 
 3DV2021 will showcase high quality single-track oral and poster presentations covering a broad variety of topics in the area of 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modelling, representation and transmission, to visualization, analysis, interaction, and a variety of applications.  
 
