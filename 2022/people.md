@@ -7,7 +7,17 @@ year: 2022
 {% for section in site.data.organisers[page.year] %}
 <h2 class="centre">{{section.name}}</h2>
 <br>	
+
 <div class="row justify-content-center" >
+{% if section.mail %}
+<h6 class="centre">Contact: {{section.mail}}</h6>
+{% endif %}
+</div>
+<br>
+
+<div class="row justify-content-center" >
+	
+
 	{% for people in section.people %}
 	<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12" >
 		
