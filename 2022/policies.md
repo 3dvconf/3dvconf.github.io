@@ -5,7 +5,7 @@ title: <i class="fas fa-file-contract"></i>  &nbsp; Policies
 ---
 
 
-**Review Process:** By submitting a paper to 3DV, the authors agree to the review process and understand that papers are processed by the Toronto system to match each manuscript to the best possible area chairs and reviewers.
+**Review Process:** By submitting a paper to 3DV, the authors agree to the review process and understand that papers are processed by the Toronto Paper Matching System to match each manuscript to the best possible area chairs and reviewers.
 <br><br>
 
 **Confidentiality:** The review process of 3DV is confidential. Reviewers are volunteers, not part of the 3DV organization, and their efforts are greatly appreciated. The practice of keeping all information confidential during the review is part of the standard communication to all reviewers. Misuse of confidential information is a severe professional failure and appropriate measures will be taken when brought to the attention of the 3DV organizers. It should be noted, however, that the organization of 3DV is not and cannot be held responsible for the consequences when reviewers break confidentiality.
@@ -44,3 +44,10 @@ title: <i class="fas fa-file-contract"></i>  &nbsp; Policies
 
 **Publication:** All accepted papers will be made publicly available. Authors wishing to submit a patent understand that the paper's official public disclosure is one week before the conference or whenever the authors make it publicly available, whichever is first. The conference considers papers confidential until published one week before the conferences, but notes that multiple organizations will have access during the review and production processes, so those seeking patents should discuss filing dates with their IP council. The conference assumes no liability for early disclosures.
 <br><br>
+
+
+**Publicity, social media:** Papers submitted to 3DV must not be discussed with the press until they have been officially accepted for publication. Work explicitly identified as a 3DV submission also may not be advertised on social media.  
+[Please see the FAQ for more details]({{site.url}}/{{page.year}}/author-faq). 
+Violations may result in the paper being rejected or removed from the conference and proceedings.
+<br><br>
+ 

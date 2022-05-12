@@ -12,9 +12,15 @@ title-logo: <i class="fas fa-question"></i>
 
 A. NO. And any incomplete submission or a submission not meeting required criteria will be deleted.
 
-**Q. Can we get my quota increased for the size of paper submission from 100 MB to something higher?**
 
-A. NO. We have set hard limits of 100MB (PDF Only) for paper submission and 100MB (PDF or ZIP only) for supplementary materials on submissions for review. As we are expecting many submissions, and as each reviewer is expected to review multiple papers, larger file downloads (and uploads) will tax the system and abilities of reviewers to get to the papers fast enough. Authors should consider adding hi-res images as supplementary material (see supplementary material guidelines).
+**Q. Can we add authors after the paper submission deadline?**
+
+A. NO. No further authors can be added after the paper submission deadline.
+
+
+**Q. Can we get my quota increased for the size of paper submission from 30 MB to something higher?**
+
+A. NO. We have set hard limits of 30MB (PDF Only) for paper submission and 100MB (PDF or ZIP only) for supplementary materials on submissions for review. As we are expecting many submissions, and as each reviewer is expected to review multiple papers, larger file downloads (and uploads) will tax the system and abilities of reviewers to get to the papers fast enough. Authors should consider adding hi-res images as supplementary material (see supplementary material guidelines).
 
 
 **Q. How do I delete Supplementary Material from the CMT site?**
@@ -45,6 +51,24 @@ A. Submissions to GitHub and similar repositories cannot be rejected and are acc
 **Q. Does a presentation at a departmental seminar during the review period violate the anonymity standard or other 3DV 2022 policy?**
 
 A. NO. Authors must properly anonymize the written submission as per the guidelines. There is no requirement that the material otherwise be kept confidential during the review process.
+
+**Q. Can I promote my paper in the press or on social media?**
+
+A. As stated in the instructions above, authors are not allowed to go to the press with their submission prior to the end of the review process, or to advertise their work on social media while explicitly identifying it as a 3DV submission. In recent conference cycles, some authors were found posting about their submissions on Twitter or other social media, and even including the title or a snapshot of the paper. This is a violation of anonymity, since the message may go out to many potential reviewers.
+
+**Authors must not:**
+
+·       Talk to the media about your work as "in submission to 3DV"
+
+·       Make any posts to social media or elsewhere that can be linked to a specific 3DV submission (e.g., mentioning the title of the submission or details and content and saying that it's a 3DV submission)
+
+**Authors may:**
+
+·       Talk about their work in a presentation without saying it's submitted to 3DV
+
+·       Submit to arXiv without mentioning 3DV
+
+A paper may be rejected if the program chairs feel that the authors have attempted to let potential reviewers know who wrote the paper.
 
 
 **Q. How do I cite my results reported in open challenges?**

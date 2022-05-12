@@ -1,12 +1,12 @@
 ---
 layout: 2021_post
-year: 2021
+year: 2022
 title: Author Kit Released!
-author: Marco Volino
+author: Assia Benbihi
 ---
 
 
-**The 2021 Author Kit is now available!**
+**The 2022 Author Kit is now available! [(Download Author Kit)]({{site.url}}/files/2022/3DV2022AuthorKit.zip)**
 
 You can find the author kit alongside the [author instructions]({{site.url}}/{{page.year}}/author-instructions).
 
