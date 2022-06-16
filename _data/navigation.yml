@@ -23,10 +23,10 @@
 #     url: prizes
  - title: Jobs
    url: jobs
-# - title: Partnerships
-#   nested:
-#   - title: Partnership Program
-#     url: partnership
+ - title: Partnerships
+   nested:
+   - title: Partnership Program
+     url: partnership
 #   - title: Sponsors
 #     url: sponsors
  - title: People
