@@ -1,6 +1,7 @@
 2022:
  - section:
    name: General Chairs
+   mail: 3dv22gc [at] googlegroups [dot] com
    people:
     - name: Zuzana Kukelova
       affiliation: Visual Recognition Group, Czech Technical University in Prague
@@ -35,6 +36,17 @@
       image: img/2022/people/schindler.jpeg
       url: https://igp.ethz.ch/personen/person-detail.html?persid=143986
  - section:
+   name: Tutorial Chairs
+   people:
+    - name: Fatma Güney
+      affiliation: Autonomous Vision Group, Koç University
+      image: img/2022/people/gumey.jpeg
+      url: https://mysite.ku.edu.tr/fguney/
+    - name: Jiri Matas
+      affiliation: Czech Technical University in Prague
+      image: img/2022/people/matas.png
+      url: https://cmp.felk.cvut.cz/~matas/
+ - section:
    name: Demo and Exhibition Chairs 
    people:
     - name: Daniel Barath
@@ -64,11 +76,15 @@
       affiliation: Czech Technical University in Prague
       image: img/2022/people/drbohlav.jpg
       url: https://cmp.felk.cvut.cz/~drbohlav/
+    - name: Karla Štěpánová
+      affiliation: CIIRC, Czech Technical University in Prague 
+      image: img/2022/people/stepanova.jpeg
+      url: http://karlastepanova.cz/blog/
  - section:
    name: Poster Chairs
    people:
     - name: James Pritts
-      affiliation:  CIIRC
+      affiliation: CIIRC, Czech Technical University in Prague
       image: img/2022/people/pritts.jpg
       url: https://prittjam.github.io/
  - section:
