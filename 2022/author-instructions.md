@@ -82,4 +82,14 @@ Supplementary material may include videos, proofs, additional figures or tables,
 
 ### Rebuttal Instructions
 
-Coming soon.
+After receiving the reviews, authors may optionally submit a rebuttal to address the reviewers' comments, which will be limited to a one page PDF file using the 3DV 2022 Rebuttal Template.
+- **[Download Rebuttal Kit]({{site.url}}/files/2022/3DV2022RebuttalKit.zip)**
+
+The rebuttal must maintain anonymity and cannot include external links that reveal the author identity or circumvent the length restriction.
+
+Responses longer than one page will simply not be reviewed. This includes responses where the margins and formatting are deemed to have been significantly altered from those specified by the style guide.
+
+The author rebuttal is optional and is meant to provide you with an opportunity to rebut factual errors or to supply additional information requested by the reviewers. It is NOT intended to add new contributions (theorems, algorithms, experiments) that were absent in the original submission and NOT specifically requested by the reviewers. You may optionally add a figure, graph or proof to your rebuttal to better illustrate your answer to the reviewers' comments.
+
+Reviewers should refrain from requesting significant additional experiments for the rebuttal, or penalize for lack of additional experiments. Authors should refrain from including new experimental results in the rebuttal, especially when not specifically requested to do so by the reviewers.
+
