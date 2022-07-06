@@ -10,7 +10,7 @@ Thank you for serving on the program committee of 3DV 2022 as a reviewer. Public
 We provide guidelines to help with the reviewing process. More specific
 guidelines can be found in the materials of two past tutorials on reviewing:
 - [Reviewing the Review Process (ICCV21)](https://sites.google.com/view/reviewing-the-review-process/)
-- [How to write a good review (CVPR20)](How to write a good review?)
+- [How to write a good review (CVPR20)](https://sites.google.com/view/making-reviews-great-again/)
 <br><br>
 
 ### Check your papers for conflicts
