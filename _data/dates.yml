@@ -20,7 +20,7 @@ previous-years:
    date: TBD
    enabled: true
  - name: Rebuttal period 
-   date: July 8-14, 2022
+   date: July <del style="color:red;"> 8-14</del> <b>10-15</b>, 2022
    enabled: true
  - name: Paper notification
    date: July 31, 2022
