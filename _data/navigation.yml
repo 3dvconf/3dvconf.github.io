@@ -9,12 +9,14 @@
      url: registration
    - title: Venue
      url: venue
+     #- title: Accomodation
+     #- url: accomodation
      #   - title: About Prague
      #     url: about-city
      #   - title: General Information
      #     url: general-information
-     #   - title: Visa, passport and covid requirements
-     #     url: visa
+     #- title: Visa, passport and covid requirements
+     #- url: visa
 #- title: Keynotes
 #   url: keynotes
  - title: Program

@@ -8,7 +8,7 @@ The International Conference on 3D Vision (**3DV**) will be held in **Prague, Cz
 
 ## Instructions
 
-The tutorial proposals should be submitted by **August, 15th** to **TBD** with a brief description (no more than two pages) containing the following information:
+The tutorial proposals should be submitted by **August, 15th** to **3dv22-tutorials [at] googlegroups [dot] com** with a brief description (no more than two pages) containing the following information:
 - Tutorial title and length (half or full day)
 - Organisers' names, titles, affiliations and email contact
 - Short bio of the tutorial's presenters
@@ -17,4 +17,4 @@ The tutorial proposals should be submitted by **August, 15th** to **TBD** with a
 - Intended audience (introductory, intermediate, advanced) and prerequisite knowledge or skills required
 - Whether or not the organisers are willing to present the tutorial in person or prefer a virtual presentation
 
-The proposals will be evaluated by the tutorial chair and the conference organiser based on their technical quality, relevance and timeliness of the topic and quality of the proposal. For any further information please contact: **TBD**.
+The proposals will be evaluated by the tutorial chair and the conference organiser based on their technical quality, relevance and timeliness of the topic and quality of the proposal. For any further information please contact: **3dv22-tutorials [at] googlegroups [dot] com**.
