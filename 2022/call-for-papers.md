@@ -7,7 +7,7 @@ year: 2022
 
 <a href="{{site.url}}/files/2022/3DV2022_CFP.pdf" target="_blank">**A PDF version with the important dates can be found here.**</a> 
 
-We invite submissions to the 10th International Conference on 3D Vision (3DV 2022), which will be held in Prague, Czech Republic, on September 12-16, 2022.
+We invite submissions to the 10th International Conference on 3D Vision (3DV 2022), which will be held in Prague, Czech Republic, on September 12-15, 2022.
 Since 2013, under the name 3DV, this event has provided a platform for disseminating research results covering a broad variety of topics in the area of 3D computer vision and graphics,
 from novel optical sensors, signal processing, geometric modeling, representation and transmission, to visualization, analysis, interaction, and a variety of applications.
 

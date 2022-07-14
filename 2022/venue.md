@@ -16,8 +16,11 @@ referrerpolicy="no-referrer-when-downgrade"></iframe>
 The conference will take place on the main campus of Czech Technical University
 in Prague, just 20 minutes walking distance from Prague castle.
 
+<br>
+
 **Faculty of Electrical Engineering, Czech Technical University in Prague**\\
 Technická 2\\
 160 00 Praha 6 - Dejvice\\
-Prague, Czechia\\
-Webiste: [https://fel.cvut.cz/en/](https://fel.cvut.cz/en/)
+Prague, Czechia
+
+<img src="{{site.url}}/img/2022/FEL.jpg" style="width:85%;"/>

@@ -1,7 +1,7 @@
 conf-title: International Conference on 3D Vision 2022
 conf-acro: 3DV2022
 conf-location: Prague, Czechia
-conf-date: September 12-16, 2022
+conf-date: September 12-15, 2022
 
 header-image: "img/2022/3dv2022_banner.png"
 banner-image: "img/2022/clock.jpg"
@@ -13,14 +13,14 @@ favicon: "img/2022/3dv.ico"
 program:
  - name: Tutorials
    day: 0
-   date: 2021-11-30 08:30
+   date: 2022-07-12 #08:30
  - name: Day 1
    day: 1
-   date: 2021-12-01 08:30
+   date: 2022-07-13 #08:30
  - name: Day 2  
    day: 2
-   date: 2021-12-02 08:30  
+   date: 2022-07-14 #08:30  
  - name: Day 3
    day: 3
-   date: 2021-12-03 08:30
+   date: 2022-07-15 #08:30
    

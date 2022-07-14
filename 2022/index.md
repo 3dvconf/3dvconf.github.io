@@ -11,7 +11,7 @@ favicon: "img/2022/3dv.ico"
 ---
 
 
-The 10th International Conference on 3D Vision will be held **in Prague, Czechia** on **September 12-16, 2022**.
+The 10th International Conference on 3D Vision will be held **in Prague, Czechia** on **September 12-15, 2022**.
 The event will be hybrid, with both in-person and virtual attendance options.
 
 In 2011, 3DIM and 3DPVT joined forces to create a new yearly conference dedicated to 3D research, originally known as 3DIMPVT for 2011 and 2012. Since 2013, under the name 3DV (3D Vision). 
@@ -23,3 +23,8 @@ This event has provided a premier platform for disseminating research results co
 * [Latest News]({{site.url}}/{{page.year}}/news)
 * [Call for Papers]({{site.url}}/{{page.year}}/call-for-papers)
 * [Important Dates]({{site.url}}/{{page.year}}/dates)
+
+
+**Organizers**:
+* [CIIRC](https://www.ciirc.cvut.cz/)
+* [FEL](https://fel.cvut.cz/en/)

@@ -5,7 +5,7 @@ title: Call for Research Demos
 ---
 
 The 10th International Conference on 3D Vision will be held in hybrid format on
-September 12-16, 2022. This event will provide a premier platform for disseminating
+September 12-15, 2022. This event will provide a premier platform for disseminating
 research results covering a broad variety of topics in the area of 3D research in
 computer vision and graphics, from novel optical sensors, signal processing, geometric
 modeling, representation and transmission, to visualization and interaction, and a
