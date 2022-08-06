@@ -15,10 +15,10 @@
      url: venue
      #- title: Accomodation
      #- url: accomodation
-     #   - title: General Information
-     #     url: general-information
-     #- title: Visa, passport and covid requirements
-     #- url: visa
+   - title: General Information
+     url: general-information
+   - title: Visa and covid
+     url: visa
 #- title: Keynotes
 #   url: keynotes
  - title: Program

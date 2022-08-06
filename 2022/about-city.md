@@ -15,11 +15,14 @@ city.
 
 ### Useful links
 
-**Transportation**
-Prague benefits from an incredible network of undergrounds and trams running frequently and
-through the night. A useful way to get around the city is to download the
-official transportation app where you can plan trips and buy tickets
-[PID Litacka](https://app.pidlitacka.cz/).
+**Transportation** Prague benefits from an incredible network of undergrounds
+and trams running frequently and through the night. A useful way to get around
+the city is to download the official transportation app where you can plan
+trips and buy tickets [PID Litacka](https://app.pidlitacka.cz/).  Tickets
+within Prague are constrained by time ([check here for
+fares](https://pid.cz/en/travelling-around-prague/?tab=1)). You can also buy
+tickets at metro stations and on some of the trams (only with contactless cards
+for tram).
 
 **Tourist Information**
 Check the official [Prague Tourism website](https://www.prague.eu/en) for further information.
