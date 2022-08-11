@@ -6,7 +6,7 @@ title: Registration
 
 **Registration Page**
 
-The registration will open soon.
+To register, fill in the form [here.]({{site.url}}/{{page.year}}/registration-form)
 
 **Authors**
 
