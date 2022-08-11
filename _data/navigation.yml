@@ -45,8 +45,8 @@
    nested:
    - title: Organizers
      url: people
-#   - title: Area Chairs
-#     url: area-chairs
+   - title: Area Chairs
+     url: area-chairs
 #   - title: Program Committee
 #     url: program-committee
  - title: Calls

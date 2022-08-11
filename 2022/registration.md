@@ -67,11 +67,25 @@ and access to the conference (both in person and virtually).
 The virtual registration includes virtual access to the conference.
 
 
-<!--<br>
-**Letters of Invitation**
+<br>
+**Invitation Letters**
 
-Coming soon.-->
+Participants who require an official Letter of Invitation for visa or funding
+purposes can apply for it by contacting the general chairs
+(3dv22gc [at] googlegroups [dot] com). 
+<!--You must be fully
+registered and have paid the relevant registration fee to obtain a letter of
+invitation.-->
+Requests MUST contain the following:
 
+- Full name and firstname
+- Address
+- Date of birth
+- Passport number
+- Paper name
+- Sending institution
+
+Any fraudulent requests will be reported to the proper authorities.
 
 <br>
 **Payment / Invoice Information**

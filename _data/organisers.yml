@@ -82,6 +82,24 @@
       image: img/2022/people/stepanova.jpeg
       url: http://karlastepanova.cz/blog/
  - section:
+   name: Local Chairs 
+   people:
+    - name: Jan Čech
+      affiliation: Czech Technical University in Prague
+      image: img/2022/people/cech.jpg
+      url: https://cmp.felk.cvut.cz/~cechj/
+    - name: Michal Polic
+      affiliation: CIIRC, Czech Technical University in Prague
+      image: img/2022/people/polic.jpeg
+      url: http://people.ciirc.cvut.cz/policmic/
+ - section:
+   name: Virtual Chairs 
+   people:
+    - name: Katerina Adam
+      affiliation: National Technical University of Athens, CIIRC, Czech Technical University in Prague
+      image: img/2022/people/adam.png
+      url: https://katadam.github.io/
+ - section:
    name: Poster Chairs
    people:
     - name: James Pritts

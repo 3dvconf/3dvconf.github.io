@@ -131,7 +131,7 @@ walk.
   provides a stunning view over the Vltava river.
 - [Divoká Šárka](https://www.prague.eu/en/object/places/2297/wild-sarka-divoka-sarka): Only
   20 min away from the venue, this park makes for nice short trails and
-  outdoor swimming pools.
+  has outdoor swimming pools.
 - [Vitkov](https://www.prague.eu/en/object/places/548/vitkov): Walk along
   trails overviewing the city and check the equestrian statue of Jan Žižka at
   the top of the garden.
