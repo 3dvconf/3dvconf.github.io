@@ -73,7 +73,6 @@ The virtual registration includes virtual access to the conference.
 Participants who require an official Letter of Invitation for visa or funding
 purposes can apply for it by contacting the general chairs
 (3dv22gc [at] googlegroups [dot] com). 
-<!--You must be fully
 registered and have paid the relevant registration fee to obtain a letter of
 invitation.-->
 Requests MUST contain the following:
@@ -86,6 +85,12 @@ Requests MUST contain the following:
 - Sending institution
 
 Any fraudulent requests will be reported to the proper authorities.
+
+<br>
+**Childcare**
+
+3DV2022 will provide childcare during the conference. Please reach out to the
+general chairs and you will receive further information. Contact: 3dv22gc [at] googlegroups [dot] com  
 
 <br>
 **Payment / Invoice Information**

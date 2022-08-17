@@ -5,7 +5,11 @@ title: Information for attendees
 ---
 
 #### Visa and Letter of Invitation
-Coming soon.
+Please, refer to this page: [Visa]({{site.url}}/{{page.year}}/visa)
+
+### Childcare
+3DV2022 will provide childcare during the conference. Please reach out to the
+general chairs (3dv22gc [at] googlegroups [dot] com) and you will receive further information. 
 
 #### Insurance
 

@@ -14,6 +14,25 @@ government website to learn more about the necessary procedure.
 
 [Visa Regime](https://www.mzv.cz/jnp/en/information_for_aliens/short_stay_visa/list_of_states_whose_citizens_are/index.html)
 
+# Invitation Letters
+
+Participants who require an official Letter of Invitation for visa or funding
+purposes can apply for it by contacting the general chairs
+(3dv22gc [at] googlegroups [dot] com). 
+registered and have paid the relevant registration fee to obtain a letter of
+invitation.-->
+Requests MUST contain the following:
+
+- Full name and firstname
+- Address
+- Date of birth
+- Passport number
+- Paper name
+- Sending institution
+
+Any fraudulent requests will be reported to the proper authorities.
+
+
 # Covid
 
 Given the ever-changing situation, we recommend checking regularly the official
