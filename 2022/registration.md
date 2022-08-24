@@ -51,9 +51,9 @@ you will attend virtually.
     </tr>
 
     <tr height="40px">
-        <th >Virtual Registration (Full)</th>
-        <th >30€</th>
-        <th >30€</th>
+        <th >Virtual Registration (Student)</th>
+        <th >15€</th>
+        <th >15€</th>
     </tr>
 </table>
 
