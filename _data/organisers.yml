@@ -93,12 +93,16 @@
       image: img/2022/people/polic.jpeg
       url: http://people.ciirc.cvut.cz/policmic/
  - section:
-   name: Virtual Chairs 
+   name: Virtual and Presentation Chairs 
    people:
     - name: Katerina Adam
       affiliation: National Technical University of Athens, CIIRC, Czech Technical University in Prague
       image: img/2022/people/adam.png
       url: https://katadam.github.io/
+    - name: Martin Matoušek
+      affiliation: CIIRC, Czech Technical University in Prague
+      image: img/2022/people/matousek.jpg
+      url: http://people.ciirc.cvut.cz/~xmatousm/
  - section:
    name: Poster Chairs
    people:

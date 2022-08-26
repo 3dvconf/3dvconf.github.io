@@ -13,8 +13,8 @@
      url: registration-form
    - title: Venue
      url: venue
-     #- title: Accomodation
-     #- url: accomodation
+   - title: Accommodation
+     url: accommodation
    - title: General Information
      url: general-information
    - title: Visa and covid
