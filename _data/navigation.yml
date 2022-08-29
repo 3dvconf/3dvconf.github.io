@@ -19,8 +19,8 @@
      url: general-information
    - title: Visa and covid
      url: visa
-#- title: Keynotes
-#   url: keynotes
+ - title: Keynotes
+   url: keynotes
  - title: Program
    nested:
    - title: Schedule

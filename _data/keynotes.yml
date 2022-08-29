@@ -1,4 +1,54 @@
+2022:
+  # - name: "Matthias Niessner"
+  #  title: "TBD"
+  #  abstract: "TBD"
+  #  bio: "TBD"
+  #   order: 1
+  #   index: 1
 
+ - name: "Vincent Lepetit"
+   title: "New Problems in 3D Object Pose Estimation"
+   abstract: "3D (or 6D, or 9D) pose estimation of objects from images has made tremendous progress over the recent past years, but is it really enough to answer all needs, especially for the industry?  Requirements for training time and for labeled data are still often a deal breaker to transfer these developments to production.  In the first part of this talk, I will present our recent work on dealing with new objects without specific training on them: How to detect them, how to estimate their 6D pose, how to track them.  I will then present our work on creating accurate annotations of real images automatically for training and evaluating 3D algorithms: In particular, we recently developed a method based on the Monte Carlo Tree Search (MCTS) algorithm to retrieve CAD models for indoor scenes from noisy RGB-D scans without human input."
+   bio: "Vincent Lepetit is a Director of Research at ENPC ParisTech, France.  Prior to this position, he was a full professor at the Institute for Computer Graphics and Vision, Graz University of Technology (TU Graz), Austria and before that, a senior researcher at CVLab, Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland.  He also still leads a research group as an associate professor.  His current research focuses on 3D scene understanding, especially at trying to reduce the supervision needed by a system to learn new 3D objects and new 3D environments.  In the past, he has worked on vision-based Augmented Reality, Machine Learning and Deep Learning, in particular, their application to 3D registration, 3D object pose estimation, feature point detection and description and geo-localization from images.  He received the Koenderick “test-of-time” award at the European Conference on Computer Vision 2020 for “Brief: Binary Robust Independent Elementary Features”. He often serves as an area chair of major computer vision conferences (CVPR, ICCV, ECCV, ACCV, BMVC) and as an editor for the International Journal of Computer Vision (IJCV) and the Computer Vision and Image Understanding (CVIU) journal."
+   image: img/2022/people/vincent_lepetit_hawai.jpg
+   url: https://vincentlepetit.github.io/ 
+   order: 2
+   index: 2
+ 
+ - name: "Otmar Hilliges"
+   title: "Human-Centric 3D Computer Vision for Future AI Systems"
+   abstract: "Future AI systems such as personalized healthcare robots, self-driving cars, and AR/VR-based telepresence systems, will only be safe, useful and widely adopted if they are able to interpret human pose, shape and appearance at levels rivaling our own; and if they can interact with us and the world in a human-like and natural fashion. This requires perceiving and analyzing human behavior from images. It also requires generation, control and synthesis of virtual humans. To this end we propose a novel representation of human pose, shape and appearance that combines the advantages of neural implicit surfaces with those of parametric body models: i) a continuous and resolution-independent surface representation that can capture highly detailed geometry and can naturally model topology changes, ii) coupled with the ease of use and generalization capabilities to unseen shapes and poses of polygonal mesh-based models. We also introduce algorithms to learn such representations without requiring manually specified skinning weights or other forms of direct supervision.  We then discuss how to leverage this representation to reconstruct controllable avatars (full body, faces and more) directly from images, videos or short RGB-D sequences via differentiable rendering. Finally, to make 3D human avatars widely available, we will discuss work towards generative modeling of 3D virtual humans with diverse identities and shapes in arbitrary poses and of interactions with 3D objects in a physically plausible manner."
+   bio: "Otmar Hilliges is a Professor of Computer Science at ETH Zurich, where he leads the AIT lab (https://ait.ethz.ch) and serves as head of the Institute for Intelligent Interactive Systems (https://iis.ethz.ch). Otmar’s research is in spatio-temporal understanding of how humans move within and interact with the physical world. He researches algorithms, methods and representations for human- and interaction-centric understanding of our world from videos, images and other sensor data. He is interested in many different application domains such as Augmented and Virtual Reality, Human Robot Interaction and more. Prior to joining ETH, he was a Researcher at Microsoft Research Cambridge (2012-2013). His Diplom (equiv. MSc) in Computer Science is from Technische Universität München, Germany (2004) and his PhD in Computer Science from LMU München, Germany (2009). He spent two years as a postdoc at Microsoft Research Cambridge (2010-2012). He has published more than 100 peer-reviewed papers in the major venues on computer vision, computer graphics and HCI. 20+ patents have been filed in his name on a variety of subjects from surface reconstruction to AR/VR. Amongst other sources of funding, Otmar Hilliges is a recipient of the prestigious ERC starting grant and ERC consolidator grant."
+   image: img/2022/people/otmarhilliges.jpg
+   url: https://ait.ethz.ch/people/hilliges/ 
+   order: 3
+   index: 3
+
+  #- name: "Angjoo Kanazawa"
+  #- title: "TBD"
+  #- abstract: "TBD"
+  #- bio: "TBD"
+  #- order: 4
+  #- index: 4
+ 
+  #- name: "Lourdes Agapito"
+  #  title: "TBD"
+  #  abstract: "TBD"
+  #  bio: "TBD"
+  #- order: 5
+  #- index: 5
+ 
+ - name: "Yasutaka Furukawa"
+   title: "Teaching a Computer to be an Architect"
+   abstract: "I will present our recent work on structured geometry reconstruction and generation, which help architects with their workflows. For reconstruction, I will talk about vector floorplan reconstruction from scanned floorplan images or RGBD images acquired on-site: What the key insights were and how we changed the landscape of floorplan reconstruction in the last 5 years. For generation, I will talk about the graph-constrained floorplan generation work (House-GAN): How we fused a reconstruction technique with GAN to build the system. Lastly, I will share my views of how the relationships of structured reconstruction and generation (two once very distant fields) are changing recently."
+   bio: "Dr. Yasutaka Furukawa is an associate professor in the School of Computing Science at Simon Fraser University (SFU). Dr. Furukawa's group has made fundamental and practical contributions to 3D reconstruction algorithms, improved localization techniques, and computational architectural modeling. Their open-source software has been widely adopted by tech companies used in surprising applications such as 3D printing of turtle shells and archaeological reconstruction. Dr. Furukawa received the best student paper award at ECCV 2012, the NSF CAREER Award in 2015, CS-CAN Outstanding Young CS Researcher Award 2018, Google Faculty Research Awards in 2016, 2017, and 2018, and PAMI Longuet-Higgins prize in 2020."
+   image: img/2022/people/furukawa.jpeg
+   url: https://www2.cs.sfu.ca/~furukawa/
+   order: 6
+   index: 6
+ 
+
+ 
 2021:
  - name: Michael Black
    title:  "Learning digital humans for the Metaverse"
