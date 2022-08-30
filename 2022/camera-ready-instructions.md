@@ -113,11 +113,13 @@ Since all paper titles will be listed using the AP-style capitalization in the p
 **3. Prepare your supplemental material (optional)**
 
 Supplemental material can also be uploaded to the Online Author Submission
-Site. Supplemental material may **only include PDF files.** For videos, we
-suggest to upload them somewhere, e.g., Youtube, and then provide a link to the
-video in the supplementary PDF. The supplementary material may include videos,
+Site. The supplementary material may include videos,
 images, proofs, additional figures or tables, a more detailed analysis of
-experiments presented in the paper, or code.  Multiple files can be packed in a
+experiments presented in the paper, or code.
+
+The **uploaded** supplemental material may **only include PDF files.** For videos, we
+suggest to upload them somewhere, e.g., Youtube, and then provide a link to the
+video in the supplementary PDF. Multiple files can be packed in a
 zip file. The file size limit for supplemental material is 100MB.
 
 <!--To ensure that the readers consult this material, please ensure that the file is easily readable with common players and codecs and correctly referred to in the paper, e.g. any videos should be in MP4 format. Remember ensuring its easy readability: details of format, tested player and version, codec, timing, etc.-->
