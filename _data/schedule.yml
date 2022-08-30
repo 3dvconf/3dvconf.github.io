@@ -52,15 +52,15 @@
    duration: "1:00:00"
    type: "Oral"
    index: "1"
-   #title-link: accepted-papers/#Oral1
+   title-link: 2022/accepted-papers/#Oral1
  - title: "Spotlight Session 1"
    #subtitle: Humans & Non-Rigid Shapes
    date: "2022-09-13 11:30 +0000"
    day: 1
    duration: "1:30:00"
-   type: "Oral"
+   type: "Spotlight"
    index: "1"
-   #title-link: accepted-papers/#Spotlight1
+   title-link: 2022/accepted-papers/#Spotlight1
  - title: "Lunch Break"
    date: "2022-09-13 13:00 +0000"
    day: 1
@@ -69,9 +69,9 @@
    date: "2022-09-13 14:30 +0000"
    day: 1
    duration: "1:00:00"
-   type: "Oral"
-   index: "1"
-   #title-link: accepted-papers/#Spotlight2
+   type: "Spotlight"
+   index: "2"
+   title-link: 2022/accepted-papers/#Spotlight2
  - title: "Keynote Speech 2"
    subtitle: Vincent Lepetit
    date: "2022-09-13 15:30 +0000"
@@ -87,7 +87,7 @@
    day: 1
    duration: "01:30:00"
    type: "Poster"
-   #title-link: 2022/#Posters1
+   title-link: 2022/accepted-papers/#Spotlight1
  - title: "Coffee Break"
    date: "2022-09-13 16:30 +0000"
    day: 1
@@ -125,17 +125,17 @@
    date: "2022-09-14 10:30 +0000"
    day: 2
    duration: "1:00:00"
-   type: "Oral"
-   index: "1"
-   #title-link: accepted-papers/#Spotlight3
+   type: "Spotlight"
+   index: "3"
+   title-link: 2022/accepted-papers/#Spotlight3
  - title: "Spotlight Session 4"
    #subtitle: Humans & Non-Rigid Shapes
    date: "2022-09-14 11:30 +0000"
    day: 2
    duration: "1:30:00"
-   type: "Oral"
-   index: "1"
-   #title-link: accepted-papers/#Spotlight4
+   type: "Spotlight"
+   index: "4"
+   title-link: 2022/accepted-papers/#Spotlight4
  - title: "Lunch Break"
    date: "2022-09-14 13:00 +0000"
    day: 2
@@ -147,13 +147,13 @@
    duration: "1:00:00"
    type: "Oral"
    index: "2"
-   #title-link: accepted-papers/#Oral2
+   title-link: 2022/accepted-papers/#Oral2
  - title: "Posters 2"
    date: "2022-9-14 15:30:00 +0000"
    day: 2
    duration: "01:30:00"
    type: "Poster"
-   #title-link: 2022/#Posters2
+   title-link: 2022/accepted-papers/#Spotlight3
  - title: "Keynote Speech 4"
    subtitle: Angjoo Kanazawa
    date: "2022-09-14 17:00 +0000"
@@ -176,7 +176,7 @@
    duration: "1:00:00"
    type: "Oral"
    index: "3"
-   #title-link: accepted-papers/#Oral3
+   title-link: 2022/accepted-papers/#Oral3
  - title: "Keynote Speech 5"
    subtitle: Lourdes Agapito
    date: "2022-09-15 9:30 +0000"
@@ -195,9 +195,9 @@
    date: "2022-09-15 11:00 +0000"
    day: 3
    duration: "1:30:00"
-   type: "Oral"
+   type: "Spotlight"
    index: "5"
-   #title-link: accepted-papers/#Spotlight5
+   title-link: 2022/accepted-papers/#Spotlight5
  - title: "Lunch Break"
    date: "2022-09-15 12:30 +0000"
    day: 3
@@ -207,9 +207,9 @@
    date: "2022-09-15 14:30 +0000"
    day: 3
    duration: "1:00:00"
-   type: "Oral"
+   type: "Spotlight"
    index: "6"
-   #title-link: accepted-papers/#Spotlight6
+   title-link: 2022/accepted-papers/#Spotlight6
  - title: "Keynote Speech 6"
    subtitle: Yasutaka Furukawa
    date: "2022-09-15 15:30 +0000"
@@ -224,7 +224,7 @@
    day: 3
    duration: "01:30:00"
    type: "Poster"
-   #title-link: 2022/#Posters3
+   title-link: 2022/accepted-papers/#Spotlight5
 
 2021:
  - title: "Tutorial 1"
