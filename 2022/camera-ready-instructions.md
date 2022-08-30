@@ -43,8 +43,8 @@ All papers will require one author to pay the Passport registration fee (Full or
 <!--in the category of author for a paper for the conference-->
 and to attend the live interactive presentations.
 
-At least one author for each paper must register to attend the conference using our online registration link at
-- [{{site.url}}/{{page.year}}/registration-form]({{site.url}}/{{page.year}}/registration-form)
+At least one author for each paper must register to attend the conference using
+[our online registration link]({{site.url}}/{{page.year}}/registration-form)
 
 Provide your paper ID at registration time so that your paper can be matched with authors.
 Please note that we will require one Passport fee per paper in the case of authors of multiple papers. 
