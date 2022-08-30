@@ -3,6 +3,8 @@
   #  title: "TBD"
   #  abstract: "TBD"
   #  bio: "TBD"
+  #  url: https://niessnerlab.org/ 
+  #  img: img/2022/people/niessner.jpg
   #   order: 1
   #   index: 1
 
@@ -28,6 +30,8 @@
   #- title: "TBD"
   #- abstract: "TBD"
   #- bio: "TBD"
+  #  img: img/2022/people/kanazawa.jpg
+  #  url: https://www2.eecs.berkeley.edu/Faculty/Homepages/kanazawa.html
   #- order: 4
   #- index: 4
  
@@ -35,6 +39,8 @@
   #  title: "TBD"
   #  abstract: "TBD"
   #  bio: "TBD"
+  #  img: img/2022/people/agapito.jpeg
+  #  url: http://www0.cs.ucl.ac.uk/staff/L.Agapito/
   #- order: 5
   #- index: 5
  

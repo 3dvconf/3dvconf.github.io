@@ -23,14 +23,14 @@
    url: keynotes
  - title: Program
    nested:
-   - title: Schedule
-     url: schedule
+#   - title: Schedule
+#     url: schedule
 #     #- title: Accepted papers
 #     #- url: accepted-papers
-#   - title: Demos
-#     url: demos
-#   - title: Tutorials
-#     url: tutorials
+   - title: Demos
+     url: demos
+   - title: Tutorials
+     url: tutorials
 #   - title: Prizes
 #     url: prizes
  - title: Jobs
@@ -63,8 +63,8 @@
      url: author-instructions
    - title: Author FAQs
      url: author-faq
-#   - title: Camera Ready Instructions
-#     url: camera-ready-instructions
+   - title: Camera Ready Instructions
+     url: camera-ready-instructions
    - title: Policies
      url: policies
    - title: Reviewer Guidelines

@@ -1,3 +1,11 @@
+2022:
+  - title: "MonoRec: Deconstructing Monocular Depth Reconstruction"
+    organisers: "J. Spencer, A. Saha, C. Russell, S. Hadfield, and R. Bowden"
+    order: 1
+  - title: "Affine Correspondences and their Applications in Practice"
+    organisers: "D. Mishkin, D. Barath, L. Hajder, and J. Pritts"
+    order: 2
+
 2021:
  - title: "Spectral Geometry in Practice"
    organisers: "Riccardo Marin, Luca Cosmo, Simone Melzi, Arianna Rampini and Emanuele Rodola"
