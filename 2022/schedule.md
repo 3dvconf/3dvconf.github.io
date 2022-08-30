@@ -57,7 +57,9 @@ title: Schedule
   decoding of talk.date seems to do some second counting with respect to GMT by
   default and I was too lazy to look for where this happens (sorry).-->
 	{% assign cest_time_start = talk.date | date: "%s"   %}
-	{% assign cest_time_start = cest_time_start | minus:  7200 %}
+  <!--It seems that this I need this locally but not when I deploy ... This
+  kind of time trick is better left alone ...-->
+	<!--{% assign cest_time_start = cest_time_start | minus:  7200 %}-->
 
 	{% assign gmt_time_start = cest_time_start | minus:  7200 %}
 	{% assign jst_time_start = gmt_time_start  | plus:  32400 %}
