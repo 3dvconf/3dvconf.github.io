@@ -23,8 +23,8 @@
    url: keynotes
  - title: Program
    nested:
-#   - title: Schedule
-#     url: schedule
+   - title: Schedule
+     url: schedule
 #     #- title: Accepted papers
 #     #- url: accepted-papers
    - title: Demos

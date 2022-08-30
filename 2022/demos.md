@@ -7,7 +7,7 @@ title: Demo Session
 <br>
 
 {% assign demos = site.data.demos[page.year] | sort: 'id' %}
-{% assign sessions = site.data.schedule[page.year] | where: 'type', "Demo" | sort: 'round'  %}
+{% assign sessions = site.data.schedule[page.year] | where: 'type', "Demo"  %}
 
 <table class="table table-bordered table-striped">
 	<thead>
@@ -24,19 +24,39 @@ title: Demo Session
 					 		 {% else %}{% assign day_ordinalize = "th"%}
 						{% endcase %}
 					
-						{% assign html_id = "Day" |append: {{session.day}} | append: "Round" | append: {{session.round}}  %}
+						{% assign html_id = "Day" |append: {{session.day}}  %}
 			
 						<div style="float:left;text-align:left;">
-							<a href="{{site.url}}/schedule/#{{html_id}}">{{session.title}} - {{ session.date | date: "%A %e" }}{{day_ordinalize}} {{  session.date | date: "%B %Y %H:%M (CEST)"}}</a> via {%if session.platform-link %} <a href="{{session.platform-link}}" target="_blank">{{session.platform}}</a> {% else %}{{session.platform}}{%endif%} </div> <br>
+							<a href="{{site.url}}/{{page.year}}/schedule/#{{html_id}}">
+              {{session.title}} - 
+              {{ session.date | date: "%A %e" }}{{day_ordinalize}} 
+              {{  session.date | date: "%B %Y %H:%M (CEST)"}}
+              </a> 
+              
+              <!--via 
+              {%if session.platform-link %} 
+                <a href="{{session.platform-link}}" target="_blank">{{session.platform}}</a> 
+              {% else %}
+                {{session.platform}}
+              {%endif%}
+              -->
+            </div> 
+              
+            <br>
 			
 					{% endfor%}	
 				</div>
-				<!--<div style="float:right; text-align:right;">
+
+				<!--
+        <div style="float:right; text-align:right;">
 					Chaired by<br><b>{{sessions[0].chairs}}</b>
-				</div>-->
+				</div>
+        -->
+
 			</td>
 		</tr>
 	</thead>
+
 	<tbody>
 		{% for demo in demos %}
 			<tr class="">
@@ -47,7 +67,6 @@ title: Demo Session
 					<b style="text-align:center;">Description</b>
 					<p style="text-align:center;">{{demo.abstract}}</p>
 			   </td>
-			   
 			</tr>
 		{% endfor %}
 	</tbody>

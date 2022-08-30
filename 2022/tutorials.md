@@ -27,11 +27,21 @@ title: Tutorials
 	  {% when "3" or "23" %}{% assign day_ordinalize = "rd"%}
 	  {% else %}{% assign day_ordinalize = "th"%}
 	{% endcase %}
+
 	<td style="text-align:center;">
-		<!--<a href="{{site.url}}/schedule/#Day{{session.day}}Round{{session.round}}">-->
-			{{ session.date | date: "%A %e" }}{{day_ordinalize}} {{  session.date | date: "%B %Y %H:%M (CEST)" }}
-		<!--</a>--> 
-    <!--via {%if session.platform-link %}<a href="{{session.platform-link}}" target="_blank">{{session.platform}}</a>{% else%}{{session.platform}}{%endif%}-->
+		<a href="{{site.url}}/{{page.year}}/schedule/#Day{{session.day}}">	
+			{{ session.date | date: "%A %e" }}{{day_ordinalize}} 
+      {{  session.date | date: "%B %Y %H:%M (CEST)" }}
+		</a> 
+    
+    <!--
+    via 
+    {%if session.platform-link %}
+      <a href="{{session.platform-link}}" target="_blank">{{session.platform}}</a>
+    {% else%}
+      {{session.platform}}
+    {%endif%}
+    -->
 	</td>	
 </tr>	
 	
@@ -39,12 +49,10 @@ title: Tutorials
 	<td style="text-align:left;">
 		<b>Speakers</b>
 		<p>{{tutorial.organisers}}</p>
-		
     <!--
-    <b>Description</b>
+		<b>Description</b>
 		<p>{{tutorial.description}}</p>
     -->
-
 	</td>
 </tr>	
 

@@ -1,189 +1,8 @@
 2022:
  - title: "Registration"
-   duration: "1:00:00"
-   type: "Registration"
+   date: "2022-09-12 8:00 +0000"
    day: 0
- - title: "Tutorial 1"
-   subtitle: "MonoRec: Deconstructing Monocular Depth Reconstruction"
-   date: "2022-9-12 9:00 +0000"
-   day: 0
-   duration: "4:00:00"
-   type: "Tutorial"
-   index: "1"
-   title-link: tutorials/#Tutorial1
- - title: "Lunch Break"
-   duration: "1:30:00"
-   type: "Break"
-   day: 0
- - title: "Tutorial 2"
-   subtitle: Affine Correspondences and their Applications in Practice
-   date: "2022-9-12 14:30:00 +0000"
-   day: 0
-   duration: "4:00:00"
-   type: "Tutorial"
-   index: "2"
-   title-link: tutorials/#Tutorial2
- - title: "Registration"
    duration: "1:00:00"
-   type: "Registration"
-   day: 0
- - title: "Opening Remarks and Paper Awards"
-   duration: "0:20:00"
-   title-link: prizes
-   day: 1
- - title: "Keynote Speech 1"
-   subtitle: Matthias Niessner
-   date: "2022-9-13 9:00 +0000"
-   day: 1
-   duration: "1:00:00"
-   type: "Keynote"
-   title-link: keynotes/#MatthiasNiessner
- - title: "Coffee Break"
-   duration: "0:30:00"
-   type: "Break"
-   day: 1
- - title: "Oral Session 1"
-   subtitle: Humans & Non-Rigid Shapes
-   date: "2022-9-13 10:30 +0000"
-   day: 1
-   duration: "1:00:00"
-   type: "Oral"
-   title-link: accepted-papers/#Oral1
- - title: "Spotlights 1"
-   duration: "1:30:00"
-   type: "Spotlight"
-   title-link: accepted-papers/#Spotlight1
-   day: 1
- - title: "Lunch Break"
-   duration: "1:30:00"
-   type: "Break"
-   day: 1
- - title: "Spotlights 2"
-   duration: "1:00:00"
-   type: "Spotlight"
-   title-link: accepted-papers/#Spotlight2
-   day: 1
- - title: "Keynote Speech 2"
-   subtitle: Vincent Lepetit
-   date: "2022-9-13 15:30:00 +0000"
-   day: 1
-   duration: "1:00:00"
-   type: "Keynote"
-   title-link: keynotes/#VincentLepetit
- - title: "Posters 1 and Demo"
-   duration: "1:30:00"
-   type: "Poster"
-   title-link: accepted-papers/#Poster1
-   day: 1
- - title: "Reception"
-   type: "Reception"
-   day: 1
- - title: "Registration"
-   duration: "1:00:00"
-   type: "Registration"
-   day: 2
- - title: "Keynote Speech 3"
-   subtitle: Otmar Hilliges
-   date: "2022-9-14 9:00 +0000"
-   day: 2
-   duration: "1:00:00"
-   type: "Keynote"
-   title-link: keynotes/#OtmarHilliges
- - title: "Coffee Break"
-   duration: "0:30:00"
-   type: "Break"
-   day: 2
- - title: "Spotlights 3"
-   duration: "1:00:00"
-   type: "Spotlight"
-   title-link: accepted-papers/#Spotlight3
-   day: 2
- - title: "Spotlights 4"
-   duration: "1:30:00"
-   type: "Spotlight"
-   title-link: accepted-papers/#Spotlight4
-   day: 2
- - title: "Lunch Break"
-   duration: "1:30:00"
-   type: "Break"
-   day: 2
- - title: "Oral Session 2"
-   subtitle: (Neural) Scene Representations & Point Clouds
-   date: "2022-9-14 14:30 +0000"
-   day: 2
-   duration: "1:00:00"
-   type: "Oral"
-   title-link: accepted-papers/#Oral2
- - title: "Posters 2"
-   duration: "1:30:00"
-   type: "Poster"
-   title-link: accepted-papers/#Poster1
-   day: 2
- - title: "Coffee Break"
-   duration: "0:30:00"
-   type: "Break"
-   day: 2
- - title: "Keynote Speech 4"
-   subtitle: Angjoo Kanazawa
-   date: "2022-9-14 17:00 +0000"
-   day: 2
-   duration: "1:00:00"
-   type: "Keynote"
-   title-link: keynotes/#AngjooKanazawa
- - title: "Registration"
-   duration: "1:00:00"
-   day: 3
-   type: "Registration"
- - title: "Oral Session 3"
-   subtitle: 3D Shapes & Shape Correspondences, View Synthesis, Object Pose Estimation
-   date: "2022-9-15 8:30 +0000"
-   day: 3
-   duration: "1:00:00"
-   type: "Oral"
-   title-link: accepted-papers/#Oral3
- - title: "Keynote Speech 5"
-   subtitle: Lourdes Agapito
-   date: "2022-9-15 9:30 +0000"
-   day: 3
-   duration: "1:00:00"
-   type: "Keynote"
-   title-link: keynotes/#LourdesAgapito
- - title: "Coffee Break"
-   duration: "0:30:00"
-   type: "Break"
-   day: 3
- - title: "Spotlights 5"
-   duration: "1:30:00"
-   type: "Spotlight"
-   title-link: accepted-papers/#Spotlight5
-   day: 3
- - title: "Lunch Break"
-   duration: "2:00:00"
-   type: "Break"
- - title: "Spotlights 6"
-   duration: "1:00:00"
-   type: "Spotlight"
-   title-link: accepted-papers/#Spotlight6
-   day: 3
- - title: "Keynote Speech 5"
-   subtitle: Yasutaka Furukawa
-   date: "2022-9-15 15:30 +0000"
-   day: 3
-   duration: "1:00:00"
-   type: "Keynote"
-   title-link: keynotes/#YasutakaFurukawa
- - title: "Coffee Break"
-   duration: "0:30:00"
-   type: "Break"
-   day: 3
- - title: "Posters 3"
-   duration: "1:30:00"
-   type: "Poster"
-   title-link: accepted-papers/#Poster3
-   day: 3
-
-
-2023:
  - title: "Tutorial 1"
    subtitle: "MonoRec: Deconstructing Monocular Depth Reconstruction"
    date: "2022-09-12 9:00 +0000"
@@ -191,40 +10,221 @@
    duration: "4:00:00"
    type: "Tutorial"
    index: "1"
-   #platform: SlidesLive
-   #delivery: Live
-   #title-link: tutorials/#Tutorial1
-   #chairs: Angela Dai and Michael Bronstein 
-   #platform-link: https://slideslive.com/38972960
- - title: "Break"
+   title-link: 2022/tutorials/#Tutorial1
+ - title: "Lunch Break"
    date: "2022-09-12 13:00 +0000"
    day: 0
    duration: "1:30:00"
  - title: "Tutorial 2"
-   subtitle: "Affine Correspondences and their Applications in Practice"
-   date: "2022-09-12 14:30 +0000"
+   subtitle: Affine Correspondences and their Applications in Practice
+   date: "2022-9-12 14:30:00 +0000"
    day: 0
    duration: "4:00:00"
    type: "Tutorial"
    index: "2"
-   #platform: SlidesLive
-   #delivery: Live
-   #title-link: tutorials/#Tutorial2
-   #chairs: Angela Dai and Michael Bronstein 
-   #platform-link: https://slideslive.com/38972960
- - title: "Keynote Speech 1A"
-   subtitle: Matthias Niessner
-   date: "2021-12-01 9:15 +0000"
+   title-link: 2022/tutorials/#Tutorial2
+ - title: "Registration"
+   date: "2022-09-13 8:00 +0000"
    day: 1
-   round: 1
+   duration: "1:00:00"
+ - title: "Opening Remarks and Paper Awards"
+   date: "2022-09-13 8:40 +0000"
+   day: 1
+   duration: "0:20:00"
+   #title-link: prizes
+ - title: "Keynote Speech 1"
+   subtitle: Matthias Niessner
+   date: "2022-09-13 9:00 +0000"
+   day: 1
    duration: "1:00:00"
    type: "Keynote"
    index: "1"
-   platform: SlidesLive
-   delivery: Live
-   title-link: keynotes/#MichaelBlack
-   chairs: Djamila Aouada
-   platform-link: https://slideslive.com/38972979  
+   delivery: Live Virtual
+   title-link: 2022/keynotes/#MatthiasNiessner
+ - title: "Coffee Break"
+   date: "2022-09-13 10:00 +0000"
+   day: 1
+   duration: "0:30:00"
+ - title: "Oral Session 1"
+   subtitle: Humans & Non-Rigid Shapes
+   date: "2022-09-13 10:30 +0000"
+   day: 1
+   duration: "1:00:00"
+   type: "Oral"
+   index: "1"
+   #title-link: accepted-papers/#Oral1
+ - title: "Spotlight Session 1"
+   #subtitle: Humans & Non-Rigid Shapes
+   date: "2022-09-13 11:30 +0000"
+   day: 1
+   duration: "1:30:00"
+   type: "Oral"
+   index: "1"
+   #title-link: accepted-papers/#Spotlight1
+ - title: "Lunch Break"
+   date: "2022-09-13 13:00 +0000"
+   day: 1
+   duration: "1:30:00"
+ - title: "Spotlight Session 2"
+   date: "2022-09-13 14:30 +0000"
+   day: 1
+   duration: "1:00:00"
+   type: "Oral"
+   index: "1"
+   #title-link: accepted-papers/#Spotlight2
+ - title: "Keynote Speech 2"
+   subtitle: Vincent Lepetit
+   date: "2022-09-13 15:30 +0000"
+   day: 1
+   #round: 1
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "2"
+   delivery: Live Virtual
+   title-link: 2022/keynotes/#VincentLePetit
+ - title: "Posters 1"
+   date: "2022-9-13 16:30:00 +0000"
+   day: 1
+   duration: "01:30:00"
+   type: "Poster"
+   #title-link: 2022/#Posters1
+ - title: "Coffee Break"
+   date: "2022-09-13 16:30 +0000"
+   day: 1
+   duration: "0:30:00"
+ - title: "Demo Session"
+   date: "2022-9-13 16:30:00 +0000"
+   day: 1
+   duration: "01:30:00"
+   type: "Demo"
+   title-link: 2022/demos
+ - title: "Welcome Reception"
+   date: "2022-9-13 18:30:00 +0000"
+   day: 1
+   duration: "02:30:00"
+
+ - title: "Registration"
+   date: "2022-09-14 8:00 +0000"
+   day: 2
+   duration: "1:00:00"
+ - title: "Keynote Speech 3"
+   subtitle: Otmar Hilliges
+   date: "2022-09-14 9:00 +0000"
+   day: 2
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "3"
+   delivery: Live Virtual
+   title-link: 2022/keynotes/#OtmarHilliges
+ - title: "Coffee Break"
+   date: "2022-09-14 10:00 +0000"
+   day: 2
+   duration: "0:30:00"
+ - title: "Spotlight Session 3"
+   #subtitle: Humans & Non-Rigid Shapes
+   date: "2022-09-14 10:30 +0000"
+   day: 2
+   duration: "1:00:00"
+   type: "Oral"
+   index: "1"
+   #title-link: accepted-papers/#Spotlight3
+ - title: "Spotlight Session 4"
+   #subtitle: Humans & Non-Rigid Shapes
+   date: "2022-09-14 11:30 +0000"
+   day: 2
+   duration: "1:30:00"
+   type: "Oral"
+   index: "1"
+   #title-link: accepted-papers/#Spotlight4
+ - title: "Lunch Break"
+   date: "2022-09-14 13:00 +0000"
+   day: 2
+   duration: "1:30:00"
+ - title: "Oral Session 2"
+   subtitle: (Neural) Scene Representations & Point Clouds
+   date: "2022-09-13 14:30 +0000"
+   day: 2
+   duration: "1:00:00"
+   type: "Oral"
+   index: "2"
+   #title-link: accepted-papers/#Oral2
+ - title: "Posters 2"
+   date: "2022-9-14 15:30:00 +0000"
+   day: 2
+   duration: "01:30:00"
+   type: "Poster"
+   #title-link: 2022/#Posters2
+ - title: "Keynote Speech 4"
+   subtitle: Angjoo Kanazawa
+   date: "2022-09-14 17:00 +0000"
+   day: 2
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "4"
+   delivery: Live Virtual
+   title-link: 2022/keynotes/#AngjooKanazawa
+
+
+ - title: "Registration"
+   date: "2022-09-15 8:00 +0000"
+   day: 3
+   duration: "1:00:00"
+ - title: "Oral Session 3"
+   subtitle: Shapes, Objects, & Views
+   date: "2022-09-15 8:30 +0000"
+   day: 3
+   duration: "1:00:00"
+   type: "Oral"
+   index: "3"
+   #title-link: accepted-papers/#Oral3
+ - title: "Keynote Speech 5"
+   subtitle: Lourdes Agapito
+   date: "2022-09-15 9:30 +0000"
+   day: 3
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "5"
+   delivery: Live Virtual
+   title-link: 2022/keynotes/#LourdesAgapito
+ - title: "Coffee Break"
+   date: "2022-09-15 10:30 +0000"
+   day: 3
+   duration: "0:30:00"
+ - title: "Spotlight Session 5"
+   #subtitle: Humans & Non-Rigid Shapes
+   date: "2022-09-15 11:00 +0000"
+   day: 3
+   duration: "1:30:00"
+   type: "Oral"
+   index: "5"
+   #title-link: accepted-papers/#Spotlight5
+ - title: "Lunch Break"
+   date: "2022-09-15 12:30 +0000"
+   day: 3
+   duration: "2:00:00"
+ - title: "Spotlight Session 6"
+   #subtitle: Humans & Non-Rigid Shapes
+   date: "2022-09-15 14:30 +0000"
+   day: 3
+   duration: "1:00:00"
+   type: "Oral"
+   index: "6"
+   #title-link: accepted-papers/#Spotlight6
+ - title: "Keynote Speech 6"
+   subtitle: Yasutaka Furukawa
+   date: "2022-09-15 15:30 +0000"
+   day: 3
+   duration: "1:00:00"
+   type: "Keynote"
+   index: "6"
+   delivery: Live Virtual
+   title-link: 2022/keynotes/#YasutakaFurukawa
+ - title: "Posters 3"
+   date: "2022-9-15 16:30:00 +0000"
+   day: 3
+   duration: "01:30:00"
+   type: "Poster"
+   #title-link: 2022/#Posters3
 
 2021:
  - title: "Tutorial 1"
