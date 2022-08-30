@@ -59,7 +59,6 @@ title: Schedule
 	{% assign cest_time_start = talk.date | date: "%s"   %}
   <!--It seems that this I need this locally but not when I deploy ... This
   kind of time trick is better left alone ...-->
-	<!--{% assign cest_time_start = cest_time_start | minus:  7200 %}-->
 
 	{% assign gmt_time_start = cest_time_start | minus:  7200 %}
 	{% assign jst_time_start = gmt_time_start  | plus:  32400 %}
