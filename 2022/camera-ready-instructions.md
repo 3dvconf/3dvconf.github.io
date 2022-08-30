@@ -133,7 +133,14 @@ zip file. The file size limit for supplemental material is 100MB.
 
 - 4.2. Log in or create an IEEE CPS account.
 
-- 4.3. Once logged in, you will be able, one paper at a time, to first submit the validated PDF and supplementary material, and then the IEEE Electronic Copyright form. NOTE: you have to do this step for each of your accepted papers.
+- 4.3. Once logged in, you will be able, one paper at a time, to first submit the validated PDF and supplementary material, and then the IEEE Electronic Copyright form. 
+
+  - NOTE: you have to do this step for each of your accepted papers.
+
+  - IMPORTANT NOTE: Even after you successfully finish your Submission
+    including the Copyright Form, you may see an Error at the "Copyright
+    Status" column on your CPS Author Dashboard. This is a minor system bug
+    which is soon to be fixed and you may ignore it.
 
   - IMPORTANT NOTE: Please be aware that once you submit your IEEE Electronic Copyright form, you will not be able to go back and make changes. IEEE does not have any mechanism to redo an electronic copyright form and you will not be able to complete more than one per paper. As such, please be sure that the title, author list, etc. are correct and final on the IEEE Electronic Copyright Form before completing and submitting the copyright form. Again, the copyright form can be completed only once per paper, so please make sure that all the information on the form is complete and final before submission.
   
