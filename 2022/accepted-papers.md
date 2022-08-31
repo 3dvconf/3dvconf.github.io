@@ -110,7 +110,9 @@ The list of accepted 3DV papers is now available!
             <br/>
 			    	
             <p>{{paper.authors}}</p>
-            
+ 
+			    	<p>{{paper.prez_type}}</p>
+
             <!--
 			    	<a href="{{paper.link}}" target="_blank">PDF (protected)</a>
             -->
