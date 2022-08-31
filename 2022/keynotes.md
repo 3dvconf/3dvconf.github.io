@@ -34,7 +34,7 @@ title: Keynote Speakers
 				  {% else %}{% assign day_ordinalize = "th"%}
 				{% endcase %}
 			
-				{% assign html_id = "Day" |append: {{round.day}}  %}
+				{% assign html_id = "Day" |append: {{round.day}} | append: "Round" %}
 				<div style="float:left;text-align:left;">
 				<a href="{{site.url}}/{{page.year}}/schedule/#{{html_id}}">{{round.title}} - {{ round.date | date: "%A %e" }}{{day_ordinalize}} {{  round.date | date: "%B %Y %H:%M (CEST)"}}</a> 
 
