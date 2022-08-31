@@ -29,7 +29,7 @@ title: Tutorials
 	{% endcase %}
 
 	<td style="text-align:center;">
-		<a href="{{site.url}}/{{page.year}}/schedule/#Day{{session.day}}">	
+		<a href="{{site.url}}/{{page.year}}/schedule/#Day{{session.day}}Round">	
 			{{ session.date | date: "%A %e" }}{{day_ordinalize}} 
       {{  session.date | date: "%B %Y %H:%M (CEST)" }}
 		</a> 
@@ -49,10 +49,8 @@ title: Tutorials
 	<td style="text-align:left;">
 		<b>Speakers</b>
 		<p>{{tutorial.organisers}}</p>
-    <!--
 		<b>Description</b>
 		<p>{{tutorial.description}}</p>
-    -->
 	</td>
 </tr>	
 

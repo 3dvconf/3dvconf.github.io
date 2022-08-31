@@ -4,7 +4,7 @@
    day: 0
    duration: "1:00:00"
  - title: "Tutorial 1"
-   subtitle: "MonoRec: Deconstructing Monocular Depth Reconstruction"
+   subtitle: "Affine Correspondences and their Applications in Practice"
    date: "2022-09-12 9:00 +0000"
    day: 0
    duration: "4:00:00"
@@ -16,7 +16,7 @@
    day: 0
    duration: "1:30:00"
  - title: "Tutorial 2"
-   subtitle: Affine Correspondences and their Applications in Practice
+   subtitle: "MonoRec: Deconstructing Monocular Depth Reconstruction"
    date: "2022-9-12 14:30:00 +0000"
    day: 0
    duration: "4:00:00"
