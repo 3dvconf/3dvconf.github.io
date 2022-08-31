@@ -24,7 +24,7 @@ title: Demo Session
 					 		 {% else %}{% assign day_ordinalize = "th"%}
 						{% endcase %}
 					
-						{% assign html_id = "Day" |append: {{session.day}}  %}
+						{% assign html_id = "Day" |append: {{session.day}} | append: "Round" %}
 			
 						<div style="float:left;text-align:left;">
 							<a href="{{site.url}}/{{page.year}}/schedule/#{{html_id}}">
