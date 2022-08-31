@@ -36,7 +36,9 @@ title: Keynote Speakers
 			
 				{% assign html_id = "Day" |append: {{round.day}}  %}
 				<div style="float:left;text-align:left;">
-				<a href="{{site.url}}/{{page.year}}/schedule/#{{html_id}}">{{round.title}} - {{ round.date | date: "%A %e" }}{{day_ordinalize}} {{  round.date | date: "%B %Y %H:%M (GMT)"}}</a> 
+				<a href="{{site.url}}/{{page.year}}/schedule/#{{html_id}}">{{round.title}} - {{ round.date | date: "%A %e" }}{{day_ordinalize}} {{  round.date | date: "%B %Y %H:%M (CEST)"}}</a> 
+
+        {{keynote.prez}}
         
         <!--
         via
