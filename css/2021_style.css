@@ -166,12 +166,22 @@ p{
  	-webkit-border-radius:1em;
 }
 
-.assia img{
-	height:12em;
+.assia{
 	width: auto;
   object-position: center;
   margin-left:auto;
   margin-right:auto;
+  text-align:center
+  place-content:center
+}
+
+.assia img{
+	width: auto;
+  object-position: center;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center
+  place-content:center
 }
 
 .sponsor-logo-sidebar{
@@ -234,4 +244,15 @@ table.papers tr:nth-child(even) {
 table.papers tr:nth-child(odd) {
   background-color: #eee;
   border: 1px solid #fff;
+}
+
+
+.post-image {
+	object-position: center;
+	object-fit: cover;
+  text-align:center;
+  margin: auto;
+  display: inline;
+  max-width: 100%;
+  height: auto;
 }

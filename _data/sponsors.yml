@@ -1,11 +1,11 @@
 2022:
- - secion:
-   name: Platinum Partner
+ - section:
+   name: Platinum Partners
    company:
     - name: Epic Games
       logo: img/2022/sponsors/epicgames_Logo_Vertical_Black.png
       url: https://www.capturingreality.com/
-      height: 20em
+      height: 25em
     - name: Meta
       logo: img/2022/sponsors/RL-Research_Logo_Black.png
       url: https://about.fb.com/realitylabs/
