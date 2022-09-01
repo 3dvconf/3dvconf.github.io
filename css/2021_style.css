@@ -155,9 +155,23 @@ p{
  margin-left:auto;
  text-align:center;
 }
+
 .sponsor-logo img{
-	max-height: 10em;
-	width: ;
+	object-fit: cover;
+	object-position: center;
+	height:12em;
+	width: 8em;
+	border-radius:1em;
+	-moz-border-radius:1em;
+ 	-webkit-border-radius:1em;
+}
+
+.assia img{
+	height:12em;
+	width: auto;
+  object-position: center;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .sponsor-logo-sidebar{

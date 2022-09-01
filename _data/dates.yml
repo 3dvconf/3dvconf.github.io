@@ -16,9 +16,9 @@ previous-years:
  - name: Tutorial submission
    date: August 15, 2022
    enabled: true
- - name: Tutorial notification
-   date: TBD
-   enabled: true
+   #- name: Tutorial notification
+   #- date: TBD
+   #- enabled: true
  - name: Rebuttal period 
    date: July <del style="color:red;"> 8-14</del> <b>10-15</b>, 2022
    enabled: true
@@ -31,9 +31,9 @@ previous-years:
  - name: Demo submission
    date: August 15, 2022
    enabled: true
- - name: Demo notification
-   date: TBD
-   enabled: true
+   #- name: Demo notification
+   #- date: TBD
+   #- enabled: true
  - name: Tutorial
    date: September 12, 2022
    enabled: true
