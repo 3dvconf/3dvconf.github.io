@@ -16,7 +16,7 @@
     - name: Microsoft
       logo: img/2022/sponsors/Microsoft-logo_cmyk_c-gray.png
       url: https://www.microsoft.com/en-gb
-      height: 10em
+      height: 15em
     - name: Naver Labs
       logo: img/2022/sponsors/NLE_logo_2lines_black.svg
       url: https://europe.naverlabs.com/
@@ -28,7 +28,11 @@
     - name: Google
       logo: img/2022/sponsors/google_logo.png
       url: https://research.google/ 
-      height: 5em
+      height: 7em
+    - name: 3dMD
+      logo: img/2022/sponsors/3dMD_logo_highres_wb.png
+      url: https://3dmd.com/ 
+      height: 10em
  - section:
    name: Silver Partners
    company:
@@ -42,7 +46,7 @@
      - name: Fyusion
        logo: img/2022/sponsors/Fyusion_Logo_RGB.svg 
        url: https://fyusion.com/
-       height: 5em
+       height: 4em
  - section:
    name: Startup Partners
    company:
