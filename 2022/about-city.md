@@ -36,9 +36,11 @@ Check the official [Prague Tourism website](https://www.prague.eu/en) for furthe
 Although you will never run out of options, here is a short list of sites you
 might enjoy during your stay in Prague.
 
-**Old Town Square**
+<h4 class="centre">Old Town Square</h4>
 
+<div class="col-md-12 assia" style="text-align: center">
 <img src="{{site.url}}/img/2022/clock_small.jpg" style="width:100%;"/>
+</div>
 
 The most iconic site of Prague showcases the famous astronomical clock and is a
 labyrinth of pedestrian streets through the historical center of the city.
@@ -48,9 +50,11 @@ popular [Trdelník](https://en.wikipedia.org/wiki/Trdeln%C3%ADk) Hungarian sweet
 
 
 <br>
-**Naplavka and the Dancing House**
+<h4 class="centre">Naplavka and the Dancing House</h4>
 
+<div class="col-md-12 assia" style="text-align: center">
 <img src="{{site.url}}/img/2022/naplavka_night_small.jpg" style="width:100%;"/>
+</div>
 
 One of the summer spotlights, the Naplavka riverside hosts several restaurants
 and bar boats where you can grab a drink and typical Czech and international
@@ -60,9 +64,11 @@ snacks like
 
 
 <br>
-**Prague Castle**
+<h4 class="centre">Prague Castle</h4>
 
+<div class="col-md-12 assia" style="text-align: center">
 <img src="{{site.url}}/img/2022/prague-castle-small.jpg" style="width:100%;"/>
+</div>
 
 <font size="1"> 
 Image by <a
@@ -77,9 +83,12 @@ scenic viewpoints and the castle gardens.\\
 Protip: It is only 15 min away from the venue!
 
 <br>
-**Charles Bridge**
+<h4 class="centre">Charles Bridge</h4>
 
+<div class="col-md-12 assia" style="text-align: center">
 <img src="{{site.url}}/img/2022/charles-bridge-small.jpg" style="width:100%;"/>
+</div>
+
 <font size="1"> 
 Image by <a
 href="https://pixabay.com/users/zef51-9270353/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5039256">František
@@ -93,9 +102,11 @@ sight for the eyes, especially at night.
 
 
 <br>
-**Wenceslas Square and the National Museum**
+<h4 class="centre">Wenceslas Square and the National Museum</h4>
 
+<div class="col-md-12 assia" style="text-align: center">
 <img src="{{site.url}}/img/2022/narodni_small.jpg" style="width:100%;"/>
+</div>
 
 <font size="1"> 
 Image by <a
@@ -108,14 +119,14 @@ The National Museum hosts exhibitions on European and Czech history and is
 located at the top of the lively Wecensclas Square.
 
 <br>
-**Museum for Illusion and Trick Art**
+<h4 class="centre">Museum for Illusion and Trick Art</h4>
 
 Challenge your computer vision infused brains at [Museum for Illusion and Trick
 Art](https://www.iamprague.eu/en).
 
 
 <br>
-**Gardens**
+<h4 class="centre">Gardens</h4>
 
 Longing for a nature break? Fear no more. Prague is filled with so many parks
 and gardens that you will never be far from one. Here is a selection of the
@@ -137,10 +148,11 @@ walk.
   the top of the garden.
 
 
-#### Food
+<h4 class="centre">Food</h4>
 Prague has an option for all tastes and diets! You will never run out of
 options, but here is a short list of Prague foods you may want to try: Smažený
 Sýr (fried cheese), Nakládaný hermelín (pickled cheese), Hermelin na Grilu
 (grilled cheese), klobasas (sausages), utopenec (pickled sausages), savory and
 sweet knedlíky (potato dumplings), bramborak (potato pancake), koláči and
-Buchty (various cakes and brioches)
+Buchty (various cakes and brioches). If you are still in Prague on Saturday,
+don't miss the Naplavka Market.
