@@ -7,11 +7,14 @@
 <h3><i class="far fa-handshake"></i> &nbsp; Sponsors</h3>
 
 
+
+<div class="row">
+
 {% for section in site.data.sponsors[year] %}
 <div class="row">
 	{% assign sorted_company = section.company | sort:'name' %}
 	{% for company in sorted_company %}
-	<div class="col-md-6 align-self-center sponsor-logo-sidebar" style="padding:4px;" >
+  <div class="col-md-{{company.mdsize}} align-self-center sponsor-logo-sidebar" style="padding:10px;text-align: center" >
 		<a href="{{company.url}}" target="_blank">
       <img alt="{{company.name}} Logo" src="{{site.url}}/{{company.logo}}"></a>
 	</div>		
@@ -19,7 +22,27 @@
 </div>
 {% endfor %}
 
+</div>
 
 
+<!--
+<div class="row">
 
+	<div class="col-md-6 align-self-center sponsor-logo-sidebar" style="padding:4px;" >
+    <a href="https://www.capturingreality.com/" target="_blank">
+      <img alt="Epic Games Logo" 
+      src="{{site.url}}/img/2022/sponsors/epicgames_Logo_Vertical_Black.png"
+      >
+    </a>
+	</div>		
 
+	<div class="col-md-4 align-self-center sponsor-logo-sidebar" style="padding:4px;" >
+    <a href="https://about.fb.com/realitylabs/" target="_blank">
+      <img alt="Meta Logo" 
+           src="{{site.url}}/img/2022/sponsors/RL-Research_Logo_Black.png"
+      >
+    </a>
+	</div>
+
+</div>
+-->

@@ -6,33 +6,40 @@
       logo: img/2022/sponsors/epicgames_Logo_Vertical_Black.png
       url: https://www.capturingreality.com/
       height: 25em
+      mdsize: 6
     - name: Meta
       logo: img/2022/sponsors/RL-Research_Logo_Black.png
       url: https://about.fb.com/realitylabs/
       height: 20em
+      mdsize: 4
  - section:
    name: Gold Partners
    company:
-    - name: Microsoft
-      logo: img/2022/sponsors/Microsoft-logo_cmyk_c-gray.png
-      url: https://www.microsoft.com/en-gb
-      height: 15em
-    - name: Naver Labs
-      logo: img/2022/sponsors/NLE_logo_2lines_black.svg
-      url: https://europe.naverlabs.com/
-      height: 5em
-    - name: Huawei
-      logo: img/2022/sponsors/HW_POS_RGB_Horizontal.png
-      url: https://www.huawei.com/en/
-      height: 10em
-    - name: Google
-      logo: img/2022/sponsors/google_logo.png
-      url: https://research.google/ 
-      height: 7em
     - name: 3dMD
       logo: img/2022/sponsors/3dMD_logo_highres_wb.png
       url: https://3dmd.com/ 
       height: 10em
+      mdsize: 5
+    - name: Google
+      logo: img/2022/sponsors/google_logo.png
+      url: https://research.google/ 
+      height: 7em
+      mdsize: 5
+    - name: Huawei
+      logo: img/2022/sponsors/HW_POS_RGB_Horizontal.png
+      url: https://www.huawei.com/en/
+      height: 10em
+      mdsize: 6
+    - name: Microsoft
+      logo: img/2022/sponsors/Microsoft-logo_cmyk_c-gray.png
+      url: https://www.microsoft.com/en-gb
+      height: 15em
+      mdsize: 6
+    - name: Naver Labs
+      logo: img/2022/sponsors/NLE_logo_2lines_black.svg
+      url: https://europe.naverlabs.com/
+      height: 5em
+      mdsize: 6
  - section:
    name: Silver Partners
    company:
@@ -40,6 +47,7 @@
       logo: img/2022/sponsors/Ocado_Tech_Logo_H_2018_Pantone.png
       url: https://ocadotechnology.com
       height: 5em
+      mdsize: 6
  - section:
    name: Bronze Partners
    company:
@@ -47,6 +55,7 @@
        logo: img/2022/sponsors/Fyusion_Logo_RGB.svg 
        url: https://fyusion.com/
        height: 4em
+       mdsize: 5
  - section:
    name: Startup Partners
    company:
@@ -54,6 +63,7 @@
       logo: img/2022/sponsors/Meshcapade_RGB_Separated.svg
       url: https://meshcapade.com/
       height: 10em
+      mdsize: 6
  - section:
    name: Other Partners
    company:
@@ -61,6 +71,7 @@
        logo: img/2022/sponsors/impact.png
        url: http://impact.ciirc.cvut.cz/ 
        height: 15em
+       mdsize: 12
 
 
 2021:
