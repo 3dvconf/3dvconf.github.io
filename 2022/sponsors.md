@@ -105,7 +105,7 @@ style="max-height:11em;"></a>
 
 <a href="http://impact.ciirc.cvut.cz/ " target="_blank">
 <img alt="Impact Logo" 
-src="{{site.url}}/img/2022/sponsors/impact.png"
+src="{{site.url}}/img/2022/sponsors/impact_wb.png"
 style="max-height:13em;"></a>
 
 </div>
