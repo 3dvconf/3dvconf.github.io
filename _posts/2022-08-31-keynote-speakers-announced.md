@@ -25,39 +25,35 @@ author: Assia Benbihi
 
 Check out the [**keynote page**]({{site.url}}/{{page.year}}/keynotes) for more information!
 
-
 <div class="row">
 	<div class="col-md-4 align-self-center profile crop" >
 		<a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/agapito.jpeg"></a><br>
-		<b>Lourdes Agapito</b><br>
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/agapito.jpeg"></a>
+		<b>Lourdes Agapito</b><br><br><br>
 	</div>
 	<div class="col-md-3 align-self-center profile crop" >
 		<a href="https://www2.cs.sfu.ca/~furukawa/">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/furukawa.jpeg"></a><br>
-		<b>Yasutaka Furukawa</b><br>
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/furukawa.jpeg"></a>
+		<b>Yasutaka Furukawa</b><br><br><br>
 	</div>
 	<div class="col-md-3 align-self-center profile crop" >
 		<a href="https://ait.ethz.ch/people/hilliges/">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/otmarhilliges.jpg"></a><br>
-		<b>Otmar Hilliges</b><br>
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/otmarhilliges.jpg"></a>
+		<b>Otmar Hilliges</b><br><br><br>
 	</div>
 	<div class="col-md-4 align-self-center profile crop" >
 		<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/kanazawa.html">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/kanazawa.jpg"></a><br>
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/kanazawa.jpg"></a>
 		<b>Angjoo Kanazawa</b><br>
 	</div>
 	<div class="col-md-3 align-self-center profile crop" >
 		<a href="https://vincentlepetit.github.io/ ">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/vincent_lepetit_hawai.jpg"></a><br>
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/vincent_lepetit_hawai.jpg"></a>
 		<b>Vincent Lepetit</b><br>
 	</div>
-
 	<div class="col-md-3 align-self-center profile crop" >
 		<a href="https://niessnerlab.org/">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/niessner.jpg"></a><br>
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/niessner.jpg"></a>
 		<b>Matthias Niessner</b><br>
 	</div>
 </div>
-
-
