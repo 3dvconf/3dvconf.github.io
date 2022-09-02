@@ -52,7 +52,7 @@
    name: Bronze Partners
    company:
      - name: Fyusion
-       logo: img/2022/sponsors/Fyusion_Logo_RGB.svg 
+       logo: img/2022/sponsors/Fyusion_Logo_RGB_wb.png
        url: https://fyusion.com/
        height: 4em
        mdsize: 5
@@ -60,7 +60,7 @@
    name: Startup Partners
    company:
     - name: Meshcapade
-      logo: img/2022/sponsors/Meshcapade_RGB_Separated.svg
+      logo: img/2022/sponsors/Meshcapade_RGB_Separated_wb.png
       url: https://meshcapade.com/
       height: 10em
       mdsize: 6

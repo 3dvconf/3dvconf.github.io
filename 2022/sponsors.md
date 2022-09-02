@@ -79,7 +79,7 @@ style="max-height:9em;"></a>
 
 <a href="https://fyusion.com/" target="_blank">
 <img alt="Fyusion Logo" 
-src="{{site.url}}/img/2022/sponsors/Fyusion_Logo_RGB.svg"
+src="{{site.url}}/img/2022/sponsors/Fyusion_Logo_RGB_wb.png"
 style="max-height:6em;"></a>
 
 </div>
@@ -92,7 +92,7 @@ style="max-height:6em;"></a>
 
 <a href="https://meshcapade.com/" target="_blank">
 <img alt="Meshcapade Logo" 
-src="{{site.url}}/img/2022/sponsors/Meshcapade_RGB_Separated.svg"
+src="{{site.url}}/img/2022/sponsors/Meshcapade_RGB_Separated_wb.png"
 style="max-height:11em;"></a>
 
 </div>
