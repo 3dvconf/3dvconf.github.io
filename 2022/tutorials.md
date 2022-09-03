@@ -45,6 +45,7 @@ title: Tutorials
 	</td>	
 </tr>	
 	
+<!--
 <tr>
 	<td style="text-align:left;">
 		<b>Speakers</b>
@@ -52,6 +53,24 @@ title: Tutorials
 		<b>Description</b>
 		<p>{{tutorial.description}}</p>
 	</td>
+</tr>
+-->	
+
+<tr>
+	<td style="text-align:left;">
+		<b>Speakers</b>
+		<p>
+    {% assign organisers = tutorial.organisers %}
+    
+    {% for organiser in organisers %}
+    <b>{{organiser.name}}</b> ({{organiser.affiliation}})
+    {% endfor %}
+    
+    </p>
+		<b>Description</b>
+		<p>{{tutorial.description}}</p>
+	</td>
 </tr>	
+
 
 {% endfor %}

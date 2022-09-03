@@ -64,6 +64,7 @@ title: Demo Session
 			   		<h3>{{demo.title}}</h3><br>
 					<b style="text-align:center;">Authors</b>
 					<p style="text-align:center;">{{demo.authors}}</p>
+					<p style="text-align:center;">{{demo.affiliation}}</p>
 					<b style="text-align:center;">Description</b>
 					<p style="text-align:center;">{{demo.abstract}}</p>
 			   </td>

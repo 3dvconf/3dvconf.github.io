@@ -2,14 +2,17 @@
 - title: "Web application to generate synthetic geometric camera calibration dataset for stereo cameras"
   id: 1
   authors: "Lala Shakti Swarup Ray, Sungho Suh, Bo Zhou, and Paul Lukowicz"
+  affiliation: "German Research Center for Artificial Intelligence (DFKI), Germany"
   abstract: "Camera calibration provides identical output for any given input regardless of forms of environmental conditions. It is highly essential for systems involving cameras to decipher the tiniest possible change prior to any other computer vision algorithms in the pipeline. Thus, this requires the camera to be calibrated to attain higher accuracy and low distortion which helps in achieving a more accurate representation of the real world within different captured images. It is hard to replicate the real-world environment and exact positions for capturing the calibration pattern to create calibration datasets for specific setups. In this demo, we present a webbased interface that can be used to generate a synthetic camera calibration dataset with ground truth, which then can be used to evaluate the accuracy of camera calibration algorithms based on Zhang´s method."
 - title: "Live augmented echography"
   id: 2
   authors: "Albert Murienne"
+  affiliation: "Institute of Research and Technology b-com"
   abstract: "This demo showcases a medical augmented echography use case. A lightweight 3D printed shape marker is attached to an echography probe, and the computed marker pose data can be used to register 2D echography plane over other modalities: video, x-ray… to cover needs such as needle biopsy or surgery guidance."
 - title: "DTS4INS: A Digital Twin System for Indoor Networking Surveillance"
   id: 3
   authors: "Deyu Kong, Xingyu Xia, Chunyu Hu, Tong Bao, Xiao Ma, Xiaodi Li, Lingyun Dai, Xin Shen, Chunxia Xiao, Zhongyuan Wang, Chao Liang"
+  affiliation: "School of Computer Science, Wuhan University, China"
   abstract: "Indoor networking surveillance has been widely used in many public aeras for various purposes such as monitoring and nursing. Although it can provide users with real-time pictures of the physical world, the scattered and isolated pictures cannot help users form a complete perception of the environment. This paper addresses the above challenge by proposing a digital twin system for indoor networking surveillance (DTS4INS), from which people’s positions, motions and identities can be thoroughly and panoramically viewed in a real-time and synchronous VR world of the physical surveillance environment."
 
 2021:
