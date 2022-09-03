@@ -62,8 +62,8 @@ title: Demo Session
 			<tr class="">
 			   <td style="text-align:center;">
 			   		<h3>{{demo.title}}</h3><br>
-					<b style="text-align:center;">Authors</b>
-					<p style="text-align:center;">{{demo.authors}}</p>
+					<!--<b style="text-align:center;">Authors</b>-->
+					<b style="text-align:center;">{{demo.authors}}</b>
 					<p style="text-align:center;">{{demo.affiliation}}</p>
 					<b style="text-align:center;">Description</b>
 					<p style="text-align:center;">{{demo.abstract}}</p>
