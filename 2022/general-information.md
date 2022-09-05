@@ -43,8 +43,21 @@ We recommend obtaining currency in the city (as opposed to the airport) and
 using **bank-affiliated** ATMs as they offer better exchange rates.
 
 #### Electricity
-In the Czech Republic, the standard voltage is 230 V and the standard
+
+In the Czech Republic the power plugs and sockets are of type E (left picture). This socket
+also works with plug C (right picture). The standard voltage is 230 V and the standard
 frequency is 50 Hz.
+
+<div class="col-md-12 assia" style="text-align: center">
+<img src="{{site.url}}/img/2022/type_E.jpg" style="width:20%;"/>
+<img src="{{site.url}}/img/2022/type_c_large.jpg" style="width:20%;"/>
+</div>
+
+
+We recommend checking the compatibility of your device chargers before your trip
+as it is sometimes easier to find adapters specific to your plugs in your home
+country. If you are not sure which plug you need, you can find more information
+[here](https://www.power-plugs-sockets.com/czech-republic/).
 
 #### Time Zone
 
