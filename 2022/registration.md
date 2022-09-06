@@ -61,7 +61,7 @@ you will attend virtually.
 
 **Registration types**
 
-The passport registration includes lunch breaks and a welcome reception,
+The passport registration includes coffee breaks and a welcome reception,
 and access to the conference (both in person and virtually). 
 
 The virtual registration includes virtual access to the conference.
