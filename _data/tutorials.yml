@@ -11,6 +11,7 @@
         affiliation: CIIRC, CTU in Prague
     description: "The main objective of this tutorial is to present the theory and applications of affine correspondences (AC) in computer vision.The tutorial will show recent advancements in exploiting affine features in single- and two-view problems, including image rectification, homography and epipolar geometry estimation. Also, we will discuss traditional and recent deep learning-based algorithms for detecting, matching, and robustly using such features in real-world images."
     order: 1
+    preztype: "In Person"
   - title: "MonoRec: Deconstructing Monocular Depth Reconstruction"
     organisers: "J. Spencer, A. Saha, C. Russell, S. Hadfield, and R. Bowden"
     organisers:
@@ -28,6 +29,7 @@
     <br>Depth estimation is one of the central challenges of monocular 3D reconstruction. Computer vision algorithms for 3D reconstruction from monocular images have advanced substantially over the past few years. However, depth estimation in the far range still suffers from poor accuracy. This can be partly attributed to the insufficient cues used by current approaches. Moreover, the benchmarking procedure for these algorithms has remained largely unchanged relying on simple metrics and sparse LiDAR data. This prevents insights into the performance of each method, especially where the ground-truth is incorrect.
     <br>This tutorial will serve as an introduction to the field of monocular 3D reconstruction, discussing both fundamental approaches and recent State-of-the-Art. The focus will be on various approaches to depth estimation, from the use of graphs to implicitly reason about depth, to more explicit representations. Additionally, a core component of the tutorial will be centred on a novel Monocular Depth Estimation (MDE) benchmarking procedure. This will cover important topics such as training different baselines in a fair and comparable manner, the selection of metrics and a new evaluation dataset containing a variety of complex urban and natural scenes."
     order: 2
+    preztype: "In Person"
 
 2021:
  - title: "Spectral Geometry in Practice"

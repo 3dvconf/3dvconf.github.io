@@ -4,6 +4,19 @@ year: 2022
 title: Jobs Board
 ---
 
+If you would like to advertise positions related to 3D computer vision, please
+reach us at
+<br><b>3dv22-jobs [ at ] googlegroups [ dot ] com</b>
+
+with the following information:
+- Company name
+- Job position title
+- Location
+- Full job description:
+  - Either a link to the full job description
+  - Or a text description of the job with a mail to contact
+
+
 <!-- Marco 2021: NOT GOOD Need to check versions - temp solution-->
 <!--Assia 2022: Why not good?-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

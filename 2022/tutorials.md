@@ -34,6 +34,7 @@ title: Tutorials
       {{  session.date | date: "%B %Y %H:%M (CEST)" }}
 		</a> 
     
+    {{tutorial.preztype}}
     <!--
     via 
     {%if session.platform-link %}
