@@ -25,6 +25,10 @@ locates your poster board in one of the three poster halls: A, B, or C (see
 [map]({{site.url}}/{{page.year}}/venue)).
 The poster id will be labeled on the poster board.
 
+The conference does not offer poster printing services. However, there is a
+print shop less than 10 min walk from the conference venue that we recommend:
+[AK-ATELIER](https://ak-atelier-spol-s-ro.business.site/).
+
 
 <div class="col-md-12 assia" style="text-align: center">
 <img src="{{site.url}}/img/2022/campus_plan/poster_example.png" style="width:85%;text-align:center;"/>
