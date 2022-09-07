@@ -25,9 +25,13 @@ locates your poster board in one of the three poster halls: A, B, or C (see
 [map]({{site.url}}/{{page.year}}/venue)).
 The poster id will be labeled on the poster board.
 
-The conference does not offer poster printing services. However, there is a
-print shop less than 10 min walk from the conference venue that we recommend:
-[AK-ATELIER](https://ak-atelier-spol-s-ro.business.site/).
+The conference does not offer poster printing services. However, there are
+shops close to the venue that offer printing services. Here are some of them,
+although feel free to reach for another provider.
+- [M & P Copier](https://www.mpcopier.cz/): for posters up to A0, less than 10 min walk from the
+  venue.
+- [AK-ATELIER](https://ak-atelier-spol-s-ro.business.site/): less than 10 min
+  walk from the conference venue (the attendant is not english speaking though)
 
 
 <div class="col-md-12 assia" style="text-align: center">
