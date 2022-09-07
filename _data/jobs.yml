@@ -22,6 +22,13 @@
       location: Multiple Locations
       url: https://careers.google.com/
 
+  - company:
+    name: Ocado Technology
+    jobs:
+      - title: Engineering Team Leader - Computer Vision / Machine Learning
+        location: Welwyn Garden City, UK
+        url: https://careers.ocadogroup.com/job-description/hardware/engineering-team-leader-computer-visionmachine-learning/JR-0962
+
 2021:
  - company:
    name: Adobe
