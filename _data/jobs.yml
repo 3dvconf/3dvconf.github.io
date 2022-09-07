@@ -1,3 +1,27 @@
+2022:
+  - company:
+    name: Epic Games
+    jobs:
+    - title: Senior Tools Programmer (CapturingReality)
+      location: Bratislava, Slovakia 
+      url: https://www.epicgames.com/site/en-US/careers/jobs/4633667004
+    - title: Senior Computer Vision Research Scientist
+      location: Bratislava, Slovakia
+      url: https://www.epicgames.com/site/en-US/careers/jobs/4633663004
+    - title: ML Based Mesh Repair/Inpainting Computer Vision Phd Internship
+      location: Bratislava, Slovakia 
+      url: https://www.epicgames.com/site/en-US/careers/jobs/4633973004
+    - title: ML Based PBR Material Computer Vision Phd Internship
+      url: https://www.epicgames.com/site/en-US/careers/jobs/4633975004
+      location: Bratislava, Slovakia 
+
+  - company:
+    name: Google
+    jobs:
+    - title: Multiple Positions​
+      location: Multiple Locations
+      url: https://careers.google.com/
+
 2021:
  - company:
    name: Adobe
