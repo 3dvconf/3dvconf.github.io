@@ -8,6 +8,10 @@ title: Registration
 
 To register, fill in the form [here.]({{site.url}}/{{page.year}}/registration-form)
 
+
+**If you encounter any issue during registration,** please write to assia [ dot ]
+benbihi [ at ] gmail [ dot ] com
+
 **Authors**
 
 At least one of the authors needs to be registered by either the Passport
