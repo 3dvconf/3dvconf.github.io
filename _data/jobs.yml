@@ -16,6 +16,18 @@
       location: Bratislava, Slovakia 
 
   - company:
+    name: Fyusion
+    jobs:
+    - title: Computer Vision Research Engineer - Product Experimentation
+      location: Remote
+      url: https://jobs.lever.co/fyusion/0f1da4df-c48b-4e27-9806-0a713b09e5cf
+    - title: Machine Learning Engineer - Segmentation
+      location: Remote
+      url: https://jobs.lever.co/fyusion/87a4cbc5-ac20-4f90-a426-93679e16ea8d 
+    - title: Machine Learning Engineer - Similarity Search
+      location: Remote
+      url: https://jobs.lever.co/fyusion/d90e70d1-da3d-4a82-b745-f405ef16302d
+  - company:
     name: Google
     jobs:
     - title: Multiple Positions​
