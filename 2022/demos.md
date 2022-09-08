@@ -32,6 +32,7 @@ title: Demo Session
               {{ session.date | date: "%A %e" }}{{day_ordinalize}} 
               {{  session.date | date: "%B %Y %H:%M (CEST)"}}
               </a> 
+
               
               <!--via 
               {%if session.platform-link %} 
@@ -61,7 +62,8 @@ title: Demo Session
 		{% for demo in demos %}
 			<tr class="">
 			   <td style="text-align:center;">
-			   		<h3>{{demo.title}}</h3><br>
+			   		<h3>{{demo.title}}</h3>
+					<p style="text-align:center;">{{demo.preztype}}</p><br>
 					<!--<b style="text-align:center;">Authors</b>-->
 					<b style="text-align:center;">{{demo.authors}}</b>
 					<p style="text-align:center;">{{demo.affiliation}}</p>
