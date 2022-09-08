@@ -62,3 +62,10 @@ them!
 - [Ucedru](http://www.ucedru.cz/): Lebanese
 - [Burrito Loco Hradčanská](http://burritoloco.cz/): Mexican
 - [Cafe Perfect Day](https://www.cafeperfectday.cz/): Coffee and pastries
+- [Grosseto Dejvice](https://www.grosseto.cz/dejvice-menu)
+- [Hospůdka U Pětníka](https://www.upetnika.cz/)
+- [Restaurant Champa](http://champa.cz/)
+- [Bulvar Bubenec](https://www.bulvar-bubenec.cz/)
+- [The PUB Praha 6](https://www.thepub.cz/praha-6/jidelni-listek/?lng=en)
+- [Restaurace Na Urale](https://www.naurale.cz/)
+- [Technicka menza](https://www.suz.cvut.cz/en/gastronomic-services/technical-canteen): Canteen at the venue
