@@ -48,3 +48,17 @@ Prague, Czechia-->
 <div class="col-md-12 assia" style="text-align: center">
 <img src="{{site.url}}/img/2022/campus_plan/3DV_floorplan.png" style="width:85%;text-align:center;"/>
 </div>
+
+<br>
+<br>
+
+<h3 class="centre">Food close to the venue</h3>
+
+The conference venue is surrounded by many food places, many of which have
+lunch menus. Here a selection of them and there are many more around
+them!
+- [Restaurace U Veverky](https://www.uveverky.com/): Czech brasserie and fast food
+- [Café Záhorský](https://www.cafezahorsky.cz/): International cuisine
+- [Ucedru](http://www.ucedru.cz/): Lebanese
+- [Burrito Loco Hradčanská](http://burritoloco.cz/): Mexican
+
