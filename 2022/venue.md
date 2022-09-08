@@ -61,4 +61,4 @@ them!
 - [Café Záhorský](https://www.cafezahorsky.cz/): International cuisine
 - [Ucedru](http://www.ucedru.cz/): Lebanese
 - [Burrito Loco Hradčanská](http://burritoloco.cz/): Mexican
-
+- [Cafe Perfect Day](https://www.cafeperfectday.cz/): Coffee and pastries
