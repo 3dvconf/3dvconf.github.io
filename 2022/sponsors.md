@@ -63,7 +63,7 @@ style="max-height:8em;"></a>
 
 <div class="col-md-12 assia" style="text-align: center">
 
-<a href="https://ocadotechnology.com" target="_blank">
+<a href="https://careers.ocadogroup.com/what-you-can-do/technology" target="_blank">
 <img alt="Ocado Logo" 
 src="{{site.url}}/img/2022/sponsors/Ocado_Tech_Logo_H_2018_Pantone.png"
 style="max-height:9em;"></a>
