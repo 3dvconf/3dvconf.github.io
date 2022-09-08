@@ -40,3 +40,11 @@ government websites to keep up to date with the latest covid
 regulations:
 - [To enter the Czech Republic](https://www.mvcr.cz/mvcren/article/coronavirus-information-of-moi.aspx)
 - [For your daily activities](https://covid.gov.cz/en/)
+
+## Anti-Covid 19 Measures
+As you are probably aware, some conferences this year have seen a large number
+of attendees infected with Covid-19. To reduce the risk of infection, we kindly
+ask all attendees to wear a mask when attending the conference. We will provide
+extra masks and tests at the registration desk. If you feel sick, please take a
+test and only attend the conference in person if you tested negative.
+

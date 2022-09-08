@@ -69,3 +69,13 @@ them!
 - [The PUB Praha 6](https://www.thepub.cz/praha-6/jidelni-listek/?lng=en)
 - [Restaurace Na Urale](https://www.naurale.cz/)
 - [Technicka menza](https://www.suz.cvut.cz/en/gastronomic-services/technical-canteen): Canteen at the venue
+
+
+<h3 class="centre">Anti-Covid 19 Measures</h3>
+
+As you are probably aware, some conferences this year have seen a large number
+of attendees infected with Covid-19. To reduce the risk of infection, we kindly
+ask all attendees to wear a mask when attending the conference. We will provide
+extra masks and tests at the registration desk. If you feel sick, please take a
+test and only attend the conference in person if you tested negative.
+
