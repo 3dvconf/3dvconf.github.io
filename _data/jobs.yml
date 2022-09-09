@@ -35,6 +35,13 @@
       url: https://careers.google.com/
 
   - company:
+    name: NAVER LABS Europe
+    jobs:
+      - title: Research scientist in spatial AI and deep learning for robotics
+        location: Grenoble, France
+        url: https://europe.naverlabs.com/job/research-scientist-in-spatial-ai-and-deep-learning-for-robotics/
+
+  - company:
     name: Ocado Technology
     jobs:
       - title: Engineering Team Leader - Computer Vision / Machine Learning
