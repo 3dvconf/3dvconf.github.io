@@ -39,9 +39,21 @@ The list of accepted 3DV papers is now available!
 					{% endcase %}
         {% assign session_combined_title = 	{{session_type.name}} | append: " " 	| append: {{session_id.name}} | append: " / Poster " | append:{{poster_id}}%}
 			{% endcase %}
-			{% assign sessions = site.data.schedule[page.year] | where: "type", {{session_type.name}} | where: "index", {{session_id.name}} %}
+		
+      {% assign sessions = site.data.schedule[page.year] | where: "type", {{session_type.name}} | where: "index", {{session_id.name}} %}
 			{% assign session = sessions[0] %}
+
+
+<!-- Get associated poster session-->
 			
+      {% assign poster_sessions = site.data.schedule[page.year] | where: "type", "Poster" | where: "day", {{poster_id}} %}
+<!--poster_sessions: {{poster_sessions}}-->
+
+			{% assign poster_session = poster_sessions[0] %}
+			{% assign poster_date = poster_session.date %}
+<!--poster_session: {{poster_session}}
+poster_date: {{poster_date}}-->
+
 <table class="table table-striped">
 	<thead>
 		<tr class="bg-dark text-light" id="{{session_type.name}}{{session_id.name}}">
@@ -61,10 +73,17 @@ The list of accepted 3DV papers is now available!
 					  {% when "3" or "23" %}{% assign day_ordinalize = "rd"%}
 					  {% else %}{% assign day_ordinalize = "th"%}
 					{% endcase %}
+
 					<a href="{{site.url}}/{{page.year}}/schedule/#Day{{round.day}}Round{{round.round}}">
           {{round.title}} - {{ date | date: "%A %e" }}{{day_ordinalize}} {{ date | date: "%B %Y %H:%M (CEST)" }}
           </a>
+          <br>
 					
+          <a href="{{site.url}}/{{page.year}}/schedule/#Day{{round.day}}Round{{round.round}}">
+          {{poster_session.title}} - {{ poster_date | date: "%A %e" }}{{day_ordinalize}} 
+          {{ poster_date | date: "%B %Y %H:%M (CEST)" }}
+          </a>
+
           <!--
           via
           {%if round.platform-link %}
