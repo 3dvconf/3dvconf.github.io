@@ -60,7 +60,6 @@ This event has provided a premier platform for disseminating research results co
 * [Call for Papers]({{site.url}}/{{page.year}}/call-for-papers)
 * [Important Dates]({{site.url}}/{{page.year}}/dates)
 
-
 **Organizers**:
 * [CIIRC](https://www.ciirc.cvut.cz/)
 * [FEL](https://fel.cvut.cz/en/)
