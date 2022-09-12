@@ -27,12 +27,26 @@
     - title: Machine Learning Engineer - Similarity Search
       location: Remote
       url: https://jobs.lever.co/fyusion/d90e70d1-da3d-4a82-b745-f405ef16302d
+
   - company:
     name: Google
     jobs:
-    - title: Multiple Positions​
+    - title: Multiple Positions
       location: Multiple Locations
       url: https://careers.google.com/
+
+  - company:
+    name: Meshcapade
+    jobs:
+    - title: Site Reliability Engineer
+      location: Germany / Remote Optional
+      url: https://meshcapade.com/careers/job-listing/Site_Reliability_Engineer
+    - title: ML Engineer 3D Humans
+      location: Germany / Remote Optional
+      url: https://meshcapade.com/careers/job-listing/ML_Engineer
+    - title: 3D Graphics Engineer
+      location: Germany / Remote Optional
+      url: https://meshcapade.com/careers/job-listing/3D_Graphics_Engineer
 
   - company:
     name: NAVER LABS Europe
@@ -57,6 +71,13 @@
       - title: PhD - Deep interactive control of virtual character's motion based on separating identity, motion and style
         location: Rennes, France
         url: https://jobs.inria.fr/public/classic/en/offres/2022-05186
+
+  - company:
+    name: SnT, University of Luxembourg
+    jobs:
+      - title: Research Scientist in Computer Vision
+        location: Kirchberg, Luxembourg
+        url: https://recruitment.uni.lu/en/details.html?id=QMUFK026203F3VBQB7V7VV4S8&nPostingID=75676&nPostingTargetID=111079&mask=karriereseiten&lg=UK
 
 2021:
  - company:
