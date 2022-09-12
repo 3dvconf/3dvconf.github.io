@@ -4,10 +4,17 @@ year: 2022
 title: Registration
 ---
 
+**Update: (Sept-12th)** 
+
+As of today  only virtual registration is available.
+After registering, please write an email to the general chairs (3dv22gc [at]
+googlegroups [dot] com) to get access to the virtual conference.
+
+<br>
+
 **Registration Page**
 
 To register, fill in the form [here.]({{site.url}}/{{page.year}}/registration-form)
-
 
 **If you encounter any issue during registration,** please write to assia [ dot ]
 benbihi [ at ] gmail [ dot ] com
