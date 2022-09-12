@@ -44,15 +44,15 @@ you will attend virtually.
     </tr>
 
     <tr height="40px">
-        <th >Passport Registration (Full)</th>
-        <th >400€</th>
-        <th >550€</th>
+        <th > <del>Passport Registration (Full)</del> </th>
+        <th > <del>400€ </del></th>
+        <th > <del>550€ </del></th>
     </tr>
     
     <tr height="40px">
-        <th >Passport Registration (Student)</th>
-        <th >265€</th>
-        <th >365€</th>
+        <th > <del>Passport Registration (Student)</del> </th>
+        <th > <del>265€ </del></th>
+        <th > <del>365€ </del></th>
     </tr>
 
     <tr height="40px">
