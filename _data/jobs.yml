@@ -48,6 +48,13 @@
         location: Welwyn Garden City, UK
         url: https://careers.ocadogroup.com/job-description/hardware/engineering-team-leader-computer-visionmachine-learning/JR-0962
 
+  - company:
+    name: Inria and InterDigital
+    jobs:
+      - title: PhD - Deep interactive control of virtual character's motion based on separating identity, motion and style
+        location: Rennes, France
+        url: https://jobs.inria.fr/public/classic/en/offres/2022-05186
+
 2021:
  - company:
    name: Adobe
