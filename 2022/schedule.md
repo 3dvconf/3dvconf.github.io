@@ -43,8 +43,15 @@ title: Schedule
     	{% if sesh.name != "" %}<b>Round {{sesh.name}}</b>{% endif %}
     </td>
     <td style="text-align: center;">Link</td>
+<!--winter-->
+<!--
     <td style="text-align: center;">PT<br><b style="font-size:12px;">(UTC-8)</b></td>
     <td style="text-align: center;">ET<br><b style="font-size:12px;">(UTC-5)</b></td>
+-->
+<!--summer-->
+    <td style="text-align: center;">PDT<br><b style="font-size:12px;">(UTC-7)</b></td>
+    <td style="text-align: center;">EDT<br><b style="font-size:12px;">(UTC-4)</b></td>
+
     <td style="text-align: center">GMT<br><b style="font-size:12px;">(UTC)</b></td>
     <td style="text-align: center;">CEST<br><b style="font-size:12px;">(UTC+2)</b></td>
     <td style="text-align: center;">JST<br><b style="font-size:12px;">(UTC+9)</b></td>
@@ -62,8 +69,18 @@ title: Schedule
 
 	{% assign gmt_time_start = cest_time_start | minus:  7200 %}
 	{% assign jst_time_start = gmt_time_start  | plus:  32400 %}
-	{% assign pst_time_start = gmt_time_start  | minus: 28800 %}	
-	{% assign est_time_start = gmt_time_start  | minus: 18000 %}
+
+<!--winter-->
+<!--{% assign pst_time_start = gmt_time_start  | minus: 28800 %}-->
+
+<!--summer-->
+  {% assign pst_time_start = gmt_time_start  | minus: 25200 %}
+
+<!--winter-->
+<!--{% assign est_time_start = gmt_time_start  | minus: 18000 %}-->
+
+<!--summer-->
+	{% assign est_time_start = gmt_time_start  | minus: 14400 %}
 	<!--{% assign cet_time_start = gmt_time_start  | plus:  3600  %}-->
 	
 	
