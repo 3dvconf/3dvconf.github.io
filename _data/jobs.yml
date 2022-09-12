@@ -79,6 +79,17 @@
         location: Kirchberg, Luxembourg
         url: https://recruitment.uni.lu/en/details.html?id=QMUFK026203F3VBQB7V7VV4S8&nPostingID=75676&nPostingTargetID=111079&mask=karriereseiten&lg=UK
 
+  - company:
+    name: Saarland University
+    jobs:
+      - title: Funded PhD Postion in 3D Computer Vision and Continual Learning
+        location: Saarbruecken, Germany
+        url: https://cvmp.cs.uni-saarland.de/#job-postings-phd-postdoc
+      - title: Funded Postdoc Postion in 3D Computer Vision and Continual Learning
+        location: Saarbruecken, Germany
+        url: https://cvmp.cs.uni-saarland.de/#job-postings-phd-postdoc
+
+
 2021:
  - company:
    name: Adobe
