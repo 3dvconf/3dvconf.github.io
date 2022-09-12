@@ -4,14 +4,6 @@ year: 2022
 title: Registration
 ---
 
-**Update: (Sept-12th)** 
-
-As of today  only virtual registration is available.
-After registering, please write an email to the general chairs (3dv22gc [at]
-googlegroups [dot] com) to get access to the virtual conference.
-
-<br>
-
 **Registration Page**
 
 To register, fill in the form [here.]({{site.url}}/{{page.year}}/registration-form)
@@ -44,15 +36,15 @@ you will attend virtually.
     </tr>
 
     <tr height="40px">
-        <th > <del>Passport Registration (Full)</del> </th>
-        <th > <del>400€ </del></th>
-        <th > <del>550€ </del></th>
+        <th > Passport Registration (Full) </th>
+        <th > 400€ </th>
+        <th > 550€ </th>
     </tr>
     
     <tr height="40px">
-        <th > <del>Passport Registration (Student)</del> </th>
-        <th > <del>265€ </del></th>
-        <th > <del>365€ </del></th>
+        <th > Passport Registration (Student) </th>
+        <th > 265€ </th>
+        <th > 365€ </th>
     </tr>
 
     <tr height="40px">
