@@ -25,14 +25,21 @@ The list of accepted 3DV papers is now available!
 		{% for session_type in session_types %}
 	
 			{% case session_type.name %}
-				{% when "Oral"   %}{% assign session_combined_title = 	{{session_type.name}} | append: " Session " 	| append: {{session_id.name}} %}
-
+				{% when "Oral"   %}
+        {% assign session_combined_title = 	{{session_type.name}} | append: " Session " 	| append: {{session_id.name}} %}
+					{% assign poster_id = ""%}
+					{% case session_id.name %}
+					  {% when "1" %}{% assign poster_id = "1"%}
+					  {% when "2" %}{% assign poster_id = "2"%}
+					  {% when "3" %}{% assign poster_id = "3"%}
+					  {% else %}{% assign day_ordinalize = "th"%}
+					{% endcase %}
 				{% when "Poster" %}{% assign session_combined_title = 	{{session_type.name}} | append: " Spotlight " 	| append: {{session_id.name}} %}
 
 				{% when "Spotlight" %}
 					{% assign poster_id = ""%}
 					{% case session_id.name %}
-					  {% when "1" or "2" or "31" %}{% assign poster_id = "1"%}
+					  {% when "1" or "2" %}{% assign poster_id = "1"%}
 					  {% when "3" or "4" %}{% assign poster_id = "2"%}
 					  {% when "5" or "6" %}{% assign poster_id = "3"%}
 					  {% else %}{% assign day_ordinalize = "th"%}
