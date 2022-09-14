@@ -162,17 +162,6 @@
    duration: "01:30:00"
    type: "Poster"
    title-link: 2022/accepted-papers/#Spotlight3
- - title: "Keynote Speech 4"
-   subtitle: Angjoo Kanazawa
-   date: "2022-09-14 17:00 +0000"
-   day: 2
-   duration: "1:00:00"
-   type: "Keynote"
-   index: "4"
-   delivery: Live Virtual
-   title-link: 2022/keynotes/#AngjooKanazawa
-   chairs: Konrad Schindler
-
 
  - title: "Registration"
    date: "2022-09-15 8:00 +0000"
@@ -210,10 +199,21 @@
    index: "5"
    title-link: 2022/accepted-papers/#Spotlight5
    chairs: Jiri Sedlar and Federico Tombari
- - title: "Lunch Break"
+ - title: "Keynote Speech 4"
+   subtitle: Angjoo Kanazawa
    date: "2022-09-15 12:30 +0000"
    day: 3
-   duration: "2:00:00"
+   duration: "0:45:00"
+   type: "Keynote"
+   index: "4"
+   delivery: Live Virtual
+   title-link: 2022/keynotes/#AngjooKanazawa
+   chairs: Konrad Schindler
+
+ - title: "Lunch Break"
+   date: "2022-09-15 13:15 +0000"
+   day: 3
+   duration: "1:15:00"
  - title: "Spotlight Session 6"
    #subtitle: Humans & Non-Rigid Shapes
    date: "2022-09-15 14:30 +0000"
