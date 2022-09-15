@@ -8,7 +8,7 @@
 - title: "Live augmented echography"
   id: 2
   authors: "Albert Murienne"
-  affiliation: "Institute of Research and Technology b-com"
+  affiliation: "Institute of Research and Technology b-com, France"
   abstract: "This demo showcases a medical augmented echography use case. A lightweight 3D printed shape marker is attached to an echography probe, and the computed marker pose data can be used to register 2D echography plane over other modalities: video, x-ray… to cover needs such as needle biopsy or surgery guidance."
   preztype: Virtual
 - title: "DTS4INS: A Digital Twin System for Indoor Networking Surveillance"
