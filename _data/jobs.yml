@@ -96,6 +96,13 @@
         location: Montreal Canada
         url: https://3dvconf.github.io/files/2022/postdoc-3DV2022-sept2022.pdf 
 
+  - company:
+    name: Luxonis
+    jobs:
+      - title: Computer Vision Engineer
+        location: Prague, Czechia / Remote
+        url: https://www.luxonis.com/about-us#cvdl
+
 2021:
  - company:
    name: Adobe
