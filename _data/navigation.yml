@@ -31,8 +31,8 @@
      url: demos
    - title: Tutorials
      url: tutorials
-#   - title: Prizes
-#     url: prizes
+   - title: Prizes
+     url: prizes
  - title: Jobs
    url: jobs
  - title: Partnerships
