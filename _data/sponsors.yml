@@ -30,11 +30,6 @@
       url: https://www.huawei.com/en/
       height: 10em
       mdsize: 6
-    - name: Microsoft
-      logo: img/2022/sponsors/Microsoft-logo_cmyk_c-gray.png
-      url: https://www.microsoft.com/en-gb
-      height: 15em
-      mdsize: 6
     - name: Naver Labs
       logo: img/2022/sponsors/NLE_logo_2lines_black.svg
       url: https://europe.naverlabs.com/

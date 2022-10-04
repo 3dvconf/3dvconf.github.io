@@ -44,11 +44,9 @@ src="{{site.url}}/img/2022/sponsors/HW_POS_RGB_Horizontal.png"
 style="max-height:10em">
 </a>
 
-<a href="https://www.microsoft.com/en-gb" target="_blank">
-<img alt="Microsoft Logo" 
-src="{{site.url}}/img/2022/sponsors/Microsoft-logo_cmyk_c-gray.png"
-style="max-height:23em;"></a>
-
+<br>
+<br>
+<br>
 <a href="https://europe.naverlabs.com/" target="_blank">
 <img alt="NaverLabs Logo" 
 src="{{site.url}}/img/2022/sponsors/NLE_logo_2lines_black.svg"
