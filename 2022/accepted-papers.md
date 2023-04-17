@@ -13,7 +13,7 @@ The list of accepted 3DV papers is now available!
 
 {% assign paper_index = 1%}
 
-{% assign session_days = site.papers | group_by: 'day'  | sort: 'name' %}
+{% assign session_days = site.papers | where:"year","2022" | group_by: 'day'  | sort: 'name' %}
 
 {% for session_day in session_days %}
 
