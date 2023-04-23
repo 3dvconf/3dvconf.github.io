@@ -2,7 +2,7 @@
 ## How to run
 Assuming Ruby and Jekyll are already installed 
 ```
-git clone https://github.com/3dvconf/3dvconf.github.io.git
+git clone git@github.com:3dvconf/3dvconf.github.io.git
 cd 3dvconf.github.io
 
 # Serve the website
