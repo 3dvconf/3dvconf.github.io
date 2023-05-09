@@ -1,8 +1,46 @@
-current-year: 2022
+current-year: 2024
 previous-years:
     - 2022
     - 2021
  
+2024:
+#  - name: Paper registration
+  #  date: <del style="color:red;"> May 26</del> <b>June 2</b>, 2022
+  #  enabled: true
+ - name: Paper submission
+   date: July 31, 2023
+   enabled: true
+ - name: Supplementary
+   date: August 7, 2023
+   enabled: true
+#  - name: Tutorial submission
+  #  date: August 15, 2022
+  #  enabled: true
+   #- name: Tutorial notification
+   #- date: TBD
+   #- enabled: true
+#  - name: Rebuttal period 
+  #  date: July <del style="color:red;"> 8-14</del> <b>10-15</b>, 2022
+  #  enabled: true
+ - name: Paper notification
+   date: October 15, 2023
+   enabled: true
+ - name: Camera ready
+   date: December 1, 2023
+   enabled: true
+#  - name: Demo submission
+  #  date: August 15, 2022
+  #  enabled: true
+   #- name: Demo notification
+   #- date: TBD
+   #- enabled: true
+#  - name: Tutorial
+  #  date: September 12, 2022
+  #  enabled: true
+ - name: Main conference
+   date: March 18-21, 2024
+   enabled: true
+
 2022:
  - name: Paper registration
    date: <del style="color:red;"> May 26</del> <b>June 2</b>, 2022

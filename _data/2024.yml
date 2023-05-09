@@ -1,7 +1,7 @@
 conf-title: International Conference on 3D Vision 2024
 conf-acro: 3DV2024
 conf-location: Davos, Switzerland
-conf-date: March, 2024
+conf-date: March 18-21, 2024
 
 header-image: "img/2024/3dv2024_banner.png"
 banner-image: "img/2024/clock.jpg"
@@ -12,13 +12,13 @@ favicon: "img/2024/3dv.ico"
 program:
  - name: Tutorials
    day: 0
-   date: 2022-09-12 #08:30
+   date: 2024-03-18 #08:30
  - name: Day 1
    day: 1
-   date: 2022-09-13 #08:30
+   date: 2024-03-19 #08:30
  - name: Day 2  
    day: 2
-   date: 2022-09-14 #08:30  
+   date: 2024-03-20 #08:30  
  - name: Day 3
    day: 3
-   date: 2022-09-15 #08:30
+   date: 2024-03-21 #08:30
