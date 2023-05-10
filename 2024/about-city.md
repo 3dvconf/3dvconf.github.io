@@ -4,6 +4,11 @@ year: 2024
 title: Welcome to Davos!
 ---
 
+
+Davos is an Alpine resort town and a municipality in the canton of Graubünden, Switzerland.
+
+Gaining prominence in the 19th century as a mountain health resort, Davos is perhaps best known today for hosting the World Economic Forum—often referred to simply as "Davos"—an annual meeting of global political and corporate leaders. With a long history of winter sport, Davos also has one of Switzerland's largest ski resorts, and March is still a great time for skiiing!
+
 <!-- Located in the heart of Europe, the city of Prague is an open-air museum on its
 own you will love strolling through.
 The city is a kaleidoscope of architectural styles and its incredible

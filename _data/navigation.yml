@@ -1,4 +1,40 @@
 2024:
+ - title: Attending
+   nested:
+   - title: About Davos
+     url: about-city
+   - title: Code of Conduct
+     url: code-of-conduct
+   - title: Important Dates
+     url: dates
+  #  - title: Registration
+    #  url: registration
+  #  - title: Registration Form
+    #  url: registration-form
+  #  - title: Venue
+    #  url: venue
+  #  - title: Accommodation
+    #  url: accommodation
+  #  - title: General Information
+    #  url: general-information
+  #  - title: Visa and covid
+    #  url: visa
+ - title: People
+   nested:
+   - title: Organizers
+     url: people
+  #  - title: Area Chairs
+    #  url: area-chairs
+#   - title: Program Committee
+#     url: program-committee
+ - title: Calls
+   nested:
+   - title: Call for Papers
+     url: call-for-papers
+  #  - title: Call for Demos
+    #  url: call-for-demos
+  #  - title: Call for Tutorials
+    #  url: call-for-tutorials
 
 2022:
  - title: Attending

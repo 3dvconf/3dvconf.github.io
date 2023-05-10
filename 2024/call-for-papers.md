@@ -1,19 +1,15 @@
 ---
 layout: 2021_sidebar_no_news
 title: Call for Papers
-year: 2022
+year: 2024
 ---
 
 
-<a href="{{site.url}}/files/2022/3DV2022_CFP.pdf" target="_blank">**A PDF version with the important dates can be found here.**</a> 
+<a href="{{site.url}}/files/2024/3DV2024_CFP.pdf" target="_blank">**A PDF version with the important dates can be found here.**</a> 
 
-We invite submissions to the 10th International Conference on 3D Vision (3DV 2022), which will be held in Prague, Czech Republic, on September 12-15, 2022.
-Since 2013, under the name 3DV, this event has provided a platform for disseminating research results covering a broad variety of topics in the area of 3D computer vision and graphics,
-from novel optical sensors, signal processing, geometric modeling, representation and transmission, to visualization, analysis, interaction, and a variety of applications.
+We invite submissions to the 11th International Conference on 3D Vision (3DaVos 2024), which will be held in Davos, Switzerland, on March 18-21, 2024. Since 2013, under the name 3DV, this event provides a platform for disseminating research results covering a broad variety of topics in the area of 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representation and transmission, to visualization, analysis, interaction, and a variety of applications.
 
-3DV 2022 will showcase high quality single-track oral and poster presentations and demonstration sessions.
-It will also feature industrial exhibitions held in conjunction with the main conference.
-Proposals for Workshops and Tutorials are also invited. 
+3DV 2024 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
 
 Topics of interest include, but are not limited to:
 

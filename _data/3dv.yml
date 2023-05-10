@@ -6,14 +6,14 @@ previous-years:
 
 2024:
   title: "The 11<sup>th</sup> <b>International Conference on 3D Vision</b>"
-  date: "??-?? March 2024"
+  date: "18-21 March 2024"
   location: "Davos, Switzerland"
   conf-acro: 3DV2024
   favicon: "img/2024/3dv.ico"
   header-image: "img/2024/3dv2024_banner.png"
-  header-image-credit: Keete 37, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
-  header-image-creditlink: https://commons.wikimedia.org/wiki/File:Praha_skyline.png
-  background: BCE0FC
+  # header-image-credit: Keete 37, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+  # header-image-creditlink: https://commons.wikimedia.org/wiki/File:Praha_skyline.png
+  background: CBCFFF
 
   program:
    - name: Tutorials

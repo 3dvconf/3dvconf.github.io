@@ -4,6 +4,8 @@ year: 2022
 title: Hotel Conference
 ---
 
+<!-- Cheap housing in the youth hostel 59CHF/night. 
+
 To facilitate the accommodation, the [Vienna House Diplomat Prague](https://www.viennahouse.com/en/diplomat-prague/the-hotel/overview.html) offers single
 and double rooms at discounted prices. 
 
@@ -26,4 +28,4 @@ Here is more information on the booking conditions:
 - Booking requires a valid payment/credit card
 
 
-<img src="{{site.url}}/img/2022/vienna_diplomatic_house.jpg" style="width:100%;"/>
+<img src="{{site.url}}/img/2022/vienna_diplomatic_house.jpg" style="width:100%;"/> -->
