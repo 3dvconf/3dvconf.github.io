@@ -4,11 +4,11 @@
    mail: 3dv24gc [at] googlegroups [dot] com
    people:
     - name: Marc Pollefeys
-      affiliation: Computer Vision and Geometry lab, ETH Zurich
+      affiliation: ETH Zurich
       image: img/2022/people/pollefeys.jpg
       url: https://people.inf.ethz.ch/pomarc/
     - name: Konrad Schindler
-      affiliation: Dep. of Civil, Env. and Geomatic Eng., ETH Zurich
+      affiliation: ETH Zurich
       image: img/2022/people/schindler.jpeg
       url: https://igp.ethz.ch/personen/person-detail.html?persid=143986
     # - name: Zuzana Kukelova
@@ -32,7 +32,7 @@
       url: https://taiya.github.io
       image: img/2024/people/andrea.png
     - name: Siyu Tang
-      affiliation: Computer Vision and Learning Group, ETH Zurich
+      affiliation: ETH Zurich
       url: https://vlg.inf.ethz.ch
       image: img/2024/people/siyu.jpeg
     - name: Federico Tombari
