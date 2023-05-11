@@ -1,9 +1,8 @@
 ---
-layout: 2021_sidebar_no_news
+layout: 2021_sidebar
 title: Call for Papers
 year: 2024
 ---
-
 
 <a href="{{site.url}}/files/2024/3DV2024_CFP.pdf" target="_blank">**A PDF version with the important dates can be found here.**</a> 
 
