@@ -11,20 +11,7 @@
       {% if post.year == page.year %}
 	    <li>
 	      <a href="{{site.url}}{{ post.url }}">
-	      	<div style=" style="a:link {
-              text-decoration: none;
-            }
-            
-            a:visited {
-              text-decoration: none;
-            }
-            
-            a:hover {
-              text-decoration: underline;
-            }
-            
-            a:active {
-              text-decoration: underline;}"">
+	      	<div>
 	      		<b><i class="fas fa-arrow-right"></i>   &nbsp; {{ post.title }}</b><br>
 	      		<b>{{ post.date  | date: "%Y-%m-%d"}}</b>
 	      	</div>
@@ -35,8 +22,23 @@
 	  {% endfor %}
 	</ul>
 	
-	{% if site.posts.size > 5 %}
+	<!-- {% if site.posts.size > 5 %}
   <a href="{{site.url}}/{{year}}/news"><b>More news</b></a>
-	{% endif %}
+	{% endif %} -->
 
 </section>
+
+<!-- style='style="a:link {
+	text-decoration: none;
+  }
+  
+  a:visited {
+	text-decoration: none;
+  }
+  
+  a:hover {
+	text-decoration: underline;
+  }
+  
+  a:active {
+	text-decoration: underline;}"' -->
