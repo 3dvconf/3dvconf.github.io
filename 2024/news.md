@@ -1,6 +1,6 @@
 ---
 layout: 2021_sidebar_no_news
-year: 2022
+year: 2024
 title: <i class="far fa-newspaper"></i> &nbsp;Latest News</h1>
 ---
 
