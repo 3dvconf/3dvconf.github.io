@@ -11,10 +11,10 @@
     #  url: registration
   #  - title: Registration Form
     #  url: registration-form
-  #  - title: Venue
-    #  url: venue
-  #  - title: Accommodation
-    #  url: accommodation
+   - title: Venue
+     url: venue
+   - title: Accommodation
+     url: accommodation
   #  - title: General Information
     #  url: general-information
   #  - title: Visa and covid
