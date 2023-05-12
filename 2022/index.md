@@ -1,5 +1,4 @@
 ---
-redirect_from: "/"
 layout: 2021_sidebar
 title: International Conference on 3D Vision 2022
 year: 2022
