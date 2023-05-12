@@ -5,7 +5,8 @@ title: Venue
 # title-logo: <i class="fas fa-map-marker"></i> 
 ---
 
-<b>Davos Congress Centre</b><br>
+<b>Davos Congress Centre</b>
+<br>
 [**Talstrasse 49a, 7270 Davos Platz**](https://goo.gl/maps/LBGMxjuT6ijv57vW7)<br>
 The conference will take place at the same venue as the annual World Economic Forum.
 
