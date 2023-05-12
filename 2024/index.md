@@ -1,5 +1,5 @@
 ---
-# redirect_from: "/"
+redirect_from: "/"
 layout: 2021_sidebar
 title: International Conference on 3D Vision 2024
 year: 2024
