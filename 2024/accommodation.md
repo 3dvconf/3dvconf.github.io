@@ -6,7 +6,7 @@ title: Hotel Conference
 
 <h2>Youth Hostel Davos</h2>
 
-To facilitate accommodation, we have secured rooms for you at the <a href="https://www.youthhostel.ch/en/hostels/davos/">Youth Hostel Davos</a> at a rate of <b>CHF 59.00</b> per night, which includes breakfast. When making your reservation, please indicate that you will be attending the 3DV conference.
+To facilitate accommodation, we have secured rooms for you at the <a href="https://www.youthhostel.ch/en/hostels/davos/">Youth Hostel Davos</a> at a rate of <b>CHF 59.00</b> per night, which includes breakfast and dinner. When making your reservation, please indicate that you will be attending the 3DV conference.
 The booking system at the youth hostel is exclusively reserved for conference participants until the <b>10. February 2024</b>. If you plan to stay there, please make sure to book your room before that date. <a href="https://www.youthhostel.ch/en/hostels/davos/">
 
 Contact: Youth Hostels Davos<br>
