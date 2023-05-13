@@ -12,9 +12,12 @@ The booking system at the youth hostel is exclusively reserved for conference pa
 Contact: Youth Hostels Davos<br>
 Horlaubstrase 20, Postfach<br>
 CH-7260 Davos Dorf<br>
+
+The online booking system is closed for reservations during 3DV.
+To book a room, please contact the youth hostel via phone or email and make sure to mention that your participation at the 3DV conference.<br>
 Tel.: +41 81 410 19 20<br>
 E-Mail: <a href="mailto:davos@youthhostel.ch">davos@youthhostel.ch</a><br>
-<b>Booking: <a href="https://www.youthhostel.ch/en/hostels/davos/">https://www.youthhostel.ch/davos</a></b><br>
+
 
 <h2>Hotels</h2>
 <ul>
