@@ -13,7 +13,7 @@ favicon: "img/2024/3dv.ico"
 The 11th International Conference on 3D Vision will be held in-person **in Davos, Switzerland** on **March 18-21, 2024**.
 
 This years edition of 3DV will move from fall 2023 to spring 2024,
-which means that the next edition of the 3DV conference will take place in 2024. 3DV'23 is now 3DV'24!
+which means that the next edition of the 3DV conference will take place in 2024. <b><i>3DV'23 is now 3DV'24!</i></b>
 This event has provided a premier platform for disseminating research results covering a broad variety of topics in the area of 3D research in computer vision and graphics, from novel optical sensors, signal processing, geometric modelling, representation and transmission, to visualization and interaction, and a variety of applications. 
 
 <!-- <br>
