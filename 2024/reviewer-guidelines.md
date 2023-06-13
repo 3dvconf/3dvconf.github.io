@@ -1,7 +1,7 @@
 ---
 layout: 2021_sidebar
 title: Reviewer Guidelines
-year: 2022
+year: 2024
 ---
 
 
@@ -14,7 +14,7 @@ guidelines can be found in the materials of two past tutorials on reviewing:
 <br><br>
 
 ### Check your papers for conflicts
-As soon as you get your reviewing assignment, please download your papers and go through them to make sure that there is no obvious conflict with you (e.g., a paper authored by your recent collaborator from a different institution). If you feel you are in conflict with a paper, please let us know right away by emailing the Program Chairs: **3dv22PC [at] googlegroups [dot] com** 
+As soon as you get your reviewing assignment, please download your papers and go through them to make sure that there is no obvious conflict with you (e.g., a paper authored by your recent collaborator from a different institution). If you feel you are in conflict with a paper, please let us know right away by emailing the Program Chairs: **3dv24PC [at] googlegroups [dot] com** 
 <br><br>
 
 ### What to Look For
@@ -60,7 +60,3 @@ Your main critique of the paper should be written in terms of a list of strength
 
 Submissions should be treated as confidential. When you have finished with your review, you should destroy any paper manuscript and/or supporting material you received.
 <br><br>
-
-### CMT Instructions
-
-Coming soon.

@@ -35,6 +35,23 @@
     #  url: call-for-demos
   #  - title: Call for Tutorials
     #  url: call-for-tutorials
+ - title: Submission
+   nested:
+   - title: Author Guidelines
+     url: author-guidelines
+   - title: Author OpenReview Instructions
+     url: author-instructions
+   - title: Author FAQs
+     url: author-faq
+  #  - title: Camera Ready Instructions
+    #  url: camera-ready-instructions
+  #  - title: Poster Instructions
+    #  url: poster-instructions
+   - title: Policies
+     url: policies
+   - title: Reviewer Guidelines
+     url: reviewer-guidelines
+
 
 2022:
  - title: Attending

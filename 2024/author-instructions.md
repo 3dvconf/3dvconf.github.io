@@ -1,37 +1,93 @@
 ---
 layout: 2021_sidebar
-year: 2022
-title: Author Instructions
+year: 2024
+title: Author OpenReview Instructions
 ---
 
-### CMT submissions Website
+3DV {{page.year}} employs [OpenReview](https://openreview.net) as our paper submission and peer review system.
+By submitting a paper, the authors agree to the [policies stipulated in this website]({{site.url}}/{{page.year}}/policies).
+To match papers to reviewers (including conflict handling and computation of affinity scores),
+OpenReview requires carefully populated and up-to-date OpenReview profiles.
+To this end, we require every author to (1) create and activate an OpenReview profile (if not already existent) and
+(2) to update the profile with the most recent email addresses, career positions, and publications.
 
-**CMT Site:** <a target="_blank" href="http://cmt3.research.microsoft.com/3DV2022">http://cmt3.research.microsoft.com/3DV2022</a>  (bookmark or save this URL!)
+Important note: **We may desk-reject papers that contain authors without a valid OpenReview profile after the paper submission deadline ({{site.data.dates[page.year][1].date}})**.
 
-### Submission Guidelines
+More specifically, we **require every author** to perform the following steps:
 
-All submissions will be handled electronically via the conference's CMT website. By submitting a paper, the authors agree to the [policies stipulated in this website]({{site.url}}/{{year}}/policies). The paper registration deadline is **May 26, 2022**, and the submission deadline is **June 2, 2022**. Supplementary material can be submitted until **June 9, 2022**. 
+**Step 1**  
+Log in to your OpenReview account.
+
+If you do not already have an account, you can sign up [here](https://openreview.net/signup).
+Please make sure to confirm your email address and to complete the registration to activate the profile.
+(Detailed instructions for the sign up process can be found [here](https://docs.openreview.net/getting-started/creating-an-openreview-profile/signing-up-for-openreview).)
+
+**Step 2**  
+If required, please update the email addresses of your [profile](https://openreview.net/profile/edit).
+Most importantly, ensure that the email address that receives the paper registration notification is linked to your profile and has been confirmed.
+(Detailed instructions for adding an email address can be found [here](https://docs.openreview.net/getting-started/creating-an-openreview-profile/add-or-remove-an-email-address-from-your-profile).)
+
+Please note: Do not remove old email addresses. Those are used for conflict determination in the review process.
+
+**IMPORTANT:** All future OpenReview messages will be addressed to your "preferred email" address of your OpenReview profile. Hence, please make sure to adapt the preferred email address of your profile - if required.
+
+**Step 3**  
+Please follow the [instructions to enter or update the institutional data of your profile](https://docs.openreview.net/getting-started/creating-an-openreview-profile/entering-institutional-data).
+
+(If your institution is not part of the drop-down list, you should be able to just enter a new institution domain and name.)
+
+Please note: Do not remove old positions. Those are used for conflict determination in the review process.
+
+**Step 4**  
+Please update your list of publications in your profile; see [instructions to import papers from DBLP to your profile](https://docs.openreview.net/getting-started/creating-an-openreview-profile/importing-papers-from-dblp).
+
+(If you have not published yet, you can skip this step.)   
+
+Please note: The list of papers in your OpenReview profile is shared across conferences, so it should contain all your publications.
+OpenReview uses this list of papers for conflict determination in the review process.
+
+**Step 5**  
+Complete paper registration for each of your papers by {{site.data.dates[page.year][0].date}} Pacific Time and
+paper submission by {{site.data.dates[page.year][1].date}} Pacific Time.
+To begin both the registration and submission process, go to the [OpenReview 3DV 2024 submission page](https://openreview.net/group?id=3DV/2024/Conference),
+make sure you are logged in, click on the "3DV 2024 Conference Submission" button, and then follow the instructions on the form that will appear.
+
+<!-- ### Submission Guidelines:
+
+All submissions will be handled electronically via the conference's OpenReview website.
+By submitting a paper, the authors agree to the [policies stipulated in this website]({{site.url}}/{{page.year}}/policies).
+<!-- The paper registration deadline is **May 26, 2022**, and the-->
+<!-- The paper submission deadline is **{{site.data.dates[page.year][0].date}}**.
+Supplementary material can be submitted until **{{site.data.dates[page.year][1].date}}**. 
 Note that **the authors cannot submit a paper without its registration**.
 
-Papers are limited to eight pages, including figures and tables, in the 3DV style. Additional pages containing only cited references are allowed. Please refer to the following files for detailed formatting instructions:
-- **[Download Author Kit]({{site.url}}/files/2022/3DV2022AuthorKit.zip)**
+Papers are limited to eight pages, including figures and tables, in the 3DV style.
+Additional pages containing only cited references are allowed. Please refer to the following files for detailed formatting instructions:
+- **[Download Author Kit]({{site.url}}/files/{{page.year}}/3dv{{page.year}}-author_kit.zip)**
 
-Papers that are not properly anonymized, or do not use the template, or have more than eight pages (excluding references) will be rejected without review.
+Papers that are not properly anonymized, or do not use the template, or have more than eight pages (excluding references) will be rejected without review. -->
 
-**1) Paper submission and review site:**
+
+
+
+<!--
+# Below are the old isntructions
+
+
+ **1) Paper submission and review site:**
 
 Please make sure that your browser has cookies and Javascript enabled.
 
 Please add "email@msr-cmt.org" to your list of safe senders (whitelist) to prevent important email announcements from being blocked by spam filters.
 
-Log into CMT3 at [https://cmt3.research.microsoft.com](https://cmt3.research.microsoft.com). If you do not see “International Conference on 3D Vision 2022” in the conference list already, click on the “All Conferences” tab and find it there.
+Log into CMT3 at [https://cmt3.research.microsoft.com](https://cmt3.research.microsoft.com). If you do not see “International Conference on 3D Vision 2022” in the conference list already, click on the “All Conferences” tab and find it there. -->
 
 
-**2) Setting up your profile:** 
+<!-- **2) Setting up your profile:** 
 
-You can update your User Profile, Email, and Password by clicking on your name in the upper-right inside the Author Console and choosing the appropriate option under “General”.
+You can update your User Profile, Email, and Password by clicking on your name in the upper-right inside the Author Console and choosing the appropriate option under “General”. -->
 
-**3) Domain Conflicts:** 
+<!-- **3) Domain Conflicts:** 
 
 When you log in for the first time, you will be asked to enter your conflict domain information. You will not be able to submit any paper without entering this information. We need to ensure conflict-free reviewing of all papers. At any time before the submission deadline, you can update this information by clicking on your name in the upper-right and entering “Domain Conflicts” under 3DV 2022.
 
@@ -93,3 +149,4 @@ The author rebuttal is optional and is meant to provide you with an opportunity 
 
 Reviewers should refrain from requesting significant additional experiments for the rebuttal, or penalize for lack of additional experiments. Authors should refrain from including new experimental results in the rebuttal, especially when not specifically requested to do so by the reviewers.
 
+ -->

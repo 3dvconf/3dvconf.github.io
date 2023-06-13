@@ -4,9 +4,9 @@ previous-years:
     - 2021
  
 2024:
-#  - name: Paper registration
-  #  date: <del style="color:red;"> May 26</del> <b>June 2</b>, 2022
-  #  enabled: true
+ - name: Paper registration
+   date: July 24, 2023
+   enabled: true
  - name: Paper submission
    date: July 31, 2023
    enabled: true

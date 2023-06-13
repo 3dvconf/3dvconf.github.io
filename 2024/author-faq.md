@@ -1,8 +1,7 @@
 ---
 layout: 2021_sidebar
-year: 2022
+year: 2024
 title: Author FAQ
-title-logo: <i class="fas fa-question"></i> 
 
 ---
 
@@ -22,33 +21,27 @@ A. NO. No further authors can be added after the paper submission deadline.
 
 A. NO. We have set hard limits of 30MB (PDF Only) for paper submission and 100MB (PDF or ZIP only) for supplementary materials on submissions for review. As we are expecting many submissions, and as each reviewer is expected to review multiple papers, larger file downloads (and uploads) will tax the system and abilities of reviewers to get to the papers fast enough. Authors should consider adding hi-res images as supplementary material (see supplementary material guidelines).
 
-
-**Q. How do I delete Supplementary Material from the CMT site?**
-
-A. After you log in, in the "Author" console, you'll notice "Upload/Delete File" at the end of the supplementary file name. Click on that, and in the page that appears, you can click on the "Delete" button to remove the supplementary file. (Please note that you will not be able to delete the supplementary file after the supplementary material deadline.)
-
-
 **Q. Can we submit color images with our papers for review?**
 
 A. YES. Reviewers will get the exact pdf file of the paper you submitted, so they can see the color images on the screen. Do be warned though that many reviewers still like to read printed papers and not all have access to high-end color printers. Please make sure to comment in the paper to request the reviewers to see the color online copy.
 
 
-**Q. What is the 3DV 2022 policy on DUAL SUBMISSIONS?**
+**Q. What is the 3DV {{page.year}} policy on DUAL SUBMISSIONS?**
 
 A. Please read the dual/double submission paragraph [here]({{site.url}}/{{page.year}}/policies).
 
 
-**Q. Does a Technical Report (departmental, arXiv, etc.) available online count as a prior publication, and therefore is that work ineligible for review and publication at 3DV 2022?**
+**Q. Does a Technical Report (departmental, arXiv, etc.) available online count as a prior publication, and therefore is that work ineligible for review and publication at 3DV {{page.year}}?**
 
 A. Please read the dual/double submission paragraph [here]({{site.url}}/{{page.year}}/policies).
 
 
-**Q. Does a document on GitHub or other open repositories count as a publication, and therefore is ineligible for review and publication at 3DV 2022?**
+**Q. Does a document on GitHub or other open repositories count as a publication, and therefore is ineligible for review and publication at 3DV {{page.year}}?**
 
 A. Submissions to GitHub and similar repositories cannot be rejected and are accepted by default before any "review" that can take place on such platforms. Given definitions in the dual/double submission paragraph [here]({{site.url}}/{{page.year}}/policies), GitHub documents are not publications and won't be treated as such. To preserve anonymity, you should not cite your public codebase. You can say that the code will be made publicly available.
 
 
-**Q. Does a presentation at a departmental seminar during the review period violate the anonymity standard or other 3DV 2022 policy?**
+**Q. Does a presentation at a departmental seminar during the review period violate the anonymity standard or other 3DV {{page.year}} policy?**
 
 A. NO. Authors must properly anonymize the written submission as per the guidelines. There is no requirement that the material otherwise be kept confidential during the review process.
 
@@ -93,12 +86,12 @@ A. Consistent with good academic practice, you need to cite all sources that ins
 
 ### About the Review Process
 
-**Q. Is the 3DV 2022 Review Process CONFIDENTIAL?**
+**Q. Is the 3DV {{page.year}} Review Process CONFIDENTIAL?**
 
-A. YES, 3DV 2022 Reviewing is considered confidential. All reviewers are required to keep every manuscript they review as confidential documents and not to share or distribute materials for any reason except to facilitate the reviewing of the submitted work.
+A. YES, 3DV {{page.year}} Reviewing is considered confidential. All reviewers are required to keep every manuscript they review as confidential documents and not to share or distribute materials for any reason except to facilitate the reviewing of the submitted work.
 
 
-**Q. Are 3DV 2022 Reviews Double BLIND or Single BLIND?**
+**Q. Are 3DV {{page.year}} Reviews Double BLIND or Single BLIND?**
 
 A. 3DV reviewing is Double BLIND, in that authors do not know the names of the area chair/reviewers of their papers, and area chairs/reviewers do not know the names of the authors. Please read Section 1.6 of the example paper egpaper_for_review.pdf for detailed instructions on how to preserve anonymity. Avoid providing information that may identify the authors in the acknowledgments (e.g., co-workers and grant IDs) and in the supplemental material (e.g., titles in the movies, or attached papers). Avoid providing links to websites that identify the authors. Violation of any of these guidelines will lead to rejection without review.
 
