@@ -66,18 +66,7 @@
 #       affiliation: Czech Technical University in Prague
 #       image: img/2022/people/matas.png
 #       url: https://cmp.felk.cvut.cz/~matas/
- - section:
-   name: Finance Chair and Event Manager
-   people:
-    - name: Hermann Blum
-      affiliation: ETH Zurich
-      image: img/2024/people/blum.jpeg
-      url: https://hermannblum.net
-    - name: Ayse Johannes
-      affiliation: ETH Zurich
-      image: img/2024/people/ayse.jpeg
-      url: https://inf.ethz.ch/people/person-detail.MjUxNTI1.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html
- - section:
+  - section:
    name: Tutorial and Demo Chairs 
    mail: 3DV24-demos [at] googlegroups [dot] com
    people:
@@ -89,6 +78,18 @@
       affiliation: University of Catania
       image: img/2024/people/giovanni.jpeg
       url: http://www.dmi.unict.it/~gfarinella
+- section:
+   name: Finance Chair and Event Manager
+   people:
+    - name: Hermann Blum
+      affiliation: ETH Zurich
+      image: img/2024/people/blum.jpeg
+      url: https://hermannblum.net
+    - name: Ayse Johannes
+      affiliation: ETH Zurich
+      image: img/2024/people/ayse.jpeg
+      url: https://inf.ethz.ch/people/person-detail.MjUxNTI1.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html
+
     # - name: Daniel Barath
     #   affiliation: Computer Vision and Geometry lab, ETH Zurich
     #   image: img/2022/people/barath.jpg
