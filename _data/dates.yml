@@ -4,14 +4,11 @@ previous-years:
     - 2021
  
 2024:
- - name: Paper registration
-   date: July 24, 2023
-   enabled: true
  - name: Paper submission
-   date: July 31, 2023
+   date: August 7, 2023
    enabled: true
  - name: Supplementary
-   date: August 7, 2023
+   date: August 17, 2023
    enabled: true
 #  - name: Tutorial submission
   #  date: August 15, 2022

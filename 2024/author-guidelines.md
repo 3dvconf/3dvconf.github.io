@@ -12,7 +12,7 @@ In addition, authors are urged to consult the [FAQs]({{site.url}}/{{page.year}}/
 **Paper Formatting:**
 Papers are limited to **eight pages**, including figures and tables, in the 3DV style.
 Additional pages containing only cited references are allowed.
-Please download the **[3DV 2024 Author Kit]({{site.url}}/files/{{page.year}}/3dv{{page.year}}-author_kit.zip)** for detailed formatting instructions. 
+Please download the **[3DV 2024 Author Kit](https://github.com/cvpr-org/author-kit/archive/refs/tags/3DV2024-v1.1.zip)** for detailed formatting instructions. 
 The maximum size of the abstract is 4000 characters.
 The paper must be PDF only (maximum 30 MB). Make sure your paper meets the formatting and anonymity requirements described above.
 The supplementary material can be either PDF or ZIP only (maximum 100 MB).
@@ -42,10 +42,10 @@ It may not include results on additional datasets, results obtained with an impr
 
 (c) Code can be submitted as part of the supplementary zip file or through anonymous Github repositories (include the link in a separate text file in the supplementary zip). The link should point to a branch that will not be modified after the submission deadline.
 
-### Rebuttal
+<!-- ### Rebuttal
 
 After receiving the reviews, the authors may optionally submit a rebuttal to address the reviewers' comments.
-The rebuttal is limited to a one page PDF file using the rebuttal template included in the [3DV Author Kit]({{site.url}}/files/{{page.year}}/3dv{{page.year}}-author_kit.zip).
+The rebuttal is limited to a one page PDF file using the rebuttal template included in the [3DV Author Kit](https://github.com/cvpr-org/author-kit/archive/refs/tags/3DV2024-v1.1.zip).
 
 The author rebuttal is optional and is meant to provide you with an opportunity to rebut factual errors or to supply additional information requested by the reviewers.
 It is NOT intended to add new contributions (theorems, algorithms, experiments) that were absent in the original submission and NOT specifically requested by the reviewers.
@@ -62,4 +62,4 @@ Authors should refrain from including new contributions or experimental results 
 Reviewers are instructed to disregard any such contributions.
 
 Authors also have the possibility to submit a separate confidential comment to the area chair.
-Please do so only in exceptional circumstances.
+Please do so only in exceptional circumstances. -->

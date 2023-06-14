@@ -11,18 +11,6 @@
       affiliation: ETH Zurich
       image: img/2022/people/schindler.jpeg
       url: https://igp.ethz.ch/personen/person-detail.html?persid=143986
-    # - name: Zuzana Kukelova
-    #   affiliation: Visual Recognition Group, Czech Technical University in Prague
-    #   image: img/2022/people/kukelova.png
-    #   url: https://kukelova.weebly.com/
-    # - name: Tomas Pajdla
-    #   affiliation: Applied Algebra & Geometry Group, CIIRC, Czech Technical University in Prague
-    #   image: img/2022/people/pajdla.png
-    #   url: https://people.ciirc.cvut.cz/~pajdla/
-    # - name: Torsten Sattler
-    #   affiliation: Spatial Intelligence group, CIIRC, Czech Technical University in Prague
-    #   image: img/2022/people/sattler.jpg
-    #   url: https://tsattler.github.io/
  - section:
    name: Program Chairs
    mail: 3dv24PC [at] googlegroups [dot] com
@@ -39,22 +27,86 @@
       affiliation: TU Munich / Google
       url: https://federicotombari.github.io
       image: img/2024/people/federico.jpeg
-    # - name: Angela Dai
-    #   affiliation: Technical University of Munich, Germany
-    #   image: img/2021/people/dai.jpg
-    #   url: https://www.3dunderstanding.org/team.html
-    # - name: Gim Hee Lee
-    #   affiliation: Computer Vision and Robotic Perception Laboratory, National University of Singapore
-    #   image: img/2022/people/lee.jpeg
-    #   url: https://www.comp.nus.edu.sg/~leegh/
-    # - name: Jana Kosecka
-    #   affiliation: George Mason University, USA
-    #   image: img/2022/people/kosecka.jpeg
-    #   url: https://cs.gmu.edu/~kosecka/
-    # - name: Konrad Schindler
-    #   affiliation: Dep. of Civil, Env. and Geomatic Eng., ETH Zurich
-    #   image: img/2022/people/schindler.jpeg
-    #   url: https://igp.ethz.ch/personen/person-detail.html?persid=143986
+ - section:
+   name: Tutorial and Demo Chairs
+   mail: 3DV24-demos [at] googlegroups [dot] com
+   people:
+    - name: Federica Bogo
+      affiliation: Meta Reality Labs Research
+      image: img/2022/people/bogo.png
+      url: https://fbogo.github.io/
+    - name: Giovanni Maria Farinella
+      affiliation: University of Catania
+      image: img/2024/people/giovanni.jpeg
+      url: http://www.dmi.unict.it/~gfarinella
+ - section:
+   name: Finance Chair and Event Manager
+   people:
+    - name: Hermann Blum
+      affiliation: ETH Zurich
+      image: img/2024/people/blum.jpeg
+      url: https://hermannblum.net
+    - name: Ayse Johannes
+      affiliation: ETH Zurich
+      image: img/2024/people/ayse.jpeg
+      url: https://inf.ethz.ch/people/person-detail.MjUxNTI1.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html
+ - section:
+   name: Publication and OpenReview Chairs
+   people:
+    - name: Theodora Kontogianni
+      affiliation: ETH Zurich
+      image: img/2024/people/dora.jpeg
+      url: https://theodorakontogianni.github.io
+    - name: Akihiro Sugimoto
+      affiliation: National Institute of Informatics
+      image: img/2024/people/Sugimoto_Akihiro.jpg
+      url: http://research.nii.ac.jp/~sugimoto/index.html
+    - name: Gopal Sharma
+      affiliation: University of Massachusetts, Amherst
+      image: img/2024/people/gopal.jpeg
+      url: https://hippogriff.github.io
+ - section:
+   name: Website Chair and Social Media Chair
+   people:
+    - name: Francis Engelmann
+      affiliation: ETH Zurich
+      image: img/2024/people/engelmann.jpeg
+      url: https://francisengelmann.github.io
+    - name: Daniel Barath
+      affiliation: ETH Zurich
+      image: img/2022/people/barath.jpg
+      url: https://people.inf.ethz.ch/dbarath/
+    - name: Jia-Bin Huang
+      affiliation: University of Maryland
+      image: img/2024/people/jbhuang.jpg
+      ulr: https://jbhuang0604.github.io
+# - name: Zuzana Kukelova
+#   affiliation: Visual Recognition Group, Czech Technical University in Prague
+#   image: img/2022/people/kukelova.png
+#   url: https://kukelova.weebly.com/
+# - name: Tomas Pajdla
+#   affiliation: Applied Algebra & Geometry Group, CIIRC, Czech Technical University in Prague
+#   image: img/2022/people/pajdla.png
+#   url: https://people.ciirc.cvut.cz/~pajdla/
+# - name: Torsten Sattler
+#   affiliation: Spatial Intelligence group, CIIRC, Czech Technical University in Prague
+#   image: img/2022/people/sattler.jpg
+#   url: https://tsattler.github.io/
+#   affiliation: Technical University of Munich, Germany
+#   image: img/2021/people/dai.jpg
+#   url: https://www.3dunderstanding.org/team.html
+# - name: Gim Hee Lee
+#   affiliation: Computer Vision and Robotic Perception Laboratory, National University of Singapore
+#   image: img/2022/people/lee.jpeg
+#   url: https://www.comp.nus.edu.sg/~leegh/
+# - name: Jana Kosecka
+#   affiliation: George Mason University, USA
+#   image: img/2022/people/kosecka.jpeg
+#   url: https://cs.gmu.edu/~kosecka/
+# - name: Konrad Schindler
+#   affiliation: Dep. of Civil, Env. and Geomatic Eng., ETH Zurich
+#   image: img/2022/people/schindler.jpeg
+#   url: https://igp.ethz.ch/personen/person-detail.html?persid=143986
 #  - section:
 #    name: Tutorial Chairs
 #    people:
@@ -66,38 +118,14 @@
 #       affiliation: Czech Technical University in Prague
 #       image: img/2022/people/matas.png
 #       url: https://cmp.felk.cvut.cz/~matas/
-  - section:
-   name: Tutorial and Demo Chairs 
-   mail: 3DV24-demos [at] googlegroups [dot] com
-   people:
-    - name: Federica Bogo
-      affiliation: Meta Reality Labs Research
-      image: img/2022/people/bogo.png
-      url: https://fbogo.github.io/
-    - name: Giovanni Maria Farinella
-      affiliation: University of Catania
-      image: img/2024/people/giovanni.jpeg
-      url: http://www.dmi.unict.it/~gfarinella
-- section:
-   name: Finance Chair and Event Manager
-   people:
-    - name: Hermann Blum
-      affiliation: ETH Zurich
-      image: img/2024/people/blum.jpeg
-      url: https://hermannblum.net
-    - name: Ayse Johannes
-      affiliation: ETH Zurich
-      image: img/2024/people/ayse.jpeg
-      url: https://inf.ethz.ch/people/person-detail.MjUxNTI1.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html
-
-    # - name: Daniel Barath
-    #   affiliation: Computer Vision and Geometry lab, ETH Zurich
-    #   image: img/2022/people/barath.jpg
-    #   url: https://people.inf.ethz.ch/dbarath/
-    # - name: Angela Yao
-    #   affiliation: Computer Vision and Machine Learning group, National University of Singapore
-    #   image: img/2022/people/yao.png
-    #   url: https://www.comp.nus.edu.sg/~ayao/
+# - name: Daniel Barath
+#   affiliation: Computer Vision and Geometry lab, ETH Zurich
+#   image: img/2022/people/barath.jpg
+#   url: https://people.inf.ethz.ch/dbarath/
+# - name: Angela Yao
+#   affiliation: Computer Vision and Machine Learning group, National University of Singapore
+#   image: img/2022/people/yao.png
+#   url: https://www.comp.nus.edu.sg/~ayao/
 #  - section:
 #    name: Industrial Liaison/Sponsorship Chairs
 #    mail: 3dv22-sponsors [at] googlegroups [dot] com
@@ -110,17 +138,6 @@
 #       affiliation: University of Amsterdam
 #       image: img/2022/people/oswald.jpg
 #       url: https://ivi.fnwi.uva.nl/cv/people.html
- - section:
-   name: Publication Chairs
-   people:
-    - name: Theodora Kontogianni
-      affiliation: ETH Zurich
-      image: img/2024/people/dora.jpeg
-      url: https://theodorakontogianni.github.io
-    - name: Gopal Sharma
-      affiliation: University of Massachusetts, Amherst
-      image: img/2024/people/gopal.jpeg
-      url: https://hippogriff.github.io
 #     - name: Ondřej Drbohlav
 #       affiliation: Czech Technical University in Prague
 #       image: img/2022/people/drbohlav.jpg
@@ -169,21 +186,6 @@
 #       affiliation: University of Edinburgh
 #       image: img/2022/people/fisher.png
 #       url: https://homepages.inf.ed.ac.uk/rbf/
- - section:
-   name: Website Chair and Social Media Chair
-   people:
-    - name: Francis Engelmann
-      affiliation: ETH Zurich
-      image: img/2024/people/engelmann.jpeg
-      url: https://francisengelmann.github.io
-    - name: Daniel Barath
-      affiliation: ETH Zurich
-      image: img/2022/people/barath.jpg
-      url: https://people.inf.ethz.ch/dbarath/
-    - name: Jia-Bin Huang
-      affiliation: University of Maryland
-      image: img/2024/people/jbhuang.jpg
-      ulr: https://jbhuang0604.github.io
 #  - section:
 #    name: Steering Committee
 #    people:

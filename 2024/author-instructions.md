@@ -11,7 +11,7 @@ OpenReview requires carefully populated and up-to-date OpenReview profiles.
 To this end, we require every author to (1) create and activate an OpenReview profile (if not already existent) and
 (2) to update the profile with the most recent email addresses, career positions, and publications.
 
-Important note: **We may desk-reject papers that contain authors without a valid OpenReview profile after the paper submission deadline ({{site.data.dates[page.year][1].date}})**.
+Important note: **We may desk-reject papers that contain authors without a valid OpenReview profile after the paper submission deadline ({{site.data.dates[page.year][0].date}})**.
 
 More specifically, we **require every author** to perform the following steps:
 
@@ -47,10 +47,9 @@ Please note: The list of papers in your OpenReview profile is shared across conf
 OpenReview uses this list of papers for conflict determination in the review process.
 
 **Step 5**  
-Complete paper registration for each of your papers by {{site.data.dates[page.year][0].date}} Pacific Time and
-paper submission by {{site.data.dates[page.year][1].date}} Pacific Time.
-To begin both the registration and submission process, go to the [OpenReview 3DV 2024 submission page](https://openreview.net/group?id=3DV/2024/Conference),
-make sure you are logged in, click on the "3DV 2024 Conference Submission" button, and then follow the instructions on the form that will appear.
+Complete paper submission by {{site.data.dates[page.year][0].date}} Pacific Time.
+To begin the submission process, go to the [OpenReview 3DV 2024 submission page](https://openreview.net/group?id=3DV/2024/Conference),
+make sure you are logged in, click on the "3DV {{page.yea}} Conference Submission" button, and then follow the instructions on the form that will appear.
 
 <!-- ### Submission Guidelines:
 
