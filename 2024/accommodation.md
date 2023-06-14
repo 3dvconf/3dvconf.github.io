@@ -20,7 +20,7 @@ To book a room, please contact the youth hostel via phone or email and make sure
 Tel.: +41 81 410 19 20<br>
 E-Mail: <a href="mailto:davos@youthhostel.ch">davos@youthhostel.ch</a><br>
 
-
+<!-- 
 <h2>Hotels</h2>
 <ul>
 <li>Spenglers Inn (<a target="_blank" href="https://www.spenglersinn.ch/">www.spenglersinn.ch</a>)</li>
@@ -28,4 +28,4 @@ E-Mail: <a href="mailto:davos@youthhostel.ch">davos@youthhostel.ch</a><br>
 <li>Kessler's Kulm Hotel (<a target="_blank" href="https://www.kessler-kulm.ch/">www.kessler-kulm.ch</a>)</li>
 <li>Waldhotel Davos (<a target="_blank" href="https://www.waldhotel-davos.ch/">www.waldhotel-davos.ch</a>)</li>
 <li>Concordia (<a target="_blank" href="https://www.hotelconcordia.ch/de/">www.hotelconcordia.ch</a>)</li>
-<li>Central Sporthotel Davos (<a target="_blank" href="https://www.central-davos.ch/">www.central-davos.ch</a>)</li>
+<li>Central Sporthotel Davos (<a target="_blank" href="https://www.central-davos.ch/">www.central-davos.ch</a>)</li> -->
