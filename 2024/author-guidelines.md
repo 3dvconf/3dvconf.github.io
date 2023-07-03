@@ -42,8 +42,11 @@ It may not include results on additional datasets, results obtained with an impr
 
 (c) Code can be submitted as part of the supplementary zip file or through anonymous Github repositories (include the link in a separate text file in the supplementary zip). The link should point to a branch that will not be modified after the submission deadline.
 
-<!-- ### Rebuttal
+### Rebuttal
 
+Unlike previous years, there will be no rebuttal at 3DV 2024.
+
+<--
 After receiving the reviews, the authors may optionally submit a rebuttal to address the reviewers' comments.
 The rebuttal is limited to a one page PDF file using the rebuttal template included in the [3DV Author Kit](https://github.com/cvpr-org/author-kit/archive/refs/tags/3DV2024-v1.1.zip).
 
