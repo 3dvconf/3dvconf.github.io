@@ -46,7 +46,7 @@ It may not include results on additional datasets, results obtained with an impr
 
 Unlike previous years, there will be no rebuttal at 3DV 2024.
 
-<--
+<!--
 After receiving the reviews, the authors may optionally submit a rebuttal to address the reviewers' comments.
 The rebuttal is limited to a one page PDF file using the rebuttal template included in the [3DV Author Kit](https://github.com/cvpr-org/author-kit/archive/refs/tags/3DV2024-v1.1.zip).
 
