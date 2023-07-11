@@ -6,7 +6,7 @@ title: Hotel Conference
 
 <h2>Conference Hotels</h2>
 
-The Davos congress center offers special conditions on hotel rooms when booking via the following link:
+Special conditions on hotel rooms are available when booking via the following link:
 <br>
 <a href="https://www.davoscongress.ch/3DVConference/Hotel/E" target="blank_">
 https://www.davoscongress.ch/3DVConference/Hotel/E
