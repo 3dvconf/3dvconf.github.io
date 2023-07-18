@@ -12,7 +12,7 @@ In addition, authors are urged to consult the [FAQs]({{site.url}}/{{page.year}}/
 **Paper Formatting:**
 Papers are limited to **eight pages**, including figures and tables, in the 3DV style.
 Additional pages containing only cited references are allowed.
-Please download the **[3DV 2024 Author Kit](https://github.com/cvpr-org/author-kit/archive/refs/tags/3DV2024-v1.1.zip)** for detailed formatting instructions. 
+Please download the **[3DV 2024 Author Kit](https://github.com/cvpr-org/author-kit/releases?q=3DV2024&expanded=true)** for detailed formatting instructions. 
 The maximum size of the abstract is 4000 characters.
 The paper must be PDF only (maximum 30 MB). Make sure your paper meets the formatting and anonymity requirements described above.
 The supplementary material can be either PDF or ZIP only (maximum 100 MB).
