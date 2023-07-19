@@ -57,6 +57,6 @@ The goals of 3DV are to publish exciting new work for the first time and to avoi
 **Publication:** All accepted papers will be made publicly available. Authors wishing to submit a patent understand that the paper's official public disclosure is one week before the conference or whenever the authors make it publicly available, whichever is first. The conference considers papers confidential until published one week before the conferences, but notes that multiple organizations will have access during the review and production processes, so those seeking patents should discuss filing dates with their IP council. The conference assumes no liability for early disclosures.
 
 
-**Publicity, social media:** Papers submitted to 3DV must not be discussed with the press until they have been officially accepted for publication. Work explicitly identified as a 3DV submission also may not be advertised on social media.  
-[Please see the FAQ for more details]({{site.url}}/{{page.year}}/author-faq). 
-Violations may result in the paper being rejected or removed from the conference and proceedings. 
+**Publicity, social media:** 
+The social media policies are consistent with CVPR'24. In particular, 
+authors will be allowed to post to social media about their papers in submission. However, until the final accept/reject decisions are released by the conference, posts to social media must not identify the conference name. Violations may result in the paper being rejected or removed from the conference and proceedings. 
