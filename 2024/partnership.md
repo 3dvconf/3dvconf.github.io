@@ -1,11 +1,11 @@
 ---
 layout: 2021_sidebar
-year: 2022
+year: 2024
 title: Partnership Program
 title-logo: <i class="far fa-handshake"></i> 
 ---
 
-<a href="{{site.url}}/files/2022/Partnership3DV2022.pdf" target="_blank">**Full details of the partnership program can be found here.**</a> 
+<!-- <a href="{{site.url}}/files/2022/Partnership3DV2022.pdf" target="_blank">**Full details of the partnership program can be found here.**</a>  -->
 
 #### Platinum Partner — 5,000€
 - Partner’s logo on the conference website with hyperlink to the partner’s website
