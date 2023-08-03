@@ -7,7 +7,7 @@ title-logo: <i class="far fa-handshake"></i>
 
 <!-- <a href="{{site.url}}/files/2022/Partnership3DV2022.pdf" target="_blank">**Full details of the partnership program can be found here.**</a>  -->
 
-##### Platinum Partner — 6500 CHF
+##### Platinum Partner — 10000 CHF
 - Partner’s logo on the conference website with hyperlink to the partner’s website
 - Large partner’s logo in the printed programme, banners and on online conference site
 - Acknowledgement during the main events
@@ -15,7 +15,7 @@ title-logo: <i class="far fa-handshake"></i>
 - 5 complimentary delegate registrations, inclusive of social functions
 - Exhibition space (about 2×2 m, exact size to be confirmed), first choice for a prime position in the exhibition area
 
-##### Gold Partner — 5000 CHF
+##### Gold Partner — 7500 CHF
 
 - Partner’s logo on the conference website with hyperlink to the partner’s website
 - Medium partner’s logo in the printed programme, banners and on online conference site
@@ -24,20 +24,20 @@ title-logo: <i class="far fa-handshake"></i>
 - 3 complimentary delegate registrations, inclusive of social functions
 - Exhibition space (about 2×2 m, exact size to be confirmed)
 
-##### Silver Partner — 3500 CHF
+##### Silver Partner — 5000 CHF
 - Partner’s logo on the conference website with hyperlink to the partner’s website
 - Regular size partner’s logo in printed programme, banners and on online conference site
 - Acknowledgement during main events
 - 2 complimentary delegate registrations, inclusive of social functions
 - Exhibition space (about 2×1 m, exact size to be confirmed)
 
-##### Bronze Partner — 2000 CHF
+##### Bronze Partner — 3000 CHF
 - Partner’s logo on the conference website with hyperlink to the partner’s website
 - Regular size partner’s logo in printed programme, banners and on online conference site
 - Acknowledgement during main events
 - 1 complimentary delegate registration, inclusive of social functions
 
-##### Startup Partner — 500 CHF
+##### Startup Partner — 1000 CHF
 - Partner’s logo on the conference website with hyperlink to the partner’s website
 - Regular size partner’s logo in printed programme, banners and on online conference site
 - Acknowledgement during main events
