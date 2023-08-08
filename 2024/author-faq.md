@@ -25,6 +25,9 @@ A. NO. We have set hard limits of 30MB (PDF Only) for paper submission and 100MB
 
 A. YES. Reviewers will get the exact pdf file of the paper you submitted, so they can see the color images on the screen. Do be warned though that many reviewers still like to read printed papers and not all have access to high-end color printers. Please make sure to comment in the paper to request the reviewers to see the color online copy.
 
+**Q. How do I obtain my paper ID?**
+
+A. After creating a new submission in the OpenReview system, you will see your paper ID. Please update your PDF accordingly and upload the PDF with the paper ID.
 
 **Q. What is the 3DV {{page.year}} policy on DUAL SUBMISSIONS?**
 
@@ -47,9 +50,11 @@ A. NO. Authors must properly anonymize the written submission as per the guideli
 
 **Q. Can I promote my paper in the press or on social media?**
 
-A. As stated in the instructions above, authors are not allowed to go to the press with their submission prior to the end of the review process, or to advertise their work on social media while explicitly identifying it as a 3DV submission. In recent conference cycles, some authors were found posting about their submissions on Twitter or other social media, and even including the title or a snapshot of the paper. This is a violation of anonymity, since the message may go out to many potential reviewers.
+A. The social media policies are consistent with CVPR'24. In particular, authors will be allowed to post to social media about their papers in submission. However, until the final accept/reject decisions are released by the conference, posts to social media must not identify the conference name. Violations may result in the paper being rejected or removed from the conference and proceedings.
 
-**Authors must not:**
+<!-- A. As stated in the instructions above, authors are not allowed to go to the press with their submission prior to the end of the review process, or to advertise their work on social media while explicitly identifying it as a 3DV submission. In recent conference cycles, some authors were found posting about their submissions on Twitter or other social media, and even including the title or a snapshot of the paper. This is a violation of anonymity, since the message may go out to many potential reviewers. -->
+
+<!-- **Authors must not:**
 
 ·       Talk to the media about your work as "in submission to 3DV"
 
@@ -61,7 +66,7 @@ A. As stated in the instructions above, authors are not allowed to go to the pre
 
 ·       Submit to arXiv without mentioning 3DV
 
-A paper may be rejected if the program chairs feel that the authors have attempted to let potential reviewers know who wrote the paper.
+A paper may be rejected if the program chairs feel that the authors have attempted to let potential reviewers know who wrote the paper. -->
 
 
 **Q. How do I cite my results reported in open challenges?**
