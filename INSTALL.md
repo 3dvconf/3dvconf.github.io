@@ -69,6 +69,10 @@ Editable files to create the logo and website images are available in
 `assets/website`. Feel free to use them as a template and edit them to your
 taste.
 
+### Command to create the 3dv.ico
+
+```convert 3dv-256.png 3dv-128.png 3dv-64.png 3dv-48.png 3dv-32.png 3dv-16.png 3dv.ico'''
+
 ## Dependencies
 
 ### Ruby
