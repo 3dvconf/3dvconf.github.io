@@ -28,6 +28,14 @@
       url: https://federicotombari.github.io
       image: img/2024/people/federico.png
  - section:
+   name: Industrial Liaison/Sponsorship Chairs
+   mail: 3dv24-sponsors [at] googlegroups [dot] com
+   people:
+    - name: Zan Gojcic
+      affiliation: NVIDIA
+      image: img/2024/people/gojcic.jpg
+      url: https://zgojcic.github.io
+ - section:
    name: Tutorial and Demo Chairs
    mail: 3DV24-demos [at] googlegroups [dot] com
    people:
