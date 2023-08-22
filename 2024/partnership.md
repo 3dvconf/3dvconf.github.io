@@ -57,9 +57,6 @@ title-logo: <i class="far fa-handshake"></i>
 - Display space for one piece of advertising material (folder, brochures etc.) during a coffee break of your choice
 - Prominent display of the logo during the break
 
-**Bag insert - 500 CHF**
-- Inclusion of promotional material in the participant conference bag
-
 **Custom packages** <br>
 Tailored packages can be arranged to suit your objectives.
 Please do not hesitate to contact the organisers to discuss your needs: **3dv24-sponsors [at] googlegroups [dot] com**
