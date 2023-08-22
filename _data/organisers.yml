@@ -86,6 +86,17 @@
       image: img/2024/people/gopal.jpeg
       url: https://hippogriff.github.io
  - section:
+   name: Technical Chairs
+   people:
+    - name: Sandro Lombardi
+      affiliation: ETH Zurich
+      image: img/2024/people/sandro.jpg
+      url: https://people.inf.ethz.ch/sandrlom/
+    - name: Boyang Sun
+      affiliation: ETH Zurich
+      image: img/2024/people/boyang.jpg
+      url: https://inf.ethz.ch/people/people-atoz/person-detail.MjY0ODc2.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html
+ - section:
    name: Website Chair and Social Media Chair
    people:
     - name: Francis Engelmann
