@@ -5,7 +5,7 @@ year: 2024
 ---
 
 
-Thank you for serving on the program committee of 3DV 2022 as a reviewer. Publications in conferences have a critical impact on scientific careers in our fields. Reviews on which acceptance or reject decisions are made are therefore of critical importance and should be written carefully. We ask that you take your duty seriously and have your reviews ready on time.
+Thank you for serving on the program committee of 3DV 2024 as a reviewer. Publications in conferences have a critical impact on scientific careers in our fields. Reviews on which acceptance or reject decisions are made are therefore of critical importance and should be written carefully. We ask that you take your duty seriously and have your reviews ready on time.
 
 We provide guidelines to help with the reviewing process. More specific
 guidelines can be found in the materials of two past tutorials on reviewing:
@@ -53,7 +53,9 @@ Your main critique of the paper should be written in terms of a list of strength
 
 ### Handling papers not in your specific area
 
-3DV is a small conference, but involves the very broad topic of 3D Vision that spans both computer vision and computer graphics. Paper assignments are done by Area Chairs who rely on their knowledge of your work as well as the match of submitted paper and your subject areas. It is very likely you will be assigned a paper that may be slightly out of your specific research area. In such cases, we ask that you do the best you can to review the paper. We trust your ability to distinguish between good papers and those that are not yet ready for acceptance.
+3DV is a small conference, but involves the very broad topic of 3D Vision that spans both computer vision and computer graphics.
+Paper assignments are done by automatic paper matching first and then manually adjusted by Area Chairs and Program Chairs
+It is very likely you will be assigned a paper that may be slightly out of your specific research area. In such cases, we ask that you do the best you can to review the paper. We trust your ability to distinguish between good papers and those that are not yet ready for acceptance.
 <br><br>
 
 ### When You’re Done
