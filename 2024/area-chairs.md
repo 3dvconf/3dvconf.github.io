@@ -1,7 +1,7 @@
 ---
 layout: 2021_sidebar
 title: Area Chairs
-year: 2022
+year: 2024
 ---
 
 <div class="row">
