@@ -11,7 +11,6 @@ title-logo: <i class="far fa-handshake"></i>
 - Partner’s logo on the conference website with hyperlink to the partner’s website
 - Large partner’s logo in the printed programme, banners and on online conference site
 - Acknowledgement during the main events
-- One promotional insert in the participant conference bag
 - 5 complimentary delegate registrations, inclusive of social functions
 - Exhibition space (about 2×2 m, exact size to be confirmed), first choice for a prime position in the exhibition area
 
@@ -20,7 +19,6 @@ title-logo: <i class="far fa-handshake"></i>
 - Partner’s logo on the conference website with hyperlink to the partner’s website
 - Medium partner’s logo in the printed programme, banners and on online conference site
 - Acknowledgement during main events
-- One promotional insert in the participant conference bag
 - 3 complimentary delegate registrations, inclusive of social functions
 - Exhibition space (about 2×2 m, exact size to be confirmed)
 
