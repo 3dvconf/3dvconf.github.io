@@ -35,6 +35,11 @@
       affiliation: NVIDIA
       image: img/2024/people/gojcic.jpg
       url: https://zgojcic.github.io
+    - name: Zuria Bauer
+      affiliation: ETH Zurich
+      image: img/2024/people/ZBauer.png
+      url: https://zuriabauer.com/
+
  - section:
    name: Tutorial and Demo Chairs
    mail: 3DV24-demos [at] googlegroups [dot] com
