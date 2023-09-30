@@ -4,6 +4,11 @@ title: Reviewer Guidelines
 year: 2024
 ---
 
+<div style="border: 2px solid #467CFD; padding: 15px">
+<i>Reviews for 3DV 2024 are due September 18, 2023 23:59 Pacific Time (PT).</i>
+</div>
+
+<br>
 
 Thank you for serving on the program committee of 3DV 2024 as a reviewer. Publications in conferences have a critical impact on scientific careers in our fields. Reviews on which acceptance or reject decisions are made are therefore of critical importance and should be written carefully. We ask that you take your duty seriously and have your reviews ready on time.
 
