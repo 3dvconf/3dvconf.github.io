@@ -10,6 +10,13 @@ background: ADD0B3
 favicon: "img/2024/3dv.ico"
 ---
 
+<div style="border: 2px solid #467CFD; padding: 15px; text-align: center">
+<i>The list of accepted papers is now <a href="https://docs.google.com/spreadsheets/d/1E8d6-TNK-EfwGjcuRBag4UOt4yB48fZt868nL885d1o/edit#gid=1793029531">available</a>.
+</i>
+</div>
+
+<br>
+
 The 11th International Conference on 3D Vision will be held in-person **in Davos, Switzerland** on **March 18-21, 2024**.
 
 This year's edition of 3DV will be moved from the fall of 2023 to the spring of 2024,
