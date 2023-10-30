@@ -11,9 +11,8 @@ To register, fill in the form here (coming soon).
 
 **Authors**
 
-At least one of the authors needs to be registered by either the Student
-Registration or the Full Registration by the time of the
-camera ready deadline. 
+At least one of the authors needs to be registered with a <b>Full Registration</b> by the time of the camera ready deadline.
+A student registation is not enough!
 It is **not** possible to register multiple papers for a single person. 
 
 **Registration Fees**
@@ -21,23 +20,23 @@ It is **not** possible to register multiple papers for a single person.
 <table style="border-collapse: collapse; border: 1px solid #AAAAAA; width: 100%;">
     <tr height="40px">
         <th>Registration Type</th>
-        <th>Early Bird <br> (until Jan. 14 2024)</th>
-        <th>Regular <br> (until Mar. 10 2024)</th>
-        <th>Late <br> (after Mar. 10 2024)</th>
+        <td align="center"><b>Early Bird</b><br> (until Jan. 14 2024)</td>
+        <td align="center"><b>Regular</b><br> (until Mar. 10 2024)</td>
+        <td align="center"><b>Late</b><br> (after Mar. 10 2024)</td>
     </tr>
 
     <tr height="40px">
         <th> Student Registration</th>
-        <td> 250 CHF </td>
-        <td> 300 CHF </td>
-        <td> 350 CHF </td>
+        <td align="center"> 250 CHF </td>
+        <td align="center"> 300 CHF </td>
+        <td align="center"> 350 CHF </td>
     </tr>
     
     <tr height="40px">
         <th> Full Registration</th>
-        <td> 450 CHF </td>
-        <td> 550 CHF </td>
-        <td> 600 CHF </td>
+        <td align="center"> 450 CHF </td>
+        <td align="center"> 550 CHF </td>
+        <td align="center"> 600 CHF </td>
     </tr>
 
 </table>
