@@ -11,7 +11,7 @@ favicon: "img/2024/3dv.ico"
 ---
 
 <div style="border: 2px solid #467CFD; padding: 15px; text-align: center">
-<i>Registration is now open: <a href="http://www.davoscongress.ch/3DVConference/Registration">Register here</a>.
+<i>Registration is now open: <a href="https://3dvconf.github.io/2024/registration/">Register here</a>.
 </i>
 </div>
 <br/>
