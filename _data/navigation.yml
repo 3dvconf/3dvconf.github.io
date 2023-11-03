@@ -37,8 +37,8 @@
    nested:
    - title: Call for Papers
      url: call-for-papers
-  #  - title: Call for Demos
-    #  url: call-for-demos
+   - title: Call for Demos
+     url: call-for-demos
   #  - title: Call for Tutorials
     #  url: call-for-tutorials
  - title: Submission
