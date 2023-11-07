@@ -10,9 +10,6 @@ previous-years:
  - name: Supplementary
    date: August 14, 2023
    enabled: true
-#  - name: Tutorial submission
-  #  date: August 15, 2022
-  #  enabled: true
    #- name: Tutorial notification
    #- date: TBD
    #- enabled: true
@@ -28,9 +25,12 @@ previous-years:
  - name: Camera ready
    date: December 1, 2023
    enabled: true
-#  - name: Demo submission
-  #  date: August 15, 2022
+# - name: Demo submission
+  #  date: January 16, 2024
   #  enabled: true
+ - name: Demo submission
+   date: January 16, 2024
+   enabled: true
    #- name: Demo notification
    #- date: TBD
    #- enabled: true
