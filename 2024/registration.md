@@ -6,7 +6,8 @@ title: Registration
 
 **Registration Page**
 
-To register, fill in the form here (coming soon).
+Registration is now open:
+<a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a>
 <!-- To register, fill in the form [here.](http://www.davoscongress.ch/3DVConference/Registration) -->
 
 **Authors**
