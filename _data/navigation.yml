@@ -49,8 +49,8 @@
      url: author-instructions
    - title: Author FAQs
      url: author-faq
-  #  - title: Camera Ready Instructions
-    #  url: camera-ready-instructions
+   - title: Camera Ready Instructions
+     url: camera-ready-instructions
   #  - title: Poster Instructions
     #  url: poster-instructions
    - title: Policies
