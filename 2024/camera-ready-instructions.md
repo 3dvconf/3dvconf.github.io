@@ -52,9 +52,9 @@ A note regarding title capitalization: there are several websites that can help 
 
 Deadline: (Dec 10, 2023 23:59 PST)
 
-Supplementary material can also be uploaded. The supplementary material may include videos, images, proofs, additional figures or tables, a more detailed analysis of experiments presented in the paper, or code.
-
-The uploaded supplemental material may only include PDF files. For videos, we suggest uploading them somewhere, e.g., YouTube, and then providing a link to the video in the supplementary PDF. Multiple files can be packed in a zip file. <b>The file size limit for supplemental material is 100MB</b>.
+Supplementary material can also be uploaded and may include videos, code, images, proofs, additional figures and tables, a more detailed analysis of experiments presented in the paper. 
+<!--The uploaded supplemental material may only include PDF files. For videos, we suggest uploading them somewhere, e.g., YouTube, and then providing a link to the video in the supplementary PDF. -->
+Multiple files can be packed in a single zip file. <b>The file size limit for supplemental material is 100MB</b>. To save space, videos and code can for example also be uploaded to YouTube or GitHub.
 
 
 <h2>4. Validate your camera-ready paper</h2>
