@@ -10,6 +10,21 @@ Registration is now open:
 <a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a>
 <!-- To register, fill in the form [here.](http://www.davoscongress.ch/3DVConference/Registration) -->
 
+If you require any changes to your reservation, please get in touch with the Conference center directly.
+Conference center contact:
+<table border="0px">
+<tr>
+    <td>Phone: </td>
+    <td>    +41 (0)81 415 21 64</td>
+</tr>
+<tr>
+    <td>E-Mail: </td><td>daniela.heldstab@davos.ch</td>
+</tr><tr>
+    <td>Web: </td><td>http://www.davoscongress.ch</td>
+</tr>
+</table>
+<br>
+
 **Authors**
 
 At least one of the authors needs to be registered with a **Full Registration** by the time of the camera ready deadline.
