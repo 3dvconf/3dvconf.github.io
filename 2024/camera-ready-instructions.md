@@ -28,8 +28,12 @@ There are multiple steps to completing your final 3DV 2024 paper submission:
 
 Deadline: (Dec 10, 2023 23:59 PST)
 
-All papers will require one author to pay the <b>Full Passport</b> registration fee (not Student) to attend the live interactive presentations. At least one author for each paper must register to attend the conference using our <a href="https://3dvconf.github.io/2024/registration/">online registration</a>.
-Provide your paper ID at registration time so that your paper can be matched with your co-authors. Please note that we will require one Passport fee for each paper in case of authors of multiple papers. <b>It is not possible to register multiple papers for a single person</b>. If a paper has no registered authors for the conference, the paper will not be included in the proceedings.
+All papers will require one author to pay the <b>Full or Student Passport</b> registration fee to attend the live interactive presentations.
+At least one author for each paper must register to attend the conference using our <a href="https://3dvconf.github.io/2024/registration/">online registration</a>.
+Provide your paper ID at registration time so that your paper can be matched with your co-authors.
+Please note that we will require one Passport fee for each paper in case of authors of multiple papers.
+<b>It is not possible to register multiple papers for a single person</b>.
+If a paper has no registered authors for the conference, the paper will not be included in the proceedings.
 
 <h2>2. Prepare your paper</h2>
 

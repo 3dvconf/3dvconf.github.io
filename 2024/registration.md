@@ -27,8 +27,7 @@ Conference center contact:
 
 **Authors**
 
-At least one of the authors needs to be registered with a **Full Registration** by the time of the camera ready deadline.
-A student registration is **not** enough!
+At least one of the authors needs to be registered with a **Full or Student Registration** by the time of the camera ready deadline.
 It is **not** possible to register multiple papers for a single person. 
 
 **Registration Fees**
