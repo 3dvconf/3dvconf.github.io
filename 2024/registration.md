@@ -10,7 +10,13 @@ Registration is now open:
 <a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a>
 <!-- To register, fill in the form [here.](http://www.davoscongress.ch/3DVConference/Registration) -->
 
-If you require any changes to your reservation, please get in touch with the Conference center directly.
+<ul>
+<li>3DV'24 is an in-person conference. All authors are expected to present on-site.
+If no author is on-site, the paper will not be presented at the conference.
+In case of visa denial, authors are still required to register for the conference to ensure inclusion in the proceedings.
+In such instances, kindly send the visa rejection letter to the program chairs.</li>
+
+<li>If you require any changes to your reservation, please get in touch with the Conference center directly.
 Conference center contact:
 <table border="0px">
 <tr>
@@ -24,7 +30,8 @@ Conference center contact:
 </tr>
 </table>
 <br>
-
+</li>
+</ul>
 **Authors**
 
 At least one of the authors needs to be registered with a **Full or Student Registration** by the time of the camera ready deadline.
