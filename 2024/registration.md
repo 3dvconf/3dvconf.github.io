@@ -36,9 +36,9 @@ Conference center contact:
     <td>    +41 (0)81 415 21 64</td>
 </tr>
 <tr>
-    <td>E-Mail: </td><td><a href="mailto:daniela.heldstab@davos.ch">daniela.heldstab@davos.ch</a> and <a href="Serena.Grob@davos.ch">serena.grob@davos.ch</a></td>
+    <td>E-Mail: </td><td><a href="mailto:daniela.heldstab@davos.ch">daniela.heldstab@davos.ch</a></td>
 </tr>
-<tr><td></td><td>(please contact them with both emails in CC)</td></tr>
+<!-- <tr><td></td><td>(please contact them with both emails in CC)</td></tr> -->
 <tr>
     <td>Web: </td><td><a href="http://www.davoscongress.ch">http://www.davoscongress.ch</a></td>
 </tr>
