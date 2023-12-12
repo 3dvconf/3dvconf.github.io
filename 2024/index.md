@@ -10,9 +10,15 @@ background: ADD0B3
 favicon: "img/2024/3dv.ico"
 ---
 
-<div style="border: 2px solid #467CFD; padding: 15px; text-align: center">
+<div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
 <i>Registration is now open: <a href="https://3dvconf.github.io/2024/registration/">Register here</a>.
-For any visa related support, please directly contact Ms. Jrene Müller (jrene.mueller@geod.baug.ethz.ch).
+<br><br>
+
+For any visa related questions, please directly contact Ms. Jrene Müller (<a href="mailto:jrene.mueller@geod.baug.ethz.ch">jrene.mueller@geod.baug.ethz.ch</a>).
+<br><br>
+
+Early Registration Deadline: <b>January 14, 2024</b><br>
+Regular Regular Registration Deadline: <b>March 10, 2024</b>
 </i>
 
 </div>

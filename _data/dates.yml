@@ -41,6 +41,13 @@ previous-years:
    date: March 18-21, 2024
    enabled: true
 
+ - name: Early Registrion
+   date: January 14, 2024
+   enabled: true
+ - name: Regular Registrion
+   date: March 10, 2024
+   enabled: true
+
 2022:
  - name: Paper registration
    date: <del style="color:red;"> May 26</del> <b>June 2</b>, 2022

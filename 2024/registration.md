@@ -6,8 +6,20 @@ title: Registration
 
 **Registration Page**
 
+<div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
 Registration is now open:
 <a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a>
+<br><br>
+For any visa related questions, please directly contact Ms. Jrene Müller (<a href="mailto:jrene.mueller@geod.baug.ethz.ch">jrene.mueller@geod.baug.ethz.ch</a>).
+<br><br>
+Early Registration Deadline: <b>January 14, 2024</b><br>
+Regular Regular Registration Deadline: <b>March 10, 2024</b>
+
+</div>
+
+<br>
+<!-- Registration is now open:
+<a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a> -->
 <!-- To register, fill in the form [here.](http://www.davoscongress.ch/3DVConference/Registration) -->
 
 <ul>
@@ -16,7 +28,7 @@ If no author is on-site, the paper will not be presented at the conference.
 In case of visa denial, authors are still required to register for the conference to ensure inclusion in the proceedings.
 In such instances, kindly send the visa rejection letter to the program chairs.</li>
 
-<li>If you require any changes to your reservation, please get in touch with the Conference center directly.
+<li>If you require any <b>changes to your reservation</b>, please get in touch with the Conference center directly.
 Conference center contact:
 <table border="0px">
 <tr>
@@ -24,9 +36,11 @@ Conference center contact:
     <td>    +41 (0)81 415 21 64</td>
 </tr>
 <tr>
-    <td>E-Mail: </td><td>daniela.heldstab@davos.ch</td>
-</tr><tr>
-    <td>Web: </td><td>http://www.davoscongress.ch</td>
+    <td>E-Mail: </td><td><a href="mailto:daniela.heldstab@davos.ch">daniela.heldstab@davos.ch</a> and <a href="Serena.Grob@davos.ch">serena.grob@davos.ch</a></td>
+</tr>
+<tr><td></td><td>(please contact them with both emails in CC)</td></tr>
+<tr>
+    <td>Web: </td><td><a href="http://www.davoscongress.ch">http://www.davoscongress.ch</a></td>
 </tr>
 </table>
 <br>
