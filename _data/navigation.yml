@@ -19,6 +19,19 @@
     #  url: general-information
   #  - title: Visa and covid
     #  url: visa
+ - title: Program
+   nested:
+   - title: Schedule
+     url: schedule
+  #  - title: Accepted papers
+    #  url: accepted-papers
+  #  - title: Demos
+    #  url: demos
+  #  - title: Tutorials
+    #  url: tutorials
+  #  - title: Prizes
+    #  url: prizes
+
  - title: Partnerships
    nested:
    - title: Partnership Program
