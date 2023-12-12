@@ -5,7 +5,7 @@ title: Schedule
 ---
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpEd2wxr0Uwn3zVmCTfZptOXemTQwvJ00pYSf6Dui0HUoKYURy28rQZfilGH1Cew/pubhtml?gid=2043701182&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="100%" height="550px" style="border: 1px"></iframe>
-<br>
+
 
 {% assign sessionsByDay = site.data.schedule[page.year] | group_by: 'day' %}
 
