@@ -4,7 +4,18 @@ year: 2024
 title: Schedule
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpEd2wxr0Uwn3zVmCTfZptOXemTQwvJ00pYSf6Dui0HUoKYURy28rQZfilGH1Cew/pubhtml?gid=2043701182&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;gridlines=false&amp;range=a1:g16" width="800" height="400px" style="border: 0px; margin: auto; display:block;"></iframe>
+
+<div style="width: 780px; height: 600px; position: relative; margin: auto; display: block">
+
+<div style="background-color: white; position: absolute; top: 0; left: 0; width: 100%; height: 25px"></div>
+
+<div style="background-color: white; position: absolute; top: 0; left: 0; width: 10px; height: 100%"></div>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpEd2wxr0Uwn3zVmCTfZptOXemTQwvJ00pYSf6Dui0HUoKYURy28rQZfilGH1Cew/pubhtml?gid=2043701182&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;gridlines=false" width="780" height="600px"  frameborder="0" style="margin: auto; display:block; width: 100%; height: 100%"></iframe>
+	
+</div>
+
+
 
 {% assign sessionsByDay = site.data.schedule[page.year] | group_by: 'day' %}
 
