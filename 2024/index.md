@@ -12,7 +12,7 @@ favicon: "img/2024/3dv.ico"
 
 <div style="border: 2px solid #467CFD; padding: 15px; text-align: center">
 <i>Registration is now open: <a href="https://3dvconf.github.io/2024/registration/">Register here</a>.
-For any visa related support, please direclty contact Ms. Jrene Müller (jrene.mueller@geod.baug.ethz.ch).
+For any visa related support, please directly contact Ms. Jrene Müller (jrene.mueller@geod.baug.ethz.ch).
 </i>
 
 </div>
