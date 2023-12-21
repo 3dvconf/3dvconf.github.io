@@ -5,4 +5,4 @@ title: Camera-ready deadline extended!
 author: Francis Engelmann
 ---
 
-We extended the camera ready deadline to December 22, 2023.
+We will announce the camera ready deadline soon.

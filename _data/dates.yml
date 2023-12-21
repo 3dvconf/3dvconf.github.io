@@ -41,10 +41,10 @@ previous-years:
    date: March 18-21, 2024
    enabled: true
 
- - name: Early Registrion
+ - name: Early Registration
    date: January 14, 2024
    enabled: true
- - name: Regular Registrion
+ - name: Regular Registration
    date: March 10, 2024
    enabled: true
 
