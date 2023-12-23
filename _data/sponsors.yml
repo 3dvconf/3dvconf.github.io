@@ -1,3 +1,20 @@
+2024:
+ - section:
+   name: Platinum Partners
+   company:
+    - name: Hexagon
+      logo: img/2024/sponsors/HEXAGON_STANDARD_RGB_LOGO Hires Standard.png
+      url: https://www.hexagon.com/
+      height: 25em
+      mdsize: 8
+#  - section:
+#    name: Gold Partners
+#    company:
+#     - name: 3dMD
+#       logo: img/2022/sponsors/3dMD_logo_highres_wb.png
+#       url: https://3dmd.com/ 
+#       height: 10em
+#       mdsize: 5
 2022:
  - section:
    name: Platinum Partners

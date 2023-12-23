@@ -36,8 +36,8 @@
    nested:
    - title: Partnership Program
      url: partnership
-  #  - title: Sponsors
-    #  url: sponsors
+   - title: Sponsors
+     url: sponsors
  - title: People
    nested:
    - title: Organizers

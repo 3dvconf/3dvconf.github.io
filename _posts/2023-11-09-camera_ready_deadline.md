@@ -1,6 +1,6 @@
 ---
 layout: 2021_post
-year: 2024
+year: 2025
 title: Camera-ready deadline extended!
 author: Francis Engelmann
 ---

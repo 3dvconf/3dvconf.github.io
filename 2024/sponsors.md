@@ -7,106 +7,18 @@ title-logo: <i class="far fa-handshake"></i>
 
 <h3 class="centre">Platinum Partners</h3>
 
-<div class="col-md-12 assia">
-<br/>
-
-<a href="https://www.capturingreality.com/" target="_blank">
-<img alt="Epic Games Logo" 
-src="{{site.url}}/img/2022/sponsors/epicgames_Logo_Vertical_Black.png"
-style="max-height:28em;"></a>
-
-<a href="https://about.fb.com/realitylabs/" target="_blank">
-<img alt="Meta Logo" 
-src="{{site.url}}/img/2022/sponsors/RL-Research_Logo_Black.png"
-style="max-height:17em;"></a>
-
-</div>
-<br><br>
-
-<h3 class="centre">Gold Partners</h3>
-<br/>
-
-<div class="col-md-12 assia" style="text-align: center">
-
-<a href="https://3dmd.com/" target="_blank">
-<img alt="3dmd Logo" class="post-image"
-src="{{site.url}}/img/2022/sponsors/3dMD_logo_highres_wb.png"
-style="max-height:10em;"></a>
-
-<a href="https://research.google/" target="_blank">
-<img alt="Google Logo"
-src="{{site.url}}/img/2022/sponsors/google_logo.png"
-style="max-height:10em;"></a>
-
-<a href="https://www.huawei.com/en/" target="_blank">
-<img alt="Huawei Logo"
-src="{{site.url}}/img/2022/sponsors/HW_POS_RGB_Horizontal.png"
-style="max-height:10em">
-</a>
-
-<br>
-<br>
-<br>
-<a href="https://europe.naverlabs.com/" target="_blank">
-<img alt="NaverLabs Logo" 
-src="{{site.url}}/img/2022/sponsors/NLE_logo_2lines_black.svg"
-style="max-height:8em;"></a>
-
-</div>
-<br><br>
+<a href="https://hexagon.com" target="_blank">
+<img src="{{site.url}}/img/2024/sponsors/HEXAGON_STANDARD_RGB_LOGO Hires Standard.png" width="90%"></a>
 
 
-<h3 class="centre">Silver Partner</h3>
-<br/>
+<!-- <h3 class="centre">Gold Partners</h3>
 
-<div class="col-md-12 assia" style="text-align: center">
+<h3 class="centre">Silver Partners</h3>
 
-<a href="https://careers.ocadogroup.com/what-you-can-do/technology" target="_blank">
-<img alt="Ocado Logo" 
-src="{{site.url}}/img/2022/sponsors/Ocado_Tech_Logo_H_2018_Pantone.png"
-style="max-height:9em;"></a>
+<h3 class="centre">Bronze Partners</h3>
 
-</div>
-<br><br>
+<h3 class="centre">Startup Partners</h3> -->
 
-
-<h3 class="centre">Bronze Partner</h3>
-<br/>
-
-<div class="col-md-12 assia" style="text-align: center">
-
-<a href="https://fyusion.com/" target="_blank">
-<img alt="Fyusion Logo" 
-src="{{site.url}}/img/2022/sponsors/Fyusion_Logo_RGB_wb.png"
-style="max-height:6em;"></a>
-
-</div>
-<br><br>
-
-<h3 class="centre">Startup Partner</h3>
-<br/>
-
-<div class="col-md-12 assia" style="text-align: center">
-
-<a href="https://meshcapade.com/" target="_blank">
-<img alt="Meshcapade Logo" 
-src="{{site.url}}/img/2022/sponsors/Meshcapade_RGB_Separated_wb.png"
-style="max-height:11em;"></a>
-
-</div>
-<br><br>
-
-<h3 class="centre">Partner</h3>
-<br/>
-
-<div class="col-md-12 assia" style="text-align: center">
-
-<a href="http://impact.ciirc.cvut.cz/ " target="_blank">
-<img alt="Impact Logo" 
-src="{{site.url}}/img/2022/sponsors/impact_wb.png"
-style="max-height:13em;"></a>
-
-</div>
 
 
 <!--
