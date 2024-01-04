@@ -6,8 +6,14 @@ title: Welcome to Davos!
 
 
 Davos is an Alpine resort town and a municipality in the canton of Graubünden, Switzerland.
-
 Gaining prominence in the 19th century as a mountain health resort, Davos is perhaps best known today for hosting the World Economic Forum—often referred to simply as "Davos"—an annual meeting of global political and corporate leaders. With a long history of winter sport, Davos also has one of Switzerland's largest ski resorts, and March is still a great time for skiiing!
+
+# Travel to Davos
+
+If you arrive by plane to Zurich, you can take a train to Davos directly from Zurich airport.
+If you fly with SWISS, you can take your <a href="https://www.swiss.com/br/en/customer-support/faq/sports-equipment">ski equipement free of charge</a>.
+Switzerland has excellent train connections, so traveling from Zurich Airport to Davos is very convenient and takes only about 3 hours.
+You can book your train ticket via the <a href="https://www.sbb.ch/" target="_blank">SBB online portal</a>.
 
 <!-- Located in the heart of Europe, the city of Prague is an open-air museum on its
 own you will love strolling through.
