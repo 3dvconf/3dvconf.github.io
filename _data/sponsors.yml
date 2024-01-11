@@ -2,7 +2,7 @@
  - section:
    name: Platinum Partners
    company:
-    - name: Hexagon
+    - name: hexagon
       logo: img/2024/sponsors/HEXAGON_STANDARD_RGB_LOGO Hires Standard.png
       url: https://www.hexagon.com/
       height: 25em
@@ -11,6 +11,21 @@
     - name: hilti
       logo: img/2024/sponsors/Hilti_logo.png
       url: https://www.hilti.com/
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: ecva
+      logo: img/2024/sponsors/ECVAlogo.png
+      url: http://ecva.net
+      height: 25em
+      width: 48%
+      mdsize: 8
+ - section:
+   name: Startup Partners
+   company:
+    - name: meshcapade
+      logo: img/2024/sponsors/Meshcapade_Logo.jpg
+      url: https://meshcapade.com
       height: 25em
       width: 48%
       mdsize: 8
