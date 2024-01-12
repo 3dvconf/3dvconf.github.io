@@ -23,7 +23,7 @@ Accepted demos will be presented in person and showcased in a dedicated session.
 Prepare a one-page summary (letter/A4 size) that describes the demo presentation,
 including pictures and, possibly, a link to a video. A PDF file of the one-page summary
 should be sent to demo chairs via e-mail: **3DV24-demos [at] googlegroups [dot] com** by
-**January 16, 2024**.
+**January 23, 2024**.
 
 ## Best Demo Award
 Entries are judged by a panel of 3D computer vision experts from across academia and industry.
