@@ -29,14 +29,6 @@
       height: 25em
       width: 48%
       mdsize: 8
-#  - section:
-#    name: Gold Partners
-#    company:
-#     - name: 3dMD
-#       logo: img/2022/sponsors/3dMD_logo_highres_wb.png
-#       url: https://3dmd.com/ 
-#       height: 10em
-#       mdsize: 5
 2022:
  - section:
    name: Platinum Partners
