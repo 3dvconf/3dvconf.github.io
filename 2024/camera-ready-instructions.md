@@ -26,7 +26,7 @@ There are multiple steps to completing your final 3DV 2024 paper submission:
 
 <h2>1. Register at least one author</h2>
 
-Deadline: to be announced
+Deadline: February 8, 2024
 
 All papers will require one author to pay the <b>Full or Student Passport</b> registration fee to attend the live interactive presentations.
 At least one author for each paper must register to attend the conference using our <a href="https://3dvconf.github.io/2024/registration/">online registration</a>.
@@ -37,7 +37,7 @@ If a paper has no registered authors for the conference, the paper will not be i
 
 <h2>2. Prepare your paper</h2>
 
-Deadline: to be announced
+Deadline: February 8, 2024
 
 There is a strict size limit of <b>30 MB</b> for the paper in the conference proceedings. If the size of your paper is bigger than this, you are probably using very large images in your figures. As a rule of thumb, your images will look fine at 600 pixels per inch and you should down-sample the images used in your figures accordingly. 
 The page limit for all papers is 8 pages—with at most 4 additional pages allowed that contain only cited references. To clarify, the main body of the paper, including figures, tables, equations, acknowledgments, etc., must be limited to <b>no more than 8 pages</b>. Additional pages may only contain cited references—not acknowledgments or other text, figures, tables, etc. Papers longer than 8 pages (not including references), will not be processed and will not appear in the conference proceedings.
@@ -54,18 +54,12 @@ A note regarding title capitalization: there are several websites that can help 
 
 <h2>3. Prepare your supplementary material (optional)</h2>
 
-Deadline: to be announced
+Deadline: February 8, 2024
 
 Supplementary material can also be uploaded and may include videos, code, images, proofs, additional figures and tables, a more detailed analysis of experiments presented in the paper. 
 <!--The uploaded supplemental material may only include PDF files. For videos, we suggest uploading them somewhere, e.g., YouTube, and then providing a link to the video in the supplementary PDF. -->
 Multiple files can be packed in a single zip file. <b>The file size limit for supplemental material is 100MB</b>. To save space, videos and code can for example also be uploaded to YouTube or GitHub.
 
-
-<h2>4. Validate your camera-ready paper</h2>
-Details will follow soon
-
-<h2>5. Electronic Copyright Form</h2>
-Details will follow soon
-
-<h2>6. Submit the validated paper</h2>
-Details will follow soon
+<h2>4. Submit the validated paper</h2>
+Follow the instructions on the  
+<a href="https://ieeecps.org/#!/auth/login?ak=1&pid=7r5OmS08bgXX2jX0qNpwo1">IEEE Conference Publiching Services</a>.
