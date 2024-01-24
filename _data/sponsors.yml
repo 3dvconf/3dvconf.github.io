@@ -21,6 +21,16 @@
       width: 48%
       mdsize: 8
  - section:
+   name: Bronze Partner
+   company:
+    - name: disney_research
+      logo: img/2024/sponsors/disney_research.png
+      url: https://www.disneyresearch.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
    name: Startup Partner & Best Student Award Sponsor
    company:
     - name: meshcapade
