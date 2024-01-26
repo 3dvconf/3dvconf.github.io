@@ -27,8 +27,8 @@
      url: accepted-papers
   #  - title: Demos
     #  url: demos
-  #  - title: Tutorials
-    #  url: tutorials
+   - title: Tutorials
+     url: tutorials
   #  - title: Prizes
     #  url: prizes
 

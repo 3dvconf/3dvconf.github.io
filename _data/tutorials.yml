@@ -1,3 +1,39 @@
+2024:
+  - title: "3D Gaussian Splatting"
+  #   organisers: "J. Spencer, A. Saha, C. Russell, S. Hadfield, and R. Bowden"
+    organisers:
+      - name: 
+        affiliation: 
+  #     - name: Avishkar Saha
+  #       affiliation: CVSSP, University of Surrey
+  #     - name: Chris Russell
+  #       affiliation: AWS Tübingen 
+  #     - name: Simon Hadfield
+  #       affiliation: CVSSP, University of Surrey
+  #     - name: Richard Bowden
+  #       affiliation: CVSSP, University of Surrey
+    description: ""
+    order: 2
+  - title: "Camera Geometry Problems in Computer Vision"
+    date: March 18, 2024  (14:30 - 17:30)
+    room: TBD
+    website: "https://sites.google.com/view/camgeo2024/home"
+    organisers: 
+      - name: Zuzana Kukelova
+        affiliation: Czech Technical University (CTU) in Prague
+      - name: Laura Leal-Taixé
+        affiliation: NVIDIA
+      - name: Daniel Barath
+        affiliation: ETH Zürich
+      - name: Viktor Larsson
+        affiliation: Lund University
+      - name: Tomas Pajdla
+        affiliation: Czech Technical University (CTU) in Prague
+      - name: Torsten Sattler
+        affiliation: Czech Technical University (CTU) in Prague
+    description: "The aim of this tutorial is to raise awareness of the tools for camera geometry estimation (solvers and solver generators) that are nowadays at the disposal of 3D vision researchers and practitioners and which problems can and cannot be efficiently solved at the moment. To this end, the tutorial will discuss current state-of-the-art minimal and non-minimal solvers, explain how to implement them and how to use them in practice, as well as give examples of their use in applications."
+    order: 1
+
 2022:
   - title: "Affine Correspondences and their Applications in Practice"
     organisers: 
