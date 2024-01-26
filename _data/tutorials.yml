@@ -1,19 +1,23 @@
 2024:
   - title: "3D Gaussian Splatting"
-  #   organisers: "J. Spencer, A. Saha, C. Russell, S. Hadfield, and R. Bowden"
+    date: March 18, 2024  (14:30 - 17:30)
+    room: TBD
+    website: "https://sites.google.com/view/camgeo2024/home"
     organisers:
-      - name: 
+      - name: Georgios Kopanas
+        affiliation: Google
+      - name: Bernhard Kerbl
+        affiliation: TU Wien
+      - name: Jonathon Luiten
         affiliation: 
-  #     - name: Avishkar Saha
-  #       affiliation: CVSSP, University of Surrey
-  #     - name: Chris Russell
-  #       affiliation: AWS Tübingen 
-  #     - name: Simon Hadfield
-  #       affiliation: CVSSP, University of Surrey
-  #     - name: Richard Bowden
-  #       affiliation: CVSSP, University of Surrey
-    description: ""
+      - name: Antoine Guédon
+        affiliation: ENPC
+    description: "3D Gaussian Splatting(3DGS) suggests a rasterization-based method for reconstructing radiance fields. This allows for high-quality reconstruction that achieves high speed and performance even for low-end devices. Gaussian Splatting motivated practitioners to build a significant amount of tools and applications. 3DGS  has also been integrated with frameworks like Unity, Unreal, three.js, and NeRFStudio. On top of that, a significant amount of research that uses 3DGS has been released, spanning different topics: from dynamic and human reconstruction to SLAM, 3D Generative Models, and many more.
+
+In this tutorial, we will first explain 3DGS, we will give practical suggestions about using the different tools we find useful in a research context, and talk about the progress in the research domain.
+"
     order: 2
+
   - title: "Camera Geometry Problems in Computer Vision"
     date: March 18, 2024  (14:30 - 17:30)
     room: TBD
