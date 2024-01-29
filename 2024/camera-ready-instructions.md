@@ -16,8 +16,8 @@ All 3DV papers that are submitted on time, which are compliant with the guidelin
 There are multiple steps to completing your final 3DV 2024 paper submission:
 
 <ol>
- <li>Register at least one author (To be announced)</li>
- <li>Prepare your paper (To be announced)</li>
+ <li>Register at least one author</li>
+ <li>Prepare your paper</li>
  <li>Prepare your supplementary material (optional)</li>
  <li>Validate your camera-ready paper</li>
  <li>Complete and submit the Electronic Copyright Form</li>
@@ -31,7 +31,7 @@ Deadline: February 8, 2024
 All papers will require one author to pay the <b>Full or Student Passport</b> registration fee to attend the live interactive presentations.
 At least one author for each paper must register to attend the conference using our <a href="https://3dvconf.github.io/2024/registration/">online registration</a>.
 Provide your paper ID at registration time so that your paper can be matched with your co-authors.
-Please note that we will require one Passport fee for each paper in case of authors of multiple papers.
+Please note that we will require one registration for each paper in case of authors of multiple papers.
 <b>It is not possible to register multiple papers for a single person</b>.
 If a paper has no registered authors for the conference, the paper will not be included in the proceedings.
 
@@ -40,7 +40,8 @@ If a paper has no registered authors for the conference, the paper will not be i
 Deadline: February 8, 2024
 
 There is a strict size limit of <b>30 MB</b> for the paper in the conference proceedings. If the size of your paper is bigger than this, you are probably using very large images in your figures. As a rule of thumb, your images will look fine at 600 pixels per inch and you should down-sample the images used in your figures accordingly. 
-The page limit for all papers is 8 pages—with at most 4 additional pages allowed that contain only cited references. To clarify, the main body of the paper, including figures, tables, equations, acknowledgments, etc., must be limited to <b>no more than 8 pages</b>. Additional pages may only contain cited references—not acknowledgments or other text, figures, tables, etc. Papers longer than 8 pages (not including references), will not be processed and will not appear in the conference proceedings.
+The page limit for all papers is <b>8</b> pages — with at most <b>4</b> additional pages allowed that contain only cited references.
+To clarify, the main body of the paper, including figures, tables, equations, acknowledgments, etc., must be limited to <b>no more than 8 pages</b>. Additional pages may only contain cited references — no acknowledgments or other text, figures, tables, etc. Papers longer than 8 pages (not including references), will not be processed and will not appear in the conference proceedings.
 
 LaTeX style files compatible with the publisher's requirements are available through the <a href="https://github.com/cvpr-org/author-kit/archive/refs/tags/3DV2024-v1.2.zip">3DV 2024 website (zip)</a>.
 
@@ -61,5 +62,9 @@ Supplementary material can also be uploaded and may include videos, code, images
 Multiple files can be packed in a single zip file. <b>The file size limit for supplemental material is 100MB</b>. To save space, videos and code can for example also be uploaded to YouTube or GitHub.
 
 <h2>4. Submit the validated paper</h2>
-Follow the instructions on the  
-<a href="https://ieeecps.org/#!/auth/login?ak=1&pid=7r5OmS08bgXX2jX0qNpwo1">IEEE Conference Publiching Services</a>.
+Follow the instructions on the <a href="https://ieeecps.org/#!/auth/login?ak=1&pid=7r5OmS08bgXX2jX0qNpwo1">IEEE Conference Publiching Services</a>.
+If you do not already have an account, please create one.
+After logging in, click on the green "Begin Paper Submission" button.
+On the left navigation bar, click on "Paper Validation" at the bottom and choose your prefered option to validate your paper.
+Then, follow the next steps by clicking the "Next" button on the top right.
+These steps include adding all the authors, uploading the validated PDF and subpplementary, as well as the copyright form.
