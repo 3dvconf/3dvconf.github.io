@@ -24,9 +24,9 @@ title-logo: <i class="far fa-handshake"></i>
 
 
 {% for section in site.data.sponsors[page.year] %}
-<h3 class="centre">{{ section.name }}</h3>
+<h3 class="centre" style="background-color: #EEEEEE">{{ section.name }}</h3>
 <br/>
-<div >
+<div align="center">
 	{% assign sorted_company = section.company | sort:'name' %}
 	{% for company in sorted_company %}
 	<!-- <div class="col-md-12 assia"> -->
