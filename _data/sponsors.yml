@@ -20,22 +20,23 @@
       height: 25em
       width: 48%
       mdsize: 8
+
+ - section:
+   name: Silver Partner
+   company:
+    - name: niantic
+      logo: img/2024/sponsors/niantic.png
+      url: https://nianticlabs.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+
  - section:
    name: Bronze Partner
    company:
     - name: disney_research
       logo: img/2024/sponsors/DRS-Logo-Lockup-Black_resized.png
       url: https://www.disneyresearch.com
-      height: 25em
-      width: 48%
-      mdsize: 8
-
- - section:
-   name: Gold Partner
-   company:
-    - name: niantic
-      logo: img/2024/sponsors/niantic.png
-      url: https://nianticlabs.com
       height: 25em
       width: 48%
       mdsize: 8
