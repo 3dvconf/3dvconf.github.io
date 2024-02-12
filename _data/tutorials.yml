@@ -1,6 +1,6 @@
 2024:
   - title: "3D Gaussian Splatting"
-    date: March 18, 2024  (14:30 - 17:30)
+    date: March 18, 2024  (14:30 - 18:00)
     room: TBD
     website: ""
     organisers:
@@ -9,7 +9,7 @@
       - name: Bernhard Kerbl
         affiliation: TU Wien
       - name: Jonathon Luiten
-        affiliation: 
+        affiliation: Meta Reality Labs
       - name: Antoine Guédon
         affiliation: ENPC
     description: "3D Gaussian Splatting(3DGS) suggests a rasterization-based method for reconstructing radiance fields. This allows for high-quality reconstruction that achieves high speed and performance even for low-end devices. Gaussian Splatting motivated practitioners to build a significant amount of tools and applications. 3DGS  has also been integrated with frameworks like Unity, Unreal, three.js, and NeRFStudio. On top of that, a significant amount of research that uses 3DGS has been released, spanning different topics: from dynamic and human reconstruction to SLAM, 3D Generative Models, and many more.
@@ -19,7 +19,7 @@ In this tutorial, we will first explain 3DGS, we will give practical suggestions
     order: 2
 
   - title: "Camera Geometry Problems in Computer Vision"
-    date: March 18, 2024  (14:20 - 17:30)
+    date: March 18, 2024  (14:20 - 18:00)
     room: TBD
     website: "https://sites.google.com/view/camgeo2024/home"
     organisers: 
