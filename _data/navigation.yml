@@ -64,8 +64,8 @@
      url: author-faq
    - title: Camera Ready Instructions
      url: camera-ready-instructions
-  #  - title: Poster Instructions
-    #  url: poster-instructions
+   - title: Poster Instructions
+     url: poster-instructions
    - title: Policies
      url: policies
    - title: Reviewer Guidelines

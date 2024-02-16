@@ -1,10 +1,18 @@
 ---
 layout: 2021_sidebar
-year: 2022
+year: 2024
 title: Poster Instructions
 ---
 
-Each poster will have its own poster board. Please refer to the image below with
+As we prepare for the upcoming 3DV conference, we wanted to provide some important details regarding the poster presentations:
+1. **Enumeration of Poster Boards:** We will have a total of 30 poster boards available for each session. To streamline the setup process and ensure smooth navigation during the event, we will assign a unique number to each board. This will assist presenters in locating their designated display area promptly.
+2. **Ideal Poster Size:** The perfect size for the poster boards is AO, (841 x 1189 mm, horizontal). This size offers ample space for presenters to showcase their work effectively. If any adjustments or accommodations are needed regarding the posters, please let us know at your earliest convenience.
+3. **Attachment Method:** For the convenience of all presenters, we will be providing Tessa powerstrips for the attachment of posters to the boards.
+We kindly request that all presenters utilize these provided powerstrips for hanging their posters.
+
+Should you have any questions or require further assistance regarding the poster session setup, please do not hesitate to reach out to us. We are here to ensure a successful and enjoyable event for all participants.
+
+<!-- Each poster will have its own poster board. Please refer to the image below with
 diagrams for the possible maximum dimensions of a poster. 
 
 The poster board has two panels that can be used for display. It is possible to
@@ -31,10 +39,10 @@ although feel free to reach for another provider.
 - [M & P Copier](https://www.mpcopier.cz/): for posters up to A0, less than 10 min walk from the
   venue.
 - [AK-ATELIER](https://ak-atelier-spol-s-ro.business.site/): less than 10 min
-  walk from the conference venue (the attendant is not english speaking though)
+  walk from the conference venue (the attendant is not english speaking though) -->
 
 
-<div class="col-md-12 assia" style="text-align: center">
+<!-- <div class="col-md-12 assia" style="text-align: center">
 <img src="{{site.url}}/img/2022/campus_plan/poster_example.png" style="width:85%;text-align:center;"/>
 </div>
 
@@ -45,4 +53,4 @@ although feel free to reach for another provider.
 
 <div class="col-md-12 assia" style="text-align: center">
 <img src="{{site.url}}/img/2022/campus_plan/3DV_floorplan.png" style="width:85%;text-align:center;"/>
-</div>
+</div> -->
