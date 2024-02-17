@@ -5,9 +5,12 @@ title: Poster Instructions
 ---
 
 As we prepare for the upcoming 3DV conference, we wanted to provide some important details regarding the poster presentations:
-1. **Enumeration of Poster Boards:** We will have a total of 30 poster boards available for each session. To streamline the setup process and ensure smooth navigation during the event, we will assign a unique number to each board. This will assist presenters in locating their designated display area promptly.
-2. **Ideal Poster Size:** The perfect size for the poster boards is AO, (841 x 1189 mm, horizontal). This size offers ample space for presenters to showcase their work effectively. If any adjustments or accommodations are needed regarding the posters, please let us know at your earliest convenience.
-3. **Attachment Method:** For the convenience of all presenters, we will be providing Tessa powerstrips for the attachment of posters to the boards.
+
+1. **Poster Presentations:** All accepted papers will be presented as posters, including orals and spotlights.
+
+2. **Enumeration of Poster Boards:** We will have a total of 30 poster boards available for each session. To streamline the setup process and ensure smooth navigation during the event, we will assign a unique number to each board. This will assist presenters in locating their designated display area promptly.
+3. **Ideal Poster Size:** The perfect size for the poster boards is AO, (841 x 1189 mm, horizontal). This size offers ample space for presenters to showcase their work effectively. If any adjustments or accommodations are needed regarding the posters, please let us know at your earliest convenience.
+4. **Attachment Method:** For the convenience of all presenters, we will be providing Tessa powerstrips for the attachment of posters to the boards.
 We kindly request that all presenters utilize these provided powerstrips for hanging their posters.
 
 Should you have any questions or require further assistance regarding the poster session setup, please do not hesitate to reach out to us. We are here to ensure a successful and enjoyable event for all participants.
