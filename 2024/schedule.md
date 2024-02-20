@@ -34,7 +34,7 @@ function myFunction() {
 }
 </script>
 <div align="center">
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for papers, authors, ..." size="80">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for papers, authors, ..." size="50">
 </div>
 <ul id="myUL" style="list-style-type: none;"></ul>
 
