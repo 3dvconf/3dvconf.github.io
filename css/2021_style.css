@@ -288,3 +288,12 @@ table.papers tr:nth-child(odd) {
   /* font-weight: bold; */
   color: #565656;
 }
+
+.paper_abstract {
+  margin-top: 10px;
+  /* font-size: 14px; */
+  font-weight: lighter;
+  text-align: justify;
+  text-justify: inter-word;
+  display: none;
+}

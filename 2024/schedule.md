@@ -61,6 +61,10 @@ function myFunction() {
 		title.classList.add("paper_title");
 		title.appendChild(document.createTextNode(data[i]['title']));
 
+		const paper_abstract = document.createElement("div");
+		paper_abstract.classList.add("paper_abstract");
+		paper_abstract.appendChild(document.createTextNode(data[i]['abstract']));
+
 		if (data[i]['title'] == ""){continue;}
 		poster_badge.appendChild(document.createTextNode(data[i]['poster']));
 		li.appendChild(poster_badge);
@@ -71,6 +75,7 @@ function myFunction() {
 		li.appendChild(title);
 		authors.appendChild(document.createTextNode(data[i]['authors']))
 		li.appendChild(authors)
+		li.appendChild(paper_abstract)
 		ul.appendChild(li);
 	}
 </script>
