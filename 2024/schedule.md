@@ -23,9 +23,9 @@ function myFunction() {
 
   // Loop through all list items, and hide those who don't match the search query
   for (i = 0; i < li.length; i++) {
-    a = li[i]; // .getElementsByTagName("a")[0];
-    txtValue = a.textContent || a.innerText;
-    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+    a = li[i];
+    txtValue = a.innerHTML || a.textContent;
+	if (txtValue.toUpperCase().indexOf(filter) > -1) {
       li[i].style.display = "";
     } else {
       li[i].style.display = "none";
@@ -48,27 +48,29 @@ function myFunction() {
 
 	const data = await d3.csv(csv_file_path);
 
-	for(let i=1; i<data.length; i++){
+	for(let i=0; i<data.length; i++){
 		const li = document.createElement("li");
-		li.style.backgroundColor = '#E9E9E9';
-		li.style.padding = '15px';
-		li.style.margin = '15px';
-		li.style.borderRadius = '10px';
-		li.style.color = 'black';
-		const badge = document.createElement("span");
-		badge.style.backgroundColor = '#FFFFFF';
-		badge.style.padding = '1px 5px 1px 5px';
-		badge.style.margin = '0px';
-		badge.style.borderRadius = '3px';
-		badge.style.color = 'black';
-		badge.style.fontSize = '10px';
-		badge.style.border = "1px solid gray";
-		badge.style.float = "right";
+		li.classList.add("paper_li");
+		const badge = document.createElement("p");
+		badge.classList.add("paper_badge");
+		const poster_badge = document.createElement("p");
+		poster_badge.classList.add("paper_badge");
+		const authors = document.createElement("div");
+		authors.classList.add("paper_authors");
+		const title = document.createElement("span");
+		title.classList.add("paper_title");
+		title.appendChild(document.createTextNode(data[i]['title']));
 
 		if (data[i]['title'] == ""){continue;}
-		badge.appendChild(document.createTextNode(data[i]['session']));
-		li.appendChild(badge);
-		li.appendChild(document.createTextNode(data[i]['title']));
+		poster_badge.appendChild(document.createTextNode(data[i]['poster']));
+		li.appendChild(poster_badge);
+		if (data[i]['session'] != ''){
+			badge.appendChild(document.createTextNode(data[i]['session']));
+			li.appendChild(badge);
+		}
+		li.appendChild(title);
+		authors.appendChild(document.createTextNode(data[i]['authors']))
+		li.appendChild(authors)
 		ul.appendChild(li);
 	}
 </script>
@@ -77,6 +79,16 @@ function myFunction() {
 <div>
 </div>
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 {% assign sessionsByDay = site.data.schedule[page.year] | group_by: 'day' %}

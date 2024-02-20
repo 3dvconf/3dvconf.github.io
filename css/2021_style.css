@@ -256,3 +256,34 @@ table.papers tr:nth-child(odd) {
   max-width: 100%;
   height: auto;
 }
+
+.paper_badge {
+  background-color: #FFFFFF;
+  padding: 3px 8px 3px 8px;
+  margin-left: 5px;
+  border-radius: 4px;
+  color: #565656;
+  /* font-family: "Gill Sans", sans-serif; */
+  /* font-size: 12px; */
+  /* font-style: normal; */
+  border: 1px solid #EAEAEA;
+  float: right;
+}
+
+.paper_li {
+  background-color: #F3F3F3;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 10px;
+  color: 'black';
+}
+
+.paper_authors {
+  color: #565656;
+  font-weight: lighter;
+}
+
+.paper_title {
+  /* font-weight: bold; */
+  color: #565656;
+}
