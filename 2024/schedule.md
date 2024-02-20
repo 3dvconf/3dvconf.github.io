@@ -42,8 +42,6 @@ function myFunction() {
 
 <script type="module">
 	import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-
-	//$.csv.toArray('asd,asd');
 	const csv_file_path = '{{site.url}}/schedule.csv';
 	let user_name = document.getElementById("name");
 	let ul = document.getElementById("myUL");
@@ -57,17 +55,29 @@ function myFunction() {
 		li.style.margin = '15px';
 		li.style.borderRadius = '10px';
 		li.style.color = 'black';
+		const badge = document.createElement("span");
+		badge.style.backgroundColor = '#FFFFFF';
+		badge.style.padding = '1px 5px 1px 5px';
+		badge.style.margin = '0px';
+		badge.style.borderRadius = '3px';
+		badge.style.color = 'black';
+		badge.style.fontSize = '10px';
+		badge.style.border = "1px solid gray";
+		badge.style.float = "right";
+
 		if (data[i]['title'] == ""){continue;}
+		badge.appendChild(document.createTextNode(data[i]['session']));
+		li.appendChild(badge);
 		li.appendChild(document.createTextNode(data[i]['title']));
 		ul.appendChild(li);
 	}
 </script>
 <script src="{{site.url}}/js/jquery.csv.js"></script>
 
-
 <div>
 </div>
 
+<br><br>
 
 {% assign sessionsByDay = site.data.schedule[page.year] | group_by: 'day' %}
 
