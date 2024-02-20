@@ -4,7 +4,7 @@ Poster 1,Oral 1,80,LFM-3D: Learnable Feature Matching Across Wide Baselines Usin
 Poster 1,Oral 1,198,SCENES: Subpixel Correspondence Estimation with Epipolar Supervision,"Dominik A. Kloepfer, João F. Henriques, Dylan Campbell",https://openreview.net/forum?id=RMgrY57XLH
 Poster 2,Oral 2,361,NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM,"Zihan Zhu, Songyou Peng, Viktor Larsson, Zhaopeng Cui, Martin R. Oswald, Andreas Geiger, Marc Pollefeys",https://openreview.net/forum?id=GKqofA1izi
 Poster 2,Oral 2,337,SlimmeRF: Slimmable Radiance Fields,"Shiran Yuan, Hao Zhao",https://openreview.net/forum?id=52JGaL9Vhp
-Poster 2,Oral 2,324,Radiance-supervised Surface Reconstruction with Regional Adaptive Training,,https://openreview.net/forum?id=Pply4Vv6Np
+Poster 2,Oral 2,324,RaNeuS: Ray-adaptive Neural Surface Reconstruction,,https://openreview.net/forum?id=Pply4Vv6Np
 Poster 2,Oral 2,107,Few-View Object Reconstruction with Unknown Categories and Camera Poses,"Hanwen Jiang, Zhenyu Jiang, Kristen Grauman, Yuke Zhu",https://openreview.net/forum?id=cbqMMORP3p
 Poster 3,Oral 3,316,Relative Pose for Nonrigid Multi-Perspective Cameras: The Static Case,"Min Li, Jiaqi Yang, Laurent Kneip",https://openreview.net/forum?id=A1NWxAAEon
 Poster 3,Oral 3,44,POCO: 3D Pose and Shape Estimation with Confidence,"Sai Kumar Dwivedi, Cordelia Schmid, Hongwei Yi, Michael J. Black, Dimitrios Tzionas",https://openreview.net/forum?id=ost30uBkNa
@@ -28,7 +28,7 @@ Poster 1,Spotlight 1,89,FastHuman: Reconstructing High-Quality Clothed Human in 
 Poster 1,Spotlight 1,265,Diffusion-HPC: Synthetic Data Generation for Human Mesh Recovery in Challenging Domains,,https://openreview.net/forum?id=2kHcblZUx8
 Poster 1,Spotlight 1,315,3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data,,https://openreview.net/forum?id=J25q5XSu9Y
 Poster 2,Spotlight 2,325,PRAGO: Differentiable multi-view pose optimization from objectness detections,,https://openreview.net/forum?id=V7AtGCdZMv
-Poster 2,Spotlight 2,244,Enhancing 3D Detection Through Feature Aligned Deep Fusion,,https://openreview.net/forum?id=QTllStKk2g
+Poster 2,Spotlight 2,244,PathFusion:Path-Consistent Lidar-Camera Deep Feature Fusion,,https://openreview.net/forum?id=QTllStKk2g
 Poster 2,Spotlight 2,269,LumiGAN: Unconditional Generation of Relightable 3D Human Faces,,https://openreview.net/forum?id=oCKQEroekk
 Poster 2,Spotlight 2,67,3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera,,https://openreview.net/forum?id=nDdvloSVou
 Poster 3,Spotlight 3,333,Ray-Patch: An Efficient Querying for Light Field Transformers,,https://openreview.net/forum?id=mGHqf88CXI
@@ -116,13 +116,13 @@ Poster 4,,373,A Cross Branch Fusion-based Contrastive Framework for Point Cloud 
 Poster 4,,90,Exploit Spatiotemporal Contextual Information for 3D Single Object Tracking via Memory Networks,,https://openreview.net/forum?id=iDSB0xho0B
 Poster 4,,205,Robust and Object-aware Motion Generation using Neural Pose Descriptors,,https://openreview.net/forum?id=KB6L99zaXy
 Poster 4,,128,Purposer: Putting Human Motion Generation in Context,,https://openreview.net/forum?id=MaKBxaXEb0
-Poster 4,,320,NeRF based Object Pose Estimation using Feature Rendering,,https://openreview.net/forum?id=QoCkOLpKKE
+Poster 4,,320,NeRF-Feat: 6D Object Pose Estimation using Feature Rendering,,https://openreview.net/forum?id=QoCkOLpKKE
 Poster 4,,47,TeCH: Text-guided Reconstruction of Lifelike Clothed Humans,,https://openreview.net/forum?id=0ys9E2b8qa
 Poster 4,,393,Hyper-SNBRDF: Hypernetwork for Neural BRDF using Sinusoidal Activation,,https://openreview.net/forum?id=mjLojqHyzv
 Poster 4,,246,PU-SDF: Arbitrary-Scale Uniformly Upsampling Point Clouds via Signed Distance Functions,,https://openreview.net/forum?id=SH2e62Xp9c
 Poster 4,,179,BLiSS: Bootstrapped Linear Shape Space,,https://openreview.net/forum?id=Lpu1vkA1KM
 Poster 5,,130,RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation,,https://openreview.net/forum?id=vQFgkAg6FV
-Poster 5,,62,Image Pretrained Standard Transformers for 3D Point Cloud Understanding,,https://openreview.net/forum?id=hE2zNKwfnT
+Poster 5,,62,Pix4Point: Image Pretrained Standard Transformers for 3D Point Cloud Understanding,,https://openreview.net/forum?id=hE2zNKwfnT
 Poster 5,,396,– Visual Tomography – Physically Faithful Volumetric Models of Partially Translucent Objects,,https://openreview.net/forum?id=GNVETIyUnH
 Poster 5,,17,Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis,,https://openreview.net/forum?id=uN0mE04Umt
 Poster 5,,197,Towards Learning Monocular 3D Object Localization From 2D Labels using the Physical Laws of Motion,,https://openreview.net/forum?id=pJxA0zQLvY

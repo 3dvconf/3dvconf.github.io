@@ -266,6 +266,7 @@ table.papers tr:nth-child(odd) {
   /* font-family: "Gill Sans", sans-serif; */
   /* font-size: 12px; */
   /* font-style: normal; */
+  /* font-weight: lighter; */
   border: 1px solid #EAEAEA;
   float: right;
 }
