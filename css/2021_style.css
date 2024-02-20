@@ -264,7 +264,7 @@ table.papers tr:nth-child(odd) {
   border-radius: 4px;
   color: #565656;
   /* font-family: "Gill Sans", sans-serif; */
-  /* font-size: 12px; */
+  font-size: 12px;
   /* font-style: normal; */
   /* font-weight: lighter; */
   border: 1px solid #EAEAEA;
@@ -273,8 +273,10 @@ table.papers tr:nth-child(odd) {
 
 .paper_li {
   background-color: #F3F3F3;
-  padding: 15px;
-  margin: 15px;
+  padding: 20px;
+  margin-top: 15px;
+  list-style-position: inside;
+  margin-left: 0px;
   border-radius: 10px;
   color: 'black';
 }
@@ -296,4 +298,15 @@ table.papers tr:nth-child(odd) {
   text-align: justify;
   text-justify: inter-word;
   display: none;
+}
+
+.paper_search {
+  border-radius: 6px;
+  border: 1px solid gray;
+  padding: 5px 25px 5px 30px;
+  width: 50%;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/55/Magnifying_glass_icon.svg");
+  background-size: 13px;
+  background-repeat: no-repeat;
+  background-position: 10px center;
 }
