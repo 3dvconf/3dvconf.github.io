@@ -4,13 +4,70 @@ year: 2024
 title: Schedule
 ---
 
-
 <div style="width: 920px; height: 600px; position: relative; margin: auto; display: block">
 <div style="background-color: white; position: absolute; top: 0; left: 0; width: 100%; height: 25px"></div>
 <div style="background-color: white; position: absolute; top: 0; left: 0; width: 10px; height: 100%"></div>
-<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpEd2wxr0Uwn3zVmCTfZptOXemTQwvJ00pYSf6Dui0HUoKYURy28rQZfilGH1Cew/pubhtml?gid=2043701182&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;gridlines=false" width="100%" height="600px"  frameborder="0" style="margin: auto; display:block; width: 100%; height: 100%"></iframe>	 -->
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThkXIBXxf7iZqdZBQw-gX4vFDSf147roBOC1-0AzlRfz8sRmzISyacY0lOQyxdzQOekQJikH5FUOYv/pubhtml?gid=2043701182&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;gridlines=false" width="100%" height="600px"  frameborder="0" style="margin: auto; display:block; width: 100%; height: 100%"></iframe>
 </div>
+
+<h1>Papers, Orals and Posters</h1>
+
+<script>
+function myFunction() {
+  // Declare variables
+  var input, filter, ul, li, a, i, txtValue;
+  input = document.getElementById('myInput');
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("myUL");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i < li.length; i++) {
+    a = li[i]; // .getElementsByTagName("a")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+</script>
+<div align="center">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for papers, authors, ..." size="80">
+</div>
+<ul id="myUL" style="list-style-type: none;"></ul>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<script type="module">
+	import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+	//$.csv.toArray('asd,asd');
+	const csv_file_path = '{{site.url}}/schedule.csv';
+	let user_name = document.getElementById("name");
+	let ul = document.getElementById("myUL");
+
+	const data = await d3.csv(csv_file_path);
+
+	for(let i=1; i<data.length; i++){
+		const li = document.createElement("li");
+		li.style.backgroundColor = '#E9E9E9';
+		li.style.padding = '15px';
+		li.style.margin = '15px';
+		li.style.borderRadius = '10px';
+		li.style.color = 'black';
+		if (data[i]['title'] == ""){continue;}
+		li.appendChild(document.createTextNode(data[i]['title']));
+		ul.appendChild(li);
+	}
+</script>
+<script src="{{site.url}}/js/jquery.csv.js"></script>
+
+
+<div>
+</div>
+
 
 {% assign sessionsByDay = site.data.schedule[page.year] | group_by: 'day' %}
 
@@ -134,5 +191,6 @@ title: Schedule
 </table>
 <br/>
 <br/>
+
 
 {% endfor %}
