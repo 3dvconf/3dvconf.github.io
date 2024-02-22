@@ -19,7 +19,7 @@ function myFunction() {
   input = document.getElementById('myInput');
   filter = input.value.toUpperCase();
   ul = document.getElementById("myUL");
-  li = ul.getElementsByTagName('li');
+  li = document.getElementsByClassName('paper_li');
 
   // Loop through all list items, and hide those who don't match the search query
   for (i = 0; i < li.length; i++) {
@@ -36,7 +36,8 @@ function myFunction() {
 <div align="center">
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for papers, authors, ..." class="paper_search">
 </div>
-<ul id="myUL" style="list-style-type: none;"></ul>
+
+<div id="myUL" style="list-style-type: none;"></div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
@@ -49,7 +50,15 @@ function myFunction() {
 	const data = await d3.csv(csv_file_path);
 
 	for(let i=0; i<data.length; i++){
-		const li = document.createElement("li");
+		const li_a = document.createElement("a");
+		li_a.classList.add("paper_a");
+		li_a.setAttribute("data-toggle", "collapse");
+		li_a.setAttribute("href", "#abstract_"+i.toString());
+		li_a.setAttribute("role", "button");
+		li_a.setAttribute("aria-expanded", "false");
+		li_a.setAttribute("aria-controls", "abstract_"+i.toString());
+
+		const li = document.createElement("div");
 		li.classList.add("paper_li");
 		const badge = document.createElement("p");
 		badge.classList.add("paper_badge");
@@ -63,6 +72,8 @@ function myFunction() {
 
 		const paper_abstract = document.createElement("div");
 		paper_abstract.classList.add("paper_abstract");
+		paper_abstract.classList.add("collapse");
+		paper_abstract.setAttribute("id", "abstract_"+i.toString());
 		paper_abstract.appendChild(document.createTextNode(data[i]['abstract']));
 
 		if (data[i]['title'] == ""){continue;}
@@ -73,10 +84,12 @@ function myFunction() {
 			li.appendChild(badge);
 		}
 		li.appendChild(title);
-		authors.appendChild(document.createTextNode(data[i]['authors']))
-		li.appendChild(authors)
-		li.appendChild(paper_abstract)
-		ul.appendChild(li);
+		authors.appendChild(document.createTextNode(data[i]['authors']));
+		li.appendChild(authors);
+		li.appendChild(paper_abstract);
+		li_a.appendChild(li);
+		ul.appendChild(li_a);
+
 	}
 </script>
 <script src="{{site.url}}/js/jquery.csv.js"></script>

@@ -293,11 +293,11 @@ table.papers tr:nth-child(odd) {
 
 .paper_abstract {
   margin-top: 10px;
-  /* font-size: 14px; */
+  font-size: 14px;
   font-weight: lighter;
   text-align: justify;
   text-justify: inter-word;
-  display: none;
+  color: #565656;
 }
 
 .paper_search {
@@ -309,4 +309,8 @@ table.papers tr:nth-child(odd) {
   background-size: 13px;
   background-repeat: no-repeat;
   background-position: 10px center;
+}
+
+.paper_a:hover {
+  text-decoration: none;
 }
