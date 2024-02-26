@@ -23,10 +23,15 @@ Regular Regular Registration Deadline: <b>March 10, 2024</b>
 <!-- To register, fill in the form [here.](http://www.davoscongress.ch/3DVConference/Registration) -->
 
 <ul>
+
+ 
+
 <li>3DV'24 is an in-person conference. All authors are expected to present on-site.
 If no author is on-site, the paper will not be presented at the conference.
+We require every paper to have an in-person presenter, and the publication will be removed from the proceedings otherwise.
 In case of visa denial, authors are still required to register for the conference to ensure inclusion in the proceedings.
-In such instances, kindly send the visa rejection letter to the program chairs.</li>
+If the presenter cannot attend due to denied Visa, please collect the supporting evidence, and inform the publication chair.
+</li>
 
 <li>If you require any <b>changes to your reservation</b>, please get in touch with the Conference center directly.
 Conference center contact:
