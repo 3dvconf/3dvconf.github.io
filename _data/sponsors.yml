@@ -20,6 +20,12 @@
       height: 25em
       width: 48%
       mdsize: 8
+    - name: microsoft
+      logo: img/2024/sponsors/Microsoft_logo.png
+      url: http://microsoft.com
+      height: 25em
+      width: 48%
+      mdsize: 8
 
  - section:
    name: Silver Partner
@@ -37,6 +43,18 @@
     - name: disney_research
       logo: img/2024/sponsors/DRS-Logo-Lockup-Black_resized.png
       url: https://www.disneyresearch.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: synthesia
+      logo: img/2024/sponsors/synthesia-logo.png
+      url: https://www.synthesia.io
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: huawei
+      logo: img/2024/sponsors/huawei.png
+      url: http://huawei.com
       height: 25em
       width: 48%
       mdsize: 8
