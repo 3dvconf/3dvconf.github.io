@@ -52,6 +52,10 @@
       height: 25em
       width: 48%
       mdsize: 8
+
+ - section:
+   name: Bronze Partner & Best Paper Award Sponsor
+   company:
     - name: huawei
       logo: img/2024/sponsors/huawei.png
       url: http://huawei.com
