@@ -25,8 +25,8 @@
      url: schedule
    - title: Papers
      url: accepted-papers
-  #  - title: Demos
-    #  url: demos
+   - title: Demos
+     url: demos
    - title: Tutorials
      url: tutorials
   #  - title: Prizes
