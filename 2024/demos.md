@@ -86,8 +86,8 @@ function myFunction() {
 		// }
 
 		li.appendChild(title);
-		// authors.appendChild(document.createTextNode(csv_data[i]['presenters']));
-		// li.appendChild(authors);
+		authors.appendChild(document.createTextNode(csv_data[i]['presenters']));
+		li.appendChild(authors);
 		li.appendChild(paper_abstract);
 		li_a.appendChild(li);
 		ul.appendChild(li_a);

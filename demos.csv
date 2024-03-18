@@ -1,8 +1,29 @@
 title,booth,presenters,abstract,Mar 19 - Lunch break,Poster 1,Poster 2,Mar 20 - Lunch break,Poster 3,Poster 4,Mar 21 - Lunch break,Poster 5,Poster 6
-Spot Demo for SceneFUN3D and SpotCompose,,"Oliver Lemke, Zuria Bauer, Francis Engelmann", ,,x,x,,x,x,,,
-Introducing H-SLAM: A Real-time Approach for Fusing Direct & Indirect,,,,,x,x,,x,x,,,
-SpatialGPT: Voice-based 3D Interaction and Visualization,,,,,,x,,,,,,
-AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents,,,,,,,,x,,,,
-A Tool for Interactive Multi-object 3D Segmentation,,"Yuanwen Yue, Theodora Kontogianni",,,x,x,,,,,,
-Deep Event Visual Odometry,,,,,,,,,,,,
-Generating Emotional 3D Talking Heads from Speech,,,,,,x,,,,,,
+Spot Demo for SceneFUN3D and SpotCompose,,"Oliver Lemke, Zuria Bauer, René Zurbrügg,  Marc Pollefeys,  Francis Engelmann,  Hermann Blum", ,,x,x,,x,x,,,
+Introducing H-SLAM: A Real-time Approach for Fusing Direct & Indirect,,"Georges Younes (American University of Beirut, University of Waterloo)
+Daniel Asmar (American University of Beirut)
+Douaa Khalil (American University of Beirut, University of Waterloo)
+Yan Song Hu (University of Waterloo)
+John Zelek (University of Waterloo)",,,x,x,,x,x,,,
+SpatialGPT: Voice-based 3D Interaction and Visualization,,"Lukas Koestler (Technical University Munich, SE3 Labs)
+Simon Klenk (Technical University Munich, SE3 Labs)
+Christoph Bonik (SE3 Labs)
+Daniel Cremers (Technical University Munich, SE3 Labs)",,,,x,,,,,,
+AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents,,"Jieming Cui (Peking University, National Key Laboratory of General Aritifical Intelligence BIGAI)
+Tengyu Liu (National Key Laboratory of General Aritifical Intelligence BIGAI)
+Yixin Zhu (Peking University, PKU-WUHAN Institute for Artificial Intelligence)
+Siyuan Huang (National Key Laboratory of General Aritifical Intelligence BIGAI)",,,,,,x,,,,
+A Tool for Interactive Multi-object 3D Segmentation,,"Yuanwen Yue (ETH Zurich)
+Sabarinath Mahadevan (RWTH Aachen University)
+Jonas Schult (RWTH Aachen University)
+Francis Engelmann (ETH Zurich)
+Bastian Leibe (RWTH Aachen University)
+Konrad Schindler (ETH Zurich)
+Theodora Kontogianni (ETH Zurich)",,,x,x,,,,,,
+Deep Event Visual Odometry,,"Simon Klenk (Technical University Munich, SE3 Labs)
+Marvin Motzet (Technical University Munich, Munich Center for Machine Learning)
+",,,x,,,,,,,
+Generating Emotional 3D Talking Heads from Speech,,"Federico Nocentini (University of Florence)
+Claudio Ferrari (University of Parma)
+Stefano Berretti (University of Florence)
+",,,,x,,,,,,
