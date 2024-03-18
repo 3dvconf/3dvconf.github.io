@@ -4,6 +4,8 @@ year: 2024
 title: Demo Sessions
 ---
 
+All demos take place directly in front of the main auditorium down the stairs.
+Below we indicate at what time the demos take place relative to the poster sessions.
 
 <script>
 // The google sheet is: https://docs.google.com/spreadsheets/d/1LlKBqUSRv67K3J2l9wUEmfuQLfY1mASbL5Dlo3SNqFo
