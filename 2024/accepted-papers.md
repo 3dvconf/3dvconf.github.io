@@ -24,6 +24,7 @@ function myFunction() {
   }
 }
 </script>
+You will find the schedule for both poster and oral sessions of accepted papers below. Poster presenters are free to select their board from those available and are kindly reminded to take down their posters following their designated session slot.
 <div align="center">
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for papers, authors, ..." class="paper_search">
 </div>
