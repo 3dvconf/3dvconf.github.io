@@ -1,7 +1,7 @@
 current-year: 2024
 previous-years:
-    - 2022
-    - 2021
+  - 2022
+  - 2021
  
 2024:
  - name: Paper submission
