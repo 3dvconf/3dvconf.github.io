@@ -1,3 +1,7 @@
+- name: 3DV 2025
+  url: https://3dvconf.github.io/2025/
+  # url: https://localhost:1200/2025/
+
 - name: 3DV 2024
   url: https://3dvconf.github.io/2024/
 
