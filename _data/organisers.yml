@@ -1,3 +1,98 @@
+2025:
+ - section:
+   name: General Chairs
+  #  mail: 3dv25gc [at] googlegroups [dot] com
+   people:
+    - name: Leonidas J. Guibas
+      affiliation: Stanford
+      image: img/2025/people/guibas.jpg
+      url: https://geometry.stanford.edu/member/guibas/
+    - name: Gim Hee Lee
+      affiliation: NUS
+      image: img/2025/people/lee.jpg
+      url: https://www.comp.nus.edu.sg/~leegh/
+    - name: Jie Song
+      affiliation: HKUST-GZ
+      image: img/2025/people/song.jpg
+      url: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/SONG-Jie/jsongroas
+ - section:
+   name: Program Chairs
+  #  mail: 3dv24PC [at] googlegroups [dot] com
+   people:
+    - name: Yiyi Liao
+      affiliation: Zhejiang University
+      url: https://yiyiliao.github.io/
+      image: img/2025/people/liao.jpg
+    - name: Jiajun Wu
+      affiliation: Stanford
+      url: https://jiajunwu.com/
+      image: img/2025/people/wu.jpg
+    - name: Martin R. Oswald
+      affiliation: Uni. of Amsterdam
+      url: https://scholar.google.com/citations?user=biytQP8AAAAJ
+      image: img/2025/people/oswald.jpg
+ - section:
+   name: Event Chairs
+  #  mail: 3dv24-sponsors [at] googlegroups [dot] com
+   people:
+    - name: Siew Fonng Ho
+      affiliation: NUS
+      image: img/2025/people/ho.jpg
+      url: https://sg.linkedin.com/in/siew-foong-ho-0b1535186
+    - name: Lay Khim Chng
+      affiliation: NUS
+      image: img/2025/people/chng.jpg
+      url: https://sg.linkedin.com/in/lay-khim-chng-fca-singapore-a486b5127
+ - section:
+   name: Tutorial/Demo Chairs
+  #  mail: 3dv24-sponsors [at] googlegroups [dot] com
+   people:
+    - name: Or Litany
+      affiliation: Technion & NVIDIA
+      image: img/2025/people/litany.jpg
+      url: https://orlitany.github.io/
+    - name: Fayao Liu
+      affiliation: A*Star
+      image: img/2025/people/liu.jpg
+      url: https://sites.google.com/site/fayaoliu/
+ - section:
+   name: Publication Chairs
+  #  mail: 3dv24-sponsors [at] googlegroups [dot] com
+   people:
+    - name: Tolga Birdal
+      affiliation: Imperial College
+      image: img/2025/people/birdal.jpg
+      url: https://tolgabirdal.github.io/
+    - name: Lionel Heng
+      affiliation: DSO Labs
+      image: img/2025/people/heng.jpg
+      url: https://www.lionel.work/
+ - section:
+   name: Industrial Chairs
+  #  mail: 3dv24-sponsors [at] googlegroups [dot] com
+   people:
+    - name: Lanqing Hong
+      affiliation: Huawei Noah Ark
+      image: img/2025/people/hong.jpg
+      url: https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en
+ - section:
+   name: Website & Social Media Chairs
+  #  mail: 3dv24-sponsors [at] googlegroups [dot] com
+   people:
+    - name: Yuliang Xiu
+      affiliation: MPI-IS
+      image: img/2025/people/xiu.jpg
+      url: https://xiuyuliang.cn/
+    - name: Songyou Peng
+      affiliation: Google DeepMind
+      image: img/2025/people/peng.jpg
+      url: https://pengsongyou.github.io/
+    - name: Sammy Christen
+      affiliation: ETH Zurich
+      image: img/2025/people/christen.jpg
+      url: https://ait.ethz.ch/people/sammyc
+     
+
 2024:
  - section:
    name: General Chairs
