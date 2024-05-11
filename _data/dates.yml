@@ -1,8 +1,20 @@
-current-year: 2024
+current-year: 2025
 previous-years:
+  - 2024
   - 2022
   - 2021
  
+2025:
+ - name: Paper Submission
+   date: August XX, 2024
+   enabled: true
+ - name: Supplementary
+   date: August XX+7, 2024
+   enabled: true
+ - name: Main conference
+   date: March 25-28, 2025
+   enabled: true
+
 2024:
  - name: Paper submission
    date: August 7, 2023

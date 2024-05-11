@@ -1,7 +1,7 @@
 ---
 layout: 2021_sidebar
 title: Call for Papers
-year: 2024
+year: 2025
 ---
 
 We invite submissions to the 11th International Conference on 3D Vision (3DaVos 2024), which will be held in Davos, Switzerland, on March 18-21, 2024. Since 2013, under the name 3DV, this event provides a platform for disseminating research results covering a broad variety of topics in the area of 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to visualization, analysis, interaction, and a variety of applications.
