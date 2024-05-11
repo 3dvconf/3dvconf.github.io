@@ -28,12 +28,8 @@ Regular Regular Registration Deadline: <b>March 10, 2025</b>
 </i>
 </div> -->
 
-<br>
+The 12th International Conference on 3D Vision will be held in-person in **Singapore** on **March 25-28, 2025**.
 
-The 12th International Conference on 3D Vision will be held in-person **in Singapore** on **March 25-28, 2025**.
-
-This year's edition of 3DV will be moved from the fall of 2023 to the spring of 2025,
-<!-- i.e., the next 3DV conference will be held in 2025, not 2023. **3DV'23 is now 3DV'25!** -->
 This event has provided a premier platform for disseminating research results covering a broad variety of topics in the area of 3D research in computer vision and graphics, from novel optical sensors, signal processing, geometric modelling, representation and transmission, to visualization and interaction, and a variety of applications. 
 
 <!-- <br>
