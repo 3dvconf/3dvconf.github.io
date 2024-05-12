@@ -1,5 +1,5 @@
 ---
-layout: 2021_sidebar
+layout: 2025_sidebar
 title: Call for Papers
 year: 2025
 ---

@@ -5,7 +5,7 @@
 {% endif %}
 
 <section>
-	<h3><i class="far fa-newspaper"></i> &nbsp; </i>Latest News</h3>
+	<h3><i class="far fa-newspaper"></i> &nbsp; </i>Latest News (<span style="color:#ff0000;">TODO add twitter preview below</span>)</h3>
 	<ul style="list-style-type:none;">
     {% for post in site.posts limit:5 %}
       {% if post.year == page.year %}

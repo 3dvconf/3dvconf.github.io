@@ -1,6 +1,6 @@
 ---
 redirect_from: "/"
-layout: 2021_sidebar
+layout: 2025_sidebar
 title: International Conference on 3D Vision 2025
 year: 2025
 banner-image: img/2025/singapore.jpg

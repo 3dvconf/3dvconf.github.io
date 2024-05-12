@@ -13,52 +13,36 @@
 			{% include 2021_banner.html %}
 		{% endif %}		
 		<br/><br/>		
-				
+			
 		<div class="container">
-
 			<div class="row">
-				
 				<div class="col-sm-8">
 					<div class="container-fluid">
-					<br>
+						<br>
 					  	<!-- Page Title-->
 						{% if page.title %}
 			            	<h1>{% if page.title-logo %}{{page.title-logo}} {% endif %}{{ page.title }}</h1>
 			            	<br>
 			            {% endif %}
-						
+
 						<!-- Page Content-->		
 						{{ content | smartify }}
-						<br/><br/>
-					</div>
+				  	</div>			
 			  	</div>
-			  	
 				<div class="col-sm-4">
-					<br>
-					<div class="container-fluid">
-						{% include 2021_sponsors.html %}
-		          </div>
-		        	<br>
-					<div class="container-fluid">
+					<div class="container">
 						{% include 2021_news.html %}
 					</div>
 					<br>
-					
 					<div class="container-fluid">
-						{% include 2021_dates.html %}
-					</div>
-
+						{% include 2021_sponsors.html %}
+          			</div>
+					<br>
 				</div>
-			
 			</div>
-
 		</div>
 		
-		{% include 2021_footer.html %}
-		
-		
-		<!-- Scripts -->
+		{% include 2025_footer.html %}
 		{% include 2021_scripts.html %}
-
 	</body>
 </html>
