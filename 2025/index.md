@@ -3,7 +3,7 @@ redirect_from: "/"
 layout: 2025_sidebar
 title: International Conference on 3D Vision 2025
 year: 2025
-banner-image: img/2025/singapore.jpg
+banner-image: img/2025/banners/singapore_01.jpg
 banner-title: Welcome to 3DV 2025
 header-image: img/2025/3dv2025_banner.png
 background: FF9900
