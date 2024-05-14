@@ -1,20 +1,32 @@
-{% if page.year != null %}
-    {% assign year = page.year %}
-{% else %}
-    {% assign year = site.data.3dv.current-year %}
-{% endif %}
+{% if page.year != null %} {% assign year = page.year %} {% else %} {% assign
+year = site.data.3dv.current-year %} {% endif %}
 
-<h3> <i class="fas fa-calendar-alt"></i>  &nbsp;  Important Dates</h3>
+<h3><i class="fas fa-calendar-alt"></i> &nbsp; Important Dates</h3>
 <!-- <b>All deadlines are 23:59 Pacific Time (PT). No extensions will be granted.</b>
 <br/>
 - <a href="https://github.com/cvpr-org/author-kit/releases?q=3DV2024&expanded=true">Download 3DV 2024 Author Kit</a><br/>
 - <a href="https://openreview.net/group?id=3DV/2024/Conference">OpenReview Submission Website</a>
 <br/> -->
-<table style="border-collapse: collapse; border: none; width: 100%;">
-    {% for deadline in site.data.dates[year] %}
-    <tr height="40px">
-        <th style=" border: none;">{{ deadline.name }}</th>
-        <td style=" border: none;">{%if deadline.enabled %}{{ deadline.date }} {% else %} <s style="color:red;">{{ deadline.date }}</s>{% endif %}</td>
-    </tr>
-    {% endfor %}
+<table style="border-collapse: collapse; border: none; width: 100%">
+  {% for deadline in site.data.dates[year] %}
+  <tr height="40px">
+    <th style="border: none">{{ deadline.name }}</th>
+    <td style="border: none">
+      {%if deadline.enabled %}{{ deadline.date }} {% else %}
+      <s style="color: red">{{ deadline.date }}</s>{% endif %}
+    </td>
+    <td style="border: none">
+      <span class="countdown"></span>
+      <script>
+        var careerssiteopens = "2024/08/26 00:48:25 UTC";
+        $(".countdown").countdown(
+          careerssiteopens,
+          function (event) {
+            $(this).html(event.strftime("%w weeks %d days %H:%M:%S"));
+          }
+        );
+      </script>
+    </td>
+  </tr>
+  {% endfor %}
 </table>
