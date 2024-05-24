@@ -5,19 +5,20 @@
 {% endif %}
 
 <section>
-	<h3><i class="far fa-newspaper"></i> &nbsp; </i>Latest News (<span style="color:#ff0000;">TODO add twitter preview below</span>)</h3>
+	<h3><i class="far fa-newspaper"></i> &nbsp; </i>Latest News</h3>
 	<ul style="list-style-type:none;">
     {% for post in site.posts limit:5 %}
       {% if post.year == page.year %}
-	    <li>
-	      <a href="{{site.url}}{{ post.url }}">
-	      	<div>
-	      		<b><i class="fas fa-arrow-right"></i>   &nbsp; {{ post.title }}</b><br>
-	      		<b>{{ post.date  | date: "%Y-%m-%d"}}</b>
-	      	</div>
-	      </a>
-	    </li>
-	    <hr>
+          <a
+            class="twitter-timeline"
+            href="https://twitter.com/3DVconf?ref_src=twsrc%5Etfw"
+            >Tweets by 3DVconf</a>
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+          <br />
 	    {% endif %}
 	  {% endfor %}
 	</ul>
