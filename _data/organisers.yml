@@ -3,14 +3,14 @@
    name: General Chairs
   #  mail: 3dv25gc [at] googlegroups [dot] com
    people:
-    - name: Leonidas J. Guibas
-      affiliation: Stanford
-      image: img/2025/people/guibas.jpg
-      url: https://geometry.stanford.edu/member/guibas/
     - name: Gim Hee Lee
       affiliation: NUS
       image: img/2025/people/lee.jpg
       url: https://www.comp.nus.edu.sg/~leegh/
+    - name: Leonidas J. Guibas
+      affiliation: Stanford
+      image: img/2025/people/guibas.jpg
+      url: https://geometry.stanford.edu/member/guibas/
     - name: Jie Song
       affiliation: HKUST-GZ
       image: img/2025/people/song.jpg

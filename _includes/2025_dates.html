@@ -16,7 +16,7 @@ year = site.data.3dv.current-year %} {% endif %}
       <s style="color: red">{{ deadline.date }}</s>{% endif %}
     </td>
     <td style="border: none">
-      <span class="countdown" data-countdown="{{ deadline.countdown}}"></span>
+      <i class="fas fa-clock"></i>&nbsp; <span style="color: green; font-weight: bold;" class="countdown" data-countdown="{{ deadline.countdown}}"></span>
       <script>
         $(".countdown").each(function() {
         var countdownDate = $(this).data("countdown");

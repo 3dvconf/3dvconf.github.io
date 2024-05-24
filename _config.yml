@@ -7,6 +7,7 @@ url: https://3dvconf.github.io
 baseurl: ""
 
 twitter: https://twitter.com/3DVconf
+xiaohongshu: https://www.xiaohongshu.com/user/profile/6360cac9000000001f018c8c
 
 permalink: /:categories/:title/
 safe: true
