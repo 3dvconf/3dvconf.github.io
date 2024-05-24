@@ -1,64 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
+  {% include 2021_head.html %}
 
-	{% include 2021_head.html %}
+  <body>
+    {% include 2021_header.html %} {% include 2021_nav.html %}
 
-	<body>
-	
-		{% include 2021_header.html %}
-		{% include 2021_nav.html %}
+    <!-- Banner Image -->
+    {% if page.banner-image %} {% include 2025_banner.html %} {% endif %}
+    <br /><br />
 
-		<!-- Banner Image -->
-		{% if page.banner-image %}
-			{% include 2025_banner.html %}
-		{% endif %}		
-		<br/><br/>		
-				
-		<div class="container">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8">
+          <div class="container-fluid">
+            <br />
+            <!-- Page Title-->
+            {% if page.title %}
+            <h1>
+              {% if page.title-logo %}{{page.title-logo}} {% endif %}{{
+              page.title }}
+            </h1>
+            <br />
+            {% endif %}
 
-			<div class="row">
-				
-				<div class="col-sm-8">
-					<div class="container-fluid">
-					<br>
-					  	<!-- Page Title-->
-						{% if page.title %}
-			            	<h1>{% if page.title-logo %}{{page.title-logo}} {% endif %}{{ page.title }}</h1>
-			            	<br>
-			            {% endif %}
-						
-						<!-- Page Content-->		
-						{{ content | smartify }}
-						<br/><br/>
-					</div>
-			  	</div>
-			  	
-				<div class="col-sm-4">
-					
-					<div class="container-fluid">
-						{% include 2025_dates.html %}
-					</div>
-					<br>
-					<div class="container-fluid">
-						{% include 2025_sponsors.html %}
-		          </div>
-		        	<br>
-					<div class="container-fluid">
-						{% include 2025_news.html %}
-					</div>
-					<br>
+            <!-- Page Content-->
+            {{ content | smartify }}
+            <br /><br />
+          </div>
+        </div>
 
-				</div>
-			
-			</div>
+        <div class="col-sm-4">
+          <div class="container-fluid">{% include 2025_sponsors.html %}</div>
+          <br />
+          <div class="container-fluid">{% include 2025_news.html %}</div>
+          <br />
+          <div class="container-fluid">{% include 2025_dates.html %}</div>
+          <a
+            class="twitter-timeline"
+            href="https://twitter.com/3DVconf?ref_src=twsrc%5Etfw"
+            >Tweets by 3DVconf</a
+          >
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+          <br />
+        </div>
+      </div>
+    </div>
 
-		</div>
-		
-		{% include 2025_footer.html %}
-		
-		
-		<!-- Scripts -->
-		{% include 2021_scripts.html %}
+    {% include 2025_footer.html %}
 
-	</body>
+    <!-- Scripts -->
+    {% include 2021_scripts.html %}
+  </body>
 </html>

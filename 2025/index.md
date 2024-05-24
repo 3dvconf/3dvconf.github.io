@@ -34,6 +34,7 @@ The 12th International Conference on 3D Vision will be held in-person in **Singa
 
 Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 3DV 2025 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
 
+
 <!-- <br>
 **[Keynote Speakers]({{site.url}}/2022/keynotes)**
 
