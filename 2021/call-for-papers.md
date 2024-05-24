@@ -15,6 +15,7 @@ Proposals for Tutorials and Demos are also invited.
 
 Topics of interest include, but are not limited to:
 
+
 **ACQUISITION**
 - Geometry
 - Calibration

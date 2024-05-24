@@ -9,7 +9,7 @@ previous-years:
    date: August 12, 2024
    countdown: 2024/08/12 00:23:59 PST
    enabled: true
- - name: Supplementary
+ - name: Suppl. Material
    date: August 19, 2024
    countdown: 2024/08/19 00:23:59 PST
    enabled: true
@@ -26,7 +26,7 @@ previous-years:
  - name: Paper submission
    date: August 7, 2023
    enabled: true
- - name: Supplementary
+ - name: Suppl. Material
    date: August 14, 2023
    enabled: true
    #- name: Tutorial notification
@@ -74,7 +74,7 @@ previous-years:
  - name: Paper submission
    date: June 2, 2022
    enabled: true
- - name: Supplementary
+ - name: Suppl. Material
    date: June 9, 2022
    enabled: true
  - name: Tutorial submission
@@ -112,7 +112,7 @@ previous-years:
  - name: Paper submission
    date: July 30, 2021
    enabled: true
- - name: Supplementary
+ - name: Suppl. Material
    date: August 8, 2021
    enabled: true
  - name: Tutorial submission

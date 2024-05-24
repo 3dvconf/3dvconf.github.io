@@ -1,25 +1,24 @@
-{% if page.year != null %}
-    {% assign year = page.year %}
-{% else %}
-    {% assign year = site.data.3dv.current-year %}
-{% endif %}
+{% if page.year != null %} {% assign year = page.year %} {% else %} {% assign
+year = site.data.3dv.current-year %} {% endif %}
+
+<script
+  async
+  src="https://platform.twitter.com/widgets.js"
+  charset="utf-8"
+></script>
 
 <section>
-	<h3><i class="far fa-newspaper"></i> &nbsp; </i>Latest News</h3>
-	<ul style="list-style-type:none;">
-    {% for post in site.posts limit:5 %}
-      {% if post.year == page.year %}
-          <a
-            class="twitter-timeline"
-            href="https://twitter.com/3DVconf?ref_src=twsrc%5Etfw"
-            >Tweets by 3DVconf</a>
-          <script
-            async
-            src="https://platform.twitter.com/widgets.js"
-            charset="utf-8"
-          ></script>
-          <br />
-	    {% endif %}
-	  {% endfor %}
-	</ul>
+  <h3><i class="far fa-newspaper"></i> &nbsp; Latest News</h3><br>
+  <!-- <ul style="list-style-type: none"> -->
+    {% for post in site.posts limit:5 %} {% if post.year == page.year %}
+    <a
+      class="twitter-timeline"
+      data-width="500"
+      data-height="500"
+      href="https://twitter.com/3DVconf?ref_src=twsrc%5Etfw"
+      >Tweets by 3DVconf</a
+    >
+    <br />
+    {% endif %} {% endfor %}
+  <!-- </ul> -->
 </section>
