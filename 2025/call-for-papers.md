@@ -14,6 +14,7 @@ We invite submissions to the 12th International Conference on 3D Vision (3DV) 20
 
 Topics of interest include, but are not limited to:
 
+
 **ACQUISITION**
 - Geometry
 - Calibration
