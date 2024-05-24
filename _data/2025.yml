@@ -1,0 +1,24 @@
+conf-title: 3DV 2025
+conf-acro: 3DV2025
+conf-location: Singapore
+conf-date: March 25-28, 2025
+
+header-image: "img/2025/3dv2025_banner.png"
+banner-image: "img/2025/clock.jpg"
+banner-title: Welcome to 3DV 2025
+
+favicon: "img/2025/3dv.ico"
+
+program:
+ - name: Tutorials
+   day: 0
+   date: 2024-03-18 #08:30
+ - name: Day 1
+   day: 1
+   date: 2024-03-19 #08:30
+ - name: Day 2  
+   day: 2
+   date: 2024-03-20 #08:30  
+ - name: Day 3
+   day: 3
+   date: 2024-03-21 #08:30

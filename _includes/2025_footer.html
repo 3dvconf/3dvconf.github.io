@@ -1,0 +1,14 @@
+{% if page.year != null %}
+    {% assign year = page.year %}
+{% else %}
+    {% assign year = site.data.3dv.current-year %}
+{% endif %}
+
+<footer class="footer">
+	<div class="container">
+    <span class="text-muted">&copy; 3DV {{year}} </span>
+
+    <!-- <span class="text-muted"> &nbsp;&nbsp;&nbsp;&nbsp; Twitter: <a href="https://twitter.com/hashtag/3dv{{year}}">#3dv{{year}}</a> </span> -->
+    <span class="text-muted"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/3DVconf">Twitter</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.xiaohongshu.com/user/profile/6360cac9000000001f018c8c">Red Book (小红书)</a></span>
+	</div>
+</footer>

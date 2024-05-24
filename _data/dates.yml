@@ -1,8 +1,27 @@
-current-year: 2024
+current-year: 2025
 previous-years:
-    - 2022
-    - 2021
+  - 2024
+  - 2022
+  - 2021
  
+2025:
+ - name: Paper Submission
+   date: August 12, 2024
+   countdown: 2024/08/12 00:23:59 PST
+   enabled: true
+ - name: Supplementary
+   date: August 19, 2024
+   countdown: 2024/08/19 00:23:59 PST
+   enabled: true
+ - name: Paper Notification
+   date: December 1, 2024
+   countdown: 2024/12/01 00:23:59 PST
+   enabled: true
+ - name: Main conference
+   date: March 25-28, 2025
+   countdown: 2025/03/25 00:23:59 PST
+   enabled: true
+
 2024:
  - name: Paper submission
    date: August 7, 2023
