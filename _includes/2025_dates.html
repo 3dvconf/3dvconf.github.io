@@ -15,9 +15,14 @@ year = site.data.3dv.current-year %} {% endif %}
       {%if deadline.enabled %}{{ deadline.date }} {% else %}
       <s style="color: red">{{ deadline.date }}</s>{% endif %}
     </td>
+<<<<<<< HEAD
     <td style="border: none; color: green; font-weight: bold">
       <i class="fas fa-clock">&nbsp;</i
       ><span class="countdown" data-countdown="{{ deadline.countdown}}"></span>
+=======
+    <td style="border: none">
+      <i class="fas fa-clock"></i>&nbsp; <span style="color: green; font-weight: bold;" class="countdown" data-countdown="{{ deadline.countdown}}"></span>
+>>>>>>> master
       <script>
         $(".countdown").each(function () {
           var countdownDate = $(this).data("countdown");
