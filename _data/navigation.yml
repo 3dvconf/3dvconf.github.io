@@ -63,7 +63,13 @@
    url: partnership
 
  - title: Organizers
-   url: people
+   nested:
+   - title: Organizing Committee
+     url: people
+   - title: Steering Committee
+     url: steering-committee
+  #  - title: Area Chairs
+  #    url: area-chairs
 
 #  - title: Submission
 #    nested:

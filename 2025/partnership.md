@@ -14,7 +14,7 @@ title-logo: <i class="far fa-handshake"></i>
 - 5 complimentary delegate registrations, inclusive of social functions
 - Exhibition space (about 2×2 m, exact size to be confirmed), first choice for a prime position in the exhibition area
 
-##### Gold Partner — 15,000 USD
+##### Gold Partner — 10,000 USD
 
 - Partner’s logo on the conference website with hyperlink to the partner’s website
 - Medium partner’s logo in the printed programme, banners and on online conference site
@@ -22,7 +22,7 @@ title-logo: <i class="far fa-handshake"></i>
 - 3 complimentary delegate registrations, inclusive of social functions
 - Exhibition space (about 2×2 m, exact size to be confirmed)
 
-##### Silver Partner — 8,000 USD
+##### Silver Partner — 7,500 USD
 - Partner’s logo on the conference website with hyperlink to the partner’s website
 - Regular size partner’s logo in printed programme, banners and on online conference site
 - Acknowledgement during main events
