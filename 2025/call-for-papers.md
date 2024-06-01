@@ -8,6 +8,10 @@ A PDF version with the important dates can be found <a href="{{site.url}}/files/
 
 We invite submissions to the 12th International Conference on 3D Vision (3DV) 2025, which will be held in Singapore, on **March 25-28, 2025**. Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 
 
+<div style="border: 2px solid #467CFD; padding: 15px">
+<i> There will **not** be a rebuttal for submitted papers at 3DV'25. The decisions will be made directly based on the initial submission and reviews.
+</i>
+</div>
 
 <br>
 3DV 2025 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited. 
