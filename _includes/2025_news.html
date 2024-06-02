@@ -8,8 +8,10 @@ year = site.data.3dv.current-year %} {% endif %}
 ></script>
 
 <section>
-  <h3><i class="far fa-newspaper"></i> &nbsp; Latest News</h3><br>
-  <!-- <ul style="list-style-type: none"> -->
+  <h3><i class="far fa-newspaper"></i> &nbsp; Latest News</h3>
+  <ul>
+    <li>📢 The paper notification date has been moved up to <strong>Nov 5th</strong></li>
+    </ul><br>
     {% for post in site.posts limit:5 %} {% if post.year == page.year %}
     <a
       class="twitter-timeline"
