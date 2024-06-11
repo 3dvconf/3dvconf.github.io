@@ -75,6 +75,18 @@
       affiliation: Huawei Noah Ark
       image: img/2025/people/hong.jpg
       url: https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en
+  - section:
+   name: OpenReview Chairs
+  #  mail: 3dv24-sponsors [at] googlegroups [dot] com
+   people:
+    - name: Chen Geng
+      affiliation: Stanford
+      image: img/2025/people/chengeng.jpg
+      url: https://chen-geng.com/
+    - name: Zizhang Li
+      affiliation: Stanford
+      image: img/2025/people/zizhang.jpg
+      url: https://kyleleey.github.io/
  - section:
    name: Social Media & Website Chairs
   #  mail: 3dv24-sponsors [at] googlegroups [dot] com
