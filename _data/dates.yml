@@ -7,19 +7,19 @@ previous-years:
 2025:
  - name: Paper Submission
    date: August 12, 2024
-   countdown: 2024/08/13 00:23:59 PT
+   countdown: 2024/08/13 00:21:59 PST
    enabled: true
  - name: Suppl. Material
    date: August 19, 2024
-   countdown: 2024/08/20 00:23:59 PT
+   countdown: 2024/08/20 00:21:59 PST
    enabled: true
  - name: Paper Notification
    date: November 05, 2024
-   countdown: 2024/11/06 00:23:59 PT
+   countdown: 2024/11/06 00:21:59 PST
    enabled: true
  - name: Main conference
    date: March 25-28, 2025
-   countdown: 2025/03/25 00:23:59 PT
+   countdown: 2025/03/25 00:21:59 PST
    enabled: true
 
 2024:
