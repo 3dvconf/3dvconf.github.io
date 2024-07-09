@@ -1,6 +1,6 @@
 ---
-layout: 2021_sidebar
-year: 2024
+layout: 2025_sidebar
+year: 2025
 title: Author FAQ
 
 ---
@@ -17,9 +17,9 @@ A. NO. And any incomplete submission or a submission not meeting required criter
 A. NO. No further authors can be added after the paper submission deadline.
 
 
-**Q. Can we get my quota increased for the size of paper submission from 30 MB to something higher?**
+**Q. Can we get my quota increased for the size of paper submission from 50 MB to something higher?**
 
-A. NO. We have set hard limits of 30MB (PDF Only) for paper submission and 100MB (PDF or ZIP only) for supplementary materials on submissions for review. As we are expecting many submissions, and as each reviewer is expected to review multiple papers, larger file downloads (and uploads) will tax the system and abilities of reviewers to get to the papers fast enough. Authors should consider adding hi-res images as supplementary material (see supplementary material guidelines).
+A. NO. We have set hard limits of 50MB (PDF Only) for paper submission and 200MB (PDF or ZIP only) for supplementary materials on submissions for review. As we are expecting many submissions, and as each reviewer is expected to review multiple papers, larger file downloads (and uploads) will tax the system and abilities of reviewers to get to the papers fast enough. Authors should consider adding hi-res images as supplementary material (see supplementary material guidelines).
 
 **Q. Can we submit color images with our papers for review?**
 
@@ -50,7 +50,7 @@ A. NO. Authors must properly anonymize the written submission as per the guideli
 
 **Q. Can I promote my paper in the press or on social media?**
 
-A. The social media policies are consistent with CVPR'24. In particular, authors will be allowed to post to social media about their papers in submission. However, until the final accept/reject decisions are released by the conference, posts to social media must not identify the conference name. Violations may result in the paper being rejected or removed from the conference and proceedings.
+A. The social media policies are consistent with CVPR'25. In particular, authors will be allowed to post to social media about their papers in submission. However, until the final accept/reject decisions are released by the conference, posts to social media must not identify the conference name. Violations may result in the paper being rejected or removed from the conference and proceedings.
 
 <!-- A. As stated in the instructions above, authors are not allowed to go to the press with their submission prior to the end of the review process, or to advertise their work on social media while explicitly identifying it as a 3DV submission. In recent conference cycles, some authors were found posting about their submissions on Twitter or other social media, and even including the title or a snapshot of the paper. This is a violation of anonymity, since the message may go out to many potential reviewers. -->
 

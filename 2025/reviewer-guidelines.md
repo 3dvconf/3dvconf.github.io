@@ -1,16 +1,16 @@
 ---
-layout: 2021_sidebar
+layout: 2025_sidebar
 title: Reviewer Guidelines
-year: 2024
+year: 2025
 ---
 
-<div style="border: 2px solid #467CFD; padding: 15px">
-<i>Reviews for 3DV 2024 are due September 18, 2023 23:59 Pacific Time (PT).</i>
-</div>
+<!-- <div style="border: 2px solid #467CFD; padding: 15px">
+<i>Reviews for 3DV 2025 are due September 18, 2023 23:59 Pacific Time (PT).</i>
+</div> -->
 
 <br>
 
-Thank you for serving on the program committee of 3DV 2024 as a reviewer. Publications in conferences have a critical impact on scientific careers in our fields. Reviews on which acceptance or reject decisions are made are therefore of critical importance and should be written carefully. We ask that you take your duty seriously and have your reviews ready on time.
+Thank you for serving on the program committee of 3DV 2025 as a reviewer. Publications in conferences have a critical impact on scientific careers in our fields. Reviews on which acceptance or reject decisions are made are therefore of critical importance and should be written carefully. We ask that you take your duty seriously and have your reviews ready on time.
 
 We provide guidelines to help with the reviewing process. More specific
 guidelines can be found in the materials of two past tutorials on reviewing:
@@ -19,7 +19,7 @@ guidelines can be found in the materials of two past tutorials on reviewing:
 <br><br>
 
 ### Check your papers for conflicts
-As soon as you get your reviewing assignment, please download your papers and go through them to make sure that there is no obvious conflict with you (e.g., a paper authored by your recent collaborator from a different institution). If you feel you are in conflict with a paper, please let us know right away by emailing the Program Chairs: **3dv24PC [at] googlegroups [dot] com** 
+As soon as you get your reviewing assignment, please download your papers and go through them to make sure that there is no obvious conflict with you (e.g., a paper authored by your recent collaborator from a different institution). If you feel you are in conflict with a paper, please let us know right away by emailing the Program Chairs: **3dv-2025- pcs [at] googlegroups [dot] com** 
 <br><br>
 
 ### What to Look For
@@ -63,7 +63,5 @@ Paper assignments are done by automatic paper matching first and then manually a
 It is very likely you will be assigned a paper that may be slightly out of your specific research area. In such cases, we ask that you do the best you can to review the paper. We trust your ability to distinguish between good papers and those that are not yet ready for acceptance.
 <br><br>
 
-### When You’re Done
-
-Submissions should be treated as confidential. When you have finished with your review, you should destroy any paper manuscript and/or supporting material you received.
-<br><br>
+### Confidentiality
+The review process of 3DV is confidential. The practice of keeping all information confidential during the review is part of the standard communication to all reviewers. When you have finished with your review, you should destroy any paper manuscript and/or supporting material you received. Misuse of confidential information is a severe professional failure, and appropriate measures will be taken when brought to the attention of the 3DV organizers, though the organization of 3DV is not and cannot be held responsible for the consequences when reviewers break confidentiality.
