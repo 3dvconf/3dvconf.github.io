@@ -1,7 +1,7 @@
 ---
 layout: 2025_sidebar
 year: 2025
-title: Author FAQ
+title: Author FAQs
 
 ---
 
@@ -12,9 +12,9 @@ title: Author FAQ
 A. NO. And any incomplete submission or a submission not meeting required criteria will be deleted.
 
 
-**Q. Can we add authors after the paper submission deadline?**
+**Q. Can we add/remove/reorder authors after the paper submission deadline?**
 
-A. NO. No further authors can be added after the paper submission deadline.
+A. It's not possible to add/remove authors after the submission deadline, though the author order can be changed until the camera ready deadline.
 
 
 **Q. Can we get my quota increased for the size of paper submission from 50 MB to something higher?**
@@ -31,48 +31,12 @@ A. After creating a new submission in the OpenReview system, you will see your p
 
 **Q. What is the 3DV {{page.year}} policy on DUAL SUBMISSIONS?**
 
-A. Please read the dual/double submission paragraph [here]({{site.url}}/{{page.year}}/policies).
+A. Please read the dual/double submission paragraph [here]({{site.url}}/{{page.year}}/author-guidelines).
 
 
 **Q. Does a Technical Report (departmental, arXiv, etc.) available online count as a prior publication, and therefore is that work ineligible for review and publication at 3DV {{page.year}}?**
 
-A. Please read the dual/double submission paragraph [here]({{site.url}}/{{page.year}}/policies).
-
-
-**Q. Does a document on GitHub or other open repositories count as a publication, and therefore is ineligible for review and publication at 3DV {{page.year}}?**
-
-A. Submissions to GitHub and similar repositories cannot be rejected and are accepted by default before any "review" that can take place on such platforms. Given definitions in the dual/double submission paragraph [here]({{site.url}}/{{page.year}}/policies), GitHub documents are not publications and won't be treated as such. To preserve anonymity, you should not cite your public codebase. You can say that the code will be made publicly available.
-
-
-**Q. Does a presentation at a departmental seminar during the review period violate the anonymity standard or other 3DV {{page.year}} policy?**
-
-A. NO. Authors must properly anonymize the written submission as per the guidelines. There is no requirement that the material otherwise be kept confidential during the review process.
-
-**Q. Can I promote my paper in the press or on social media?**
-
-A. The social media policies are consistent with CVPR'25. In particular, authors will be allowed to post to social media about their papers in submission. However, until the final accept/reject decisions are released by the conference, posts to social media must not identify the conference name. Violations may result in the paper being rejected or removed from the conference and proceedings.
-
-<!-- A. As stated in the instructions above, authors are not allowed to go to the press with their submission prior to the end of the review process, or to advertise their work on social media while explicitly identifying it as a 3DV submission. In recent conference cycles, some authors were found posting about their submissions on Twitter or other social media, and even including the title or a snapshot of the paper. This is a violation of anonymity, since the message may go out to many potential reviewers. -->
-
-<!-- **Authors must not:**
-
-·       Talk to the media about your work as "in submission to 3DV"
-
-·       Make any posts to social media or elsewhere that can be linked to a specific 3DV submission (e.g., mentioning the title of the submission or details and content and saying that it's a 3DV submission)
-
-**Authors may:**
-
-·       Talk about their work in a presentation without saying it's submitted to 3DV
-
-·       Submit to arXiv without mentioning 3DV
-
-A paper may be rejected if the program chairs feel that the authors have attempted to let potential reviewers know who wrote the paper. -->
-
-
-**Q. How do I cite my results reported in open challenges?**
-
-A. To conform with the double-blind review policy, you can report results of other challenge participants together with your results in your paper. For your results, however, you should not identify yourself and should not mention your participation in the challenge. Instead present your results referring to the method proposed in your paper and draw conclusions based on the experimental comparison to other results.
-
+A. Please read the dual/double submission paragraph [here]({{site.url}}/{{page.year}}/author-guidelines).
 
 **Q. Does my submission need to cite arXiv papers that are related to my work?**
 
@@ -88,18 +52,32 @@ A. Consistent with good academic practice, you need to cite all sources that ins
 
 ·       It is acceptable for a reviewer to suggest that an author should acknowledge or be aware of something on arXiv.
 
+**Q. Does a document on GitHub or other open repositories count as a publication, and therefore is ineligible for review and publication at 3DV {{page.year}}?**
+
+A. Submissions to GitHub and similar repositories cannot be rejected and are accepted by default before any "review" that can take place on such platforms. Given definitions in the dual/double submission paragraph [here]({{site.url}}/{{page.year}}/author-guidelines), GitHub documents are not publications and won't be treated as such. To preserve anonymity, you should not cite your public codebase. You can say that the code will be made publicly available.
+
+
+**Q. Does a presentation at a departmental seminar during the review period violate the anonymity standard or other 3DV {{page.year}} policy?**
+
+A. NO. Authors must properly anonymize the written submission as per the guidelines. There is no requirement that the material otherwise be kept confidential during the review process.
+
+**Q. Can I promote my paper in the press or on social media?**
+
+Please read the social media paragraph [here]({{site.url}}/{{page.year}}/author-guidelines).
+
+**Q. How do I cite my results reported in open challenges?**
+
+A. To conform with the double-blind review policy, you can report results of other challenge participants together with your results in your paper. For your results, however, you should not identify yourself and should not mention your participation in the challenge. Instead present your results referring to the method proposed in your paper and draw conclusions based on the experimental comparison to other results.
 
 ### About the Review Process
 
 **Q. Is the 3DV {{page.year}} Review Process CONFIDENTIAL?**
 
-A. YES, 3DV {{page.year}} Reviewing is considered confidential. All reviewers are required to keep every manuscript they review as confidential documents and not to share or distribute materials for any reason except to facilitate the reviewing of the submitted work.
-
+A. Please read the confidentiality paragraph [here]({{site.url}}/{{page.year}}/reviewer-guidelines).
 
 **Q. Are 3DV {{page.year}} Reviews Double BLIND or Single BLIND?**
 
-A. 3DV reviewing is Double BLIND, in that authors do not know the names of the area chair/reviewers of their papers, and area chairs/reviewers do not know the names of the authors. Please read Section 1.6 of the example paper egpaper_for_review.pdf for detailed instructions on how to preserve anonymity. Avoid providing information that may identify the authors in the acknowledgments (e.g., co-workers and grant IDs) and in the supplemental material (e.g., titles in the movies, or attached papers). Avoid providing links to websites that identify the authors. Violation of any of these guidelines will lead to rejection without review.
-
+A. Please read the double blind review paragraph [here]({{site.url}}/{{page.year}}/author-guidelines).
 
 ### About Code Submission
 
