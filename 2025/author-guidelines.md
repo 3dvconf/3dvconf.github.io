@@ -6,7 +6,7 @@ title: Author Guidelines
 
 All authors should carefully review the following policies that govern the submission and review process,
 as failure to comply with these policies may result in the rejection of your submission as well as possible additional sanctions in the case of dual submissions and plagiarism.
-By submitting a paper, the authors agree to the [policies stipulated in this website]({{site.url}}/{{page.year}}/policies).
+By submitting a paper, the authors agree to the guidelines stipulated in this page.
 In addition, authors are urged to consult the [FAQs]({{site.url}}/{{page.year}}/author-faq) as well as the [OpenReview Instructions]({{site.url}}/{{page.year}}/author-instructions).
 
 **Paper Formatting:**
