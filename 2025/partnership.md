@@ -58,3 +58,6 @@ title-logo: <i class="far fa-handshake"></i>
 **Custom packages** <br>
 Tailored packages can be arranged to suit your objectives.
 Please do not hesitate to contact the organisers to discuss your needs: **3dv25-sponsors [at] googlegroups [dot] com**
+
+**Taxes** <br>
+Note that all listed prices **do not** include the 9% Goods and Services Tax (GST).
