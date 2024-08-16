@@ -14,7 +14,7 @@ A. NO. And any incomplete submission or a submission not meeting required criter
 
 **Q. Can we add/remove/reorder authors after the paper submission deadline?**
 
-A. It's not possible to add/remove authors after the submission deadline, though the author order can be changed until the camera ready deadline.
+A. It's not possible to add/remove authors after the supplementary material deadline, though the author order can be changed until the camera ready deadline.
 
 
 **Q. Can we get my quota increased for the size of paper submission from 50 MB to something higher?**

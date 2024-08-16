@@ -56,7 +56,7 @@ Consistent with the review process for previous 3DV conferences, submissions und
 **Conflict Responsibilities:**
 It is the primary author's responsibility to ensure that all authors on their paper have registered their institutional conflicts into OpenReview.
 If a paper is found to have an undeclared or incorrect institutional conflict, the paper may be summarily rejected.
-To avoid undeclared conflicts, the author list is considered to be final after the submission deadline and no changes are allowed for accepted papers.
+To avoid undeclared conflicts, the author list is considered to be final after the supplementary material deadline and only re-ordering is allowed for accepted papers.
 
 **Double blind review:**
 3DV reviewing is double blind, in that authors do not know the names of the area chair/reviewers of their papers, and the area chairs/reviewers cannot, beyond reasonable doubt, infer the names of the authors from the submission and the additional material.
