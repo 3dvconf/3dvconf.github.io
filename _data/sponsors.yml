@@ -11,6 +11,16 @@
  - section:
    name: Gold Partners
    company:
+    - name: ETH Zurich
+      logo: img/2025/sponsors/eth.png
+      url: https://ethz.ch/de.html
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Bronze Partner
+   company:
     - name: Google
       logo: img/2025/sponsors/Google.png
       url: https://google.com/ 
@@ -19,7 +29,7 @@
       mdsize: 8
 
  - section:
-   name: Bronze Partner
+   name: Best Paper Award Sponsor
    company:
     - name: GALASports
       logo: img/2025/sponsors/GALASports.png
@@ -27,12 +37,7 @@
       height: 25em
       width: 48%
       mdsize: 8
-    - name: ETH Zurich
-      logo: img/2025/sponsors/eth.png
-      url: https://ethz.ch/de.html
-      height: 25em
-      width: 48%
-      mdsize: 8
+
 
 2024:
  - section:
