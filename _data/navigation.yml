@@ -71,7 +71,14 @@
    url: dates
 
  - title: Partnerships
-   url: partnership
+   nested:
+   - title: Partnership Program
+     url: partnership
+   - title: Sponsors
+     url: sponsors
+
+ - title: Attending
+   url: about-city
 
  - title: Organizers
    nested:

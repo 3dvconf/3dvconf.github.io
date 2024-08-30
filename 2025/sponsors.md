@@ -1,6 +1,6 @@
 ---
 layout: 2021_sidebar_no_sponsors
-year: 2024
+year: 2025
 title: Sponsors
 title-logo: <i class="far fa-handshake"></i>
 ---
