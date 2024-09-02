@@ -19,7 +19,7 @@ More traveling information, please checkout <a href="https://www.visitsingapore.
 
 <div class="gallery">
   <a target="_blank" href="img_5terre.jpg">
-    <img src="../../img/2025/banners/singapore_03.jpg" alt="Cinque Terre">
+    <img src="./img/2025/banners/singapore_03.jpg" alt="Cinque Terre">
   </a>
   <!-- <div class="desc">Add a description of the image here</div> -->
 </div>
