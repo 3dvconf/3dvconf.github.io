@@ -7,7 +7,7 @@ title: Welcome to Singapore
 
 Singapore is a bustling island city-state in Southeast Asia, renowned for its blend of modern architecture and lush green spaces, earning it the nickname "Garden City." A melting pot of cultures, it offers a vibrant culinary scene and rich heritage sites. As a global business hub, Singapore is known for hosting international events and boasts a diverse economy. With its warm climate and welcoming atmosphere, it's an ideal year-round destination for both business and leisure travelers.
 
-More traveling information, please checkout <a href="www.visitsingapore.com">www.visitsingapore.com</a>
+More traveling information, please checkout <a href="https://www.visitsingapore.com">www.visitsingapore.com</a>
 
 
 <div class="gallery">
