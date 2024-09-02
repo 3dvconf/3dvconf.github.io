@@ -18,35 +18,35 @@ More traveling information, please checkout <a href="https://www.visitsingapore.
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="singapore_03.jpg">
+  <a target="_blank" href="../../img/2025/banners/singapore_03.jpg">
     <img src="../../img/2025/banners/singapore_03.jpg" alt="Cinque Terre">
   </a>
   <!-- <div class="desc">Add a description of the image here</div> -->
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="singapore_04.jpg">
+  <a target="_blank" href="../../img/2025/banners/singapore_04.jpg">
     <img src="../../img/2025/banners/singapore_04.jpg" alt="Cinque Terre">
   </a>
   <!-- <div class="desc">Add a description of the image here</div> -->
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="singapore_05.jpg">
+  <a target="_blank" href="../../img/2025/banners/singapore_05.jpg">
     <img src="../../img/2025/banners/singapore_05.jpg" alt="Cinque Terre">
   </a>
   <!-- <div class="desc">Add a description of the image here</div> -->
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="singapore_06.jpg">
+  <a target="_blank" href="../../img/2025/banners/singapore_06.jpg">
     <img src="../../img/2025/banners/singapore_06.jpg" alt="Cinque Terre">
   </a>
   <!-- <div class="desc">Add a description of the image here</div> -->
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="singapore_07.jpg">
+  <a target="_blank" href="../../img/2025/banners/singapore_07.jpg">
     <img src="../../img/2025/banners/singapore_07.jpg" alt="Cinque Terre">
   </a>
   <!-- <div class="desc">Add a description of the image here</div> -->
