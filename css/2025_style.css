@@ -38,7 +38,6 @@ p{
 {
  background-position: left top;
  background-size:cover;
- height:37em;
  text-align:center;
  position:relative
 }
@@ -329,7 +328,7 @@ div.gallery:hover {
 
 div.gallery img {
   width: 100%;
-  height: auto;
+  aspect-ratio: 16/9;
 }
 
 div.desc {
