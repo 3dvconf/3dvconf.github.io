@@ -9,15 +9,20 @@ Want to sponsor the conference? Check out <b><a href="https://3dvconf.github.io/
 
 <div class="row">
 
+{% assign added_companies = [] %}
 {% for section in site.data.sponsors[year] %}
 <div class="row">
-	{% assign sorted_company = section.company | sort:'name' %}
-	{% for company in sorted_company %}
-  <div class="col-md-{{company.mdsize}} align-self-center sponsor-logo-sidebar" style="padding:10px;text-align: center" >
-		<a href="{{company.url}}" target="_blank">
-      <img alt="{{company.name}} Logo" src="{{site.url}}/{{company.logo}}"></a>
-	</div>		
-	{% endfor %}
+  {% assign sorted_company = section.company | sort:'name' %}
+  {% for company in sorted_company %}
+    {% unless added_companies contains company.name %}
+      <div class="col-md-{{company.mdsize}} align-self-center sponsor-logo-sidebar" style="padding:10px;text-align: center">
+        <a href="{{company.url}}" target="_blank">
+          <img alt="{{company.name}} Logo" src="{{site.url}}/{{company.logo}}">
+        </a>
+      </div>
+      {% assign added_companies = added_companies | push: company.name %}
+    {% endunless %}
+  {% endfor %}
 </div>
 {% endfor %}
 
