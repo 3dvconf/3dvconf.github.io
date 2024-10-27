@@ -88,6 +88,14 @@
       image: img/2025/people/zizhang.jpg
       url: https://kyleleey.github.io/
  - section:
+   name: Technical Advisor
+  #  mail: 3dv24-sponsors [at] googlegroups [dot] com
+   people:
+    - name: Gang Hua
+      affiliation: Dolby Laboratories
+      image: img/2025/people/ganghua.jpg
+      url: https://www.ganghua.org/
+ - section:
    name: Social Media & Website Chairs
   #  mail: 3dv24-sponsors [at] googlegroups [dot] com
    people:
