@@ -9,7 +9,7 @@ Want to sponsor the conference? Check out <b><a href="https://3dvconf.github.io/
 
 <div class="row">
 
-{% assign added_companies = [] %}
+{% capture added_companies %}""{% endcapture %}
 {% for section in site.data.sponsors[year] %}
 <div class="row">
   {% assign sorted_company = section.company | sort:'name' %}
@@ -20,7 +20,7 @@ Want to sponsor the conference? Check out <b><a href="https://3dvconf.github.io/
           <img alt="{{company.name}} Logo" src="{{site.url}}/{{company.logo}}">
         </a>
       </div>
-      {% assign added_companies = added_companies | push: company.name %}
+      {% capture added_companies %}{{ added_companies }}{{ company.name }}{% endcapture %}
     {% endunless %}
   {% endfor %}
 </div>
