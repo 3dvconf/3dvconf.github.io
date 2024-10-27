@@ -27,16 +27,12 @@
       height: 25em
       width: 48%
       mdsize: 8
-
-   company:
     - name: Mitsubishi Electric Research Laboratories
       logo: img/2025/sponsors/MERL.jpg
       url: https://www.merl.com/
       height: 25em
       width: 48%
       mdsize: 8
-
-   company:
     - name: vivo
       logo: img/2025/sponsors/VIVO.png
       url: https://www.vivo.com/
