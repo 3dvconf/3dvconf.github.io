@@ -21,6 +21,12 @@
  - section:
    name: Bronze Partner
    company:
+    - name: GALASports
+      logo: img/2025/sponsors/GALASports.png
+      url: https://www.galasports.net/EN/
+      height: 25em
+      width: 48%
+      mdsize: 8
     - name: Google
       logo: img/2025/sponsors/Google.png
       url: https://google.com/ 
@@ -53,9 +59,9 @@
  - section:
    name: Best Student Paper Award Sponsor
    company:
-    - name: Mitsubishi Electric Research Laboratories
-      logo: img/2025/sponsors/MERL.jpg
-      url: https://www.merl.com/
+    - name: vivo
+      logo: img/2025/sponsors/VIVO.png
+      url: https://www.vivo.com/
       height: 25em
       width: 48%
       mdsize: 8
