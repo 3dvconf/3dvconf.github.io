@@ -1,104 +1,84 @@
 ---
 layout: 2021_sidebar
-year: 2024
+year: 2025
 title: Registration
 ---
 
 **Registration Page**
 
 <div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
-Registration is now open:
-<a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a>
+Registration opening soon.
+<!-- <a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a> -->
 <br><br>
-For any visa related questions, please directly contact Ms. Jrene Müller (<a href="mailto:jrene.mueller@geod.baug.ethz.ch">jrene.mueller@geod.baug.ethz.ch</a>).
-<br><br>
-Early Registration Deadline: <b>January 14, 2024</b><br>
-Regular Regular Registration Deadline: <b>March 10, 2024</b>
-
+<!-- For any visa related questions, please directly contact Ms. Jrene Müller (<a href="mailto:jrene.mueller@geod.baug.ethz.ch">jrene.mueller@geod.baug.ethz.ch</a>).
+<br><br> -->
+Registration Deadline: <b>January 15, 2025</b><br>
 </div>
 
-<br>
+<!-- <br> -->
 <!-- Registration is now open:
 <a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a> -->
 <!-- To register, fill in the form [here.](http://www.davoscongress.ch/3DVConference/Registration) -->
 
-<ul>
+<!-- <ul> -->
 
- 
+<li> 
+At least one full registration is required per paper. It is not possible to register multiple papers for a single person.
+</li>
 
-<li>3DV'24 is an in-person conference. All authors are expected to present on-site.
+
+<li>3DV'25 is an in-person conference. All authors are expected to present on-site.
 If no author is on-site, the paper will not be presented at the conference.
 We require every paper to have an in-person presenter, and the publication will be removed from the proceedings otherwise.
 In case of visa denial, authors are still required to register for the conference to ensure inclusion in the proceedings.
 If the presenter cannot attend due to denied Visa, please collect the supporting evidence, and inform the publication chair.
 </li>
 
-<li>If you require any <b>changes to your reservation</b>, please get in touch with the Conference center directly.
-Conference center contact:
-<table border="0px">
-<tr>
-    <td>Phone: </td>
-    <td>    +41 (0)81 415 21 64</td>
-</tr>
-<tr>
-    <td>E-Mail: </td><td><a href="mailto:daniela.heldstab@davos.ch">daniela.heldstab@davos.ch</a></td>
-</tr>
-<!-- <tr><td></td><td>(please contact them with both emails in CC)</td></tr> -->
-<tr>
-    <td>Web: </td><td><a href="http://www.davoscongress.ch">http://www.davoscongress.ch</a></td>
-</tr>
-</table>
-<br>
-</li>
-</ul>
+
 **Authors**
 
-At least one of the authors needs to be registered with a **Full or Student Registration** by the time of the camera ready deadline.
-It is **not** possible to register multiple papers for a single person. 
+At least one of the authors needs to be registered with a **Full Registration** by the time of the camera ready deadline.
 
 **Registration Fees**
 
 <table style="border-collapse: collapse; border: 1px solid #AAAAAA; width: 100%;">
     <tr height="40px">
         <th>Registration Type</th>
-        <td align="center"><b>Early Bird</b><br> (until Jan. 14 2024)</td>
-        <td align="center"><b>Regular</b><br> (until Mar. 10 2024)</td>
-        <td align="center"><b>Late</b><br> (after Mar. 10 2024)</td>
+        <td align="center"><b>Regular</b><br> (until March 1st 2025)</td>
+        <td align="center"><b>Late</b><br> (after March 1st 2025)</td>
     </tr>
 
     <tr height="40px">
         <th> Student Registration</th>
-        <td align="center"> 250 CHF </td>
-        <td align="center"> 300 CHF </td>
-        <td align="center"> 350 CHF </td>
+        <td align="center"> 750 USD </td>
+        <td align="center"> 850 USD </td>
     </tr>
     
     <tr height="40px">
         <th> Full Registration</th>
-        <td align="center"> 450 CHF </td>
-        <td align="center"> 550 CHF </td>
-        <td align="center"> 600 CHF </td>
+        <td align="center"> 1'000 USD </td>
+        <td align="center"> 1'300 USD </td>
     </tr>
-
 </table>
 
 <br>
 
 **Registration types**
 
-All registrations includes access to the conference, coffee breaks, and a welcome reception. 
+The registration fee covers four buffet lunches (including a welcome reception lunch) and three coffee breaks with snacks from Shangri-la Hotel Singapore.
 
-
-<br>
+<!-- <br>
 **Visa Invitation Letters**
 
+The countries that require a valid visa to enter Singapore and full information on visa application can be found
 Participants who require an official <i>Letter of Invitation</i> for visa or funding
-purposes can apply for it during the registration.
+purposes can apply for it during the registration. -->
 <!-- by contacting the general chairs
 (3dv24gc [at] googlegroups [dot] com). 
 registered and have paid the relevant registration fee to obtain a letter of
 invitation. -->
-Requests MUST contain the following:
+
+<!-- Requests MUST contain the following:
 
 - First and last name
 - Address
@@ -107,7 +87,7 @@ Requests MUST contain the following:
 - Sending institution
 - Paper name (if indicated)
 
-Any fraudulent requests will be reported to the proper authorities.
+Any fraudulent requests will be reported to the proper authorities. -->
 
 
 <!-- <br>
@@ -131,11 +111,5 @@ Please review the [3DV code of conduct]({{site.url}}/{{page.year}}/code-of-condu
 
 **Badge Policy and Registration Substitution Policy**
 
-Access to all 3DV 2024 activities will be allowed only to people wearing badges.
+Access to all 3DV 2025 activities will be allowed only to people wearing badges.
 Please keep track of your badge and make sure you bring it each day.
-
-Substitutions/replacements are prohibited for any reason after the
-registration. Access to all 3DV 2022 online activities are available only to
-all those who have registered through our system. Sharing login information is
-prohibited and if you are found to be doing so your access will be revoked
-immediately and you may not be able to attend future 3DV conferences.

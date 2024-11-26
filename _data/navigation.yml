@@ -78,7 +78,21 @@
      url: sponsors
 
  - title: Attending
-   url: about-city
+   nested:
+   - title: Travel to Singapore
+     url: about-city
+  #  - title: Code of Conduct
+  #    url: code-of-conduct
+  #  - title: Important Dates
+  #    url: dates
+   - title: Registration
+     url: registration
+  #  - title: Registration Form
+    #  url: registration-form
+  #  - title: Venue
+  #    url: venue
+  #  - title: Accommodation
+  #    url: accommodation
 
  - title: Organizers
    nested:
