@@ -12,7 +12,7 @@ Registration opening soon.
 <br><br>
 <!-- For any visa related questions, please directly contact Ms. Jrene Müller (<a href="mailto:jrene.mueller@geod.baug.ethz.ch">jrene.mueller@geod.baug.ethz.ch</a>).
 <br><br> -->
-Registration Deadline: <b>January 15, 2025</b><br>
+Registration Deadline for Authors Covering Accepted Papers: <b>January 15, 2025</b><br>
 </div>
 
 <br>
