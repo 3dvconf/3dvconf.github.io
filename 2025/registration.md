@@ -31,13 +31,17 @@ In case of visa denial, authors are still required to register for the conferenc
 If the presenter cannot attend due to denied Visa, please collect the supporting evidence, and inform the publication chair.
 </li> -->
 
-<br>
+<!-- <br> -->
 
 **Authors**
 
 At least one of the authors needs to be registered with a **Full Registration** by the time of the camera ready deadline. It is not possible to register multiple papers for a single person.
 
-3DV'25 is an in-person conference. All authors are expected to present on-site.
+3DV'25 is an in-person conference. All authors are expected to present on-site. We require every paper to have an in-person presenter, and the publication will be removed from the proceedings otherwise.
+In case of visa denial, authors are still required to register for the conference to ensure inclusion in the proceedings.
+If the presenter cannot attend due to denied Visa, please collect the supporting evidence, and inform the publication chair.
+
+<br>
 
 **Registration Fees**
 
