@@ -1,50 +1,25 @@
 ---
 layout: 2021_sidebar
-year: 2024
+year: 2025
 title: Condition of entry in Switzerland
 ---
 
-# Visa
-The Czech Republic is part of the European Union and the Schengen area.
-Please, check whether you need a visa to enter the country and refer to the
-government website to learn more about the necessary procedure.
+**Visa Invitation Letters**
 
+The countries that require a valid visa to enter Singapore and full information on visa application can be found [here](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements)
 
-[Visa Free Regime](https://www.mzv.cz/jnp/en/information_for_aliens/short_stay_visa/list_of_states_whose_citizens_are_exempt/index.html)
+**For the application of Singapore Visa**
 
-[Visa Regime](https://www.mzv.cz/jnp/en/information_for_aliens/short_stay_visa/list_of_states_whose_citizens_are/index.html)
+You can either:  
 
-# Invitation Letters
+1. Do it via a [local contact](https://eservices.ica.gov.sg/esvclandingpage/save); or  
 
-Participants who require an official Letter of Invitation for visa or funding
-purposes can apply for it by contacting the general chairs
-(3dv22gc [at] googlegroups [dot] com). 
-registered and have paid the relevant registration fee to obtain a letter of
-invitation.-->
-Requests MUST contain the following:
+If you do not have a Local Contact with a Singpass/Corppass account, you may submit the visa application:  
 
-- Full name and firstname
-- Address
-- Date of birth
-- Passport number
-- Paper name
-- Sending institution
+2. Through an authorized visa agent appointed by the Singapore Overseas Missions; or  
+   At the nearest Singapore Overseas Mission.  
 
-Any fraudulent requests will be reported to the proper authorities.
+   Please liaise directly with the nearest Singapore Overseas Mission for detailed visa application procedure if the application is to be submitted through their authorized visa agents or at the Singapore Overseas Mission.  
 
-
-# Covid
-
-Given the ever-changing situation, we recommend checking regularly the official
-government websites to keep up to date with the latest covid
-regulations:
-- [To enter the Czech Republic](https://www.mvcr.cz/mvcren/article/coronavirus-information-of-moi.aspx)
-- [For your daily activities](https://covid.gov.cz/en/)
-
-## Anti-Covid 19 Measures
-As you are probably aware, some conferences this year have seen a large number
-of attendees infected with Covid-19. To reduce the risk of infection, we kindly
-ask all attendees to wear a mask when attending the conference. We will provide
-extra masks and tests at the registration desk. If you feel sick, please take a
-test and only attend the conference in person if you tested negative.
-
+We will provide a letter of invite if you request from us:  
+(Mrs. Siew Fong Ho: hosf@nus.edu.sg).

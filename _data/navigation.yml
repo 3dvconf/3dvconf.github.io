@@ -87,6 +87,8 @@
   #    url: dates
    - title: Registration
      url: registration
+   - title: Visa
+     url: visa
   #  - title: Registration Form
     #  url: registration-form
   #  - title: Venue
