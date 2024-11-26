@@ -15,6 +15,7 @@ Registration opening soon.
 Registration Deadline: <b>January 15, 2025</b><br>
 </div>
 
+<br>
 <!-- <br> -->
 <!-- Registration is now open:
 <a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a> -->
@@ -34,6 +35,7 @@ In case of visa denial, authors are still required to register for the conferenc
 If the presenter cannot attend due to denied Visa, please collect the supporting evidence, and inform the publication chair.
 </li>
 
+<br>
 
 **Authors**
 
