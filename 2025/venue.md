@@ -18,7 +18,7 @@ Address: 22 Orange Grove Rd, Singapore 258350
 
 <!-- The entrance to the congress center is best reached from the busstop <b>Hertistrasse, Davos Platz</b>. -->
 
-<iframe src="https://maps.app.goo.gl/68hycnSzo2CqTYML7" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d36813.446007056176!2d103.79763870404774!3d1.2844357670127962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19f472454f5d%3A0x41ef95aa79073f8b!2sShangri-La%20Singapore!5e1!3m2!1sde!2sch!4v1732610002183!5m2!1sde!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 

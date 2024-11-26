@@ -93,8 +93,8 @@
     #  url: registration-form
    - title: Venue
      url: venue
-  #  - title: Accommodation
-  #    url: accommodation
+   - title: Accommodation
+     url: accommodation
 
  - title: Organizers
    nested:

@@ -16,23 +16,6 @@ Registration Deadline: <b>January 15, 2025</b><br>
 </div>
 
 <br>
-<!-- <br> -->
-<!-- Registration is now open:
-<a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a> -->
-<!-- To register, fill in the form [here.](http://www.davoscongress.ch/3DVConference/Registration) -->
-
-<!-- <ul> -->
-
-
-<!-- <li>3DV'25 is an in-person conference. All authors are expected to present on-site.
-If no author is on-site, the paper will not be presented at the conference.
-We require every paper to have an in-person presenter, and the publication will be removed from the proceedings otherwise.
-In case of visa denial, authors are still required to register for the conference to ensure inclusion in the proceedings.
-If the presenter cannot attend due to denied Visa, please collect the supporting evidence, and inform the publication chair.
-</li> -->
-
-<!-- <br> -->
-
 **Authors**
 
 At least one of the authors needs to be registered with a **Full Registration** by the time of the camera ready deadline. It is not possible to register multiple papers for a single person.
@@ -42,7 +25,6 @@ In case of visa denial, authors are still required to register for the conferenc
 If the presenter cannot attend due to denied Visa, please collect the supporting evidence, and inform the publication chair.
 
 <br>
-
 **Registration Fees**
 
 <table style="border-collapse: collapse; border: 1px solid #AAAAAA; width: 100%;">
@@ -66,7 +48,6 @@ If the presenter cannot attend due to denied Visa, please collect the supporting
 </table>
 
 <br>
-
 **Registration types**
 
 The registration fee covers four buffet lunches (including a welcome reception lunch) and three coffee breaks with snacks from Shangri-la Hotel Singapore.
