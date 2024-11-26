@@ -36,14 +36,14 @@ If the presenter cannot attend due to denied Visa, please collect the supporting
 
     <tr height="40px">
         <th> Student Registration</th>
-        <td align="center"> 750 USD </td>
-        <td align="center"> 850 USD </td>
+        <td align="center"> 750 SGD </td>
+        <td align="center"> 850 SGD </td>
     </tr>
     
     <tr height="40px">
         <th> Full Registration</th>
-        <td align="center"> 1'000 USD </td>
-        <td align="center"> 1'300 USD </td>
+        <td align="center"> 1'000 SGD </td>
+        <td align="center"> 1'300 SGD </td>
     </tr>
 </table>
 
