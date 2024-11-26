@@ -1,31 +1,31 @@
 ---
 layout: 2021_sidebar
-year: 2024
+year: 2025
 title: Hotel Conference
 ---
 
 <h2>Conference Hotels</h2>
 
-Special conditions on hotel rooms are available when booking via the following link:
-<br>
-<a href="https://www.davoscongress.ch/3DVConference/Hotel/E" target="blank_">
-https://www.davoscongress.ch/3DVConference/Hotel/E
-</a>
+3DV 2025 has made arrangements with the following hotels for participants:
 
-<h2>Youth Hostel Davos</h2>
-To facilitate accommodation, we have secured rooms for you at the <a href="https://www.youthhostel.ch/en/hostels/davos/">Youth Hostel Davos</a> at a rate of <b>CHF 59.00</b> per night, which includes breakfast and dinner. When making your reservation, please indicate that you will be attending the 3DV conference.
-The booking system at the youth hostel is exclusively reserved for conference participants until the <b>10. February 2024</b>. If you plan to stay there, please make sure to book your room before that date. <a href="https://www.youthhostel.ch/en/hostels/davos/">
+[JEN Singapore Tanglin by Shangri-La](https://www.shangri-la.com/en/hotels/jen/singapore/tanglin)
 
-<b>Contact</b><br>
-Davos Youthpalace<br>
-Horlaubenstrasse 27<br>
-CH-7260 Davos Dorf<br>
-Switzerland<br>
+New Reservation | JEN Singapore Tanglin by Shangri-La
+For booking assistance, please contact grouprsvn.singapore@hoteljen.com Cc: cheryl.yu@shangri-la.com 
 
-The online booking system is closed for reservations during 3DV.
-To book a room, please contact the youth hostel via phone or email and make sure to mention that your participation at the 3DV conference.<br>
-Tel.: +41 81 410 19 20<br>
-E-Mail: <a href="mailto:davos@youthhostel.ch">davos@youthhostel.ch</a><br>
+
+[Shangri-La Singapore](https://www.shangri-la.com/singapore/shangrila/)
+
+
+New Reservation | Shangri-La Singapore
+For booking assistance,  please contact micereservations.sls@shangri-la.com Cc: cheryl.yu@shangri-la.com 
+
+
+[RELC International Hotel](relcih.com.sg)
+
+Reservation Form 
+Email this form directly to Reservation department at IHReservation@relc.org.sg before 1 March 2025
+
 
 
 

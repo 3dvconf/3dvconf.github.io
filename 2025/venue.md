@@ -8,7 +8,8 @@ title: Venue
 <b>Shangri-La Singapore</b>
 <!-- <br>
 [Talstrasse 49a, 7270 Davos Platz](https://goo.gl/maps/LBGMxjuT6ijv57vW7)<br> -->
-The 3DV conference takes place at the Shangri-La Singapore hotel.
+
+The 3DV conference takes place at the [Shangri-La Singapore hotel](https://www.shangri-la.com/singapore/shangrila/).
 
 Address: 22 Orange Grove Rd, Singapore 258350
 
