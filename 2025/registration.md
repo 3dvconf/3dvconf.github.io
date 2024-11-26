@@ -23,23 +23,21 @@ Registration Deadline: <b>January 15, 2025</b><br>
 
 <!-- <ul> -->
 
-<li> 
-At least one full registration is required per paper. It is not possible to register multiple papers for a single person.
-</li>
 
-
-<li>3DV'25 is an in-person conference. All authors are expected to present on-site.
+<!-- <li>3DV'25 is an in-person conference. All authors are expected to present on-site.
 If no author is on-site, the paper will not be presented at the conference.
 We require every paper to have an in-person presenter, and the publication will be removed from the proceedings otherwise.
 In case of visa denial, authors are still required to register for the conference to ensure inclusion in the proceedings.
 If the presenter cannot attend due to denied Visa, please collect the supporting evidence, and inform the publication chair.
-</li>
+</li> -->
 
 <br>
 
 **Authors**
 
-At least one of the authors needs to be registered with a **Full Registration** by the time of the camera ready deadline.
+At least one of the authors needs to be registered with a **Full Registration** by the time of the camera ready deadline. It is not possible to register multiple papers for a single person.
+
+3DV'25 is an in-person conference. All authors are expected to present on-site.
 
 **Registration Fees**
 

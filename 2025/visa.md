@@ -1,7 +1,7 @@
 ---
 layout: 2021_sidebar
 year: 2025
-title: Visa
+title: Visa Information
 ---
 
 **Visa Conditions**
@@ -23,5 +23,6 @@ You can either:
 
 
 **Visa Invitation Letters** 
+
 We will provide a letter of invite if you request it from us via:
 (Mrs. Siew Fong Ho: hosf@nus.edu.sg).
