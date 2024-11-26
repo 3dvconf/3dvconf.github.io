@@ -25,4 +25,4 @@ You can either:
 **Visa Invitation Letters** 
 
 We will provide a letter of invite if you request it from us via:
-(Mrs. Siew Fong Ho: hosf@nus.edu.sg).
+(Mrs. Siew Fong Ho: <a href="hosf@nus.edu.sg">hosf@nus.edu.sg</a>).

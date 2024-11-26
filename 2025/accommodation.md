@@ -4,29 +4,36 @@ year: 2025
 title: Hotel Conference
 ---
 
-<h2>Conference Hotels</h2>
+## Hotel Arrangements for 3DV 2025
 
-3DV 2025 has made arrangements with the following hotels for participants:
+3DV 2025 has partnered with the following hotels to provide convenient accommodations for participants:
 
-[JEN Singapore Tanglin by Shangri-La](https://www.shangri-la.com/en/hotels/jen/singapore/tanglin)
+---
 
-New Reservation | JEN Singapore Tanglin by Shangri-La
-For booking assistance, please contact grouprsvn.singapore@hoteljen.com Cc: cheryl.yu@shangri-la.com 
+### [JEN Singapore Tanglin by Shangri-La](https://www.shangri-la.com/en/hotels/jen/singapore/tanglin)  
 
+- **New Reservation**  
+For booking assistance, please contact:  
+[grouprsvn.singapore@hoteljen.com](mailto:grouprsvn.singapore@hoteljen.com)  
+Cc: [cheryl.yu@shangri-la.com](mailto:cheryl.yu@shangri-la.com)  
 
-[Shangri-La Singapore](https://www.shangri-la.com/singapore/shangrila/)
+---
 
+### [Shangri-La Singapore](https://www.shangri-la.com/singapore/shangrila)  
 
-New Reservation | Shangri-La Singapore
-For booking assistance,  please contact micereservations.sls@shangri-la.com Cc: cheryl.yu@shangri-la.com 
+- **New Reservation**  
+For booking assistance, please contact:  
+[micereservations.sls@shangri-la.com](mailto:micereservations.sls@shangri-la.com)  
+Cc: [cheryl.yu@shangri-la.com](mailto:cheryl.yu@shangri-la.com)  
 
+---
 
-[RELC International Hotel](relcih.com.sg)
+### [RELC International Hotel](https://relcih.com.sg)  
 
-Reservation Form 
-Email this form directly to Reservation department at IHReservation@relc.org.sg before 1 March 2025
-
-
+- **Reservation Form**  
+Please email the completed form directly to the Reservation Department at:  
+[IHReservation@relc.org.sg](mailto:IHReservation@relc.org.sg)  
+**Deadline**: 1 March 2025
 
 
 <!-- 
