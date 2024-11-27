@@ -56,9 +56,8 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 </div>
 
 <br>
-<!-- 
-<br>
 
+<!-- 
 **Please check the following pages for more infomation**:
 * [Latest News]({{site.url}}/{{page.year}}/news)
 * [Call for Papers]({{site.url}}/{{page.year}}/call-for-papers)
