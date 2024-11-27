@@ -35,7 +35,7 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 
 
 <br>
-**[Keynote Speakers]({{site.url}}/2025/keynotes)**
+**Keynote Speakers**
 
 <div class="row">
 	<div class="col-md-4 align-self-center profile crop" >
@@ -46,7 +46,7 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 	<div class="col-md-3 align-self-center profile crop" >
 		<a href="https://www.cs.cornell.edu/~snavely/ ">
 		<img alt="{{chair.name}}" src="{{site.url}}/img/2025/people/noah.jpg"></a>
-		<b>"Noah Snavely</b><br><br><br>
+		<b>Noah Snavely</b><br><br><br>
 	</div>
 	<div class="col-md-3 align-self-center profile crop" >
 		<a href="https://jonbarron.info/ ">
