@@ -1,5 +1,5 @@
 ---
-layout: 2021_sidebar
+layout: 2025_sidebar
 year: 2025
 title: Hotel Conference
 ---
