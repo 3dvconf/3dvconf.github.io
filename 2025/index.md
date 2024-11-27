@@ -34,43 +34,29 @@ The 12th International Conference on 3D Vision will be held in-person in **Singa
 Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 3DV 2025 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
 
 
-<!-- <br>
-**[Keynote Speakers]({{site.url}}/2022/keynotes)**
+<br>
+**[Keynote Speakers]({{site.url}}/2025/keynotes)**
 
 <div class="row">
 	<div class="col-md-4 align-self-center profile crop" >
-		<a href="http://www0.cs.ucl.ac.uk/staff/L.Agapito/">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/agapito.jpeg"></a>
-		<b>Lourdes Agapito</b><br><br><br>
+		<a href="https://profiles.stanford.edu/fei-fei-li">
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2025/people/feifei.jpg"></a>
+		<b>Fei-Fei Li</b><br><br><br>
 	</div>
 	<div class="col-md-3 align-self-center profile crop" >
-		<a href="https://www2.cs.sfu.ca/~furukawa/">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/furukawa.jpeg"></a>
-		<b>Yasutaka Furukawa</b><br><br><br>
+		<a href="https://www.cs.cornell.edu/~snavely/ ">
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2025/people/noah.jpg"></a>
+		<b>"Noah Snavely</b><br><br><br>
 	</div>
 	<div class="col-md-3 align-self-center profile crop" >
-		<a href="https://ait.ethz.ch/people/hilliges/">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/otmarhilliges.jpg"></a>
-		<b>Otmar Hilliges</b><br><br><br>
-	</div>
-	<div class="col-md-4 align-self-center profile crop" >
-		<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/kanazawa.html">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/kanazawa.jpg"></a>
-		<b>Angjoo Kanazawa</b><br>
-	</div>
-	<div class="col-md-3 align-self-center profile crop" >
-		<a href="https://vincentlepetit.github.io/ ">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/vincent_lepetit_hawai.jpg"></a>
-		<b>Vincent Lepetit</b><br>
-	</div>
-	<div class="col-md-3 align-self-center profile crop" >
-		<a href="https://niessnerlab.org/">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2022/people/niessner.jpg"></a>
-		<b>Matthias Niessner</b><br>
+		<a href="https://jonbarron.info/ ">
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2025/people/jon.jpg"></a>
+		<b>Jon Barron</b><br><br><br>
 	</div>
 </div>
 
 <br>
+<!-- 
 <br>
 
 **Please check the following pages for more infomation**:
