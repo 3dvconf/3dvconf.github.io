@@ -7,7 +7,7 @@ title: Registration
 **Registration Page**
 
 <div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
-Registration opening soon.
+Registration Portal: <a href="https://register.comp.nus.edu.sg/3DV2025">https://register.comp.nus.edu.sg/3DV2025</a>
 <!-- <a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a> -->
 <br><br>
 <!-- For any visa related questions, please directly contact Ms. Jrene Müller (<a href="mailto:jrene.mueller@geod.baug.ethz.ch">jrene.mueller@geod.baug.ethz.ch</a>).
