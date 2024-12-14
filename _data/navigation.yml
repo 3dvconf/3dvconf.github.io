@@ -53,8 +53,12 @@
 #    - title: Call for Demos
 #      url: call-for-demos
 
- - title: Calls for Papers
-   url: call-for-papers
+ - title: Calls
+   nested:
+   - title: Calls for Papers
+     url: call-for-papers
+   - title: Call for Nectar Track
+     url: call-for-nectar-track
 
  - title: Submission
    nested:
