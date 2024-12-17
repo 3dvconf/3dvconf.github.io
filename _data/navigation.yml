@@ -85,8 +85,8 @@
    nested:
    - title: Travel to Singapore
      url: about-city
-  #  - title: Code of Conduct
-  #    url: code-of-conduct
+   - title: Code of Conduct
+     url: code-of-conduct
   #  - title: Important Dates
   #    url: dates
    - title: Registration
