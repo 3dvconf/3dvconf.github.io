@@ -83,22 +83,22 @@
 
  - title: Attending
    nested:
-   - title: Travel to Singapore
-     url: about-city
+   - title: Accommodation
+     url: accommodation
    - title: Code of Conduct
      url: code-of-conduct
-  #  - title: Important Dates
-  #    url: dates
    - title: Registration
      url: registration
+   - title: Travel to Singapore
+     url: about-city
+  #  - title: Important Dates
+  #    url: dates
    - title: Visa
      url: visa
   #  - title: Registration Form
     #  url: registration-form
    - title: Venue
      url: venue
-   - title: Accommodation
-     url: accommodation
 
  - title: Organizers
    nested:
