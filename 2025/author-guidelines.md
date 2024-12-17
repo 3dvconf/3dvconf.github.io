@@ -84,7 +84,7 @@ The goals of 3DV are to publish exciting new work for the first time and to avoi
 
 - The above definition does not consider an arXiv.org paper as a publication because it cannot be rejected. It also excludes university technical reports which are typically not peer reviewed. However, this definition of publication does include peer-reviewed workshop papers, even if they do not appear in a proceedings, if their length is more than four pages (excluding citations). Given this definition, any submission to 3DV should not have substantial overlap with prior publications or other concurrent submissions.
 
-- A submission with substantial overlap is one that shares 20 percent or more material with previous or concurrently submitted publications. Authors are encouraged to contact the Program Chairs ( **3dv-2025- pcs [at] googlegroups [dot] com**) about clarifications on borderline cases.
+- A submission with substantial overlap is one that shares 20 percent or more material with previous or concurrently submitted publications. Authors are encouraged to contact the Program Chairs (**3dv-2025- pcs [at] googlegroups [dot] com**) about clarifications on borderline cases.
 
 - _Note that a technical report (departmental, arXiv.org, etc.) version of the submission that is put up without any form of direct peer-review is NOT considered published and can be submitted to 3DV 2025._
 
