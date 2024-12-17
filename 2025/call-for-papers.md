@@ -1,6 +1,6 @@
 ---
 layout: 2025_sidebar
-title: Call for PapersfCall for Nectar Track
+title: Call for Papers
 year: 2025
 ---
 A PDF version with the important dates can be found <a href="{{site.url}}/files/2025/3DV2025_Call_For_Papers.pdf" target="_blank">**here**</a>.
