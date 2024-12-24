@@ -19,10 +19,10 @@
     #  url: general-information
   #  - title: Visa and covid
     #  url: visa
-#  - title: Program
-#    nested:
-#    - title: Schedule
-#      url: schedule
+ - title: Program
+   nested:
+   - title: Schedule
+     url: schedule
 #    - title: Papers
 #      url: accepted-papers
 #    - title: Demos
