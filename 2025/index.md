@@ -36,7 +36,7 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 <div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
 Registration Portal: <a href="https://register.comp.nus.edu.sg/3DV2025">https://register.comp.nus.edu.sg/3DV2025</a>
 <br><br>
-Registration Deadline for Authors Covering Accepted Papers: <b>January 15, 2025</b><br>
+Registration Deadline for Authors Covering Accepted Papers: <b>February 10, 2025</b><br>
 </div>
 
 

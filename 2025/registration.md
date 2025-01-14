@@ -12,7 +12,7 @@ Registration Portal: <a href="https://register.comp.nus.edu.sg/3DV2025">https://
 <br><br>
 <!-- For any visa related questions, please directly contact Ms. Jrene Müller (<a href="mailto:jrene.mueller@geod.baug.ethz.ch">jrene.mueller@geod.baug.ethz.ch</a>).
 <br><br> -->
-Registration Deadline for Authors Covering Accepted Papers: <b>January 15, 2025</b><br>
+Registration Deadline for Authors Covering Accepted Papers: <b>February 10, 2025</b><br>
 </div>
 
 <br>
