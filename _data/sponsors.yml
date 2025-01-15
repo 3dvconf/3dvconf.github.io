@@ -1,13 +1,19 @@
 2025:
-#  - section:
-#    name: Platinum Partners
-#    company:
-#     - name: huawei
-#       logo: img/2025/sponsors/huawei.png
-#       url: http://huawei.com
-#       height: 25em
-#       width: 48%
-#       mdsize: 8
+ - section:
+   name: Platinum Partners
+   company:
+    - name: huawei
+      logo: img/2025/sponsors/huawei.png
+      url: http://huawei.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: nus
+      logo: img/2025/sponsors/nus.jpg
+      url: https://nus.edu.sg/
+      height: 25em
+      width: 48%
+      mdsize: 8
  - section:
    name: Gold Partners
    company:
