@@ -1,6 +1,6 @@
 ---
-layout: 2021_sidebar
-year: 2024
+layout: 2025_sidebar
+year: 2025
 title: Papers
 ---
 
@@ -35,7 +35,7 @@ You will find the schedule for both poster and oral sessions of accepted papers 
 
 <script type="module">
 	import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-	const csv_file_path = '{{site.url}}/schedule.csv';
+	const csv_file_path = '{{site.url}}/2025/schedule.csv';
 	let user_name = document.getElementById("name");
 	let ul = document.getElementById("myUL");
 
@@ -60,7 +60,7 @@ You will find the schedule for both poster and oral sessions of accepted papers 
 		authors.classList.add("paper_authors");
 		const title = document.createElement("span");
 		title.classList.add("paper_title");
-		title.appendChild(document.createTextNode(data[i]['title']));
+		title.appendChild(document.createTextNode(data[i]['Title']));
 
 		const paper_abstract = document.createElement("div");
 		paper_abstract.classList.add("paper_abstract");
@@ -69,16 +69,16 @@ You will find the schedule for both poster and oral sessions of accepted papers 
 		paper_abstract.appendChild(document.createTextNode(data[i]['abstract']));
 
 		if (data[i]['title'] == ""){continue;}
-		poster_badge.appendChild(document.createTextNode(data[i]['poster']));
+		poster_badge.appendChild(document.createTextNode("Poster " + data[i]['Poster Session']));
 		li.appendChild(poster_badge);
-		if (data[i]['session'] != ''){
-			badge.appendChild(document.createTextNode(data[i]['session']));
+		if (data[i]['Oral Session'] != ''){
+			badge.appendChild(document.createTextNode("Oral " + data[i]['Oral Session']));
 			li.appendChild(badge);
 		}
 		li.appendChild(title);
-		authors.appendChild(document.createTextNode(data[i]['authors']));
-		li.appendChild(authors);
-		li.appendChild(paper_abstract);
+		// authors.appendChild(document.createTextNode(data[i]['authors']));
+		// li.appendChild(authors);
+		// li.appendChild(paper_abstract);
 		li_a.appendChild(li);
 		ul.appendChild(li_a);
 

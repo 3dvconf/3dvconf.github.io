@@ -19,12 +19,32 @@
     #  url: general-information
   #  - title: Visa and covid
     #  url: visa
+ 
+ - title: Attending
+   nested:
+   - title: Accommodation
+     url: accommodation
+   - title: Code of Conduct
+     url: code-of-conduct
+   - title: Registration
+     url: registration
+   - title: Travel to Singapore
+     url: about-city
+  #  - title: Important Dates
+  #    url: dates
+   - title: Visa
+     url: visa
+  #  - title: Registration Form
+    #  url: registration-form
+   - title: Venue
+     url: venue
+
  - title: Program
    nested:
    - title: Schedule
      url: schedule
-#    - title: Papers
-#      url: accepted-papers
+   - title: Papers
+     url: accepted-papers
 #    - title: Demos
 #      url: demos
 #    - title: Tutorials
@@ -73,8 +93,8 @@
    - title: Camera Ready Instructions
      url: camera-ready-instructions
 
- - title: Important Dates
-   url: dates
+#  - title: Important Dates
+#    url: dates
 
  - title: Partnerships
    nested:
@@ -82,25 +102,6 @@
      url: partnership
    - title: Sponsors
      url: sponsors
-
- - title: Attending
-   nested:
-   - title: Accommodation
-     url: accommodation
-   - title: Code of Conduct
-     url: code-of-conduct
-   - title: Registration
-     url: registration
-   - title: Travel to Singapore
-     url: about-city
-  #  - title: Important Dates
-  #    url: dates
-   - title: Visa
-     url: visa
-  #  - title: Registration Form
-    #  url: registration-form
-   - title: Venue
-     url: venue
 
  - title: Organizers
    nested:

@@ -35,7 +35,7 @@ You will find the schedule for both poster and oral sessions of accepted papers 
 
 <script type="module">
 	import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-	const csv_file_path = '{{site.url}}/schedule.csv';
+	const csv_file_path = '{{site.url}}/2024/schedule.csv';
 	let user_name = document.getElementById("name");
 	let ul = document.getElementById("myUL");
 
