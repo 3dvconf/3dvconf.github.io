@@ -66,7 +66,7 @@ You will find the schedule for both poster and oral sessions of accepted papers 
 		paper_abstract.classList.add("paper_abstract");
 		paper_abstract.classList.add("collapse");
 		paper_abstract.setAttribute("id", "abstract_"+i.toString());
-		paper_abstract.appendChild(document.createTextNode(data[i]['abstract']));
+		paper_abstract.appendChild(document.createTextNode(data[i]['Abstract']));
 
 		if (data[i]['title'] == ""){continue;}
 		poster_badge.appendChild(document.createTextNode("Poster " + data[i]['Poster Session']));
@@ -76,9 +76,9 @@ You will find the schedule for both poster and oral sessions of accepted papers 
 			li.appendChild(badge);
 		}
 		li.appendChild(title);
-		// authors.appendChild(document.createTextNode(data[i]['authors']));
-		// li.appendChild(authors);
-		// li.appendChild(paper_abstract);
+		authors.appendChild(document.createTextNode(data[i]['Authors']));
+		li.appendChild(authors);
+		li.appendChild(paper_abstract);
 		li_a.appendChild(li);
 		ul.appendChild(li_a);
 
