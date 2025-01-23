@@ -88,6 +88,12 @@ general chairs and you will receive further information. Contact: 3dv22gc [at] g
 No refunds will be provided for any reason once you paid the registration fee.
 
 <br>
+
+**Invitation Letter to Attend 3DV 2025**
+
+We will provide a letter of invite if you request it from us via: (Mrs. Siew Foong Ho:hosf@nus.edu.sg).
+
+<br>
 **Code of Conduct**
 
 Please review the [3DV code of conduct]({{site.url}}/{{page.year}}/code-of-conduct).

@@ -18,7 +18,7 @@ This session showcases outstanding papers in 3D vision published at top-tier con
 - Interactive Q&A sessions and dynamic poster discussions will actively engage students and participants.
 
 #### How to Apply
-Authors should complete this [form](https://forms.gle/3CmhNbD8WgKhHmqA9) and include a link to their paper and details of the conference where it was published by **January 15, 2025**. Submissions will be evaluated by a committee based on originality, significance, and impact. All participants must present their papers **in-person** at 3DV 2025.
+Authors should complete this [form](https://forms.gle/3CmhNbD8WgKhHmqA9) and include a link to their paper and details of the conference where it was published by **February 15, 2025**. Submissions will be evaluated by a committee based on originality, significance, and impact. All participants must present their papers **in-person** at 3DV 2025.
 
 
 
@@ -32,12 +32,12 @@ This event will take the form of a poster Session to offer students and early-st
 - Each presenter might be paired with a mentor who will provide personalized feedback during the session.
 
 #### How to Apply
-Applicants must complete this [form](https://forms.gle/3CmhNbD8WgKhHmqA9) and provide a one-page abstract (with an optional second page for figures, excluding references) describing their research or emerging ideas by **January 15, 2025**. Submissions will be evaluated by a dedicated committee based on originality, feasibility, and potential impact. All participants must present their ideas **in-person** at 3DV 2025. 
+Applicants must complete this [form](https://forms.gle/3CmhNbD8WgKhHmqA9) and provide a one-page abstract (with an optional second page for figures, excluding references) describing their research or emerging ideas by **February 15, 2025**. Submissions will be evaluated by a dedicated committee based on originality, feasibility, and potential impact. All participants must present their ideas **in-person** at 3DV 2025. 
 
 ### Important Dates
 
 - **Applications Open**: December 15, 2024
-- **Application Deadline**: January 15, 2025
+- **Application Deadline**: ~~January 15, 2025~~ February 15, 2025
 
 ### Contact
 
