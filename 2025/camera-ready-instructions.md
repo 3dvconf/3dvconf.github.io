@@ -16,6 +16,7 @@ There are multiple steps to completing your final 3DV 2025 paper submission:
  <li>Prepare your paper</li>
  <li>Prepare your supplementary material (optional)</li>
  <li>Submit the paper on OpenReview</li>
+ <li>(New) Submit the paper to IEEE</li>
 </ol>
 
 <h2>1. Register at least one author</h2>
@@ -35,7 +36,7 @@ Deadline: February 10, 2025
 
 There is a strict size limit of <b>50 MB</b> for the paper in the conference proceedings. If the size of your paper is bigger than this, you are probably using very large images in your figures. As a rule of thumb, your images will look fine at 600 pixels per inch and you should down-sample the images used in your figures accordingly. 
 The page limit for all papers is <b>8</b> pages — with at most <b>4</b> additional pages allowed that contain only cited references.
-To clarify, the main body of the paper, including figures, tables, equations, acknowledgments, etc., must be limited to <b>no more than 8 pages</b>. Additional pages may only contain cited references — no acknowledgments or other text, figures, tables, etc. Papers longer than 8 pages (not including references), will not be processed and will not appear in the conference proceedings.
+To clarify, the main body of the paper, including figures, tables, equations, acknowledgments, etc., must be limited to <b>no more than 8 pages</b>. Additional pages may only contain cited references — no acknowledgments or other text, figures, tables, etc. Papers longer than 8 pages (not including references), will not be processed or appear in the conference proceedings.
 
 LaTeX style files compatible with the publisher's requirements are available through the <a href="https://3dvconf.github.io/2025/author-guidelines/">3DV 2025 website</a>.
 
@@ -58,4 +59,10 @@ Supplementary materials can also be uploaded and may include videos, code, image
 
 Deadline: February 10, 2025
 
-If you correctly follow the steps above, you may upload your paper and supplementary materials to OpenReview, and your camera-ready submission is considered complete. Congratulations!
+If you correctly follow the steps above, you may upload your paper and supplementary materials to OpenReview.
+
+<h2>5. (New) Submit the paper to IEEE</h2>
+
+Deadline: February 14, 2025
+
+Please also submit your paper to IEEE via the link you received over email. Note that the IEEE copyright form and pdf checker are now included in the IEEE submission portal. If there are any questions, please contact the <a href="mailto:3dv25pubchair@googlegroups.com">publication chairs</a>, as well as the IEEE production editor <a href="mailto:jgurrola625@gmail.com">Javier Gurrola</a>. Your camera-ready submission is now considered complete. Congratulations!
