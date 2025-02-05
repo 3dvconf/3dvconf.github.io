@@ -1,10 +1,20 @@
 ---
 layout: 2021_sidebar
 year: 2025
-title: Poster Instructions
+title: Presentation Instructions
 ---
 
-As we prepare for the upcoming 3DV conference, we wanted to provide some important details regarding the poster presentations:
+### Oral Presentations
+
+Below are some details regarding the oral presentations:
+
+1. **Oral Presentations:** Each oral presentation should be 12 minutes long, with an additional 3 minutes for Q&A.
+2. **Format:** The presenter should use their own laptop for the presentation. We will update you if the situation changes. 
+
+
+### Poster Presentations
+
+Below are some details regarding the poster presentations:
 
 1. **Poster Presentations:** All accepted papers will be presented as posters, including orals.
 
