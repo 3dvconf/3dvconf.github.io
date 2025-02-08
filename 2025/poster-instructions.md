@@ -22,4 +22,22 @@ Below are some details regarding the poster presentations:
 
 3. **Poster Content:** Feel free to use your own artwork, but we recommend using a 3-column layout with less text and a few prominent and expressive figures. The poster should not be a copy-paste of your paper, but provide you the “tools” to give a 5 to 10-minute presentation of your work to any attendee. We do not have a poster template and recommend looking at posters from previous conferences for inspiration. 
 
-4. **Poster Printing:** Please prepare to arrange poster printing yourself. The conference does not expect to offer poster printing services; however, we will keep you posted if the situation changes. 
+
+### Poster Printing
+
+Please follow these steps to use our poster printing service.
+
+- Coated A1 size poster **@ SGD 22 per page**, maximum 2 pages.
+  - **Size of Poster:** 841mm x 594mm (33.11” x 23.38”)
+  - **Type of file:** PDF format
+  - Posters of a different dimension and file type from the above will not be accepted for printing.
+- Email your poster and the following information to both <a href="mailto:pjtan83@nus.edu.sg">pjtan83@nus.edu.sg</a> and <a href="mailto:comtwh@nus.edu.sg">comtwh@nus.edu.sg</a>
+  - Full Name:
+  - Email Address:   
+  - Registration Number:   
+  - Paper ID:   
+  - **Deadline for sending posters:** <strong style="color:red">28 February 2025 @ 23:59 hrs (GMT +8)</strong>
+- A link for payment will be sent to you upon receiving your email for the printing service.
+  - **Deadline for payment:** <strong style="color:red">3 March 2025 @ 23:59 hrs (GMT +8)</strong>
+  - We will only proceed with printing upon receipt of payment.
+- Posters will be delivered to the conference venue on the first day of the conference. Please collect them at the registration counter.
