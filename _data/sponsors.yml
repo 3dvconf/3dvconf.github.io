@@ -51,6 +51,12 @@
       height: 25em
       width: 48%
       mdsize: 8
+    - name: uptec
+      logo: img/2025/sponsors/uptec.jpg
+      url: https://www.uptec-im.cn/
+      height: 25em
+      width: 48%
+      mdsize: 8
 
  - section:
    name: Best Paper Award Sponsor
