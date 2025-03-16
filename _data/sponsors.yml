@@ -23,7 +23,15 @@
       height: 25em
       width: 48%
       mdsize: 8
-
+ - section:
+   name: Silver Partners
+   company:
+    - name: XGRIDS
+      logo: img/2025/sponsors/xgrids.png
+      url: https://www.xgrids.com/
+      height: 20em
+      width: 45%
+      mdsize: 8
  - section:
    name: Bronze Partner
    company:
