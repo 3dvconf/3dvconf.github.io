@@ -85,7 +85,26 @@
       height: 25em
       width: 48%
       mdsize: 8
+ 
+ - section:
+   name: Best Paper Honorable Mention Award Sponsor
+   company:
+    - name: airsquire
+      logo: img/2025/sponsors/airsquire.png
+      url: https://www.airsquire.ai/
+      height: 25em
+      width: 48%
+      mdsize: 8
 
+ - section:
+   name: Technically Co-Sponsored by IEEE Computer Society
+   company:
+    - name: IEEE
+      logo: img/2025/sponsors/ieee.jpg
+      url: https://www.ieee.org/
+      height: 25em
+      width: 48%
+      mdsize: 8
 2024:
  - section:
    name: Platinum Partners
