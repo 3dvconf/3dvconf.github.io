@@ -35,7 +35,7 @@ You will find the schedule for both poster and oral sessions of accepted papers 
 
 <script type="module">
 	import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-	const csv_file_path = '{{site.url}}/2025/schedule.csv';
+	const csv_file_path = '{{site.url}}/2025/schedule_updated.csv';
 	let user_name = document.getElementById("name");
 	let ul = document.getElementById("myUL");
 
@@ -69,7 +69,8 @@ You will find the schedule for both poster and oral sessions of accepted papers 
 		paper_abstract.appendChild(document.createTextNode(data[i]['Abstract']));
 
 		if (data[i]['title'] == ""){continue;}
-		poster_badge.appendChild(document.createTextNode("Poster " + data[i]['Poster Session']));
+		const posterId = data[i]['Poster ID'].toString().padStart(2, '0');
+		poster_badge.appendChild(document.createTextNode("Poster " + data[i]['Poster Session'] + '-' + posterId));
 		li.appendChild(poster_badge);
 		if (data[i]['Oral Session'] != ''){
 			badge.appendChild(document.createTextNode("Oral " + data[i]['Oral Session']));
