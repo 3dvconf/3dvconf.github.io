@@ -1,7 +1,7 @@
 ---
 layout: 2021_default
 year: 2025
-title: Tentative Schedule
+title: Schedule
 ---
 
 <div style="width: 920px; height: 600px; position: relative; margin: auto; display: block">
