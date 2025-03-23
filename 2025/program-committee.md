@@ -4,7 +4,7 @@ year: 2025
 ---
 
 
-<h2 style="text-align:center;"> Outstanding Reviewers</h2>
+<!-- <h2 style="text-align:center;"> Outstanding Reviewers</h2>
 <br>
 <div class="row" >
 {% for people in site.data.program-committee[page.year] %}
@@ -15,7 +15,7 @@ year: 2025
 		{% endif%}
 {% endfor %}
 </div>
-<br><br>
+<br><br> -->
 
 <h2 style="text-align:center;"> Area Chairs </h2>
 <br>
