@@ -4,6 +4,11 @@ year: 2025
 title: Schedule
 ---
 
+<center>
+Please checkout our <a href="https://drive.google.com/file/d/1w0PBhB04t7j_AY5epwQhKhatDq259gc-/view?usp=sharing">Booklet</a> for the conference guide.
+</center>
+<br><br>
+
 <div style="width: 920px; height: 600px; position: relative; margin: auto; display: block">
 <div style="background-color: white; position: absolute; top: 0; left: 0; width: 100%; height: 25px"></div>
 <div style="background-color: white; position: absolute; top: 0; left: 0; width: 10px; height: 100%"></div>
@@ -135,3 +140,4 @@ title: Schedule
 
 
 {% endfor %}
+

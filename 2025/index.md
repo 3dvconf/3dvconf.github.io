@@ -61,7 +61,9 @@ Registration Deadline for Authors Covering Accepted Papers: <b>February 10, 2025
 	</div>
 </div>
 
-<br>
+**Booklet**
+
+Please download our digital <a href="https://drive.google.com/file/d/1w0PBhB04t7j_AY5epwQhKhatDq259gc-/view?usp=sharing">booklet</a> for the conference guide.
 
 <!-- 
 **Please check the following pages for more infomation**:
