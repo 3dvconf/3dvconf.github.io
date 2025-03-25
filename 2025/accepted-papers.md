@@ -30,6 +30,13 @@ function myFunction() {
   to take down their posters following their designated session slot.
 </p>
 
+<div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
+<i>The proceedings will be available on IEEE Xplore. This material is presented here to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright.
+</i>
+</div>
+<br><br>
+
+
 <div align="center">
   <input type="text" id="myInput" onkeyup="myFunction()" 
          placeholder="Search for papers, authors, ..." class="paper_search">
@@ -113,7 +120,7 @@ function myFunction() {
       const suppLink = document.createElement("a");
       suppLink.href = data[i]['Supplementary Link'].trim();
       suppLink.target = "_blank";
-      suppLink.textContent = "Supplementary";
+      suppLink.textContent = "Supp. Mat.";
       suppLink.classList.add("paper_supp_link");
       linksDiv.appendChild(suppLink);
     }
