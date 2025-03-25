@@ -6,17 +6,16 @@ title: Papers
 
 <script>
 function myFunction() {
-  var input, filter, ul, li, a, i, txtValue;
+  var input, filter, ul, li, i, txtValue;
   input = document.getElementById('myInput');
   filter = input.value.toUpperCase();
   ul = document.getElementById("myUL");
   li = document.getElementsByClassName('paper_li');
 
-  // Loop through all list items, and hide those who don't match the search query
+  // Loop through all list items, and hide those that don't match the search query
   for (i = 0; i < li.length; i++) {
-    a = li[i];
-    txtValue = a.innerHTML || a.textContent;
-	if (txtValue.toUpperCase().indexOf(filter) > -1) {
+    txtValue = li[i].textContent || li[i].innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
       li[i].style.display = "";
     } else {
       li[i].style.display = "none";
@@ -24,9 +23,16 @@ function myFunction() {
   }
 }
 </script>
-You will find the schedule for both poster and oral sessions of accepted papers below. Poster presenters are free to select their board from those available and are kindly reminded to take down their posters following their designated session slot.
+
+<p>
+  You will find the schedule for both poster and oral sessions of accepted papers below.
+  Poster presenters are free to select their board from those available and are kindly reminded
+  to take down their posters following their designated session slot.
+</p>
+
 <div align="center">
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for papers, authors, ..." class="paper_search">
+  <input type="text" id="myInput" onkeyup="myFunction()" 
+         placeholder="Search for papers, authors, ..." class="paper_search">
 </div>
 
 <div id="myUL" style="list-style-type: none;"></div>
@@ -34,78 +40,131 @@ You will find the schedule for both poster and oral sessions of accepted papers 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 <script type="module">
-	import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-	const csv_file_path = '{{site.url}}/2025/schedule_updated.csv';
-	let user_name = document.getElementById("name");
-	let ul = document.getElementById("myUL");
+  import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
-	const data = await d3.csv(csv_file_path);
+  // Adjust path to your actual CSV containing 'PDF Link' and 'Supplementary'
+  const csv_file_path = '{{site.url}}/2025/schedule_updated2.csv';
+  const ul = document.getElementById("myUL");
 
-	for(let i=0; i<data.length; i++){
-		const li_a = document.createElement("a");
-		li_a.classList.add("paper_a");
-		li_a.setAttribute("data-toggle", "collapse");
-		li_a.setAttribute("href", "#abstract_"+i.toString());
-		li_a.setAttribute("role", "button");
-		li_a.setAttribute("aria-expanded", "false");
-		li_a.setAttribute("aria-controls", "abstract_"+i.toString());
+  const data = await d3.csv(csv_file_path);
 
-		const li = document.createElement("div");
-		li.classList.add("paper_li");
-		const badge = document.createElement("p");
-		badge.classList.add("paper_badge");
-		const poster_badge = document.createElement("p");
-		poster_badge.classList.add("paper_badge");
-		const authors = document.createElement("div");
-		authors.classList.add("paper_authors");
-		const title = document.createElement("span");
-		title.classList.add("paper_title");
-		title.appendChild(document.createTextNode(data[i]['Title']));
+  for (let i = 0; i < data.length; i++) {
+    // Skip rows with no title
+    if (!data[i]['Title'] || data[i]['Title'].trim() === "") continue;
 
-		const paper_abstract = document.createElement("div");
-		paper_abstract.classList.add("paper_abstract");
-		paper_abstract.classList.add("collapse");
-		paper_abstract.setAttribute("id", "abstract_"+i.toString());
-		paper_abstract.appendChild(document.createTextNode(data[i]['Abstract']));
+    // Each paper entry as a <div>
+    const paperDiv = document.createElement("div");
+    paperDiv.classList.add("paper_li");
 
-		if (data[i]['title'] == ""){continue;}
-		const posterId = data[i]['Poster ID'].toString().padStart(2, '0');
-		poster_badge.appendChild(document.createTextNode("Poster " + data[i]['Poster Session'] + '-' + posterId));
-		li.appendChild(poster_badge);
-		if (data[i]['Oral Session'] != ''){
-			badge.appendChild(document.createTextNode("Oral " + data[i]['Oral Session']));
-			li.appendChild(badge);
-		}
-		li.appendChild(title);
-		authors.appendChild(document.createTextNode(data[i]['Authors']));
-		li.appendChild(authors);
-		li.appendChild(paper_abstract);
-		li_a.appendChild(li);
-		ul.appendChild(li_a);
+    // Poster badge
+    const posterBadge = document.createElement("p");
+    posterBadge.classList.add("paper_badge");
+    // Pad the Poster ID if numeric
+    const posterId = data[i]['Poster ID'] 
+      ? data[i]['Poster ID'].toString().padStart(2, '0') 
+      : "N/A";
+    posterBadge.appendChild(
+      document.createTextNode("Poster " + (data[i]['Poster Session'] || "") + "-" + posterId)
+    );
+    paperDiv.appendChild(posterBadge);
 
-	}
+    // Oral badge (if any)
+    if (data[i]['Oral Session'] && data[i]['Oral Session'].trim() !== "") {
+      const oralBadge = document.createElement("p");
+      oralBadge.classList.add("paper_badge");
+      oralBadge.appendChild(
+        document.createTextNode("Oral " + data[i]['Oral Session'])
+      );
+      paperDiv.appendChild(oralBadge);
+    }
 
-	var $_GET=[];
-	window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,name,value){$_GET[name]=value;});
-	if ($_GET['search']){
-		const search = $_GET['search'].replace('%20', ' ');
-		document.getElementById("myInput").value = search;
-		myFunction();
-	}
+    // Title
+    const titleElem = document.createElement("span");
+    titleElem.classList.add("paper_title");
+    titleElem.textContent = data[i]['Title'];
+    paperDiv.appendChild(titleElem);
+
+    // Authors
+    const authorsElem = document.createElement("div");
+    authorsElem.classList.add("paper_authors");
+    authorsElem.textContent = data[i]['Authors'] || '';
+    paperDiv.appendChild(authorsElem);
+
+    // Links: PDF / Supplementary / Abstract
+    const linksDiv = document.createElement("div");
+    linksDiv.classList.add("paper_links");
+
+    // PDF link (if present)
+    if (data[i]['PDF Link'] && data[i]['PDF Link'].trim() !== "") {
+      const pdfLink = document.createElement("a");
+      pdfLink.href = data[i]['PDF Link'].trim();
+      pdfLink.target = "_blank";
+      pdfLink.textContent = "PDF";
+      pdfLink.classList.add("paper_pdf_link");
+      linksDiv.appendChild(pdfLink);
+    }
+
+    // Supplementary link (if present)
+    if (data[i]['Supplementary Link'] && data[i]['Supplementary Link'].trim() !== "") {
+      // Add separator if PDF link was already added
+      if (linksDiv.childNodes.length > 0) {
+        linksDiv.appendChild(document.createTextNode(" | "));
+      }
+      const suppLink = document.createElement("a");
+      suppLink.href = data[i]['Supplementary Link'].trim();
+      suppLink.target = "_blank";
+      suppLink.textContent = "Supplementary";
+      suppLink.classList.add("paper_supp_link");
+      linksDiv.appendChild(suppLink);
+    }
+
+    // Abstract link: toggle the abstract collapse
+    {
+      // Add separator if there are already any links
+      if (linksDiv.childNodes.length > 0) {
+        linksDiv.appendChild(document.createTextNode(" | "));
+      }
+      const abstractToggle = document.createElement("a");
+      abstractToggle.href = "#abstract_" + i;
+      abstractToggle.setAttribute("data-toggle", "collapse");
+      // If you're using Bootstrap's collapse, you might also want
+      // `role="button" aria-expanded="false" aria-controls="abstract_i"`
+      abstractToggle.setAttribute("role", "button");
+      abstractToggle.setAttribute("aria-expanded", "false");
+      abstractToggle.setAttribute("aria-controls", "abstract_" + i);
+
+      abstractToggle.textContent = "Abstract";
+      abstractToggle.classList.add("paper_abstract_link");
+      linksDiv.appendChild(abstractToggle);
+    }
+
+    // Append the links row
+    paperDiv.appendChild(linksDiv);
+
+    // Abstract container (collapsed by default)
+    const abstractDiv = document.createElement("div");
+    abstractDiv.classList.add("paper_abstract", "collapse");
+    abstractDiv.setAttribute("id", "abstract_" + i);
+    abstractDiv.textContent = data[i]['Abstract'] || '';
+    paperDiv.appendChild(abstractDiv);
+
+    // Finally, append the entire paper entry to #myUL
+    ul.appendChild(paperDiv);
+  }
+
+  // Handle ?search= in the URL
+  const $_GET = {};
+  window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(a, name, value) {$_GET[name] = value;});
+  if ($_GET['search']) {
+    const searchVal = $_GET['search'].replace('%20', ' ');
+    document.getElementById("myInput").value = searchVal;
+    myFunction();
+  }
 </script>
+
+<!-- If needed, keep jQuery CSV script, though not used in this version -->
 <script src="{{site.url}}/js/jquery.csv.js"></script>
 
-<div>
-</div>
+<div></div>
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
