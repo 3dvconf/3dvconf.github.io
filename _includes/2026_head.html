@@ -1,0 +1,45 @@
+{% if page.year != null %}
+    {% assign year = page.year %}
+{% else %}
+    {% assign year = site.data.3dv.current-year %}
+{% endif %}
+
+<head>
+	<!-- Character Set-->
+	<meta charset="utf-8">
+	
+	<!-- Viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- Page Title-->
+	<title>International Conference on 3D Vision{%if page.year %} {{page.year}} {% endif %} {%if page.title %} - {{page.title}}{% endif %}</title>
+
+	<!-- Site icon-->
+	<!--{%if page.favicon %}
+	<link rel="icon" type="image/jpg" href="{{site.url}}/{{page.favicon}}">
+  {% endif %}-->
+	
+  <!-- Site icon-->
+  {%if site.data.3dv[page.year].favicon %}
+	<link rel="icon" type="image/jpg" href="{{site.url}}/{{site.data.3dv[page.year].favicon}}">
+	{% endif %}
+	
+	<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+	
+	<!-- Font Awesome --> 	
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">   
+	
+	<!-- Site Style-->
+	<link rel="stylesheet" href="{{site.url}}/css/2025_style.css">
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-190993572-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-190993572-1');
+	</script>
+	
+</head>

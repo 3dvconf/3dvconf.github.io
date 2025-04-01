@@ -11,45 +11,11 @@ More traveling information, please checkout <a href="https://www.visitsingapore.
 
 
 <div class="gallery">
-  <a target="_blank" href="../../img/2026/banners/singapore_02.jpg">
-    <img src="../../img/2026/banners/singapore_02.jpg" alt="Cinque Terre">
+  <a target="_blank" href="../../img/2026/banners/vancouver_01.jpg">
+    <img src="../../img/2026/banners/vancouver_01.jpg" alt="Cinque Terre">
   </a>
   <!-- <div class="desc">Add a description of the image here</div> -->
 </div>
 
-<div class="gallery">
-  <a target="_blank" href="../../img/2026/banners/singapore_03.jpg">
-    <img src="../../img/2026/banners/singapore_03.jpg" alt="Cinque Terre">
-  </a>
-  <!-- <div class="desc">Add a description of the image here</div> -->
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="../../img/2026/banners/singapore_04.jpg">
-    <img src="../../img/2026/banners/singapore_04.jpg" alt="Cinque Terre">
-  </a>
-  <!-- <div class="desc">Add a description of the image here</div> -->
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="../../img/2026/banners/singapore_05.jpg">
-    <img src="../../img/2026/banners/singapore_05.jpg" alt="Cinque Terre">
-  </a>
-  <!-- <div class="desc">Add a description of the image here</div> -->
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="../../img/2026/banners/singapore_06.jpg">
-    <img src="../../img/2026/banners/singapore_06.jpg" alt="Cinque Terre">
-  </a>
-  <!-- <div class="desc">Add a description of the image here</div> -->
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="../../img/2026/banners/singapore_07.jpg">
-    <img src="../../img/2026/banners/singapore_07.jpg" alt="Cinque Terre">
-  </a>
-  <!-- <div class="desc">Add a description of the image here</div> -->
-</div>
 
 

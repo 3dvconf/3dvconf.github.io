@@ -1,3 +1,14 @@
+2026:
+ - name: "TODO"
+   # title: "TODO"
+   # abstract: "TODO"
+   # bio: "TODO"
+   # prez: In Person
+   url: https://www.example.com
+   image: img/2026/people/todo.jpg
+   order: 1
+   index: 1
+
 2025:
  - name: "Fei-Fei Li"
    # title: "The Revolution of Neural Rendering"

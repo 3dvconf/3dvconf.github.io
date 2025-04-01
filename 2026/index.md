@@ -1,12 +1,12 @@
 ---
 redirect_from: "/"
-layout: 2026_sidebar_no_dates
+layout: 2026_sidebar
 title: International Conference on 3D Vision 2026
 year: 2026
 banner-image: img/2026/banners/vancouver_01.jpg
 banner-title: Welcome to 3DV 2026
 header-image: img/2026/3dv2026_banner.png
-background: FF9900
+background: 8FCAFF
 favicon: "img/2026/3dv.ico"
 ---
 
@@ -27,7 +27,7 @@ Regular Regular Registration Deadline: <b>March 10, 2026</b>
 </i>
 </div> -->
 
-The 13th International Conference on 3D Vision will be held in-person in **Vancouver** on **?, 2026**.
+The 13th International Conference on 3D Vision will be held in-person in **Vancouver** on **?？？, 2026**.
 
 <!-- This event has provided a premier platform for disseminating research results covering a broad variety of topics in the area of 3D research in computer vision and graphics, from novel optical sensors, signal processing, geometric modelling, representation and transmission, to visualization and interaction, and a variety of applications.  -->
 

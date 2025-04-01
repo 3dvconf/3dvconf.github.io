@@ -1,0 +1,51 @@
+{% if page.year != null %}
+    {% assign year = page.year %}
+{% else %}
+    {% assign year = site.data.3dv.current-year %}
+{% endif %}
+
+<h3><i class="far fa-handshake"></i> &nbsp; Sponsors</h3>
+Want to sponsor the conference? Check out <b><a href="https://3dvconf.github.io//2025/partnership">Partnership Program</a></b> and contact <br><strong><a href="3dv25-sponsors@googlegroups.com">3dv25-sponsors@googlegroups.com</a></strong> 
+
+<div class="row">
+
+{% capture added_companies %}""{% endcapture %}
+{% for section in site.data.sponsors[year] %}
+<div class="row">
+  {% assign sorted_company = section.company | sort:'name' %}
+  {% for company in sorted_company %}
+    {% unless added_companies contains company.name %}
+      <div class="col-md-{{company.mdsize}} align-self-center sponsor-logo-sidebar" style="padding:10px;text-align: center">
+        <a href="{{company.url}}" target="_blank">
+          <img alt="{{company.name}} Logo" src="{{site.url}}/{{company.logo}}">
+        </a>
+      </div>
+      {% capture added_companies %}{{ added_companies }}{{ company.name }}{% endcapture %}
+    {% endunless %}
+  {% endfor %}
+</div>
+{% endfor %}
+
+</div>
+
+<!--
+<div class="row">
+
+	<div class="col-md-6 align-self-center sponsor-logo-sidebar" style="padding:4px;" >
+    <a href="https://www.capturingreality.com/" target="_blank">
+      <img alt="Epic Games Logo" 
+      src="{{site.url}}/img/2022/sponsors/epicgames_Logo_Vertical_Black.png"
+      >
+    </a>
+	</div>		
+
+	<div class="col-md-4 align-self-center sponsor-logo-sidebar" style="padding:4px;" >
+    <a href="https://about.fb.com/realitylabs/" target="_blank">
+      <img alt="Meta Logo" 
+           src="{{site.url}}/img/2022/sponsors/RL-Research_Logo_Black.png"
+      >
+    </a>
+	</div>
+
+</div>
+-->

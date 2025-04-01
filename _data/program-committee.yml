@@ -1,3 +1,465 @@
+2026:
+- name: Adam W Harley
+  ac: true
+- name: Anpei Chen
+  ac: true
+- name: Anurag Ranjan
+  ac: true
+- name: Chuhang Zou
+  ac: true
+- name: Despoina Paschalidou
+  ac: true
+- name: Dimitrios Tzionas
+  ac: true
+- name: Djamila Aouada
+  ac: true
+- name: Fayao Liu
+  ac: true
+- name: Federico Tombari
+  ac: true
+- name: Florian Bernard
+  ac: true
+- name: Francis Engelmann
+  ac: true
+- name: Georgios Pavlakos
+  ac: true
+- name: Hengshuang Zhao
+  ac: true
+- name: Jun Gao
+  ac: true
+- name: Katja Schwarz
+  ac: true
+- name: Manuel Kaufmann
+  ac: true
+- name: Marc Habermann
+  ac: true
+- name: Matteo Poggi
+  ac: true
+- name: Miaomiao Liu
+  ac: true
+- name: Or Litany
+  ac: true
+- name: Peidong Liu
+  ac: true
+- name: Qi Ye
+  ac: true
+- name: Qixing Huang
+  ac: true
+- name: Ruiqi Gao
+  ac: true
+- name: Ruohan Gao
+  ac: true
+- name: Shenlong Wang
+  ac: true
+- name: Shubham Tulsiani
+  ac: true
+- name: Sida Peng
+  ac: true
+- name: Tao Yu
+  ac: true
+- name: Torsten Sattler
+  ac: true
+- name: Viktor Larsson
+  ac: true
+- name: Vincent Sitzmann
+  ac: true
+- name: Xiaodan Liang
+  ac: true
+- name: Xiaoguang Han
+  ac: true
+- name: Xiaojuan Qi
+  ac: true
+- name: Xingang Pan
+  ac: true
+- name: Yue Wang
+  ac: true
+- name: Yuliang Xiu
+  ac: true
+- name: Zan Gojcic
+  ac: true
+- name: Zhaopeng Cui
+  ac: true
+- name: Aditya Chetan
+- name: Aditya Prakash
+- name: Ahmet Serdar Karadeniz
+- name: Aikaterini Adam
+- name: Akin Caliskan
+- name: Alberto Tono
+- name: Alexandre Boulch
+- name: Alexey Nekrasov
+- name: Andreea Dogaru
+- name: Andrew J. Davison
+- name: Ang Cao
+- name: Anita Sellent
+- name: Ankit Dhiman
+- name: Anna Hilsmann
+- name: Anton Obukhov
+- name: Arianna Rampini
+- name: Assia Benbihi
+- name: Atsuhiro Noguchi
+- name: Avinash Sharma
+- name: Ayça Takmaz
+- name: Bang Du
+- name: Bangyan Liao
+- name: Benjamin Risse
+- name: Bernhard Egger
+- name: Bin Ren
+- name: Bingchen Gong
+- name: Bo Sun
+- name: Boris Chidlovskii
+- name: Boris Meden
+- name: Botao Ye
+- name: Brendan McCane
+- name: Buzhen Huang
+- name: Byungjun Kim
+- name: Chao Wen
+- name: Chaoyue Xing
+- name: Charles Malleson
+- name: Charu Sharma
+- name: Chen Guo
+- name: Chen Wang
+- name: Cheng Chen
+- name: Chenming Wu
+- name: Chiang-Heng Chien
+- name: Chih-Hao Lin
+- name: Chin-Hsuan Wu
+- name: Chirui Chang
+- name: Christian Richardt
+- name: Christian Rupprecht
+- name: Christina Tsalicoglou
+- name: Christopher Wewer
+- name: Chuqiao Li
+- name: Ci Li
+- name: Claudio Ferrari
+- name: Colton Stearns
+- name: Corentin Sautier
+- name: Cristiano Saltori
+- name: Daisuke Miyazaki
+- name: Daniel Barath
+- name: Daniel Rebain
+- name: Daniyar Turmukhambetov
+- name: David Charatan
+- name: David Fofi
+- name: David Honzátko
+- name: Dejia Xu
+- name: Denis Tome
+- name: Denys Iliash
+- name: Denys Rozumnyi
+- name: Derek Hoiem
+- name: Di Qiu
+- name: Diego Thomas
+- name: Dimitrije Antić
+- name: Dominik Muhle
+- name: Dongliang Cao
+- name: Dor Litvak
+- name: Driton Salihu
+- name: Eckehard Steinbach
+- name: Eldar Insafutdinov
+- name: Elona Dupont
+- name: Evin Pinar Örnek
+- name: Fabien Baradel
+- name: Fangzhou Hong
+- name: Farshad Einabadi
+- name: Felix Tristram
+- name: Feng Xu
+- name: Florian Hofherr
+- name: Francesco Pittaluga
+- name: Fumihiko Sakaue
+- name: Gaochang Wu
+- name: Garvita Tiwari
+- name: Georgios Paschalidis
+- name: Gerry Chen
+- name: Girum G Demisse
+- name: Gonçalo Dias Pais
+- name: Guoxing Sun
+- name: Hajime Nagahara
+- name: Hanwen Jiang
+- name: Hanxiao Jiang
+- name: Hanzhe Hu
+- name: Hao Li
+- name: Hao Pan
+- name: Hao Xiao
+- name: Hao Zhao
+- name: Hao-Yu Hsu
+- name: Haorui Ji
+- name: Haoyu Guo
+- name: Haoyuan Li
+- name: He Zhang
+- name: Heming Zhu
+- name: Hengyi Wang
+- name: Hidenobu Matsuki
+- name: Hideo Saito
+- name: Hiroshi Kawasaki
+- name: Hoang Chuong Nguyen
+- name: Hong-Xing Yu
+- name: Hongchi Xia
+- name: Honghua Chen
+- name: Hongyuan Chen
+- name: Hsuan-I Ho
+- name: Huaijin Pi
+- name: Hualie Jiang
+- name: Huan-ang Gao
+- name: Hubert Kompanowski
+- name: Hui Zhang
+- name: Igor Vasiljevic
+- name: Inwoo Hwang
+- name: Itai Lang
+- name: Jan Eric Lenssen
+- name: Javier Romero
+- name: Jean-Philippe Tarel
+- name: Jean-Sébastien Franco
+- name: Jenny Seidenschwarz
+- name: Jerome Revaud
+- name: Jiachen Zhao
+- name: Jiahao Ma
+- name: Jiahui Huang
+- name: Jiahui Lei
+- name: Jiahui Liu
+- name: Jiaman Li
+- name: Jian Wang
+- name: Jianchun Chen
+- name: Jiaqi Yang
+- name: Jiawei Yang
+- name: Jiaxin Lu
+- name: Jichao Zhang
+- name: Jie Chen
+- name: Jin Jiang
+- name: Jing Wen
+- name: Jing Yang
+- name: Jing Yang
+- name: Jingwang Ling
+- name: Jingwei Huang
+- name: Jinkun Cao
+- name: Jiye Lee
+- name: Jochen Lang
+- name: Johan Edstedt
+- name: Jonas Hein
+- name: Jonas Kulhanek
+- name: Jonathan Taylor
+- name: Julian Tanke
+- name: Junru Lin
+- name: Junying Wang
+- name: Kai Wang
+- name: Kenneth Chaney
+- name: Kevin Köser
+- name: Kevin Zhang
+- name: Kiyohiro Nakayama
+- name: Konstantinos Tertikas
+- name: Kristijan Bartol
+- name: Kuan-Chih Huang
+- name: Kun Huang
+- name: Laurent Valentin Jospin
+- name: Lennart Bastian
+- name: Liang An
+- name: Liang Ma
+- name: Limin Shang
+- name: Lin Wang
+- name: Linjie Lyu
+- name: Llukman Cerkezi
+- name: Luigi Piccinelli
+- name: Luigi Riz
+- name: Lukas Uzolas
+- name: Luwei Yang
+- name: Malte Prinzler
+- name: Maolin Gao
+- name: Marc Christie
+- name: Marc Stamminger
+- name: Marcus Magnor
+- name: Maria Vanrell
+- name: Mariia Gladkova
+- name: Marius Kästingschäfer
+- name: Mårten Wadenbäck
+- name: Martin Eisemann
+- name: Mattia Segu
+- name: Maxime Pietrantoni
+- name: Mert Asim Karaoglu
+- name: Michael Greenspan
+- name: Michael Niemeyer
+- name: Michel Antunes
+- name: Mike Roberts
+- name: Mingfei Han
+- name: Minghan Qin
+- name: Minye Wu
+- name: Mohammad Reza Karimi Dastjerdi
+- name: Mohammed Brahimi
+- name: Muhammed Kocabas
+- name: Mutian Xu
+- name: Muyu Xu
+- name: Nianyi Li
+- name: Nicolas Audebert
+- name: Nikolaos Sarafianos
+- name: Nikolas Brasch
+- name: Nils Morbitzer
+- name: Ning Wang
+- name: Oliver Boyne
+- name: Omid Taheri
+- name: Patrick Stotko
+- name: Paul Roetzer
+- name: Pavan Kumar Anasosalu Vasu
+- name: Pedro Hermosilla
+- name: Pedro Miraldo
+- name: Peng Wang
+- name: Pengcheng Xi
+- name: Per-Erik Forssen
+- name: Peter Eisert
+- name: Petr Hruby
+- name: Philippos Mordohai
+- name: Pinxin Liu
+- name: Pratheba Selvaraju
+- name: Qi Ma
+- name: Qian Xie
+- name: Qingsong Yan
+- name: Quan Meng
+- name: Quankai Gao
+- name: Renato Martins
+- name: Riccardo de Lutio
+- name: Riccardo Marin
+- name: Riccardo Spezialetti
+- name: Rishabh Dabral
+- name: Rong Wang
+- name: Ronghui Li
+- name: Rongyu Chen
+- name: Rui Huang
+- name: Rui Li
+- name: Ruiqi Zhang
+- name: Ruizhi Shao
+- name: Runjia Li
+- name: Ruofan Liang
+- name: Santiago Velasco-Forero
+- name: Sarah Ostadabbas
+- name: Sergey Prokudin
+- name: Seungryul Baek
+- name: ShahRukh Athar
+- name: Shaifali Parashar
+- name: Shaocong Dong
+- name: Sheldon Andrews
+- name: Sheng Yang
+- name: Shichao Dong
+- name: Shijie Zhou
+- name: Shuai Chen
+- name: Shubham Goel
+- name: Shun-Cheng Wu
+- name: Shuzhe Wang
+- name: Siddhant Prakash
+- name: Simone Milani
+- name: Siwei Zhang
+- name: Sk Aziz Ali
+- name: Soyong Shin
+- name: Stefan Popov
+- name: Stefanie Wuhrer
+- name: Stefano Berretti
+- name: Steve Bourgeois
+- name: Steven Mills
+- name: Sudipta N. Sinha
+- name: Sunil Kumar Narayanan
+- name: Takafumi Taketomi
+- name: Tao Tang
+- name: Tianhang Cheng
+- name: Tianhao Walter Wu
+- name: Tianjian Jiang
+- name: Tianyi Xie
+- name: Tobias Weißberg
+- name: Tom Kelly
+- name: Tomas Jakab
+- name: Toshihiko Yamasaki
+- name: Tuan Anh Tran
+- name: Urs M Bergmann
+- name: Vaibhav Vavilala
+- name: Victor Adrian Prisacariu
+- name: Victoria Fernandez Abrevaya
+- name: Viktoria Ehm
+- name: Vishwanath Saragadam
+- name: Vivek Boominathan
+- name: Vladimir Guzov
+- name: Vladislav Golyanik
+- name: Vongani Hlavutelo Maluleke
+- name: Wanyue Zhang
+- name: Wei Mao
+- name: Wei Tsang Ooi
+- name: Wei Xiong
+- name: Wei Yang
+- name: Weijian Deng
+- name: Weijie Wei
+- name: Weikang Wang
+- name: Wenbin Lin
+- name: Wenjia Wang
+- name: Wenjing Bian
+- name: Wojciech Zielonka
+- name: Xianghui Xie
+- name: Xiangru Huang
+- name: Xiangyue Liu
+- name: Xiaolong Li
+- name: Xiaozheng Zheng
+- name: Xin Qiao
+- name: Xingguang Yan
+- name: Xingyu Chen
+- name: Xinyu Yi
+- name: Xu Cao
+- name: Xuan Gao
+- name: Xueqian Li
+- name: Yajie Zhao
+- name: Yan Yang
+- name: Yang-Tian Sun
+- name: Yannan He
+- name: Yannick Hold-Geoffroy
+- name: Yanwei Fu
+- name: Yehonathan Litman
+- name: Yifan Sun
+- name: Yifan Wang
+- name: Yilun Wang
+- name: Yiming Luo
+- name: Yiming Zuo
+- name: Ying Jiang
+- name: Yinghao Xu
+- name: Yinyu Nie
+- name: Yixing Lao
+- name: Youmin Zhang
+- name: Yuan Shen
+- name: Yuanwen Yue
+- name: Yuchao Dai
+- name: Yue Chen
+- name: Yue Li
+- name: Yue Shi
+- name: Yuedong Chen
+- name: Yuezhi Yang
+- name: Yujiao Shi
+- name: Yuki Kawana
+- name: Yung-Hsu Yang
+- name: Yunpeng Bai
+- name: Yunuo Chen
+- name: Yunze Liu
+- name: Yuqi Ding
+- name: Yushi Lan
+- name: Yuxuan Xue
+- name: Zeren Jiang
+- name: Zeshun Zong
+- name: Zeyu Ma
+- name: Zeyu Wang
+- name: Zhang Chen
+- name: Zhaochong An
+- name: Zhaoqi Su
+- name: Zhaoxin Fan
+- name: Zhaoyang Lv
+- name: Zhe Li
+- name: Zhen Xu
+- name: Zheng Zhang
+- name: Zhenjie Zhao
+- name: Zhenpei Yang
+- name: Zhenyang Li
+- name: Zhenzhang Ye
+- name: Zhenzhen Weng
+- name: Zhijing Shao
+- name: Zhipeng Mo
+- name: Zhiqi Li
+- name: Zhiyang Dou
+- name: Zhiyuan Zhang
+- name: Zhouyingcheng Liao
+- name: Zhuo Su
+- name: Zichen Wang
+- name: Zihan Zhu
+- name: Zihang He
+- name: Zongwei Wu
+- name: Zuria Bauer
 2025:
 - name: Adam W Harley
   ac: true

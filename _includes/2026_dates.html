@@ -1,0 +1,32 @@
+{% if page.year != null %} {% assign year = page.year %} {% else %} {% assign
+year = site.data.3dv.current-year %} {% endif %}
+
+<h3><i class="fas fa-calendar-alt"></i> &nbsp; Important Dates</h3>
+<b>All deadlines are 23:59 Pacific Time (PT). No extensions will be granted.</b>
+<br/>
+- <a href="{{site.url}}/files/2025/author-kit-3DV2025-v1.zip">Download 3DV 2025 Author Kit</a><br/>
+- <a href="https://openreview.net/group?id=3DV/2025/Conference">OpenReview Submission Website</a>
+<br/>
+<table style="border-collapse: collapse; border: none; width: 100%">
+  {% for deadline in site.data.dates[year] %}
+  <tr height="40px">
+    <th style="border: none">{{ deadline.name }}</th>
+    <td style="border: none">
+      {%if deadline.enabled %}{{ deadline.date }} {% else %}
+      <s style="color: red">{{ deadline.date }}</s>{% endif %}
+    </td>
+    <td style="border: none; color: green; font-weight: bold">
+      <i class="fas fa-clock">&nbsp;</i
+      ><span class="countdown" data-countdown="{{ deadline.countdown}}"></span>
+      <script>
+        $(".countdown").each(function () {
+          var countdownDate = $(this).data("countdown");
+          $(this).countdown(countdownDate, function (event) {
+            $(this).html(event.strftime("%w weeks %d days %H:%M:%S"));
+          });
+        });
+      </script>
+    </td>
+  </tr>
+  {% endfor %}
+</table>

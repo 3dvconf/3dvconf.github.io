@@ -1,3 +1,111 @@
+2026:
+ - section:
+   name: Platinum Partners
+   company:
+    - name: huawei
+      logo: img/2025/sponsors/huawei.png
+      url: http://huawei.com
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: nus
+      logo: img/2025/sponsors/nus.jpg
+      url: https://nus.edu.sg/
+      height: 25em
+      width: 48%
+      mdsize: 8
+ - section:
+   name: Gold Partners
+   company:
+    - name: ETH Zurich
+      logo: img/2025/sponsors/eth.png
+      url: https://ethz.ch/de.html
+      height: 25em
+      width: 48%
+      mdsize: 8
+ - section:
+   name: Silver Partner
+   company:
+    - name: XGRIDS
+      logo: img/2025/sponsors/xgrids.png
+      url: https://www.xgrids.com/
+      height: 20em
+      width: 45%
+      mdsize: 8
+ - section:
+   name: Bronze Partner
+   company:
+    - name: GALASports
+      logo: img/2025/sponsors/GALASports.png
+      url: https://www.galasports.net/EN/
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: Google
+      logo: img/2025/sponsors/Google.png
+      url: https://google.com/ 
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: Mitsubishi Electric Research Laboratories
+      logo: img/2025/sponsors/MERL.jpg
+      url: https://www.merl.com/
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: vivo
+      logo: img/2025/sponsors/VIVO.png
+      url: https://www.vivo.com/
+      height: 25em
+      width: 48%
+      mdsize: 8
+    - name: uptec
+      logo: img/2025/sponsors/uptec.jpg
+      url: https://www.uptec-im.cn/
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Best Paper Award Sponsor
+   company:
+    - name: GALASports
+      logo: img/2025/sponsors/GALASports.png
+      url: https://www.galasports.net/EN/
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Best Student Paper Award Sponsor
+   company:
+    - name: vivo
+      logo: img/2025/sponsors/VIVO.png
+      url: https://www.vivo.com/
+      height: 25em
+      width: 48%
+      mdsize: 8
+ 
+ - section:
+   name: Best Paper Honorable Mention Award Sponsor
+   company:
+    - name: airsquire
+      logo: img/2025/sponsors/airsquire.png
+      url: https://www.airsquire.ai/
+      height: 25em
+      width: 48%
+      mdsize: 8
+
+ - section:
+   name: Technically Co-Sponsored by IEEE Computer Society
+   company:
+    - name: IEEE
+      logo: img/2025/sponsors/ieee.jpg
+      url: https://www.ieee.org/
+      height: 25em
+      width: 48%
+      mdsize: 8
+
 2025:
  - section:
    name: Platinum Partners
