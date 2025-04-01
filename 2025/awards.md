@@ -24,7 +24,21 @@ function myFunction() {
   }
 }
 </script>
-The following papers are selected as <b>award candidates</b>. The final awards will be announced during the main conference. Stay tuned!
+The final awards go to:
+
+- <strong style="color:red">Best Paper Award</strong>:<br>
+<strong>An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion<br></strong>
+Xingguang Yan, Han-Hung Lee, Ziyu Wan, Angel X. Chang
+
+- <strong style="color:red">Best Student Paper Award</strong>:<br>
+<strong>MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion<br></strong>
+Bardienus Pieter Duisterhof, Lojze Zust, Philippe Weinzaepfel, Vincent Leroy, Yohann Cabon, Jerome Revaud
+
+- <strong style="color:red">Best Paper Honorable Mention Award</strong>:<br>
+<strong>MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation<br></strong>
+Hyunwoo Kim, Itai Lang, Thibault Groueix, Noam Aigerman, Vladimir Kim, Rana Hanocka
+
+The following papers are selected as <b>award candidates</b>.
 <div align="center">
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for papers, authors, ..." class="paper_search">
 </div>
