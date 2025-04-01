@@ -1,6 +1,6 @@
 ---
 layout: 2021_default
-year: 2025
+year: 2026
 title: Schedule
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: 2025_sidebar
-year: 2025
+layout: 2026_sidebar
+year: 2026
 title: Author Guidelines
 ---
 
@@ -12,7 +12,7 @@ In addition, authors are urged to consult the [FAQs]({{site.url}}/{{page.year}}/
 **Paper Formatting:**
 Papers are limited to **eight pages**, including figures and tables, in the 3DV style.
 Additional pages containing only cited references are allowed.
-Please download the **[3DV 2025 Author Kit](https://3dvconf.github.io/files/2025/author-kit-3DV2025-v1.zip)** for detailed formatting instructions. 
+Please download the **[3DV 2026 Author Kit](https://3dvconf.github.io/files/2026/author-kit-3DV2026-v1.zip)** for detailed formatting instructions. 
 The maximum size of the abstract is 4000 characters.
 The paper must be PDF only (maximum 50 MB). Make sure your paper meets the formatting and anonymity requirements described above.
 The supplementary material can be either PDF or ZIP only (maximum 200 MB).
@@ -44,12 +44,12 @@ It may not include results on additional datasets, results obtained with an impr
 
 ### Rebuttal
 
-Same as last year, there will be no rebuttal at 3DV 2025.
+Same as last year, there will be no rebuttal at 3DV 2026.
 
 ### Policy
 
 **Submission and Review Process:**
-3DV 2025 will be using [OpenReview](https://openreview.net/group?id=3DV/2025/Conference) to manage submissions.
+3DV 2026 will be using [OpenReview](https://openreview.net/group?id=3DV/2026/Conference) to manage submissions.
 Consistent with the review process for previous 3DV conferences, submissions under review will be visible only to their assigned members of the program committee (area chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process.
 
 
@@ -84,9 +84,9 @@ The goals of 3DV are to publish exciting new work for the first time and to avoi
 
 - The above definition does not consider an arXiv.org paper as a publication because it cannot be rejected. It also excludes university technical reports which are typically not peer reviewed. However, this definition of publication does include peer-reviewed workshop papers, even if they do not appear in a proceedings, if their length is more than four pages (excluding citations). Given this definition, any submission to 3DV should not have substantial overlap with prior publications or other concurrent submissions.
 
-- A submission with substantial overlap is one that shares 20 percent or more material with previous or concurrently submitted publications. Authors are encouraged to contact the Program Chairs (**3dv-2025- pcs [at] googlegroups [dot] com**) about clarifications on borderline cases.
+- A submission with substantial overlap is one that shares 20 percent or more material with previous or concurrently submitted publications. Authors are encouraged to contact the Program Chairs (**3dv-2026- pcs [at] googlegroups [dot] com**) about clarifications on borderline cases.
 
-- _Note that a technical report (departmental, arXiv.org, etc.) version of the submission that is put up without any form of direct peer-review is NOT considered published and can be submitted to 3DV 2025._
+- _Note that a technical report (departmental, arXiv.org, etc.) version of the submission that is put up without any form of direct peer-review is NOT considered published and can be submitted to 3DV 2026._
 
 **Attendance responsibilities:** The authors agree that if the paper is accepted, at least one of the authors will register for the conference and present the paper there.
 

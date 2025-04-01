@@ -1,6 +1,6 @@
 ---
-layout: 2025_sidebar
-year: 2025
+layout: 2026_sidebar
+year: 2026
 title: Instructions for Camera-Ready Submission
 ---
 
@@ -9,7 +9,7 @@ If you have questions about the camera-ready, please contact the <a href="mailto
 
 All 3DV papers that are submitted on time, which are compliant with the guidelines, and for which have at least one author registered with a full passport registration by the camera-ready deadline will be placed in the conference proceedings.
 
-There are multiple steps to completing your final 3DV 2025 paper submission:
+There are multiple steps to completing your final 3DV 2026 paper submission:
 
 <ol>
  <li>Register at least one author</li>
@@ -21,10 +21,10 @@ There are multiple steps to completing your final 3DV 2025 paper submission:
 
 <h2>1. Register at least one author</h2>
 
-Deadline: February 10, 2025
+Deadline: February 10, 2026
 
 All papers will require one author to pay the <b>Full Passport</b> registration fee to attend the live interactive presentations.
-At least one author for each paper must register to attend the conference using our <a href="https://3dvconf.github.io/2025/registration/">online registration</a>.
+At least one author for each paper must register to attend the conference using our <a href="https://3dvconf.github.io/2026/registration/">online registration</a>.
 Provide your paper ID at registration time so that your paper can be matched with your co-authors.
 Please note that we will require one registration for each paper in case of authors of multiple papers.
 <b>It is not possible for a single person to register multiple papers</b>.
@@ -32,13 +32,13 @@ If a paper has no registered authors for the conference, the paper will not be i
 
 <h2>2. Prepare your paper</h2>
 
-Deadline: February 10, 2025
+Deadline: February 10, 2026
 
 There is a strict size limit of <b>50 MB</b> for the paper in the conference proceedings. If the size of your paper is bigger than this, you are probably using very large images in your figures. As a rule of thumb, your images will look fine at 600 pixels per inch and you should down-sample the images used in your figures accordingly. 
 The page limit for all papers is <b>8</b> pages — with at most <b>4</b> additional pages allowed that contain only cited references.
 To clarify, the main body of the paper, including figures, tables, equations, acknowledgments, etc., must be limited to <b>no more than 8 pages</b>. Additional pages may only contain cited references — no acknowledgments or other text, figures, tables, etc. Papers longer than 8 pages (not including references), will not be processed or appear in the conference proceedings.
 
-LaTeX style files compatible with the publisher's requirements are available through the <a href="https://3dvconf.github.io/2025/author-guidelines/">3DV 2025 website</a>.
+LaTeX style files compatible with the publisher's requirements are available through the <a href="https://3dvconf.github.io/2026/author-guidelines/">3DV 2026 website</a>.
 
 <ul>
 <li>Ensure that the paper is formatted according to the final paper submission template (main.tex in CAMERA-READY version).</li>
@@ -50,19 +50,19 @@ A note regarding title capitalization: there are several websites that can help 
 
 <h2>3. Prepare your supplementary material (optional)</h2>
 
-Deadline: February 10, 2025
+Deadline: February 10, 2026
 
 Supplementary materials can also be uploaded and may include videos, code, images, proofs, additional figures and tables, and a more detailed analysis of experiments presented in the paper. Multiple files must be packed into a single zip file. <b>The file size limit for supplemental materials is 200MB.</b> To save space, videos and code can also be uploaded to YouTube or GitHub.
 
 
 <h2>4. Submit the paper on OpenReview</h2>
 
-Deadline: February 10, 2025
+Deadline: February 10, 2026
 
 If you correctly follow the steps above, you may upload your paper and supplementary materials to OpenReview.
 
 <h2>5. (New) Submit the paper to IEEE</h2>
 
-Deadline: February 14, 2025
+Deadline: February 14, 2026
 
 Please also submit your paper to IEEE via the link you received over email. Note that the IEEE copyright form and pdf checker are now included in the IEEE submission portal. If there are any questions, please contact the <a href="mailto:3dv25pubchair@googlegroups.com">publication chairs</a>, as well as the IEEE production editor <a href="mailto:jgurrola625@gmail.com">Javier Gurrola</a>. Your camera-ready submission is now considered complete. Congratulations!

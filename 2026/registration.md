@@ -1,18 +1,18 @@
 ---
-layout: 2025_sidebar
-year: 2025
+layout: 2026_sidebar
+year: 2026
 title: Registration
 ---
 
 **Registration Page**
 
 <div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
-Registration Portal: <a href="https://register.comp.nus.edu.sg/3DV2025">https://register.comp.nus.edu.sg/3DV2025</a>
+Registration Portal: <a href="https://register.comp.nus.edu.sg/3DV2026">https://register.comp.nus.edu.sg/3DV2026</a>
 <!-- <a href="http://www.davoscongress.ch/3DVConference/Registration">Registration</a> -->
 <br><br>
 <!-- For any visa related questions, please directly contact Ms. Jrene Müller (<a href="mailto:jrene.mueller@geod.baug.ethz.ch">jrene.mueller@geod.baug.ethz.ch</a>).
 <br><br> -->
-Registration Deadline for Authors Covering Accepted Papers: <b>February 10, 2025</b><br>
+Registration Deadline for Authors Covering Accepted Papers: <b>February 10, 2026</b><br>
 </div>
 
 <br>
@@ -30,8 +30,8 @@ If the presenter cannot attend due to denied Visa, please collect the supporting
 <table style="border-collapse: collapse; border: 1px solid #AAAAAA; width: 100%;">
     <tr height="40px">
         <th>Registration Type</th>
-        <td align="center"><b>Regular</b><br> (until March 1st 2025)</td>
-        <td align="center"><b>Late</b><br> (after March 1st 2025)</td>
+        <td align="center"><b>Regular</b><br> (until March 1st 2026)</td>
+        <td align="center"><b>Late</b><br> (after March 1st 2026)</td>
     </tr>
 
     <tr height="40px">
@@ -89,7 +89,7 @@ No refunds will be provided for any reason once you paid the registration fee.
 
 <br>
 
-**Invitation Letter to Attend 3DV 2025**
+**Invitation Letter to Attend 3DV 2026**
 
 We will provide a letter of invite if you request it from us via: (Mrs. Siew Foong Ho:hosf@nus.edu.sg).
 
@@ -102,5 +102,5 @@ Please review the [3DV code of conduct]({{site.url}}/{{page.year}}/code-of-condu
 
 **Badge Policy and Registration Substitution Policy**
 
-Access to all 3DV 2025 activities will be allowed only to people wearing badges.
+Access to all 3DV 2026 activities will be allowed only to people wearing badges.
 Please keep track of your badge and make sure you bring it each day.

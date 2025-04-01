@@ -1,6 +1,6 @@
 ---
-layout: 2025_sidebar
-year: 2025
+layout: 2026_sidebar
+year: 2026
 title: Papers
 ---
 
@@ -50,7 +50,7 @@ function myFunction() {
   import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
   // Adjust path to your actual CSV containing 'PDF Link' and 'Supplementary'
-  const csv_file_path = '{{site.url}}/2025/schedule_updated2.csv';
+  const csv_file_path = '{{site.url}}/2026/schedule_updated2.csv';
   const ul = document.getElementById("myUL");
 
   const data = await d3.csv(csv_file_path);

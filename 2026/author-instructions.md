@@ -1,6 +1,6 @@
 ---
-layout: 2025_sidebar
-year: 2025
+layout: 2026_sidebar
+year: 2026
 title: Author OpenReview Instructions
 ---
 
@@ -48,7 +48,7 @@ OpenReview uses this list of papers for conflict determination in the review pro
 
 **Step 5**  
 Complete paper submission by {{site.data.dates[page.year][0].date}} Pacific Time.
-To begin the submission process, go to the [OpenReview 3DV 2025 submission page](https://openreview.net/group?id=3DV/2025/Conference),
+To begin the submission process, go to the [OpenReview 3DV 2026 submission page](https://openreview.net/group?id=3DV/2026/Conference),
 make sure you are logged in, click on the "3DV {{page.yea}} Conference Submission" button, and then follow the instructions on the form that will appear.
 
 <!-- ### Submission Guidelines:

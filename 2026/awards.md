@@ -1,6 +1,6 @@
 ---
-layout: 2025_sidebar
-year: 2025
+layout: 2026_sidebar
+year: 2026
 title: Award Candidates
 ---
 
@@ -35,7 +35,7 @@ The following papers are selected as <b>award candidates</b>. The final awards w
 
 <script type="module">
 	import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-	const csv_file_path = '{{site.url}}/2025/award_candidates.csv';
+	const csv_file_path = '{{site.url}}/2026/award_candidates.csv';
 	let user_name = document.getElementById("name");
 	let ul = document.getElementById("myUL");
 

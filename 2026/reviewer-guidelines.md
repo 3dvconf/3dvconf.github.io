@@ -1,16 +1,16 @@
 ---
-layout: 2025_sidebar
+layout: 2026_sidebar
 title: Reviewer Guidelines
-year: 2025
+year: 2026
 ---
 
 <!-- <div style="border: 2px solid #467CFD; padding: 15px">
-<i>Reviews for 3DV 2025 are due September 18, 2023 23:59 Pacific Time (PT).</i>
+<i>Reviews for 3DV 2026 are due September 18, 2023 23:59 Pacific Time (PT).</i>
 </div> -->
 
 <br>
 
-Thank you for serving on the program committee of 3DV 2025 as a reviewer. Publications in conferences have a critical impact on scientific careers in our fields. Reviews on which acceptance or reject decisions are made are therefore of critical importance and should be written carefully. We ask that you take your duty seriously and have your reviews ready on time.
+Thank you for serving on the program committee of 3DV 2026 as a reviewer. Publications in conferences have a critical impact on scientific careers in our fields. Reviews on which acceptance or reject decisions are made are therefore of critical importance and should be written carefully. We ask that you take your duty seriously and have your reviews ready on time.
 
 We provide guidelines to help with the reviewing process. More specific
 guidelines can be found in the materials of two past tutorials on reviewing:
@@ -19,7 +19,7 @@ guidelines can be found in the materials of two past tutorials on reviewing:
 <br><br>
 
 ### Check your papers for conflicts
-As soon as you get your reviewing assignment, please download your papers and go through them to make sure that there is no obvious conflict with you (e.g., a paper authored by your recent collaborator from a different institution). If you feel you are in conflict with a paper, please let us know right away by emailing the Program Chairs: **3dv-2025- pcs [at] googlegroups [dot] com** 
+As soon as you get your reviewing assignment, please download your papers and go through them to make sure that there is no obvious conflict with you (e.g., a paper authored by your recent collaborator from a different institution). If you feel you are in conflict with a paper, please let us know right away by emailing the Program Chairs: **3dv-2026- pcs [at] googlegroups [dot] com** 
 <br><br>
 
 ### What to Look For

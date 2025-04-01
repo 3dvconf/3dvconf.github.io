@@ -1,11 +1,11 @@
 ---
-layout: 2025_sidebar
+layout: 2026_sidebar
 title: Call for Nectar Track Contributions
-year: 2025
+year: 2026
 ---
 
-The International Conference on 3D Vision (3DV), scheduled to take place in Singapore from **March 25–28, 2025**, invites you to participate in the **Nectar Track Sessions**, a key feature of this year’s event. These sessions aim to bring together participants across all career stages to foster collaboration, innovation, and professional growth while spotlighting emerging ideas and exceptional research in the field of 3D vision.
-We welcome your contributions to two unique opportunities designed to engage and inspire the 3DV community. Participants without paper at 3DV 2025 will be given priority for the Nectar Track:
+The International Conference on 3D Vision (3DV), scheduled to take place in Singapore from **March 25–28, 2026**, invites you to participate in the **Nectar Track Sessions**, a key feature of this year’s event. These sessions aim to bring together participants across all career stages to foster collaboration, innovation, and professional growth while spotlighting emerging ideas and exceptional research in the field of 3D vision.
+We welcome your contributions to two unique opportunities designed to engage and inspire the 3DV community. Participants without paper at 3DV 2026 will be given priority for the Nectar Track:
 
 ### 1. Spotlight on Strong Papers from Recent Conferences
 
@@ -18,7 +18,7 @@ This session showcases outstanding papers in 3D vision published at top-tier con
 - Interactive Q&A sessions and dynamic poster discussions will actively engage students and participants.
 
 #### How to Apply
-Authors should complete this [form](https://forms.gle/3CmhNbD8WgKhHmqA9) and include a link to their paper and details of the conference where it was published by **February 15, 2025**. Submissions will be evaluated by a committee based on originality, significance, and impact. All participants must present their papers **in-person** at 3DV 2025.
+Authors should complete this [form](https://forms.gle/3CmhNbD8WgKhHmqA9) and include a link to their paper and details of the conference where it was published by **February 15, 2026**. Submissions will be evaluated by a committee based on originality, significance, and impact. All participants must present their papers **in-person** at 3DV 2026.
 
 
 
@@ -32,18 +32,18 @@ This event will take the form of a poster Session to offer students and early-st
 - Each presenter might be paired with a mentor who will provide personalized feedback during the session.
 
 #### How to Apply
-Applicants must complete this [form](https://forms.gle/3CmhNbD8WgKhHmqA9) and provide a one-page abstract (with an optional second page for figures, excluding references) describing their research or emerging ideas by **February 15, 2025**. Submissions will be evaluated by a dedicated committee based on originality, feasibility, and potential impact. All participants must present their ideas **in-person** at 3DV 2025. 
+Applicants must complete this [form](https://forms.gle/3CmhNbD8WgKhHmqA9) and provide a one-page abstract (with an optional second page for figures, excluding references) describing their research or emerging ideas by **February 15, 2026**. Submissions will be evaluated by a dedicated committee based on originality, feasibility, and potential impact. All participants must present their ideas **in-person** at 3DV 2026. 
 
 ### Important Dates
 
 - **Applications Open**: December 15, 2024
-- **Application Deadline**: ~~January 15, 2025~~ February 15, 2025
+- **Application Deadline**: ~~January 15, 2026~~ February 15, 2026
 
 ### Contact
 
 We encourage you to participate in these exciting events, which aim to enrich the 3DV community and advance the field of 3D vision.
 
-For any queries, please contact the 3DV 2025 Research Interaction Chairs:
+For any queries, please contact the 3DV 2026 Research Interaction Chairs:
 - Fayao Liu ([fayaoliu@gmail.com](mailto:fayaoliu@gmail.com))
 - Or Litany ([or.litany@gmail.com](mailto:or.litany@gmail.com))
 

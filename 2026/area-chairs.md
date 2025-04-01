@@ -1,7 +1,7 @@
 ---
-layout: 2025_sidebar
+layout: 2026_sidebar
 title: Area Chairs
-year: 2025
+year: 2026
 ---
 
 <div class="row">

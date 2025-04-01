@@ -1,6 +1,6 @@
 ---
 layout: 2021_sidebar
-year: 2025
+year: 2026
 title: Presentation Instructions
 ---
 
@@ -36,8 +36,8 @@ Please follow these steps to use our poster printing service.
   - Email Address:   
   - Registration Number:   
   - Paper ID:   
-  - **Deadline for sending posters:** <strong style="color:red">28 February 2025 @ 23:59 hrs (GMT +8)</strong>
+  - **Deadline for sending posters:** <strong style="color:red">28 February 2026 @ 23:59 hrs (GMT +8)</strong>
 - A link for payment will be sent to you upon receiving your email for the printing service.
-  - **Deadline for payment:** <strong style="color:red">3 March 2025 @ 23:59 hrs (GMT +8)</strong>
+  - **Deadline for payment:** <strong style="color:red">3 March 2026 @ 23:59 hrs (GMT +8)</strong>
   - We will only proceed with printing upon receipt of payment.
 - Posters will be delivered to the conference venue on the first day of the conference. Please collect them at the registration counter.
