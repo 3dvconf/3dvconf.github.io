@@ -1,5 +1,5 @@
 ---
-redirect_from: "/"
+# redirect_from: "/"
 layout: 2026_sidebar
 title: International Conference on 3D Vision 2026
 year: 2026
