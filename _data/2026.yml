@@ -1,13 +1,13 @@
-conf-title: 3DV 2025
-conf-acro: 3DV2025
-conf-location: Singapore
-conf-date: March 25-28, 2025
+conf-title: 3DV 2026
+conf-acro: 3DV2026
+conf-location: Vancouver
+conf-date: March 25-28, 2026
 
 header-image: "img/2026/3dv2026_banner.png"
 banner-image: "img/2026/clock.jpg"
-banner-title: Welcome to 3DV 2025
+banner-title: Welcome to 3DV 2026
 
-favicon: "img/2025/3dv.ico"
+favicon: "img/2026/3dv.ico"
  
 program:
  - name: Tutorials

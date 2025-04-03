@@ -1,13 +1,13 @@
 ---
 layout: 2026_sidebar
 year: 2026
-title: Welcome to Singapore
+title: Welcome to Vancouver
 ---
 
 
-Singapore is a bustling island city-state in Southeast Asia, renowned for its blend of modern architecture and lush green spaces, earning it the nickname "Garden City." A melting pot of cultures, it offers a vibrant culinary scene and rich heritage sites. As a global business hub, Singapore is known for hosting international events and boasts a diverse economy. With its warm climate and welcoming atmosphere, it's an ideal year-round destination for both business and leisure travelers.
+Vancouver is a dynamic coastal city in Canada, celebrated for its stunning natural landscapes and vibrant urban culture. Nestled between the Pacific Ocean and the Coast Mountains, it offers breathtaking views, lush parks, and outdoor adventures year-round. A multicultural hub, Vancouver boasts a diverse culinary scene, world-class arts, and a thriving tech and film industry. As a gateway to the Pacific, it hosts international events and fosters innovation. With its mild climate and welcoming community, Vancouver is an ideal destination for both exploration and business.
 
-More traveling information, please checkout <a href="https://www.visitsingapore.com">www.visitsingapore.com</a>
+More traveling information, please checkout <a href="https://www.destinationvancouver.com/">www.destinationvancouver.com</a>
 
 
 <div class="gallery">

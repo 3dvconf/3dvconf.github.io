@@ -33,43 +33,5 @@ The 13th International Conference on 3D Vision will be held in-person in **Vanco
 
 Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 3DV 2026 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
 
-<div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
-Registration Portal: <a href="https://register.comp.nus.edu.sg/3DV2026">https://register.comp.nus.edu.sg/3DV2026</a>
-<br><br>
-Registration Deadline for Authors Covering Accepted Papers: <b>February 10, 2026</b><br>
-</div>
+<p> More details about 3DV 2026 will be announced soon—stay tuned! </p>
 
-
-<br>
-**Keynote Speakers**
-
-<p>To be announced.</p>
-<!-- 
-<div class="row">
-	<div class="col-md-4 align-self-center profile crop" >
-		<a href="https://profiles.stanford.edu/fei-fei-li">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/feifei.jpg"></a>
-		<b>Fei-Fei Li</b><br><br><br>
-	</div>
-	<div class="col-md-3 align-self-center profile crop" >
-		<a href="https://www.cs.cornell.edu/~snavely/ ">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/noah.jpg"></a>
-		<b>Noah Snavely</b><br><br><br>
-	</div>
-	<div class="col-md-3 align-self-center profile crop" >
-		<a href="https://jonbarron.info/ ">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/jon.jpg"></a>
-		<b>Jon Barron</b><br><br><br>
-	</div>
-</div>
-**Booklet**
-Please download our digital <a href="https://drive.google.com/file/d/1w0PBhB04t7j_AY5epwQhKhatDq259gc-/view?usp=sharing">booklet</a> for the conference guide. -->
-
-<!-- 
-**Please check the following pages for more infomation**:
-* [Latest News]({{site.url}}/{{page.year}}/news)
-* [Call for Papers]({{site.url}}/{{page.year}}/call-for-papers)
-* [Important Dates]({{site.url}}/{{page.year}}/dates)
-
-**Organizers**:
-* [ETHZ](https://ethz.ch/) -->
