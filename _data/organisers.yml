@@ -1,3 +1,97 @@
+2026:
+ - section:
+   name: General Chairs
+   people:
+    - name: Manolis Savva
+      affiliation:  Simon Fraser University
+      image: img/2026/people/savva.jpg
+      url: https://msavva.github.io/
+ - section:
+   name: Program Chairs
+   mail: 3dv-2026- pcs [at] googlegroups [dot] com
+   people:
+    - name: Lingjie Liu
+      affiliation: University of Pennsylvania
+      url: https://lingjie0206.github.io/
+      image: img/2026/people/lingjie_liu.jpg
+    - name: Arash(Ali) Mahdavi-Amiri
+      affiliation: Simon Fraser University
+      url: https://arash-mham.github.io/
+      image: img/2026/people/Arash_Mahdavi-Amiri.jpg
+    - name: Daniel Ritchie
+      affiliation: Brown University
+      url: https://dritchie.github.io/
+      image: img/2026/people/ritchie.jpg
+    - name: Young Min Kim
+      affiliation: Seoul National University
+      url: https://3d.snu.ac.kr/
+      image: img/2026/people/youngmin_kim.jpg
+#  - section:
+#    name: Event and Finance Chair
+#    people:
+#     - name:
+#       affiliation: 
+#       url: 
+#       image: 
+ - section:
+   name: Research Interaction Chairs
+   people:
+    - name: Or Litany
+      affiliation: Technion & NVIDIA
+      image: img/2025/people/litany.jpg
+      url: https://orlitany.github.io/
+    - name: Li Yi 
+      affiliation: Tsinghua University
+      url: https://ericyi.github.io/
+      image: img/2026/people/ericyi.jpg
+ - section:
+   name: Publication Chairs
+   people:
+    - name: Xi Wang
+      affiliation: ETH Zurich
+      url: https://ait.ethz.ch/people/xiwang
+      image: img/2026/people/xiwang.jpg
+    - name: Qi Ye
+      affiliation: Zhejiang University
+      url: https://person.zju.edu.cn/en/yeqi
+      image: img/2026/people/qi_ye.jpg
+#  - section:
+#    name: Industrial Chairs
+#    people:
+#     - name:
+#       affiliation: 
+#       url: 
+#       image: 
+#  - section:
+#    name: Technical Advisor
+#    people:
+#     - name:
+#       affiliation: 
+#       url: 
+#       image: 
+#  - section:
+#    name: OpenReview Chairs
+#    people:
+#     - name:
+#       affiliation: 
+#       url: 
+#       image: 
+ - section:
+   name: Social Media & Website Chairs
+   people:
+    - name: Xingguang Yan
+      affiliation: Simon Fraser University
+      url: https://yanxg.art/
+      image: img/2026/people/xingguang_yan.png
+    - name: Hanwen Jiang
+      affiliation: UT Austin
+      url: https://hwjiang1510.github.io/
+      image: img/2026/people/hanwen_jiang.jpeg
+    - name: Chih-Hao Lin
+      affiliation: University of Illinois Urbana-Champaign
+      url: https://chih-hao-lin.github.io/
+      image: img/2026/people/chih-hao.jpg
+
 2025:
  - section:
    name: General Chairs
