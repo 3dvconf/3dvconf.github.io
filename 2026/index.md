@@ -26,12 +26,11 @@ Regular Regular Registration Deadline: <b>March 10, 2026</b>
 <i>The list of accepted papers is now <a href="https://docs.google.com/spreadsheets/d/1E8d6-TNK-EfwGjcuRBag4UOt4yB48fZt868nL885d1o/edit#gid=1793029531">available</a>.
 </i>
 </div> -->
-
-The 13th International Conference on 3D Vision will be held in-person in **Vancouver** in 2026. Exact dates will be announced soon—stay tuned for updates!
+ 
+The 13th International Conference on 3D Vision will be held in-person in **Metro Vancouver, BC, Canada**, from **March 24 to 27, 2026**. Stay tuned for more details!
 
 <!-- This event has provided a premier platform for disseminating research results covering a broad variety of topics in the area of 3D research in computer vision and graphics, from novel optical sensors, signal processing, geometric modelling, representation and transmission, to visualization and interaction, and a variety of applications.  -->
 
-Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 3DV 2026 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
+Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 3DV 2026 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
 
-<p> More details about 3DV 2026 will be announced soon—stay tuned! </p>
 
