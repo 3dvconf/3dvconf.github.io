@@ -47,12 +47,12 @@
 #    - title: Presentation Instructions
 #      url: poster-instructions
 
-#  - title: Partnerships
-#    nested:
-#    - title: Partnership Program
-#      url: partnership
-#    - title: Sponsors
-#      url: sponsors
+ - title: Partnerships
+    nested:
+   - title: Partnership Program
+     url: partnership
+   - title: Sponsors
+     url: sponsors
 
  - title: Organizers
    nested:

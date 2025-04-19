@@ -3,13 +3,13 @@
    name: Platinum Partners
    company:
     - name: huawei
-      logo: img/2025/sponsors/huawei.png
+      logo: img/2026/sponsors/huawei.png
       url: http://huawei.com
       height: 25em
       width: 48%
       mdsize: 8
     - name: nus
-      logo: img/2025/sponsors/nus.jpg
+      logo: img/2026/sponsors/nus.jpg
       url: https://nus.edu.sg/
       height: 25em
       width: 48%
@@ -18,7 +18,7 @@
    name: Gold Partners
    company:
     - name: ETH Zurich
-      logo: img/2025/sponsors/eth.png
+      logo: img/2026/sponsors/eth.png
       url: https://ethz.ch/de.html
       height: 25em
       width: 48%
@@ -27,7 +27,7 @@
    name: Silver Partner
    company:
     - name: XGRIDS
-      logo: img/2025/sponsors/xgrids.png
+      logo: img/2026/sponsors/xgrids.png
       url: https://www.xgrids.com/
       height: 20em
       width: 45%
@@ -36,31 +36,31 @@
    name: Bronze Partner
    company:
     - name: GALASports
-      logo: img/2025/sponsors/GALASports.png
+      logo: img/2026/sponsors/GALASports.png
       url: https://www.galasports.net/EN/
       height: 25em
       width: 48%
       mdsize: 8
     - name: Google
-      logo: img/2025/sponsors/Google.png
+      logo: img/2026/sponsors/Google.png
       url: https://google.com/ 
       height: 25em
       width: 48%
       mdsize: 8
     - name: Mitsubishi Electric Research Laboratories
-      logo: img/2025/sponsors/MERL.jpg
+      logo: img/2026/sponsors/MERL.jpg
       url: https://www.merl.com/
       height: 25em
       width: 48%
       mdsize: 8
     - name: vivo
-      logo: img/2025/sponsors/VIVO.png
+      logo: img/2026/sponsors/VIVO.png
       url: https://www.vivo.com/
       height: 25em
       width: 48%
       mdsize: 8
     - name: uptec
-      logo: img/2025/sponsors/uptec.jpg
+      logo: img/2026/sponsors/uptec.jpg
       url: https://www.uptec-im.cn/
       height: 25em
       width: 48%
@@ -70,7 +70,7 @@
    name: Best Paper Award Sponsor
    company:
     - name: GALASports
-      logo: img/2025/sponsors/GALASports.png
+      logo: img/2026/sponsors/GALASports.png
       url: https://www.galasports.net/EN/
       height: 25em
       width: 48%
@@ -80,7 +80,7 @@
    name: Best Student Paper Award Sponsor
    company:
     - name: vivo
-      logo: img/2025/sponsors/VIVO.png
+      logo: img/2026/sponsors/VIVO.png
       url: https://www.vivo.com/
       height: 25em
       width: 48%
@@ -90,7 +90,7 @@
    name: Best Paper Honorable Mention Award Sponsor
    company:
     - name: airsquire
-      logo: img/2025/sponsors/airsquire.png
+      logo: img/2026/sponsors/airsquire.png
       url: https://www.airsquire.ai/
       height: 25em
       width: 48%
@@ -100,7 +100,7 @@
    name: Technically Co-Sponsored by IEEE Computer Society
    company:
     - name: IEEE
-      logo: img/2025/sponsors/ieee.jpg
+      logo: img/2026/sponsors/ieee.jpg
       url: https://www.ieee.org/
       height: 25em
       width: 48%
@@ -218,19 +218,19 @@
    name: Platinum Partners
    company:
     - name: hexagon
-      logo: img/2024/sponsors/HEXAGON_STANDARD_RGB_LOGO Hires Standard.png
+      logo: img/2026/sponsors/HEXAGON_STANDARD_RGB_LOGO Hires Standard.png
       url: https://www.hexagon.com/
       height: 25em
       width: 48%
       mdsize: 8
     - name: hilti
-      logo: img/2024/sponsors/Hilti_logo.png
+      logo: img/2026/sponsors/Hilti_logo.png
       url: https://www.hilti.com/
       height: 25em
       width: 48%
       mdsize: 8
     - name: ecva
-      logo: img/2024/sponsors/ECVAlogo.png
+      logo: img/2026/sponsors/ECVAlogo.png
       url: http://ecva.net
       height: 25em
       width: 48%
