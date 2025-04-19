@@ -48,7 +48,7 @@
 #      url: poster-instructions
 
  - title: Partnerships
-    nested:
+   nested:
    - title: Partnership Program
      url: partnership
    - title: Sponsors
