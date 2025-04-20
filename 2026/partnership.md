@@ -59,4 +59,4 @@ Tailored packages can be arranged to suit your objectives.
 Please do not hesitate to contact the organisers to discuss your needs: **3dv26-sponsors [at] googlegroups [dot] com**
 
 **Taxes** <br>
-Note that all listed prices **do not** include the 9% Goods and Services Tax (GST).
+Note that all listed prices **do not** include the 5% Goods and Services Tax (GST).
