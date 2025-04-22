@@ -16,16 +16,15 @@ year: 2025
 {% endfor %}
 </div>
 <br><br> -->
-
 <h2 style="text-align:center;"> Area Chairs </h2>
 <br>
 <div class="row" >
 {% for people in site.data.program-committee[page.year] %}
 		{% if people.ac %}
-        <div class="col-md-6 col-sm-12 col-12" style="text-align:center;">
-        	{{people.name}}
+		<div class="col-md-6 col-sm-12 col-12" style="text-align:center;">
+			{{people.name}}
 		</div>
-		{% endif%}
+		{% endif %}
 {% endfor %}
 </div>
 <br><br>
@@ -34,9 +33,11 @@ year: 2025
 <br>
 <div class="row" >
 {% for people in site.data.program-committee[page.year] %}
-        <div class="col-md-6 col-sm-12 col-12" style="text-align:center;">
-        	{{people.name}}
+		{% unless people.ac %}
+		<div class="col-md-6 col-sm-12 col-12" style="text-align:center;">
+			{{people.name}}
 		</div>
+		{% endunless %}
 {% endfor %}
 </div>
 <br><br>
