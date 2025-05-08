@@ -6,6 +6,14 @@
       affiliation:  Simon Fraser University
       image: img/2026/people/savva.jpg
       url: https://msavva.github.io/
+    - name: Christian Theobalt
+      affiliation:  MPII / Saarland
+      image: img/2026/people/Christian_Theobalt.jpg
+      url: https://people.mpi-inf.mpg.de/~theobalt/
+    - name: Angjoo Kanazawa
+      affiliation:  UC Berkeley
+      image: img/2026/people/angjoo.jpg
+      url: https://people.eecs.berkeley.edu/~kanazawa/
  - section:
    name: Program Chairs
    mail: 3dv-2026- pcs [at] googlegroups [dot] com
@@ -69,13 +77,21 @@
 #       affiliation: 
 #       url: 
 #       image: 
-#  - section:
-#    name: OpenReview Chairs
-#    people:
-#     - name:
-#       affiliation: 
-#       url: 
-#       image: 
+ - section:
+   name: OpenReview Chairs
+   people:
+    - name: Aditya Ganeshan
+      affiliation: Brown University
+      url: https://bardofcodes.github.io/
+      image: img/2026/people/Aditya.jpg
+    - name: Jiayi Liu
+      affiliation: Simon Fraser University
+      url: https://sevenljy.github.io/
+      image: img/2026/people/Jiayi.jpg
+    - name: Junho Kim
+      affiliation: Seoul National University
+      url: https://www.junhokim.xyz/
+      image: img/2026/people/Junho.jpg
  - section:
    name: Social Media & Website Chairs
    people:
