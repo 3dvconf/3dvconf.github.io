@@ -8,7 +8,7 @@ year: 2026
 We invite submissions to the 13th International Conference on 3D Vision (3DV) 2026, which will be held in Metro Vancouver, BC, Canada, on **March 24-27, 2026 (tentative)**. Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in the area of 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications.
 
 
-3DV 2025 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited. 
+3DV 2026 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited. 
 
 <div style="border: 2px solid #467CFD; padding: 15px">
 <i> Note that there will <b>not</b> be a rebuttal for submitted papers. The decisions will be made directly based on the initial submission and reviews.
