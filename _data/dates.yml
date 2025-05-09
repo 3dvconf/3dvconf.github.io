@@ -6,6 +6,22 @@ previous-years:
   - 2021
 
 2026:
+ - name: Paper Submission
+   date: August 18, 2025
+   countdown: 2026/08/18 22:59:59 PST
+   enabled: true
+ - name: Suppl. Material
+   date: August 21, 2025
+   countdown: 2025/08/21 22:59:59 PST
+   enabled: true
+ - name: Reviews Due
+   date: October 9, 2025
+   countdown: 2025/10/9 22:59:59 PST
+   enabled: true
+ - name: Paper Notification
+   date: November 05, 2025
+   countdown: 2025/11/05 22:59:59 PST
+   enabled: true
  - name: Main conference
    date: March 24-27, 2026 (tentative)
    countdown: 2026/03/24 07:59:59 PST
