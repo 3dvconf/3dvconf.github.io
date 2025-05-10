@@ -1,5 +1,5 @@
 ---
-redirect_from: "/"
+# redirect_from: "/" # this is will make 2025 as the default entry point of the website
 layout: 2025_sidebar
 title: International Conference on 3D Vision 2025
 year: 2025

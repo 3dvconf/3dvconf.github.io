@@ -1,5 +1,5 @@
 ---
-# redirect_from: "/"
+redirect_from: "/" # this is will make 2026 as the default entry point of the website
 layout: 2026_sidebar
 title: International Conference on 3D Vision 2026
 year: 2026
