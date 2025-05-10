@@ -107,6 +107,13 @@
       affiliation: University of Illinois Urbana-Champaign
       url: https://chih-hao-lin.github.io/
       image: img/2026/people/chih-hao.jpg
+ - section:
+   name: Publicity Advisor
+   people:
+    - name: Kosta Derpanis
+      affiliation: York University
+      url: https://csprofkgd.github.io/
+      image: img/2026/people/kosta.jpg
 
 2025:
  - section:
