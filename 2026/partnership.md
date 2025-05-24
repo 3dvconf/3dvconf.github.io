@@ -41,10 +41,13 @@ title-logo: <i class="far fa-handshake"></i>
 
 #### Additional opportunities
 **Prize sponsorship**
-- Best Paper Award (2,000 USD)
-- Best Student Paper Award (1,000 USD)
-- Best Paper Honourable Mention Award (500 USD)
+- ~~Best Paper Award (2,000 USD)~~
+- ~~Best Student Paper Award (1,000 USD)~~
+- ~~Best Paper Honourable Mention Award (500 USD)~~
 - Custom prizes (to be discussed with chairs)
+
+**Keynote Sponsor - 3,500 USD**
+- Sponsor recognition announcement and display of sponsor logo to plenary session at the start of keynote talk
 
 **Welcome Reception Sponsor - 2,500 USD**
 - Display space for one piece of advertising material (roll-ups, brochures etc.) during Ice breaker
