@@ -3,21 +3,12 @@ layout: 2026_sidebar
 title: Call for Papers
 year: 2026
 ---
+A PDF version with the important dates can be found <a href="{{site.url}}/files/2026/3dv2026_cfp.pdf" target="_blank">**here**</a>
+
+We invite submissions to the 13th International Conference on 3D Vision (3DV) 2026, which will be held in Metro Vancouver, BC, Canada, on **March 20-23, 2026**. Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in the area of 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications.
 
 
-We invite submissions to the 13th International Conference on 3D Vision (3DV) 2026, which will be held in Metro Vancouver, BC, Canada, on **March 24-27, 2026 (tentative)**. Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in the area of 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications.
-
-
-3DV 2026 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited. 
-
-<div style="border: 2px solid #467CFD; padding: 15px">
-<i> Note that there will <b>not</b> be a rebuttal for submitted papers. The decisions will be made directly based on the initial submission and reviews.
-</i>
-</div>
-
-<br>
-
-Topics of interest include, but are not limited to:
+3DV 2026 will showcase high-quality single-track oral and poster presentations. It will also feature industrial exhibitions and mentoring sessions held in conjunction with the main conference. Topics of interest include, but are not limited to:
 
 
 **ACQUISITION**
@@ -35,7 +26,7 @@ Topics of interest include, but are not limited to:
 - Geometry processing
 - Appearance modelling
 - Registration
-- 4D dynamic shape
+- 4D dynamic shapes and scenes
 - Generative and morphable models
 - 3D motion modelling
 - High-level representation of 3D data

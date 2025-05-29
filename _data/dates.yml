@@ -14,6 +14,9 @@ previous-years:
    date: August 21, 2025
    countdown: 2025/08/21 22:59:59 PST
    enabled: true
+ - name: Reviews due
+   date: October 09, 2025
+   enabled: true
  - name: Paper Notification
    date: November 05, 2025
    countdown: 2025/11/05 22:59:59 PST
