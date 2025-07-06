@@ -12,7 +12,7 @@ In addition, authors are urged to consult the [FAQs]({{site.url}}/{{page.year}}/
 **Paper Formatting:**
 Papers are limited to **eight pages**, including figures and tables, in the 3DV style.
 Additional pages containing only cited references are allowed.
-Please download the **[3DV 2026 Author Kit](https://3dvconf.github.io/files/2026/author-kit-3DV2026-v1.zip)** for detailed formatting instructions. 
+Please download the **[3DV 2026 Author Kit]({{site.url}}/files/2026/author-kit-3DV2026.zip)** for detailed formatting instructions. 
 The maximum size of the abstract is 4000 characters.
 The paper must be PDF only (maximum 50 MB). Make sure your paper meets the formatting and anonymity requirements described above.
 The supplementary material can be either PDF or ZIP only (maximum 200 MB).

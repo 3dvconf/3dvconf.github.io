@@ -5,7 +5,7 @@ title: Author OpenReview Instructions
 ---
 
 3DV {{page.year}} employs [OpenReview](https://openreview.net) as our paper submission and peer review system.
-By submitting a paper, the authors agree to the [policies stipulated in this website]({{site.url}}/{{page.year}}/policies).
+By submitting a paper, the authors agree to the policies stipulated in this website.
 To match papers to reviewers (including conflict handling and computation of affinity scores),
 OpenReview requires carefully populated and up-to-date OpenReview profiles.
 To this end, we require every author to (1) create and activate an OpenReview profile (if not already existent) and
