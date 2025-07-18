@@ -50,7 +50,7 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 	</div>
 	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
 		<a href="https://chrirupp.github.io/ ">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/christian.jpg"></a>
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/rupprecht.avif"></a>
 		<b>Christian Rupprecht</b><br><br><br>
 	</div>
 	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
