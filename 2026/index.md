@@ -38,22 +38,22 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 **Keynote Speakers**
 
 <div class="row">
-	<div class="col-md-3 align-self-center profile crop" >
+	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
 		<a href="https://people.eecs.berkeley.edu/~malik/">
 		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/jitendra.jpg"></a>
 		<b>Jitendra Malik</b><br><br><br>
 	</div>
-	<div class="col-md-3 align-self-center profile crop" >
+	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
 		<a href="https://www.3dunderstanding.org/team.html ">
 		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/angela.jpg"></a>
 		<b>Angela Dai</b><br><br><br>
 	</div>
-	<div class="col-md-3 align-self-center profile crop" >
+	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
 		<a href="https://chrirupp.github.io/ ">
 		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/christian.jpg"></a>
 		<b>Christian Rupprecht</b><br><br><br>
 	</div>
-	<div class="col-md-3 align-self-center profile crop" >
+	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
 		<a href="https://alecjacobson.com/ ">
 		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/alec.jpg"></a>
 		<b>Alec Jacobson</b><br><br><br>
