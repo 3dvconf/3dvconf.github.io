@@ -29,4 +29,4 @@ def downsample_image(path_src, path_dst, scale=4):
 # downsample_image("alec.jpg", "alec_downsampled.jpg", scale=4)
 # downsample_image("jitendra.jpg", "jitendra_downsampled.jpg", scale=4)
 # downsample_image("Arash_Mahdavi-Amiri_hd.jpg", "Arash_Mahdavi-Amiri.jpg", scale=16)
-downsample_image("ericyi_hd.jpg", "ericyi.jpg", scale=2)
+downsample_image("lingjie_liu_hd.jpg", "lingjie_liu.jpg", scale=2)
