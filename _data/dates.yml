@@ -6,21 +6,21 @@ previous-years:
   - 2021
 
 2026:
- - name: Paper Submission
+ - name: Paper Submission #dfsd
    date: August 18, 2025
-   countdown: 2025/08/18 23:59:59 PST
+   countdown: 2025/08/18 22:59:59 PST # PST = (UTC-8)
    enabled: true
  - name: Suppl. Material
    date: August 21, 2025
-   countdown: 2025/08/21 23:59:59 PST
+   countdown: 2025/08/21 22:59:59 PST
    enabled: true
  - name: Reviews due
    date: October 09, 2025
-   countdown: 2025/10/09 23:59:59 PST
+   countdown: 2025/10/09 22:59:59 PST
    enabled: true
  - name: Paper Notification
    date: November 05, 2025
-   countdown: 2025/11/05 23:59:59 PST
+   countdown: 2025/11/05 22:59:59 PST
    enabled: true
  - name: Main conference
    date: March 20-23, 2026
