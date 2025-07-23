@@ -9,6 +9,8 @@
   #    url: registration
    - title: Travel to Vancouver
      url: about-city
+   - title: Important Dates
+     url: dates
   #  - title: Visa
   #    url: visa
   #  - title: Venue
