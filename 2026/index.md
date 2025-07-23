@@ -34,3 +34,28 @@ The 13th International Conference on 3D Vision will be held in-person in **Metro
 Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 3DV 2026 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
 
 
+<br>
+**Keynote Speakers**
+
+<div class="row">
+	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
+		<a href="https://people.eecs.berkeley.edu/~malik/">
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/jitendra.jpg"></a>
+		<b>Jitendra Malik</b><br><br><br>
+	</div>
+	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
+		<a href="https://www.3dunderstanding.org/team.html ">
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/angela.jpg"></a>
+		<b>Angela Dai</b><br><br><br>
+	</div>
+	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
+		<a href="https://chrirupp.github.io/ ">
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/rupprecht.avif"></a>
+		<b>Christian Rupprecht</b><br><br><br>
+	</div>
+	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
+		<a href="https://alecjacobson.com/ ">
+		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/alec.jpg"></a>
+		<b>Alec Jacobson</b><br><br><br>
+	</div>
+</div>
