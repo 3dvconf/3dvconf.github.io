@@ -1,46 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include 2025_head.html %}
 
-  <body>
-    {% include 2021_header.html %} {% include 2025_nav.html %}
+	{% include 2026_head.html %}
 
-    <!-- Banner Image -->
-    {% if page.banner-image %} {% include 2025_slideshow.html %} {% endif %}
+	<body>
+	
+		{% include 2021_header.html %}
+		{% include 2026_nav.html %}
 
-    <br><br>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-8">
-          <div class="container-fluid">
-            <!-- Page Title-->
-            {% if page.title %}
-            <center><h2>
-              {% if page.title-logo %}{{page.title-logo}} {% endif %}{{
-              page.title }}
-            </h2></center>
-            <br />
-            {% endif %}
+		<!-- Banner Image -->
+		{% if page.banner-image %}
+			{% include 2026_banner.html %}
+		{% endif %}		
+		<br/><br/>		
+			
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8">
+					<div class="container-fluid">
+						<br>
+					  	<!-- Page Title-->
+						{% if page.title %}
+			            	<h2>{% if page.title-logo %}{{page.title-logo}} {% endif %}{{ page.title }}</h2>
+			            	<br>
+			            {% endif %}
 
-            <!-- Page Content-->
-            {{ content | smartify }}
-
-          </div>
-        </div>
-
-        <div class="col-sm-4">
-          <div class="container-fluid">{% include 2025_sponsors.html %}</div>
-          <br>
-          <div class="container-fluid">{% include 2025_dates.html %}</div>
-          <br>
-          <div class="container-fluid">{% include 2025_news.html %}</div>
-        </div>
-      </div>
-    </div>
-
-    {% include 2025_footer.html %}
-
-    <!-- Scripts -->
-    {% include 2021_scripts.html %}
-  </body>
+						<!-- Page Content-->		
+						{{ content | smartify }}
+				  	</div>			
+			  	</div>
+				<div class="col-sm-4">
+					<div class="container-fluid">
+						{% include 2026_sponsors.html %}
+          			</div>
+					<br>
+					<div class="container">
+						{% include 2026_news.html %}
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		{% include 2026_footer.html %}
+		{% include 2021_scripts.html %}
+	</body>
 </html>
