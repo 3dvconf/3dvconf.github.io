@@ -7,6 +7,7 @@ banner-title: Welcome to 3DV 2021
 header-image: img/2021/3dv2021_banner.jpg
 background: ffbf00
 favicon: "img/2021/3dv.ico"
+canonical_url: https://3dvconf.github.io/2021/
 ---
 
 
