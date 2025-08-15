@@ -276,6 +276,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-redirect-from
+  jekyll-seo-tag
   webrick (~> 1.8)
 
 BUNDLED WITH

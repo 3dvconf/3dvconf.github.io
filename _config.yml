@@ -10,7 +10,7 @@ twitter: https://twitter.com/3DVconf
 xiaohongshu: https://www.xiaohongshu.com/user/profile/6360cac9000000001f018c8c
 
 permalink: /:categories/:title/
-safe: true
+safe: false
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 
@@ -22,6 +22,7 @@ encoding: utf-8
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 whitelist:
     - jekyll-redirect-from

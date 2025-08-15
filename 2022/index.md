@@ -7,7 +7,7 @@ banner-title: Welcome to 3DV 2022
 header-image: img/2022/3dv2022_banner.png
 background: ADD0B3
 favicon: "img/2022/3dv.ico"
-canonical_url: https://3dvconf.github.io/2022/
+canonical: https://3dvconf.github.io/2022/
 ---
 
 The 10th International Conference on 3D Vision will be held **in Prague, Czechia** on **September 12-15, 2022**.

@@ -7,7 +7,7 @@ banner-title: Welcome to 3DV 2024
 header-image: img/2024/3dv2024_banner.png
 background: ADD0B3
 favicon: "img/2024/3dv.ico"
-canonical_url: https://3dvconf.github.io/2024/
+canonical: https://3dvconf.github.io/2024/
 ---
 
 <div style="border: 2px solid #467CFD; padding: 15px; text-align: left">

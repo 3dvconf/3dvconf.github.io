@@ -8,7 +8,7 @@ banner-title: Welcome to 3DV 2025
 header-image: img/2025/3dv2025_banner.png
 background: FF9900
 favicon: "img/2025/3dv.ico"
-canonical_url: https://3dvconf.github.io/2025/
+canonical: https://3dvconf.github.io/2025/
 ---
 
 <!-- <div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
