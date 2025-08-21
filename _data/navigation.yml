@@ -62,8 +62,8 @@
    nested:
    - title: Organizing Committee
      url: people
-#    - title: Program Committee
-#      url: program-committee
+   - title: Program Committee
+     url: program-committee
    - title: Steering Committee
      url: steering-committee
 
