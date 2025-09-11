@@ -33,8 +33,8 @@
      url: call-for-papers
    - title: Call for Dissertation Award Nominations
      url: call-for-dissertation-award
-#    - title: Call for Nectar Track
-#      url: call-for-nectar-track
+   - title: Call for Nectar Track
+     url: call-for-nectar-track
 
  - title: Submission
    nested:
