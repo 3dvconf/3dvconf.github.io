@@ -22,6 +22,18 @@ previous-years:
    date: November 05, 2025
    countdown: 2025/11/05 22:59:59 PST
    enabled: true
+ - name: Dissertation Award Pre-nomination
+   date: November 07, 2025
+   countdown: 2025/11/07 22:59:59 PST
+   enabled: true
+ - name: Dissertation Award Nomination
+   date: December 01, 2025
+   countdown: 2025/12/01 22:59:59 PST
+   enabled: true
+ - name: Nectar Track Submissions
+   date: February 15, 2026
+   countdown: 2026/02/15 22:59:59 PST
+   enabled: true
  - name: Main conference
    date: March 20-23, 2026
    countdown: 2026/03/20 07:59:59 PST
