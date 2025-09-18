@@ -39,7 +39,6 @@ Submit the [form](https://forms.gle/XQ9fsBvZARgKc4c78) with a one-page abstract 
 
 ### Important Dates
 
-- **Applications Open**: November 15, 2025
 - **Application Deadline**: February 15, 2026
 
 ### Contact
