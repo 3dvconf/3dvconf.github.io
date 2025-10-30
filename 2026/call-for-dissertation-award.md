@@ -29,8 +29,8 @@ By **December 1st** (anywhere on earth), the following **nomination materials** 
 - Link to a copy of the dissertation in PDF format (please do not send the PDF directly)
 - Documentation showing dissertation was successfully defended
 
-Please submit nominations via [3dv26-dissertation-award@googlegroups.com](3dv26-dissertation-award@googlegroups.com).
+Please submit nominations via [3dv26-dissertation-award@googlegroups.com](mailto:3dv26-dissertation-award@googlegroups.com).
 
-For questions, please contact the 3DV Dissertation Award Committee via [3dv26-dissertation-award@googlegroups.com](3dv26-dissertation-award@googlegroups.com). Furthermore, we will keep track of frequently asked questions in this [FAQ](https://docs.google.com/document/d/1FtbPY0CqZlFbFfqRPZY38kZS8tvsHKeXyK8W8RhOiNk/edit?tab=t.0#heading=h.87q9506ib793).
+For questions, please contact the 3DV Dissertation Award Committee via [3dv26-dissertation-award@googlegroups.com](mailto:3dv26-dissertation-award@googlegroups.com). Furthermore, we will keep track of frequently asked questions in this [FAQ](https://docs.google.com/document/d/1FtbPY0CqZlFbFfqRPZY38kZS8tvsHKeXyK8W8RhOiNk/edit?tab=t.0#heading=h.87q9506ib793).
 
 The 3DV Dissertation Award Committee
