@@ -1,36 +1,56 @@
 2026:
  - section:
-   name: Platinum Partners
-   company: []
+   name: Silver Partners
+   company:
+    - name: MeshyAI
+      logo: img/2026/sponsors/meshy.png
+      url: https://www.meshy.ai/
+      mdsize: 8
 
  - section:
-   name: Gold Partners
-   company: []
+   name: Bronze Partners
+   company:
+    - name: Adobe
+      logo: img/2026/sponsors/adobe.png
+      url: https://research.adobe.com/
+
+      mdsize: 8
+    - name: Yembo
+      logo: img/2026/sponsors/yembo.png
+      url: https://yembo.ai/
+      mdsize: 8
 
  - section:
-   name: Silver Partner
-   company: []
+   name: Bronze Partner & Best Paper Awards Sponsor
+   company:
+    - name: Vision Systems Inc
+      logo: img/2026/sponsors/visionsystems.png
+      url: https://www.visionsystemsinc.com/
+      mdsize: 6
 
  - section:
-   name: Bronze Partner
-   company: []
+   name: Keynote Sponsors
+   company:
+    - name: Meta
+      logo: img/2026/sponsors/meta.png
+      url: https://research.facebook.com/
+      mdsize: 8
 
  - section:
-   name: Best Paper Award Sponsor
-   company: []
-
- - section:
-   name: Best Student Paper Award Sponsor
-   company: []
-
- - section:
-   name: Best Paper Honorable Mention Award Sponsor
-   company: []
+   name: Startup Sponsors
+   company:
+    - name: Illoca
+      logo: img/2026/sponsors/illoca.png
+      url: https://illoca.ai
+      mdsize: 8
 
  - section:
    name: Technically Co-Sponsored by IEEE Computer Society
-   company: []
-
+   company:
+    - name: IEEE
+      logo: img/2026/sponsors/ieee.jpg
+      url: https://www.ieee.org/
+      mdsize: 8
 
 2025:
  - section:
