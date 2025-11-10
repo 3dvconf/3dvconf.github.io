@@ -3,18 +3,18 @@
    nested:
   #  - title: Accommodation
   #    url: accommodation
-  #  - title: Code of Conduct
-  #    url: code-of-conduct
+   - title: Code of Conduct
+     url: code-of-conduct
   #  - title: Registration
   #    url: registration
    - title: Travel to Vancouver
      url: about-city
    - title: Important Dates
      url: dates
-  #  - title: Visa
-  #    url: visa
-  #  - title: Venue
-  #    url: venue
+   - title: Visa
+     url: visa
+   - title: Venue
+     url: venue
 
 #  - title: Program
 #    nested:
