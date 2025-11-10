@@ -11,26 +11,18 @@ favicon: "img/2026/3dv.ico"
 canonical: https://3dvconf.github.io/2026/
 ---
 
-<!-- <div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
-<i>Registration is now open: <a href="https://3dvconf.github.io/2026/registration/">Register here</a>.
-<br><br>
-
-For any visa related questions, please directly contact Ms. Jrene Müller (<a href="mailto:jrene.mueller@geod.baug.ethz.ch">jrene.mueller@geod.baug.ethz.ch</a>).
-<br><br>
-
-Early Registration Deadline: <b>January 14, 2026</b><br>
-Regular Regular Registration Deadline: <b>March 10, 2026</b>
-</i>
-
-</div> -->
+<div style="border: 2px solid #467CFD; padding: 5px; text-align: left">
+<i>Registration portal is now open: <a href="https://3dvconf.github.io/2026/registration/">register here</a></i>.<br>
+Author registration deadline: <b>January 20, 2026</b><br>
+Early registration deadline: <b>March 1, 2026</b>
+</div>
+<br>
 <!-- <div style="border: 2px solid #CCCCCC; padding: 15px; text-align: center">
 <i>The list of accepted papers is now <a href="https://docs.google.com/spreadsheets/d/1E8d6-TNK-EfwGjcuRBag4UOt4yB48fZt868nL885d1o/edit#gid=1793029531">available</a>.
 </i>
 </div> -->
- 
-The 13th International Conference on 3D Vision will be held in-person at the [Vancouver Convention Centre]({{site.url}}/{{page.year}}/venue) in **Vancouver, BC, Canada**, from **March 20 to 23, 2026**.
 
-<!-- This event has provided a premier platform for disseminating research results covering a broad variety of topics in the area of 3D research in computer vision and graphics, from novel optical sensors, signal processing, geometric modelling, representation and transmission, to visualization and interaction, and a variety of applications.  -->
+The 13th International Conference on 3D Vision will be held in-person at the [Vancouver Convention Centre]({{site.url}}/{{page.year}}/venue) in **Vancouver, BC, Canada**, from **March 20 to 23, 2026**.
 
 Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 3DV 2026 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
 
