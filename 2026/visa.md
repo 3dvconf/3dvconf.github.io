@@ -13,5 +13,5 @@ Current visa processing times are listed [here](https://www.canada.ca/en/immigra
 
 **Visa Invitation Letters** 
 
-Information on requesting an invitation letter is provided in the registration confirmation email.
+Information on requesting an invitation letter is provided in the registration process.
 Please follow up with us as soon as you have registered for the conference.

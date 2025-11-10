@@ -53,6 +53,7 @@ No refunds will be provided for any reason.
 
 We will provide a letter of invite if you request it from us.
 Information on how to do this is provided as part of the registration.
+See the [visa page]({{site.url}}/{{page.year}}/visa) for general information.
 
 <br>
 **Code of Conduct**
