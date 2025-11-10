@@ -7,8 +7,7 @@ title: Registration
 **Registration Page**
 
 <div style="border: 2px solid #467CFD; padding: 15px; text-align: left">
-Registration portal link will be opened soon.
-<!-- To register please use the <a href="https://sfu.ungerboeck.net/prod/emc00/register.aspx?aat=6e78546d2f7451503139483576706431374c4e4957582f7655526270676d72466148496a31744c597454553d">Registration Portal</a> -->
+To register please use the <a href="https://sfu.ungerboeck.net/prod/emc00/register.aspx?aat=486b4e634b48504f414b30665868503234746e7578664a524d3944506367703031426c4b455968766c32493d">Registration Portal</a>
 <br><br>
 Registration deadline for authors covering accepted papers: <b>January 20, 2026</b><br>
 </div>
