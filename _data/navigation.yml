@@ -5,8 +5,8 @@
   #    url: accommodation
    - title: Code of Conduct
      url: code-of-conduct
-  #  - title: Registration
-  #    url: registration
+   - title: Registration
+     url: registration
    - title: Travel to Vancouver
      url: about-city
    - title: Important Dates

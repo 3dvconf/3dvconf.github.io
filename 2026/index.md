@@ -28,7 +28,7 @@ Regular Regular Registration Deadline: <b>March 10, 2026</b>
 </i>
 </div> -->
  
-The 13th International Conference on 3D Vision will be held in-person at the [Vancouver Convention Centre]({{site.url}}/2026/venue) in **Vancouver, BC, Canada**, from **March 20 to 23, 2026**.
+The 13th International Conference on 3D Vision will be held in-person at the [Vancouver Convention Centre]({{site.url}}/{{page.year}}/venue) in **Vancouver, BC, Canada**, from **March 20 to 23, 2026**.
 
 <!-- This event has provided a premier platform for disseminating research results covering a broad variety of topics in the area of 3D research in computer vision and graphics, from novel optical sensors, signal processing, geometric modelling, representation and transmission, to visualization and interaction, and a variety of applications.  -->
 
