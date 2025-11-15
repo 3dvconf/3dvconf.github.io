@@ -52,4 +52,17 @@ More traveling information, please checkout <a href="https://www.visitsingapore.
   <!-- <div class="desc">Add a description of the image here</div> -->
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="../../img/2025/banners/sgtlogo1.jpg">
+    <img src="../../img/2025/banners/sgtlogo1.jpg" alt="Singapore Tourism Board Logo">
+  </a>
+  <!-- <div class="desc">Add a description of the image here</div> -->
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="../../img/2025/banners/sgtlogo2.jpg">
+    <img src="../../img/2025/banners/sgtlogo2.jpg" alt="Singapore Tourism Board Logo">
+  </a>
+  <!-- <div class="desc">Add a description of the image here</div> -->
+</div>
 
