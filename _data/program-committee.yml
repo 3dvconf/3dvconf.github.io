@@ -114,13 +114,13 @@
 - name: Alberto Tono
 - name: Alex Rich
 - name: Alexey Nekrasov
+- name: Ali Karkehabadi
 - name: Amir Hafezi
 - name: Amir Hertz
 - name: Amirhossein Naghi Razlighi
 - name: Andrei Chubarau
 - name: Andrew Feng
-- name: Andrew J. Davison
-- name: Aniket Gupta
+- name: Anita Sellent
 - name: Ankit Dhiman
 - name: Antoine Dumoulin
 - name: Anton Zubekhin
@@ -128,10 +128,10 @@
 - name: Aqsa Yousaf
 - name: Arianna Rampini
 - name: Arslan Artykov
-- name: Artur Grigorev
 - name: Avinash Sharma
 - name: Ayce Idil Aytekin
 - name: Aymen Merrouche
+- name: Bang Du
 - name: Bangya Liu
 - name: Berna Kabadayi
 - name: Bhanu Pratap Paregi
@@ -153,12 +153,12 @@
 - name: Chen Wang
 - name: Cheng Feng
 - name: Cheng Lin
+- name: Cheng Peng
 - name: Chengwei Ren
 - name: Chengzhou Tang
-- name: Chenhan Jiang
 - name: Chenming Wu
-- name: Chia-Chi Tsai
-- name: Chih-Hao Lin
+- name: Chia-chi Tsai
+- name: Chih-hao Lin
 - name: Chirui Chang
 - name: Christian Richardt
 - name: Christian Schmidt
@@ -166,6 +166,7 @@
 - name: Chuanruo Ning
 - name: Chuqiao Li
 - name: Claudio Ferrari
+- name: Congxuan Zhang
 - name: Congyue Deng
 - name: Corentin Sautier
 - name: Cristiano Saltori
@@ -174,8 +175,6 @@
 - name: Daniel Bermuth
 - name: Daniyar Turmukhambetov
 - name: David Fofi
-- name: David Honzátko
-- name: David Rozenberszki
 - name: David Yan
 - name: Davide Allegro
 - name: Denys Iliash
@@ -184,25 +183,27 @@
 - name: Diana Marin
 - name: Diego E. Farchione
 - name: Diego Thomas
-- name: Ding-Jiun Huang
+- name: Ding-jiun Huang
 - name: Dmytro Klepachevskyi
 - name: Dmytro Kotovenko
 - name: Dominic Rosario Maggio
 - name: Dong Liu
 - name: Dongchen Yang
-- name: Donghyeon Kwon
 - name: Donghyun Kim
+- name: Dongliang Cao
 - name: Dongyoung Choi
 - name: Donny Y. Chen
 - name: Driton Salihu
-- name: Edith Tretschk
+- name: Dylan Campbell
+- name: Eckehard Steinbach
 - name: Eduardo Alvarado
-- name: Eduardo R. Corral-Soto
+- name: Eduardo R. Corral-soto
 - name: Ekkasit Pinyoanuntapong
 - name: Eldad Matmon
 - name: Elena Alegret
 - name: Elisabetta Fedele
 - name: Emeline Got
+- name: Emily Kim
 - name: Etienne Decencière
 - name: Eugene Bykovets
 - name: Fabio F. Oberweger
@@ -214,11 +215,12 @@
 - name: Fereshteh Forghani
 - name: Filippo Ghilotti
 - name: Francois Rameau
-- name: Frédéric Fortier-Chouinard
+- name: Frédéric Fortier-chouinard
 - name: Fumihiko Sakaue
 - name: Fusang Wang
 - name: Gal Fiebelman
 - name: Ganlin Zhang
+- name: Gaochang Wu
 - name: Garvita Tiwari
 - name: Gasser Elazab
 - name: Geng Lin
@@ -229,7 +231,6 @@
 - name: Gianluca Monaci
 - name: Gilles Simon
 - name: Girum G Demisse
-- name: Gizem Esra Unlu
 - name: Gonçalo Dias Pais
 - name: Guangzhao He
 - name: Guido Borghi
@@ -246,10 +247,9 @@
 - name: Hannah Dröge
 - name: Hanwen Jiang
 - name: Hanxiao Jiang
-- name: Hanzhe Hu
 - name: Hao Liang
 - name: Hao Zhao
-- name: Hao-Yu Hsu
+- name: Hao-yu Hsu
 - name: Haochen Wang
 - name: Haoning Wu
 - name: Haoran Wang
@@ -272,14 +272,14 @@
 - name: Hongyu Yan
 - name: Hongyu Zhou
 - name: Hou In Derek Pun
-- name: Hsuan-I Ho
-- name: Hsueh-Ti Derek Liu
+- name: Hsuan-i Ho
+- name: Hsueh-ti Derek Liu
 - name: Huaiji Zhou
 - name: Hualie Jiang
-- name: Huan-Ang Gao
+- name: Huan-ang Gao
 - name: Hui Zhang
 - name: Hyunsoo Cha
-- name: I-Chao Shen
+- name: I-chao Shen
 - name: Ian Huang
 - name: Ian J. Maquignaz
 - name: Ido Sobol
@@ -288,7 +288,7 @@
 - name: Inha Kang
 - name: Inwoo Hwang
 - name: Ipek Oztas
-- name: Jack Oliver Hilliard
+- name: Jack Hilliard
 - name: Jaeseong Lee
 - name: Jaeyeon Kim
 - name: Jaeyeong Kim
@@ -299,9 +299,8 @@
 - name: Jan Held
 - name: Jan Warchocki
 - name: Jane Wu
-# - name: Janheldjan@Gmail.Com
 - name: Jay Karhade
-- name: Jean-Sébastien Franco
+- name: Jean-sébastien Franco
 - name: Jens Piekenbrinck
 - name: Jeonghwan Kim
 - name: Jerrin Bright
@@ -312,7 +311,6 @@
 - name: Jian Wang
 - name: Jianchun Chen
 - name: Jianhao Zheng
-- name: Jianmei Su
 - name: Jianning Deng
 - name: Jiatong Xia
 - name: Jiaxin Lu
@@ -326,21 +324,23 @@
 - name: Jiin Im
 - name: Jin Jiang
 - name: Jin Yao
+- name: Jing Yang
 - name: Jingnan Gao
-- name: Jinguang Tong
+- name: Jinpeng Lin
 - name: Jiye Lee
 - name: Jochen Lang
 - name: Johan Edstedt
-- name: Johann-Friedrich Feiden
+- name: Johann-friedrich Feiden
 - name: Jonathan Taylor
-- name: Ju-Hyeong Seon
-- name: Jun-Kun Chen
+- name: Ju-hyeong Seon
+- name: Jun-kun Chen
 - name: Jundan Luo
+- name: Junhao Wu
 - name: Junhwa Hur
 - name: Junru Lin
 - name: Junying Wang
 - name: Junyuan Deng
-- name: Jyun-Ting Song
+- name: Jyun-ting Song
 - name: Kacper Kania
 - name: Kai He
 - name: Kai Xu
@@ -350,28 +350,28 @@
 - name: Keshen Zhou
 - name: Khoi Hoang Do
 - name: Kiseok Choi
+- name: Krishna Roy
 - name: Kristijan Bartol
-- name: Kuan-Chih Huang
-- name: Kunal Gupta
-- name: Kunhee Kim
+- name: Kuan-chih Huang
 - name: Kunming Luo
 - name: Kunyi Li
 - name: Kyle Fogarty
 - name: Kyungjune Baek
 - name: Laurent Valentin Jospin
 - name: Le Jiang
-- name: Lea Müller
+- name: Lea Wilken
 - name: Leo Lebrat
 - name: Leo Segre
 - name: Liam J. Wang
 - name: Liang An
 - name: Lin Li
-- name: Lin-Zhuo Chen
+- name: Lin-zhuo Chen
 - name: Lingjun Zhao
 - name: Liyuan Zhu
 - name: Lizeth Joseline Fuentes Perez
-- name: Llukman Cerkezi
 - name: Lorenza Prospero
+- name: Loïs Brun
+- name: Luigi Piccinelli
 - name: Luis Denninger
 - name: Luwei Yang
 - name: Léore Bensabath
@@ -403,6 +403,8 @@
 - name: Mike Roberts
 - name: Mikhail Okunev
 - name: Ming Meng
+- name: Mingjin Chen
+- name: Mingming Gong
 - name: Mingrui Zhao
 - name: Minye Wu
 - name: Mirgahney Mohamed
@@ -410,7 +412,7 @@
 - name: Mohammad Alshurbaji
 - name: Mohammad Reza Karimi Dastjerdi
 - name: Mohit Mendiratta
-- name: Monica M.Q. Li
+- name: Monica M.q. Li
 - name: Mosam Dabhi
 - name: Muhammed Kocabas
 - name: Mutian Xu
@@ -421,11 +423,11 @@
 - name: Nahyeon Park
 - name: Nahyuk Lee
 - name: Nail Ibrahimli
-- name: Narishige Abe
 - name: Natacha Kuete Meli
 - name: Navami Kairanda
 - name: Nermin Samet
 - name: Nicholas Sharp
+- name: Nicola Luminari
 - name: Nikhil Varma Keetha
 - name: Nikita Kister
 - name: Nils Morbitzer
@@ -434,7 +436,7 @@
 - name: Olaf Wysocki
 - name: Oleksii Nasypanyi
 - name: Or Patashnik
-- name: Pablo Ruiz-Ponce
+- name: Pablo Ruiz-ponce
 - name: Patrick Stotko
 - name: Paul Engstler
 - name: Pedro Hermosilla
@@ -448,6 +450,7 @@
 - name: Phillip Y. Lee
 - name: Pierre Onghena
 - name: Pinxin Liu
+- name: Prashanth Chandran
 - name: Pratheba Selvaraju
 - name: Qian Xie
 - name: Qimin Chen
@@ -457,23 +460,25 @@
 - name: Radek Danecek
 - name: Rahul Sajnani
 - name: Rajaei Khatib
+- name: Ramana Sundararaman
 - name: Ravi Tej Akella
 - name: Remi Chierchia
 - name: Renato Martins
 - name: Riccardo Catalini
 - name: Richard Liu
 - name: Riley Peterlinz
-- name: Rio Aguina-Kang
+- name: Rio Aguina-kang
+- name: Rishabh Dabral
 - name: Roberto Vezzani
 - name: Rodrigo Santa Cruz
 - name: Rohan Joshi
-# - name: Roibaron4@Gmail.Com
+- name: Roi Bar-on
 - name: Rong Wang
 - name: Ronghui Li
 - name: Rui Li
 - name: Ruijie Zhu
+- name: Ruiqi Wang
 - name: Ruiqi Zhang
-- name: Ruiqi Wwang
 - name: Rukhshanda Hussain
 - name: Rundi Wu
 - name: Rundong Luo
@@ -499,7 +504,6 @@
 - name: Shaofei Wang
 - name: Shaoheng Fang
 - name: Shayda Moezzi
-- name: Sheng Yang
 - name: Shengguang Wu
 - name: Shengjie Zhu
 - name: Sherlon Almeida Da Silva
@@ -510,7 +514,6 @@
 - name: Shiyao Li
 - name: Shiyao Xu
 - name: Shogo Sato
-- name: Shreyas Hampali
 - name: Shreyas Sachan
 - name: Shrisudhan Govindarajan
 - name: Shubham Goel
@@ -521,11 +524,11 @@
 - name: Simon Schaefer
 - name: Simon Weber
 - name: Simone Milani
-- name: Siyun Liang
 - name: Sk Aziz Ali
 - name: Songlin Li
 - name: Songlin Yang
 - name: Soyong Shin
+- name: Stanislaw Szymanowicz
 - name: Stefanie Wuhrer
 - name: Stefano Esposito
 - name: Sunil Kumar Narayanan
@@ -536,6 +539,7 @@
 - name: Tao Zhu
 - name: Tarun Yenamandra
 - name: Tejas Anvekar
+- name: Thierry Sentenac
 - name: Tiange Xiang
 - name: Tianhang Cheng
 - name: Tianjian Jiang
@@ -549,11 +553,12 @@
 - name: Tom Kelly
 - name: Tom Wehrbein
 - name: Torsten Sattler
-- name: Tristan Ty Aumentado-Armstrong
+- name: Tristan Ty Aumentado-armstrong
 - name: Tuan Anh Tran
 - name: Tyler Rust
 - name: Vaibhav Kumar
 - name: Vaibhav Vavilala
+- name: Vanessa Sklyarova
 - name: Viktoria Ehm
 - name: Vinayak Gupta
 - name: Vincent Lepetit
@@ -591,11 +596,11 @@
 - name: Xiao Zitong
 - name: Xiaohao Sun
 - name: Xiaoyang Bai
+- name: Xiaozhong Lyu
 - name: Xin Qiao
 - name: Xinan Zhang
 - name: Xingguang Yan
 - name: Xingyu Chen
-- name: Xingyuan Yang
 - name: Xinshuang Liu
 - name: Xinyu Yi
 - name: Xu Cao
@@ -606,10 +611,11 @@
 - name: Xukun Zhou
 - name: Xuweiyi Chen
 - name: Ya Hui Tang
-- name: Ya-Liang Chang
+- name: Ya-liang Chang
 - name: Yajie Zhao
 - name: Yalda Foroutan
 - name: Yangsong Zhang
+- name: Yannick Hold-geoffroy
 - name: Yanshu Zhang
 - name: Yanwei Fu
 - name: Yao Wei
@@ -653,10 +659,11 @@
 - name: Yueting Liu
 - name: Yuezhi Yang
 - name: Yufei Ye
+- name: Yuhang Zheng
 - name: Yuhui Liu
 - name: Yuki Fujimura
 - name: Yundong Li
-- name: Yung-Hsu Yang
+- name: Yung-hsu Yang
 - name: Yunhao Li
 - name: Yunpeng Bai
 - name: Yunuo Chen
@@ -668,6 +675,7 @@
 - name: Yuta Asano
 - name: Yutao Niu
 - name: Yuting Xie
+- name: Yuxiang Wang
 - name: Yuxin Yao
 - name: Yuxuan Mu
 - name: Yvain Queau
@@ -681,11 +689,11 @@
 - name: Zhangyu Jin
 - name: Zhaoqi Su
 - name: Zhe Li
+- name: Zhe Li
 - name: Zhen Xu
 - name: Zhenbo Song
 - name: Zheng Zhang
 - name: Zhengdi Yu
-# - name: Zhengyh021@Gmail.Com
 - name: Zhening Huang
 - name: Zhenjie Zhao
 - name: Zhenwei Wang
@@ -710,6 +718,42 @@
 - name: Zitian Zhang
 - name: Ziwei Liao
 - name: Zorah Lähner
+# - name: Jean-philippe Tarel # no review provided actually
+# - name: Artur Grigorev # no review provided actually
+# - name: Llukman Cerkezi # no review provided actually
+# - name: David Honzátko # no review provided actually
+# - name: Donghyeon Kwon # no review provided actually
+# - name: Huangzhening@gmail.com # no review provided actually
+# - name: Kam Woh Ng # no review provided actually
+# - name: Chenhan Jiang # no review provided actually
+# - name: Kunal Gupta # no review provided actually
+# - name: Hanzhe Hu # no review provided actually
+# - name: Ziwen Li # no review provided actually
+# - name: Benjamin Busam # no review provided actually
+# - name: Siyuan Yang # no review provided actually
+# - name: David Rozenberszki # no review provided actually
+# - name: Jinguang Tong # no review provided actually
+# - name: Xingyuan Yang # no review provided actually
+# - name: Aniket Gupta # no review provided actually
+# - name: Andrew J. Davison # no review provided actually
+# - name: Gizem.unlu.19@ucl.ac.uk # no review provided actually
+# - name: Narishige Abe # no review provided actually
+# - name: Mattia D'urso # no review provided actually
+# - name: Siyun Liang # no review provided actually
+# - name: Sheng Yang # no review provided actually
+# - name: Janheldjan@gmail.com # no review provided actually
+# - name: Gianni A. Di Caro # no review provided actually
+# - name: Edith Tretschk # no review provided actually
+# - name: Jianmei Su # no review provided actually
+# - name: Matthias Humt # no review provided actually
+# - name: Yen-yu Chang # no review provided actually
+# - name: Kunhee Kim # no review provided actually
+# - name: Shreyas Hampali # no review provided actually
+# - name: Chuan Fang # no review provided actually
+# - name: Xuyi Meng # no review provided actually
+# - name: Neham Jain # no review provided actually
+# - name: Wei Mao # no review provided actually
+# - name: Xiaohan Zhang # no review provided actually
 2025:
 - name: Adam W Harley
   ac: true
