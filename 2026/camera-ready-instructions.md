@@ -65,4 +65,4 @@ If you correctly follow the steps above, you may upload your paper and supplemen
 
 Deadline: January 20, 2026
 
-Please also submit your paper to IEEE via the link you received over email. Note that the IEEE copyright form and pdf checker are now included in the IEEE submission portal. If there are any questions, please contact the <a href="mailto:3dv26-pubchairs@googlegroups.com">publication chairs</a>, as well as the IEEE production editor. Your camera-ready submission is now considered complete. Congratulations!
+Please also submit your paper to IEEE via the link that you will receive over email. Note that the IEEE copyright form and pdf checker are now included in the IEEE submission portal. If there are any questions, please contact the <a href="mailto:3dv26-pubchairs@googlegroups.com">publication chairs</a>, as well as the IEEE production editor. Your camera-ready submission is now considered complete. Congratulations!
