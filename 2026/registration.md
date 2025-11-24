@@ -15,7 +15,8 @@ Registration deadline for authors covering accepted papers: <b>January 20, 2026<
 <br>
 **Authors**
 
-At least one of the authors needs to be registered with a **Full Registration** by the time of the camera ready deadline. It is not possible to register multiple papers for a single person.
+At least one of the authors for each paper needs to be registered with a **Regular Registration** by the time of the camera ready deadline.
+It is not possible to register multiple papers for a single person.
 
 3DV'26 is an in-person conference. All authors are expected to present on-site. We require every paper to have an in-person presenter, and the publication will be removed from the proceedings otherwise.
 In case of visa denial, authors are still required to register for the conference to ensure inclusion in the proceedings.
