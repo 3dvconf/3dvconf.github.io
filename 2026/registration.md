@@ -10,13 +10,12 @@ title: Registration
 To register please use the <a href="https://sfu.ungerboeck.net/prod/emc00/register.aspx?aat=486b4e634b48504f414b30665868503234746e7578664a524d3944506367703031426c4b455968766c32493d">Registration Portal</a>
 <br><br>
 Registration deadline for authors covering accepted papers: <b>January 20, 2026</b><br>
+<b>At least one of the authors for each paper needs to be registered with a Regular (Full) Registration by the time of the camera ready deadline.</b>
+It is not possible to register multiple papers for a single person.
 </div>
 
 <br>
 **Authors**
-
-At least one of the authors for each paper needs to be registered with a **Regular Registration** by the time of the camera ready deadline.
-It is not possible to register multiple papers for a single person.
 
 3DV'26 is an in-person conference. All authors are expected to present on-site. We require every paper to have an in-person presenter, and the publication will be removed from the proceedings otherwise.
 In case of visa denial, authors are still required to register for the conference to ensure inclusion in the proceedings.
