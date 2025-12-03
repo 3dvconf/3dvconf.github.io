@@ -53,6 +53,10 @@ title-logo: <i class="far fa-handshake"></i>
 - Display space for one piece of advertising material (roll-ups, brochures etc.) during Ice breaker
 - Prominent display of the logo during the reception
 
+**Attendee Experience Sponsor - 2,000 USD**
+- Partner’s logo on conference website and conference experience app landing page
+- Regular size partner’s logo in printed programme, banners and on online conference site
+
 **Coffee Break Sponsor - 1,000 USD**
 - Display space for one piece of advertising material (folder, brochures etc.) during a coffee break of your choice
 - Prominent display of the logo during the break
