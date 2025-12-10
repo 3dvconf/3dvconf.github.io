@@ -7,7 +7,7 @@ title: Instructions for Camera-Ready Submission
 Please read these instructions carefully and follow them to minimize delays with the finalization of the conference proceedings.
 If you have questions about the camera-ready, please contact the <a href="mailto:3dv26-pubchairs@googlegroups.com">publication chairs</a>.
 
-All 3DV papers that are submitted on time, which are compliant with the guidelines, and for which have at least one author registered with a full passport registration by the camera-ready deadline will be placed in the conference proceedings.
+All 3DV papers that are submitted on time, which are compliant with the guidelines, and for which have at least one author registered with a full (regular) registration by the camera-ready deadline will be placed in the conference proceedings.
 
 There are multiple steps to completing your final 3DV 2026 paper submission:
 
@@ -23,10 +23,10 @@ There are multiple steps to completing your final 3DV 2026 paper submission:
 
 Deadline: January 20, 2026
 
-All papers will require one author to pay the <b>Full Passport</b> registration fee to attend the live interactive presentations.
+All papers will require one author to pay the <b>Regular</b> registration fee to attend the conference.
 At least one author for each paper must register to attend the conference using our <a href="https://3dvconf.github.io/2026/registration/">online registration</a>.
 Provide your paper ID at registration time so that your paper can be matched with your co-authors.
-Please note that we will require one registration for each paper in case of authors of multiple papers.
+Please note that we will require one registration for each paper in case of authors of multiple papers, and that if only a student author registers they must register at the regular registration rate.
 <b>It is not possible for a single person to register multiple papers</b>.
 If a paper has no registered authors for the conference, the paper will not be included in the proceedings.
 

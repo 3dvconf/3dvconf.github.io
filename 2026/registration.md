@@ -12,6 +12,7 @@ To register please use the <a href="https://sfu.ungerboeck.net/prod/emc00/regist
 Registration deadline for authors covering accepted papers: <b>January 20, 2026</b><br>
 <b>At least one of the authors for each paper needs to be registered with a Regular (Full) Registration by the time of the camera ready deadline.</b>
 It is not possible to register multiple papers for a single person.
+If a single student author registers for a paper they must register at the regular rate.
 </div>
 
 <br>
@@ -27,7 +28,7 @@ If the presenter cannot attend due to denied visa, please collect the supporting
 <table style="border-collapse: collapse; border: 1px solid #AAAAAA; width: 100%;">
     <tr height="40px">
         <th>Registration Type</th>
-        <td align="center"><b>Regular</b><br> (until March 1st 2026)</td>
+        <td align="center"><b>Early</b><br> (until March 1st 2026)</td>
         <td align="center"><b>Late</b><br> (after March 1st 2026)</td>
     </tr>
     <tr height="40px">
@@ -36,7 +37,7 @@ If the presenter cannot attend due to denied visa, please collect the supporting
         <td align="center"> 850 CAD </td>
     </tr>
     <tr height="40px">
-        <th> Full Registration</th>
+        <th> Regular Registration</th>
         <td align="center"> 1000 CAD </td>
         <td align="center"> 1300 CAD </td>
     </tr>
