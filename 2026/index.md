@@ -17,7 +17,7 @@ Author registration deadline: <b>January 20, 2026</b><br>
 Early registration deadline: <b>March 1, 2026</b>
 </div>
 <br>
-The list of accepted papers is <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCVhlckYtoEqNxhkOrlP15WZAEVBt9r3K1QKeuf4EzlEMxajgsyiPB8dzQiLUun-OM_ZZwkpum8L_p/pubhtml">available here</a>.
+The list of accepted papers is <a href="https://3dvconf.github.io/2026/accepted-papers/">available here</a>.
 
 The 13th International Conference on 3D Vision will be held in-person at the [Vancouver Convention Centre]({{site.url}}/{{page.year}}/venue) in **Vancouver, BC, Canada**, from **March 20 to 23, 2026**.
 
