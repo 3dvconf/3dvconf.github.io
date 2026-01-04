@@ -6,12 +6,14 @@
 
 <h3><i class="far fa-handshake"></i> &nbsp; Sponsors</h3>
 Want to sponsor the conference? Check out <b><a href="https://3dvconf.github.io//2026/partnership">Partnership Program</a></b> and contact <br><strong><a href="3dv26-sponsors@googlegroups.com">3dv26-sponsors@googlegroups.com</a></strong> 
+<br><br>
 
 <div class="row">
 
 {% capture added_companies %}""{% endcapture %}
 {% for section in site.data.sponsors[year] %}
 <div class="row">
+  <div class="small col-md-12" style="text-align: center; font-weight:bold;">{{section.name}}</div>
   {% assign sorted_company = section.company | sort:'name' %}
   {% for company in sorted_company %}
     {% unless added_companies contains company.name %}
