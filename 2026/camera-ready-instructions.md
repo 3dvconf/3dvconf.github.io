@@ -60,9 +60,14 @@ Supplementary materials can also be uploaded and may include videos, code, image
 Deadline: January 20, 2026
 
 If you correctly follow the steps above, you may upload your paper and supplementary materials to OpenReview.
+This is done through the "Edit" button, "Post-Decision Revision" option in OpenReview.
 
 <h2>5. Submit the paper to IEEE</h2>
 
 Deadline: January 20, 2026
 
-Please also submit your paper to IEEE via the link that you will receive over email. Note that the IEEE copyright form and pdf checker are now included in the IEEE submission portal. Refer to the <a href="https://docs.google.com/document/d/e/2PACX-1vRXcvsABOSHqF5oi2uGBcyA6ySZnfNN5WArpDrCAqSFBiXfU4D_UpTh-RYOkB_4-6Uiwgy4HWklGNq5/pub">IEEE submission site guide</a> document for step-by-step instructions. If there are any questions, please contact the <a href="mailto:3dv26-pubchairs@googlegroups.com">publication chairs</a>, as well as the IEEE production editor <a href="mailto:j.gurrola@contractor.ieee.org">Javier Gurrola</a>. Your camera-ready submission is now considered complete. Congratulations!
+Please also submit your paper to IEEE via the link that you will receive over email. Note that the IEEE copyright form and pdf checker are now included in the IEEE submission portal.
+Refer to the <a href="https://docs.google.com/document/d/e/2PACX-1vRXcvsABOSHqF5oi2uGBcyA6ySZnfNN5WArpDrCAqSFBiXfU4D_UpTh-RYOkB_4-6Uiwgy4HWklGNq5/pub">IEEE submission site guide</a> document for step-by-step instructions.
+Note that the style file is the same as the initial submission and the upload to OpenReview, you do not need to use a different style.
+If there are any questions, please contact the <a href="mailto:3dv26-pubchairs@googlegroups.com">publication chairs</a>, as well as the IEEE production editor <a href="mailto:j.gurrola@contractor.ieee.org">Javier Gurrola</a>.
+Your camera-ready submission is now considered complete. Congratulations!
