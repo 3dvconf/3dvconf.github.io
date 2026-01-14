@@ -40,6 +40,14 @@
       mdsize: 8
 
  - section:
+   name: Startup Sponsor & Coffee Break Sponsor
+   company:
+    - name: Third Dimension
+      logo: img/2026/sponsors/third-dimension.png
+      url: https://thirddimension.ai/
+      mdsize: 8
+
+ - section:
    name: Startup Sponsors
    company:
     - name: Illoca
