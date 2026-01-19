@@ -14,7 +14,8 @@ canonical: https://3dvconf.github.io/2026/
 <div style="border: 2px solid #467CFD; padding: 5px; text-align: left">
 <i>Registration portal is now open: <a href="https://3dvconf.github.io/2026/registration/">register here</a></i>.<br>
 Author registration deadline: <b>January 20, 2026</b><br>
-Early registration deadline: <b>March 1, 2026</b>
+Early registration deadline: <b>March 1, 2026</b><br>
+<i>We received reports of fraudulent emails from a third party claiming to arrange registration and/or travel to the conference. The organizers have no relation with external parties for such arrangements. Please disregard such emails and alert us at <a href="mailto:cscomms2@sfu.ca">cscomms2@sfu.ca</a>.</i>
 </div>
 <br>
 The list of accepted papers is <a href="https://3dvconf.github.io/2026/accepted-papers/">available here</a>.
