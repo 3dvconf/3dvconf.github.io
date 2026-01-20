@@ -40,11 +40,8 @@ title-logo: <i class="far fa-handshake"></i>
 - Acknowledgement during main events
 
 #### Additional opportunities
-**Prize sponsorship**
-- ~~Best Paper Award (2,000 USD)~~
-- ~~Best Student Paper Award (1,000 USD)~~
-- ~~Best Paper Honourable Mention Award (500 USD)~~
-- Custom prizes (to be discussed with chairs)
+**Best Paper Awards Sponsor - 3,500 USD**
+- Sponsor recognition announcement and display of sponsor logo to plenary session during awards session
 
 **Keynote Sponsor - 3,500 USD**
 - Sponsor recognition announcement and display of sponsor logo to plenary session at the start of keynote talk
