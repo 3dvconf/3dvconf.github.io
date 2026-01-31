@@ -22,8 +22,8 @@
      url: schedule
    - title: Papers
      url: accepted-papers
-#    - title: Awards
-#      url: awards
+   - title: Awards
+     url: awards
 #    - title: Booklet
 #      url: booklet
 
