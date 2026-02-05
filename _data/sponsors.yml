@@ -14,6 +14,10 @@
       logo: img/2026/sponsors/adobe.png
       url: https://research.adobe.com/
       mdsize: 8
+    - name: Autodesk
+      logo: img/2026/sponsors/autodesk.png
+      url: https://www.research.autodesk.com
+      mdsize: 8
     - name: Google
       logo: img/2026/sponsors/Google.png
       url: https://google.com/
@@ -50,6 +54,10 @@
  - section:
    name: Startup Sponsors
    company:
+    - name: Augmenta
+      logo: img/2026/sponsors/augmenta.png
+      url: https://www.augmenta.ai/
+      mdsize: 8
     - name: Illoca
       logo: img/2026/sponsors/illoca.png
       url: https://illoca.ai
