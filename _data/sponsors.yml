@@ -1,5 +1,17 @@
 2026:
  - section:
+   name: Gold Partners
+   company:
+    - name: Simon Fraser University
+      logo: img/2026/sponsors/sfu.png
+      url: https://sfu.ca/
+      mdsize: 8
+    - name: National University Singapore
+      logo: img/2026/sponsors/nus.jpg
+      url: https://nus.edu.sg/
+      mdsize: 8
+
+ - section:
    name: Silver Partners
    company:
     - name: MeshyAI
@@ -57,6 +69,10 @@
     - name: Augmenta
       logo: img/2026/sponsors/augmenta.png
       url: https://www.augmenta.ai/
+      mdsize: 8
+    - name: Hike Medical
+      logo: img/2026/sponsors/hike.png
+      url: https://www.hikemedical.com/
       mdsize: 8
     - name: Illoca
       logo: img/2026/sponsors/illoca.png
