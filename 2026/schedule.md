@@ -5,7 +5,7 @@ title: Schedule
 ---
 
 <center>
-<!-- Please checkout our <a href="https://drive.google.com/file/d/1w0PBhB04t7j_AY5epwQhKhatDq259gc-/view?usp=sharing">Booklet</a> for the conference guide. -->
+See conference booklet for more details (coming soon).
 </center>
 <br><br>
 
