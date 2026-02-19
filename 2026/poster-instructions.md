@@ -30,3 +30,4 @@ You can use any service you want to print your poster. The conference does not h
 - [TPH Printing House](https://www.tph.ca/017-2/)
 - [Samco](https://samcoprinters.com/products/posters.html)
 - [Print3](https://print3vancouver.com/print-services/posters/)
+- [Poster & Sign](https://posterandsign.com/collections/3dv-2026-conference-research-poster)
