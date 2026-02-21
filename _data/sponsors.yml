@@ -56,6 +56,13 @@
       mdsize: 8
 
  - section:
+   name: Attendee Experience Sponsor
+   company:
+    - name: Microsoft
+      logo: img/2026/sponsors/microsoft.png
+      url: https://www.microsoft.com/en-us/research/
+
+ - section:
    name: Startup Sponsor & Coffee Break Sponsor
    company:
     - name: Third Dimension
