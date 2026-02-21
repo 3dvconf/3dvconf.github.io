@@ -61,6 +61,7 @@
     - name: Microsoft
       logo: img/2026/sponsors/microsoft.png
       url: https://www.microsoft.com/en-us/research/
+      mdsize: 8
 
  - section:
    name: Startup Sponsor & Coffee Break Sponsor
