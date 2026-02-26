@@ -43,6 +43,8 @@ If the presenter cannot attend due to denied visa, please collect the supporting
     </tr>
 </table>
 
+Note that listed prices **do not** include the 5% Goods and Services Tax (GST).
+
 <br>
 **Refund Policy**
 
