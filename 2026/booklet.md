@@ -4,5 +4,4 @@ year: 2026
 title: Booklet
 ---
 
-Coming soon.
-<!-- <a href="https://drive.google.com/file/d/1w0PBhB04t7j_AY5epwQhKhatDq259gc-/view?usp=sharing"><img src="../../img/2026/booklet.jpg" style="width:100%"></a> -->
+<a href="https://drive.google.com/file/d/1z37ck0ZAmVwLq_UjKsci9spdEv_yJ6gp/view?usp=sharing"><img src="../../img/2026/booklet.jpg" style="width:100%"></a>

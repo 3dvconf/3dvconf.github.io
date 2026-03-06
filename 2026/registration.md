@@ -15,6 +15,8 @@ It is not possible to register multiple papers for a single person.
 If a single student author registers for a paper they must register at the regular rate.
 </div>
 
+<i>We received reports of fraudulent emails from a third party claiming to arrange registration and/or travel to the conference. The organizers have no relation with external parties for such arrangements. Please disregard such emails and alert us at <a href="mailto:cscomms2@sfu.ca">cscomms2@sfu.ca</a>.</i>
+
 <br>
 **Authors**
 

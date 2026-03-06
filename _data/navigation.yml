@@ -1,6 +1,8 @@
 2026:
  - title: Attending
    nested:
+   - title: Attendee Experience
+     url: attendee-experience
   #  - title: Accommodation
   #    url: accommodation
    - title: Code of Conduct

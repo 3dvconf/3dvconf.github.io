@@ -11,14 +11,11 @@ favicon: "img/2026/3dv.ico"
 canonical: https://3dvconf.github.io/2026/
 ---
 
-<div style="border: 2px solid #467CFD; padding: 5px; text-align: left">
-<i>Registration portal is now open: <a href="https://3dvconf.github.io/2026/registration/">register here</a></i>.<br>
-Author registration deadline: <b>January 20, 2026</b><br>
-Early registration deadline: <b>March 1, 2026</b><br>
-<i>We received reports of fraudulent emails from a third party claiming to arrange registration and/or travel to the conference. The organizers have no relation with external parties for such arrangements. Please disregard such emails and alert us at <a href="mailto:cscomms2@sfu.ca">cscomms2@sfu.ca</a>.</i>
+
+<div style="border: 3px solid #467CFD; padding: 5px; text-align: left">
+<i>Quick links:</i> <a href="https://3dvconf.github.io/2026/registration/">Registration</a> | <a href="https://3dvconf.github.io/2026/schedule/">Schedule</a> | <a href="https://3dvconf.github.io/2026/attendee-experience/">Attendee Experience Site</a> | <a href="https://3dvconf.github.io/2026/accepted-papers/">Papers</a> | <a href="https://3dvconf.github.io/2026/booklet/">Conference Guide</a><br>
 </div>
 <br>
-The list of accepted papers is <a href="https://3dvconf.github.io/2026/accepted-papers/">available here</a>.
 
 The 13th International Conference on 3D Vision will be held in-person at the [Vancouver Convention Centre]({{site.url}}/{{page.year}}/venue) in **Vancouver, BC, Canada**, from **March 20 to 23, 2026**.
 
