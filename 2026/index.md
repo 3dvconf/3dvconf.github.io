@@ -12,8 +12,8 @@ canonical: https://3dvconf.github.io/2026/
 ---
 
 
-<div style="border: 3px solid #467CFD; padding: 5px; text-align: left">
-<i>Quick links:</i> <a href="https://3dvconf.github.io/2026/registration/">Registration</a> | <a href="https://3dvconf.github.io/2026/schedule/">Schedule</a> | <a href="https://3dvconf.github.io/2026/attendee-experience/">Attendee Experience</a> | <a href="https://3dvconf.github.io/2026/accepted-papers/">Papers</a> | <a href="https://3dvconf.github.io/2026/booklet/">Conference Guide</a><br>
+<div style="border: 3px solid #467CFD; padding: 3px; text-align: left">
+<i>Links:</i> <a href="https://3dvconf.github.io/2026/registration/">Registration</a> | <a href="https://3dvconf.github.io/2026/schedule/">Schedule</a> | <a href="https://3dvconf.github.io/2026/attendee-experience/">Attendee Experience</a> | <a href="https://3dvconf.github.io/2026/accepted-papers/">Papers</a> | <a href="https://3dvconf.github.io/2026/booklet/">Booklet</a> | <a href="https://sites.google.com/view/sfu-workshops/sfu3dv2026">Post-3DV Workshop</a> <br>
 </div>
 <br>
 
