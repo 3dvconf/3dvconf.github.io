@@ -23,27 +23,86 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 
 
 <br>
-**Keynote Speakers**
-
+<div class="row text-center">
+	<div class="col-md-12 d-flex flex-column">
+		<h3>Keynote Speakers</h3>
+	</div>
+</div>
+<br>
 <div class="row">
-	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
-		<a href="https://people.eecs.berkeley.edu/~malik/">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/jitendra.jpg"></a>
-		<b>Jitendra Malik</b><br><br><br>
+	<div class="col-md-3 d-flex flex-column profile crop" >
+		<a href="https://chrirupp.github.io/">
+		<img src="{{site.url}}/img/2026/people/rupprecht.avif"></a>
+		<b>Christian Rupprecht</b>
 	</div>
-	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
+	<div class="col-md-6 d-flex flex-column">
+		<a href="https://www.youtube.com/watch?v=HyXHEWl99tU">
+		<img class="img-fluid" src="{{site.url}}/img/2026/talks/christian-keynote.jpg"></a>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-3 d-flex flex-column profile crop" >
 		<a href="https://www.3dunderstanding.org/team.html ">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/angela.jpg"></a>
-		<b>Angela Dai</b><br><br><br>
+		<img src="{{site.url}}/img/2026/people/angela.jpg"></a>
+		<b>Angela Dai</b>
 	</div>
-	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
-		<a href="https://chrirupp.github.io/ ">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/rupprecht.avif"></a>
-		<b>Christian Rupprecht</b><br><br><br>
+	<div class="col-md-6 d-flex flex-column">
+		<a href="https://www.youtube.com/watch?v=8d81pHAyWgE">
+		<img class="img-fluid" src="{{site.url}}/img/2026/talks/angela-keynote.jpg"></a>
 	</div>
-	<div class="col-md-3 d-flex flex-column align-items-center profile crop" >
+</div>
+<div class="row">
+	<div class="col-md-3 d-flex flex-column profile crop" >
 		<a href="https://alecjacobson.com/ ">
-		<img alt="{{chair.name}}" src="{{site.url}}/img/2026/people/alec.jpg"></a>
-		<b>Alec Jacobson</b><br><br><br>
+		<img src="{{site.url}}/img/2026/people/alec.jpg"></a>
+		<b>Alec Jacobson</b>
+	</div>
+	<div class="col-md-6 d-flex flex-column">
+		<a href="https://www.youtube.com/watch?v=8lrk4McpDWk">
+		<img class="img-fluid" src="{{site.url}}/img/2026/talks/alec-keynote.jpg"></a>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-3 d-flex flex-column profile crop" >
+		<a href="https://people.eecs.berkeley.edu/~malik/">
+		<img src="{{site.url}}/img/2026/people/jitendra.jpg"></a>
+		<b>Jitendra Malik</b>
+	</div>
+	<div class="col-md-6 d-flex flex-column">
+		<a href="https://www.youtube.com/watch?v=jNsVeZe6f9M">
+		<img class="img-fluid" src="{{site.url}}/img/2026/talks/jitendra-keynote.jpg"></a>
+	</div>
+</div>
+
+<br>
+<div class="row text-center">
+	<div class="col-md-12 d-flex flex-column">
+		<h3>3DV Outstanding Dissertation Award Talks</h3>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="col-md-3 d-flex flex-column profile crop" >
+		<a href="https://pengsongyou.github.io/">
+		<img src="{{site.url}}/img/2026/people/songyou.jpg"></a>
+		<b>Songyou Peng</b>
+	</div>
+	<div class="col-md-6 d-flex flex-column">
+		<a href="https://www.youtube.com/watch?v=sgK4YS0F0CE">
+		<img class="img-fluid" src="{{site.url}}/img/2026/talks/songyou-award.jpg"></a>
+		(Dissertation Award Honorable Mention)
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="col-md-3 d-flex flex-column profile crop" >
+		<a href="https://m-niemeyer.github.io/">
+		<img src="{{site.url}}/img/2026/people/michael.jpg"></a>
+		<b>Michael Niemeyer</b>
+	</div>
+	<div class="col-md-6 d-flex flex-column">
+		<a href="https://www.youtube.com/watch?v=RgZZOMJDHDc">
+		<img class="img-fluid" src="{{site.url}}/img/2026/talks/michael-award.jpg"></a>
+		(Dissertation Award)
 	</div>
 </div>
