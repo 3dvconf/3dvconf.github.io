@@ -24,6 +24,17 @@ function myFunction() {
   }
 }
 </script>
+The final awards go to:
+
+- <strong style="color:red">Best Paper Award</strong>:<br>
+<strong>Look Around and Pay Attention: Multi-camera Point Tracking Reimagined with Transformers<br></strong>
+Bishoy Galoaa, Xiangyu Bai, Shayda Moezzi, Utsav Nandi, Sai Siddhartha Vivek Dhir Rangoju, Somaieh Amraee, Sarah Ostadabbas
+
+- <strong style="color:red">Best Paper Runner Up Award</strong>:<br>
+<strong>NeuralFur: Animal Fur Reconstruction from Multi-view Images<br></strong>
+Vanessa Skliarova, Berna Kabadayi, Anastasios Yiannakidis, Giorgio Becherini,
+Michael J. Black, Justus Thies
+
 The following papers are selected as <b>award candidates</b>. The final awards will be announced during the main conference. Stay tuned!
 <div align="center">
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for papers, authors, ..." class="paper_search">
