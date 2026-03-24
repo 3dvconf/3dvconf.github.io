@@ -60,6 +60,7 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 	<div class="col-md-6 d-flex flex-column">
 		<a href="https://www.youtube.com/watch?v=8lrk4McpDWk">
 		<img class="img-fluid" src="{{site.url}}/img/2026/talks/alec-keynote.jpg"></a>
+		Note: audio not captured
 	</div>
 </div>
 <div class="row">
