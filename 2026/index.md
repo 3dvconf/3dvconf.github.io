@@ -21,7 +21,8 @@ The 13th International Conference on 3D Vision will be held in-person at the [Va
 
 Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications. 3DV 2026 will showcase high-quality single-track oral and poster presentations and demonstration sessions. It will also feature industrial exhibitions held in conjunction with the main conference. Proposals for Workshops and Tutorials are also invited.
 
-
+<br>
+<h4><a href="https://www.youtube.com/playlist?list=PLb1ccx6HcRw_XB-rLg9yyhunpS17uL-3f">Keynote and Award Talk Video Playlist</a></h4>
 <br>
 <div class="row text-center">
 	<div class="col-md-12 d-flex flex-column">
