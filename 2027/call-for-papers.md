@@ -5,7 +5,7 @@ year: 2027
 ---
 
 We invite submissions to the 14th International Conference on 3D Vision (3DV) 2027, which will be held in Thessaloniki, Greece, on **April 6-9, 2027**. 
-<!-- For all important dates, please <a href="{{site.url}}/2027/dates">click here</a> -->
+For all important dates, please <a href="{{site.url}}/2027/dates">click here</a>
 
 Since 2013, under the name 3DV, this event has been a platform for disseminating research results covering a broad variety of topics in the area of 3D computer vision and graphics, from novel optical sensors, signal processing, geometric modeling, representations, to reconstruction, visualization, analysis, rendering, interaction, and a variety of applications.
 
