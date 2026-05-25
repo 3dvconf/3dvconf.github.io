@@ -12,7 +12,7 @@ title: Welcome to Thessaloniki
 
 <br>
 
-<b>Thessaloniki</b> is the second-largest city in Greece, the capital of the Macedonia region. Founded on the 3rd century BC and named after the stepsister of Alexander the Great, Thessaloniki is now a vibrant, modern city with a population of 1 million people and an important educational hub with 4 universities, among which Greece’s largest university, the [Aristotle University of Thessaloniki](auth.gr/en/){:target="_blank"}.
+<b>Thessaloniki</b> is the second-largest city in Greece, the capital of the Macedonia region. Founded on the 3rd century BC and named after the stepsister of Alexander the Great, Thessaloniki is now a vibrant, modern city with a population of 1 million people and an important educational hub with 4 universities, among which Greece’s largest university, the [Aristotle University of Thessaloniki](https://www.auth.gr/en/homepage/){:target="_blank"}.
 
 It is considered Greece’s cultural capital, renowned for its festivals, events and its cultural life in general and has recently been ranked by National Geographic Travel in the top 10 Nightlife Cities.
 
