@@ -1,7 +1,7 @@
 2027:
  - section:
    name: General Chairs
-   mail: 3dv27-gcs@googlegroups.com
+   mail: <a href="mailto:3dv27-gcs@googlegroups.com">3dv27-gcs@googlegroups.com</a>
    people:
     - name: Angela Yao
       affiliation:  National University of Singapore
@@ -17,7 +17,7 @@
       url: https://oswaldm.github.io/
  - section:
    name: Program Chairs
-   mail: 3dv27-pcs@googlegroups.com
+   mail: <a href="mailto:3dv27-pcs@googlegroups.com">3dv27-pcs@googlegroups.com</a>
    people:
     - name: Angel X. Chang
       affiliation: Simon Fraser University
@@ -48,7 +48,7 @@
       url: https://staff.fnwi.uva.nl/th.gevers/
  - section:
    name: Sponsor / Industry-Liason Chairs
-   mail: 3dv27-sponsors@googlegroups.com
+   mail: <a href="mailto:3dv27-sponsors@googlegroups.com">3dv27-sponsors@googlegroups.com</a>
    people:
     - name: Federica Bogo
       affiliation: Meta
