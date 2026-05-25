@@ -1,12 +1,43 @@
-current-year: 2026
+current-year: 2027
 previous-years:
+  - 2026
   - 2025
   - 2024
   - 2022
   - 2021
 
+2027:
+  title: "The 14<sup>th</sup> <b>International Conference on 3D Vision</b>"
+  date: "6-9 April 2027"
+  location: "Thessaloniki, Greece"
+  conf-acro: 3DV2027
+  # favicon: "img/2026/3dv.ico"
+  favicon: "img/2027/3dv_ico.png"
+  header-image: "img/2027/3dv2027_banner.jpg"
+  # header-image-credit: Keete 37, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+  # header-image-creditlink: https://commons.wikimedia.org/wiki/File:Praha_skyline.png
+  # background: 8FCAFF # Vancouver
+  background: 343A40 # Gray of menu
+
+  program:
+   - name: Day 1
+     day: 1
+     date: 2027-04-06 #08:30
+   - name: Day 2
+     day: 2
+     date: 2027-04-07 #08:30
+   - name: Day 3  
+     day: 3
+     date: 2027-04-08 #08:30  
+   - name: Day 4
+     day: 4
+     date: 2027-04-09 #08:30
+
+
+
+
 2026:
-  title: "The 12<sup>th</sup> <b>International Conference on 3D Vision</b>"
+  title: "The 13<sup>th</sup> <b>International Conference on 3D Vision</b>"
   date: "25-28 March 2026"
   location: "Vancouver"
   conf-acro: 3DV2026

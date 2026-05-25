@@ -1,0 +1,28 @@
+{% if page.year != null %} {% assign year = page.year %} {% else %} {% assign
+year = site.data.3dv.current-year %} {% endif %}
+
+<script
+  async
+  src="https://platform.twitter.com/widgets.js"
+  charset="utf-8"
+></script>
+
+<section>
+  <h3><i class="far fa-newspaper"></i> &nbsp; Latest News</h3>
+  <ul>
+    <li>🌟 Call for Nectar Track contributions is now open! <a href="/2027/call-for-nectar-track">Submit here</a> by February 15, 2027.</li>
+    <li>🏆 3DV 2027 is calling for dissertation award nominations!</li>
+    <li>📢 3DV 2027 will be held in Vancouver BC, March 20–23, 2027!</li>
+    </ul><br>
+    {% for post in site.posts limit:5 %} {% if post.year == page.year %}
+    <a
+      class="twitter-timeline"
+      data-width="500"
+      data-height="500"
+      href="https://twitter.com/3DVconf?ref_src=twsrc%5Etfw"
+      >Tweets by 3DVconf</a
+    >
+    <br />
+    {% endif %} {% endfor %}
+  </ul>
+</section>

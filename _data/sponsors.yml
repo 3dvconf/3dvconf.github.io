@@ -1,3 +1,117 @@
+# 2027:
+#  - section:
+#    name: Gold Partners
+#   #  company:
+#   #   - name: Simon Fraser University
+#   #     logo: img/2026/sponsors/sfu.png
+#   #     url: https://cs.sfu.ca/
+#   #     mdsize: 9
+#   #   - name: uni-nus-soc
+#   #     logo: img/2026/sponsors/nus-soc.png
+#   #     url: http://www.comp.nus.edu.sg/
+#   #     mdsize: 9
+#   #   - name: z-costar
+#   #     logo: img/2026/sponsors/costar.png
+#   #     url: https://www.costargroup.com/about-us/brands/matterport
+#   #     mdsize: 9
+
+#  - section:
+#    name: Silver Partners
+#   #  company:
+#   #   - name: MeshyAI
+#   #     logo: img/2026/sponsors/meshy.png
+#   #     url: https://www.meshy.ai/
+#   #     mdsize: 7
+
+#  - section:
+#    name: Bronze Partners
+#   #  company:
+#   #   - name: Adobe
+#   #     logo: img/2026/sponsors/adobe.png
+#   #     url: https://research.adobe.com/
+#   #     mdsize: 6
+#   #   - name: Autodesk
+#   #     logo: img/2026/sponsors/autodesk.png
+#   #     url: https://www.research.autodesk.com
+#   #     mdsize: 6
+#   #   - name: Google
+#   #     logo: img/2026/sponsors/Google.png
+#   #     url: https://google.com/
+#   #     mdsize: 6
+#   #   - name: Yembo
+#   #     logo: img/2026/sponsors/yembo.png
+#   #     url: https://yembo.ai/
+#   #     mdsize: 6
+
+#  - section:
+#    name: Bronze Partner & Best Paper Awards Sponsor
+#   #  company:
+#   #   - name: Vision Systems Inc
+#   #     logo: img/2026/sponsors/visionsystems.png
+#   #     url: https://www.visionsystemsinc.com/
+#   #     mdsize: 5
+
+#  - section:
+#    name: Keynote Sponsors
+#   #  company:
+#   #   - name: Meta
+#   #     logo: img/2026/sponsors/meta.png
+#   #     url: https://research.facebook.com/
+#   #     mdsize: 6
+
+#  - section:
+#    name: Attendee Experience Sponsor
+#   #  company:
+#   #   - name: Microsoft
+#   #     logo: img/2026/sponsors/microsoft.png
+#   #     url: https://www.microsoft.com/en-us/research/
+#   #     mdsize: 5
+
+#  - section:
+#    name: Startup Sponsor & Coffee Break Sponsor
+#   #  company:
+#   #   - name: Third Dimension
+#   #     logo: img/2026/sponsors/third-dimension.png
+#   #     url: https://thirddimension.ai/
+#   #     mdsize: 5
+
+#  - section:
+#    name: Startup Sponsors
+#   #  company:
+#   #   - name: Augmenta
+#   #     logo: img/2026/sponsors/augmenta.png
+#   #     url: https://www.augmenta.ai/
+#   #     mdsize: 4
+#   #   - name: Hike Medical
+#   #     logo: img/2026/sponsors/hike.png
+#   #     url: https://www.hikemedical.com/
+#   #     mdsize: 4
+#   #   - name: Illoca
+#   #     logo: img/2026/sponsors/illoca.png
+#   #     url: https://illoca.ai
+#   #     mdsize: 4
+
+#  - section:
+#    name: Technically Co-Sponsored by IEEE Computer Society
+#    company:
+#     - name: IEEE
+#       logo: img/2026/sponsors/ieee.jpg
+#       url: https://www.ieee.org/
+#       mdsize: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2026:
  - section:
    name: Gold Partners

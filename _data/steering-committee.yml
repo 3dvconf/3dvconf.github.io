@@ -1,3 +1,24 @@
+2027:
+ - section:
+   name: Steering Committee
+   people:
+    - name: Marc Pollefeys
+      affiliation: ETH Zürich
+      image: img/2027/people/SC-marc.jpg
+      url: https://people.inf.ethz.ch/marc.pollefeys/
+    - name: Edmond Boyer
+      affiliation: Inria Grenoble
+      image: img/2027/people/SC-edmond.jpg
+      url: http://morpheo.inrialpes.fr/people/Boyer/
+    - name: Guy Godin
+      affiliation: NRC Canada
+      image: img/2027/people/SC-godin.jpg
+      url: https://scholar.google.com/citations?user=iOpmxU0AAAAJ&hl=en
+    - name: Baoquan Chen
+      affiliation: Peking University
+      image: img/2027/people/SC-chen.jpg
+      url: https://baoquanchen.info/
+
 2026:
  - section:
    name: Steering Committee
@@ -18,6 +39,7 @@
       affiliation: Peking University
       image: img/2025/people/chen.jpg
       url: https://baoquanchen.info/
+
 2025:
  - section:
    name: Steering Committee

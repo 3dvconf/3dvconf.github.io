@@ -1,9 +1,52 @@
-current-year: 2026
+current-year: 2027
 previous-years:
+  - 2026
   - 2025
   - 2024
   - 2022
   - 2021
+
+# PDT = UTC-7
+# AoE = UTC-12
+# CEST = UTC+2
+
+2027:
+ - name: Paper Submission
+   date: Aug 28, 2026
+   countdown: 2026/08/28 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   enabled: true
+ - name: Supplementary Material
+   date: Sep 02, 2025
+   countdown: 2026/09/02 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   enabled: true
+#  - name: Reviews due
+#    date: October 09, 2025
+#    countdown: 2025/10/09 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+#    enabled: true
+ - name: Preliminary Notification
+   date: Oct 27, 2025
+   countdown: 2026/10/27 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   enabled: true
+ - name: Final Notification
+   date: Dec 02, 2025
+   countdown: 2026/10/27 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   enabled: true
+#  - name: Dissertation Award Pre-nomination
+#    date: November 07, 2025
+#    countdown: 2025/11/07 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+#    enabled: true
+#  - name: Dissertation Award Nomination
+#    date: December 01, 2025
+#    countdown: 2025/12/01 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+#    enabled: true
+#  - name: Nectar Track Submissions
+#    date: February 15, 2026
+#    countdown: 2026/02/15 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+#    enabled: true
+ - name: Main conference
+   date: Apr 6-9, 2027
+   countdown: 2027/04/6 07:59:59 +0200 # CEST = UTC+2
+   enabled: true
 
 2026:
  - name: Paper Submission #dfsd

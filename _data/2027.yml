@@ -1,0 +1,27 @@
+conf-title: 3DV 2027
+conf-acro: 3DV2027
+conf-location: Thessaloniki
+conf-date: 2027
+
+header-image: "img/2027/3dv2027_banner.jpg"
+banner-image: "img/2026/clock.jpg"
+banner-title: Welcome to 3DV 2027
+
+favicon: "img/2027/3dv.ico"
+ 
+program:
+#  - name: Tutorials
+#    day: 0
+#    date: 2027-04-6 #08:30
+ - name: Day 1
+   day: 1
+   date: 2027-04-6 #08:30
+ - name: Day 2  
+   day: 2
+   date: 2027-04-7 #08:30  
+ - name: Day 3
+   day: 3
+   date: 2027-04-8 #08:30
+ - name: Day 4
+   day: 4
+   date: 2027-04-9 #08:30
