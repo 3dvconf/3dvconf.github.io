@@ -16,19 +16,19 @@ previous-years:
    countdown: 2026/08/28 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
    enabled: true
  - name: Supplementary Material
-   date: Sep 02, 2025
+   date: Sep 02, 2026
    countdown: 2026/09/02 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
    enabled: true
 #  - name: Reviews due
-#    date: October 09, 2025
+#    date: October 09, 2026
 #    countdown: 2025/10/09 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
 #    enabled: true
  - name: Preliminary Notification
-   date: Oct 27, 2025
+   date: Oct 27, 2026
    countdown: 2026/10/27 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
    enabled: true
  - name: Final Notification
-   date: Dec 02, 2025
+   date: Dec 02, 2026
    countdown: 2026/10/27 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
    enabled: true
 #  - name: Dissertation Award Pre-nomination
