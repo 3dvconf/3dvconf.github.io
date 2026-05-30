@@ -28,6 +28,25 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 
 
 
+<div class="row text-center">
+	<div class="col-md-12 d-flex flex-column">
+		<h3>Keynote Speakers</h3>
+	</div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-4 align-self-center profile crop" >
+        <a href="https://geometry.stanford.edu/?member=guibas">
+        <img alt="{{chair.name}}" src="{{site.url}}/img/2027/people/KN-leo.jpg"></a>
+        <b>Leo Guibas</b><br><br><br>
+    </div>
+    <div class="col-md-3 align-self-center profile crop" >
+        <a href="{{site.url}}">
+        <img alt="{{chair.name}}" src="{{site.url}}/img/2027/people/KN-personX.png"></a>
+        <b>More coming soon!</b><br><br><br>
+    </div>
+</div>
+
 <!-- <br>
 <h4><a href="https://www.youtube.com/playlist?list=PLb1ccx6HcRw_XB-rLg9yyhunpS17uL-3f">Keynote and Award Talk Video Playlist</a></h4>
 <br>
