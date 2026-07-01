@@ -120,21 +120,30 @@
 #       affiliation: Seoul National University
 #       url: https://www.junhokim.xyz/
 #       image: img/2026/people/Junho.jpg
-#  - section:
-#    name: Social Media & Website Chairs
-#    people:
-#     - name: Xingguang Yan
-#       affiliation: Simon Fraser University
-#       url: https://yanxg.art/
-#       image: img/2026/people/xingguang_yan.png
-#     - name: Hanwen Jiang
-#       affiliation: UT Austin
-#       url: https://hwjiang1510.github.io/
-#       image: img/2026/people/hanwen_jiang.jpeg
-#     - name: Chih-Hao Lin
-#       affiliation: University of Illinois Urbana-Champaign
-#       url: https://chih-hao-lin.github.io/
-#       image: img/2026/people/chih-hao.jpg
+ - section:
+   name: Website Chairs
+   mail: <a href="mailto:3dv27-web@googlegroups.com">3dv27-web@googlegroups.com</a>
+   people:
+    - name: Dimitrije Antić
+      affiliation: University of Amsterdam
+      url: https://anticdimi.github.io
+      image: img/2027/people/WEB-dimi.jpg
+    - name: Georgios Paschalidis
+      affiliation: University of Amsterdam
+      url: https://gpaschalidis.github.io
+      image: img/2027/people/WEB-george.jpg
+ - section:
+   name: Social Media Chairs
+   mail: <a href="mailto:3dv27-social@googlegroups.com">3dv27-social@googlegroups.com</a>
+   people:
+    - name: Vladimir Yugay
+      affiliation: University of Amsterdam
+      url: https://vladimiryugay.github.io
+      image: img/2027/people/SOC-vlad.jpg
+    - name: Yue Li
+      affiliation: University of Amsterdam
+      url: https://unique1i.github.io
+      image: img/2027/people/SOC-yue.jpg
 #  - section:
 #    name: Publicity Advisor
 #    people:
