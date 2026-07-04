@@ -38,7 +38,7 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
     <div class="col-md-4 align-self-center profile crop" >
         <a href="https://geometry.stanford.edu/?member=guibas">
         <img alt="{{chair.name}}" src="{{site.url}}/img/2027/people/KN-leo.jpg"></a>
-        <b>Leo Guibas</b><br><br><br>
+        <b>Leonidas Guibas</b><br><br><br>
     </div>
     <div class="col-md-3 align-self-center profile crop" >
         <a href="{{site.url}}">
