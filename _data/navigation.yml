@@ -42,14 +42,14 @@
 #    - title: Call for Nectar Track
 #      url: call-for-nectar-track
 
-#  - title: Submission
-#    nested:
-#    - title: Author Guidelines
-#      url: author-guidelines
+ - title: Submission
+   nested:
+   - title: Author Guidelines
+     url: author-guidelines
 #    - title: Author OpenReview Instructions
 #      url: author-instructions
-#    - title: Author FAQs
-#      url: author-faq
+   - title: Author FAQs
+     url: author-faq
 #    - title: Reviewer Guidelines
 #      url: reviewer-guidelines
 #    - title: Camera Ready Instructions
