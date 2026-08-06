@@ -46,14 +46,14 @@
    nested:
    - title: Author Guidelines
      url: author-guidelines
-#    - title: Author OpenReview Instructions
-#      url: author-instructions
+   - title: Author OpenReview Instructions
+     url: author-instructions
    - title: Author FAQs
      url: author-faq
    - title: Ethics Guidelines
      url: ethics-guidelines
-#    - title: Reviewer Guidelines
-#      url: reviewer-guidelines
+   - title: Reviewer Guidelines
+     url: reviewer-guidelines
 #    - title: Camera Ready Instructions
 #      url: camera-ready-instructions
 #    - title: Presentation Instructions
