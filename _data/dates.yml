@@ -11,6 +11,10 @@ previous-years:
 # CEST = UTC+2
 
 2027:
+ - name: Abstract Registration
+   date: Aug 21, 2026
+   countdown: 2026/08/21 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   enabled: true
  - name: Paper Submission
    date: Aug 28, 2026
    countdown: 2026/08/28 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00

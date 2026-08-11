@@ -1,5 +1,5 @@
 ---
-layout: 2027_sidebar
+layout: 2027_sidebar_no_dates
 year: 2027
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
