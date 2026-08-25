@@ -136,6 +136,32 @@
       url: https://xiwang1212.github.io/homepage/
       image: img/2027/people/PUB-xiwang.jpg
  - section:
+   name: Nectar Track Chairs
+   people:
+    - name: Fatma Güney
+      affiliation: Koç University
+      url: https://mysite.ku.edu.tr/fguney/
+      image: img/2027/people/NEC-fatma.jpg
+    - name: Francis Engelmann
+      affiliation: Università della Svizzera italiana (USI)
+      url: https://francisengelmann.github.io/
+      image: img/2027/people/NEC-francis.jpg
+ - section:
+   name: OpenReview Chairs
+   people:
+    - name: Tomer Borreda
+      affiliation: Technion
+      url: https://tomerborreda.github.io/
+      image: img/2027/people/OR-tomer.jpg
+    - name: Emily Steiner
+      affiliation: Stanford University
+      url: https://www.easteine.com/
+      image: img/2027/people/OR-emily.jpg
+    - name: Yiming Zhang
+      affiliation: Simon Fraser University
+      url: https://scholar.google.com/citations?user=scUaE38AAAAJ&hl=en
+      image: img/2027/people/OR-yiming.jpg
+ - section:
    name: Website Chairs
    mail: <a href="mailto:3dv27-web@googlegroups.com">3dv27-web@googlegroups.com</a>
    people:
