@@ -121,6 +121,21 @@
 #       url: https://www.junhokim.xyz/
 #       image: img/2026/people/Junho.jpg
  - section:
+   name: Publication Chairs
+   people:
+    - name: Qi Wu
+      affiliation: University of Adelaide
+      url: https://v3alab.github.io/people/
+      image: img/2027/people/PUB-qiwu.jpg
+    - name: Yaoyao Liu
+      affiliation: University of Illinois Urbana-Champaign
+      url: https://yaoyaoliu.web.illinois.edu/
+      image: img/2027/people/PUB-yaoyao.jpg
+    - name: Xi Wang
+      affiliation: ETH Zurich
+      url: https://xiwang1212.github.io/homepage/
+      image: img/2027/people/PUB-xiwang.jpg
+ - section:
    name: Website Chairs
    mail: <a href="mailto:3dv27-web@googlegroups.com">3dv27-web@googlegroups.com</a>
    people:
