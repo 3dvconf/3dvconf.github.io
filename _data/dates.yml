@@ -13,15 +13,15 @@ previous-years:
 2027:
  - name: Abstract Registration
    date: Aug 28, 2026
-   countdown: 2026/08/28 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   countdown: 2026/08/28 18:00:00 +0000 # 18:00 UTC = 11:00 PDT
    enabled: true
  - name: Paper Submission
    date: Aug 28, 2026
-   countdown: 2026/08/28 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   countdown: 2026/08/29 11:59:59 +0000 # Aug 28 23:59:59 AoE (UTC-12) = Aug 29 11:59:59 UTC
    enabled: true
  - name: Supplementary Material
    date: Sep 02, 2026
-   countdown: 2026/09/02 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   countdown: 2026/09/02 18:00:00 +0000 # 18:00 UTC = 11:00 PDT
    enabled: true
 #  - name: Reviews due
 #    date: October 09, 2026
@@ -29,11 +29,11 @@ previous-years:
 #    enabled: true
  - name: Preliminary Notification
    date: Oct 27, 2026
-   countdown: 2026/10/27 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   countdown: 2026/10/27 18:00:00 +0000 # 18:00 UTC = 11:00 PDT
    enabled: true
  - name: Final Notification
    date: Dec 02, 2026
-   countdown: 2026/10/27 18:00:00 # PDT = UTC -0700 = 18-7 = 11:00:00
+   countdown: 2026/12/02 19:00:00 +0000 # 19:00 UTC = 11:00 PST (DST ends Nov 1)
    enabled: true
 #  - name: Dissertation Award Pre-nomination
 #    date: November 07, 2025

@@ -49,6 +49,6 @@ Please note: The list of papers in your OpenReview profile is shared across conf
 OpenReview uses this list of papers for conflict determination in the review process.
 
 **Step 5**  
-Complete paper submission by August 28, 2026 11am Pacific Time.
+Complete paper submission by August 28, 2026 23:59 Anywhere on Earth (AoE).
 To begin the submission process, go to the [OpenReview 3DV 2027 submission page](https://openreview.net/group?id=3DV/2027/Conference),
 make sure you are logged in, click on the "3DV Conference Submission" button, and then follow the instructions on the form that will appear.

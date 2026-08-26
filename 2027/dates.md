@@ -17,5 +17,6 @@ Note that <b>rebuttals</b> will be <b>requested only</b> if reviewers and area c
 By October 27th, authors will receive information whether reviewers and area chairs recommend to accept or reject their submission, or whether they ask for a rebuttal. Note that these recommendations are not final and final decisions will be communicated by December 2nd. Submissions will thus be under review until December 2nd.
 
 <b>Timezones:</b>
-- All deadlines are 11:00 am PDT, so that all PCs and the OpenReview support are reachable. 
+- The Paper Submission deadline is 23:59 Anywhere on Earth (AoE).
+- All other deadlines are 11:00 am PDT, so that all PCs and the OpenReview support are reachable.
 - The conference in April takes place at CEST timezone. 
