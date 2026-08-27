@@ -13,7 +13,7 @@ previous-years:
 2027:
  - name: Abstract Registration
    date: Aug 28, 2026
-   countdown: 2026/08/28 18:00:00 +0000 # 18:00 UTC = 11:00 PDT
+   countdown: 2026/08/29 11:59:59 +0000 # Aug 28 23:59:59 AoE (UTC-12) = Aug 29 11:59:59 UTC
    enabled: true
  - name: Paper Submission
    date: Aug 28, 2026
