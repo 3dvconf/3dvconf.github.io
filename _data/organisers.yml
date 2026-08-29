@@ -98,13 +98,13 @@
 #       affiliation: 
 #       url: 
 #       image: 
-#  - section:
-#    name: Technical Advisor
-#    people:
-#     - name: Gang Hua
-#       affiliation: Dolby Laboratories
-#       image: img/2026/people/ganghua.jpg
-#       url: https://www.ganghua.org/
+ - section:
+   name: Technical Advisor
+   people:
+    - name: Gang Hua
+      affiliation: Dolby Laboratories
+      image: img/2027/people/TA-ganghua.jpg
+      url: https://www.ganghua.org/
 #  - section:
 #    name: OpenReview Chairs
 #    people:
