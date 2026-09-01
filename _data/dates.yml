@@ -21,7 +21,7 @@ previous-years:
    enabled: true
  - name: Supplementary Material
    date: Sep 02, 2026
-   countdown: 2026/09/02 18:00:00 +0000 # 18:00 UTC = 11:00 PDT
+   countdown: 2026/09/03 11:59:59 +0000 # Sep 02 23:59:59 AoE (UTC-12) = Sep 03 11:59:59 UTC
    enabled: true
 #  - name: Reviews due
 #    date: October 09, 2026
