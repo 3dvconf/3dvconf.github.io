@@ -8,6 +8,15 @@
       width: 40%
       mdsize: 12
 
+ - section:
+   name: Startup Sponsors
+   company:
+    - name: Niantic Spatial
+      logo: img/2027/sponsors/nianticspatial-logo-blue-large.png
+      url: https://nianticspatial.com/
+      width: 20%
+      mdsize: 4
+
 # To add more 2027 tiers later (Gold Partners, Silver Partners, etc.), copy the
 # structure of the 2026 section below and point logos to img/2027/sponsors/.
 
