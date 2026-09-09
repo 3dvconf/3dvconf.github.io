@@ -38,10 +38,14 @@ Please follow the [instructions to enter or update the institutional data of you
 
 (If your institution is not part of the drop-down list, you should be able to just enter a new institution domain and name.)
 
+Add all individuals who may represent conflicts of interest under "Advisors, Relations & Conflicts". This includes present and current advisors, students, co-workers, co-authors, collaborators, and other relevant professional relationships.
+
 Please note: Do not remove old positions. Those are used for conflict determination in the review process.
 
 **Step 4**  
 Please update your list of publications in your profile; see [instructions to import papers from DBLP to your profile](https://docs.openreview.net/getting-started/creating-an-openreview-profile/importing-papers-from-dblp).
+
+*For missing publications:* If your papers aren't captured by DBLP (or you have issues importing them from DBLP) and don't appear in your profile, manually upload them to the [OpenReview Archive](https://openreview.net/group?id=OpenReview.net/Archive#tab-publications).
 
 (If you have not published yet, you can skip this step.)
 
@@ -52,3 +56,8 @@ OpenReview uses this list of papers for conflict determination in the review pro
 Complete paper submission by August 28, 2026 23:59 Anywhere on Earth (AoE).
 To begin the submission process, go to the [OpenReview 3DV 2027 submission page](https://openreview.net/group?id=3DV/2027/Conference),
 make sure you are logged in, click on the "3DV Conference Submission" button, and then follow the instructions on the form that will appear.
+
+**Step 6**  
+Double-check your OpenReview profile to ensure your profile ("Personal Links", "Education & Career History", "Advisors, Relations & Conflicts", "Publications") are all up-to-date. Please also add personal links (e.g. homepage, DBLP, Google Scholar, Semantic Scholar) to "Personal Links".
+
+Make sure that your OpenReview profile is updated by September 9th, 2026 23:59 Anywhere on Earth (AoE).
