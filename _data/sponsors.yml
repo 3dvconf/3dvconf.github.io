@@ -1,5 +1,14 @@
 2027:
  - section:
+   name: Silver Partners
+   company:
+    - name: Yembo
+      logo: img/2027/sponsors/yembo.png
+      url: https://yembo.ai/
+      width: 30%
+      mdsize: 7
+
+ - section:
    name: Bronze Partners
    company:
     - name: University of Amsterdam
