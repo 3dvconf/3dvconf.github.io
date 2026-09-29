@@ -25,6 +25,11 @@
       url: https://nianticspatial.com/
       width: 30%
       mdsize: 6
+    - name: HERON Robotics Center of Excellence
+      logo: img/2027/sponsors/heron.png
+      url: https://heron-robotics-coe.eu/
+      width: 30%
+      mdsize: 6
 
 # To add more 2027 tiers later (Gold Partners, Silver Partners, etc.), copy the
 # structure of the 2026 section below and point logos to img/2027/sponsors/.
