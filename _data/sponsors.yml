@@ -25,6 +25,10 @@
       url: https://nianticspatial.com/
       width: 30%
       mdsize: 6
+
+ - section:
+   name: Academic Partners
+   company:
     - name: HERON Robotics Center of Excellence
       logo: img/2027/sponsors/heron.png
       url: https://heron-robotics-coe.eu/
