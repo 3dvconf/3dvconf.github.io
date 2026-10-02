@@ -50,20 +50,17 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 <br>
 <div class="row text-center">
 	<div class="col-md-12 d-flex flex-column">
-		<h3>Hosted by</h3>
+		<h3>Under the Auspices of</h3>
 	</div>
 </div>
 <br>
-<div class="row text-center">
-    <div class="col-md-12">
-        <a href="https://www.auth.gr/" target="_blank">
-        <img alt="Aristotle University of Thessaloniki" src="{{site.url}}/img/2027/hosts/auth.png" style="max-width: 180px; height: auto;"></a>
+<div class="row align-items-center">
+    <div class="col-md-5 text-center">
+        <a href="https://www.auth.gr/en/" target="_blank">
+        <img alt="Aristotle University of Thessaloniki" src="{{site.url}}/img/2027/hosts/auth.png" style="max-width: 340px; width: 100%; height: auto;"></a>
     </div>
-</div>
-<br>
-<div class="row text-center">
-    <div class="col-md-12">
-        3DV 2027 is hosted by the Aristotle University of Thessaloniki, under the auspices of the School of Electrical and Computer Engineering.
+    <div class="col-md-7">
+        3DV 2027 is organized under the auspices of the School of <a href="https://ece.auth.gr/en/home/" target="_blank">Electrical and Computer Engineering</a> (ECE), <a href="https://www.auth.gr/en/" target="_blank">Aristotle University of Thessaloniki</a> (AUTh).
     </div>
 </div>
 
