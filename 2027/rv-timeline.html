@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Reviewer Timeline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;1,500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1D2A39;
+    --paper:#F6F8FB;
+    --card:#F1F5FD;
+    --line:#D8E1F0;
+    --steel:#3A6DD8;
+    --red:#D96565;
+    --green:#1EA672;
+    --muted:#5C6F86;
+    --passed:#A7AFBA;
+    --passed-fill:rgba(167, 175, 186, 0.06);
+    --passed-border:rgba(167, 175, 186, 0.12);
+    --done-bg:#EAF0F9;
+    --shadow: rgba(20, 32, 49, 0.10);
+    --badge-bg: rgba(58, 109, 216, 0.08);
+    --glow: rgba(58, 109, 216, 0.18);
+    --pulse: rgba(58, 109, 216, 0.55);
+    --milestone-bg: rgba(29, 42, 57, 0.06);
+    --milestone-border: rgba(29, 42, 57, 0.18);
+    --footer-bg:#F5F5F5;
+    --footer-muted:#6C757D;
+    --footer-link:#007BFF;
+    --footer-link-hover:#0056B3;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  html[data-theme="dark"]{
+    --ink:#EEF5FF;
+    --paper:#000000;
+    --card:#0D0D0E;
+    --line:#1D1F22;
+    --steel:#6E9BFF;
+    --red:#F07A7A;
+    --green:#2FCC8E;
+    --muted:#A9B8C8;
+    --passed:#777E86;
+    --passed-fill:rgba(119, 126, 134, 0.12);
+    --passed-border:rgba(119, 126, 134, 0.22);
+    --done-bg:#121416;
+    --shadow: rgba(0, 0, 0, 0.78);
+    --badge-bg: rgba(110, 155, 255, 0.12);
+    --glow: rgba(110, 155, 255, 0.12);
+    --pulse: rgba(110, 155, 255, 0.55);
+    --milestone-bg: rgba(238, 245, 255, 0.08);
+    --milestone-border: rgba(238, 245, 255, 0.18);
+    --footer-bg:#16181B;
+    --footer-muted:#A9B8C8;
+    --footer-link:#6E9BFF;
+    --footer-link-hover:#A8C0FF;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:radial-gradient(circle at top, var(--glow), transparent 30%), var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans',system-ui,sans-serif;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:860px;margin:0 auto;padding:48px 24px 24px;}
+  header{margin-bottom:30px;}
+  .hero-image-wrap{
+    margin:0 0 28px;
+    border:1px solid var(--line);
+    border-radius:14px;
+    overflow:hidden;
+    background:var(--card);
+    box-shadow:0 18px 50px var(--shadow);
+  }
+  .hero-image-wrap a{display:block;}
+  .hero-image-wrap a:focus-visible{outline:3px solid var(--steel);outline-offset:-3px;}
+  .hero-image-wrap img{
+    display:block;
+    width:100%;
+    height:auto;
+    object-fit:cover;
+  }
+  h1{
+    font-family:'Lora',Georgia,serif;
+    font-weight:600;
+    font-size:clamp(1.6rem,4vw,2.1rem);
+    margin:0 0 8px;
+    letter-spacing:-0.01em;
+  }
+  .sub{color:var(--muted);font-size:0.95rem;max-width:60ch;}
+  .today-controls{
+    display:flex;align-items:center;justify-content:space-between;
+    gap:12px;flex-wrap:wrap;margin-top:18px;
+  }
+  .today-badge{
+    display:inline-flex;align-items:center;gap:8px;
+    margin-top:0;padding:7px 14px;
+    border:1px solid var(--line);border-radius:999px;
+    font-size:0.85rem;color:var(--ink);
+    background:var(--card);
+  }
+  .today-badge .dot{width:7px;height:7px;border-radius:50%;background:var(--green);}
+
+  .header-controls{
+    margin-top:0;display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+    font-size:0.85rem;color:var(--muted);
+  }
+  .header-controls button{
+    font-family:inherit;font-size:0.8rem;font-weight:600;cursor:pointer;
+    border-radius:6px;padding:6px 12px;border:1px solid var(--steel);
+    background:var(--steel);color:#fff;
+  }
+  .header-controls button.ghost{
+    background:transparent;color:var(--muted);border-color:var(--line);
+    font-weight:500;
+  }
+  .theme-toggle{
+    display:inline-flex;align-items:center;justify-content:center;gap:7px;
+    min-width:108px;
+  }
+  .theme-icon{display:none;width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;}
+  .theme-toggle[data-next-theme="light"] .eye-open,
+  .theme-toggle[data-next-theme="dark"] .eye-closed{display:block;}
+
+  .timeline{position:relative;margin-top:8px;}
+  .timeline::before{
+    content:"";position:absolute;left:126px;top:6px;bottom:6px;width:1px;
+    background:var(--line);
+  }
+  @media (max-width:520px){
+    .timeline::before{left:76px;}
+  }
+
+  .step{
+    position:relative;
+    display:grid;
+    grid-template-columns:110px 1fr;
+    gap:20px;
+    padding:22px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .step:last-child{border-bottom:none;}
+  @media (max-width:520px){
+    .step{grid-template-columns:60px 1fr;gap:14px;}
+  }
+
+  .datecol{padding-top:2px;}
+  .datecol .range{
+    display:inline-block;
+    font-size:0.88rem;font-weight:600;color:var(--ink);
+  }
+  .datecol .meta{
+    margin-top:4px;font-size:0.7rem;letter-spacing:0.04em;
+    text-transform:uppercase;color:var(--muted);
+  }
+  .step.milestone .datecol .range,
+  .step.milestone .title{
+    font-style:italic;
+  }
+  .step.milestone .title{font-size:1.12rem;font-weight:700;}
+  .step.milestone .datecol .range{
+    padding:7px 10px;border-radius:999px;
+    background:var(--milestone-bg);
+    border:1px solid var(--milestone-border);
+    box-shadow:inset 0 1px 0 rgba(255,255,255,0.25);
+  }
+  .datecol .dayname{
+    font-size:0.72rem;color:var(--muted);margin-top:2px;
+  }
+
+  .marker{
+    position:absolute;left:122px;top:26px;
+    width:9px;height:9px;border-radius:50%;
+    background:var(--ink);
+    border:2px solid var(--paper);
+    z-index:2;
+  }
+  .step.milestone .marker{border-radius:1px;transform:rotate(45deg);}
+  @media (max-width:520px){ .marker{left:72px;} }
+
+  .step.current .marker{
+    background:var(--green);
+    animation:pulse 1.6s ease-in-out infinite;
+  }
+  .step.done .marker{background:var(--passed);}
+
+  @keyframes pulse{
+    0%,100%{box-shadow:0 0 0 0 var(--pulse);}
+    50%{box-shadow:0 0 0 6px rgba(0,0,0,0);}
+  }
+  @media (prefers-reduced-motion: reduce){
+    .step.current .marker{animation:none;}
+  }
+
+  .title{
+    font-family:'Lora',Georgia,serif;
+    font-weight:600;
+    font-size:1.05rem;
+    margin:0 0 6px;
+  }
+  .step.done .title,
+  .step.done .datecol .range,
+  .step.done .datecol .meta{
+    text-decoration:line-through;
+    text-decoration-color:var(--passed);
+    color:var(--passed);
+  }
+  .step.current .title{color:var(--green);}
+  .step.current .datecol .range{color:var(--green);font-weight:600;}
+  .step.current.milestone .datecol .range{
+    font-weight:700;
+    background:rgba(30,166,114,0.12);
+    border-color:rgba(30,166,114,0.34);
+  }
+  .step.current .datecol .meta{color:var(--green);}
+  .step.done.milestone .datecol .range{
+    background:var(--passed-fill);
+    border-color:var(--passed-border);
+  }
+  .step.upcoming .datecol .meta{color:var(--ink);}
+
+  .status-tag{
+    display:inline-block;font-size:0.72rem;font-weight:600;
+    letter-spacing:0.02em;
+    padding:2px 8px;border-radius:5px;margin-bottom:8px;
+  }
+  .step.current .status-tag{background:rgba(30,166,114,0.12);color:var(--green);}
+  .step.done .status-tag{background:var(--done-bg);color:var(--passed);}
+  .step.upcoming .status-tag{background:rgba(123,135,154,0.10);color:var(--ink);}
+
+  .step-details{
+    display:block;
+    width:100%;
+  }
+  .step-details > summary{
+    list-style:none;
+    cursor:pointer;
+    display:grid;
+    grid-template-columns:minmax(0,1fr) auto;
+    grid-template-areas:"status arrow" "title arrow";
+    align-items:center;
+    column-gap:12px;
+    row-gap:4px;
+    padding:4px 0;
+  }
+  .step-details > summary::-webkit-details-marker{display:none;}
+  .step-details > summary::after{
+    content:"▸";
+    font-size:1.3rem;
+    line-height:1;
+    color:var(--muted);
+    grid-area:arrow;
+    transition:transform 0.15s ease;
+  }
+  .step-details[open] > summary::after{transform:rotate(90deg);}
+  .step-details > summary .title{
+    grid-area:title;
+    margin:0;
+  }
+  .step-details > summary .status-tag{
+    grid-area:status;
+    justify-self:start;
+    margin-bottom:0;
+  }
+  .step-details .howto{margin-top:8px;}
+  .past-deadlines{display:block;width:100%;}
+  .past-deadlines > summary{
+    list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;
+    padding:4px 0;
+  }
+  .past-deadlines > summary::-webkit-details-marker{display:none;}
+  .past-label{font-size:0.92rem;font-weight:600;color:var(--passed);}
+  .past-count{
+    font-size:0.72rem;font-weight:600;color:var(--passed);
+    background:var(--done-bg);border-radius:5px;padding:2px 8px;
+  }
+  .past-deadlines > summary::after{
+    content:"▸";font-size:1.45rem;line-height:1;color:var(--passed);
+    margin-left:auto;transition:transform 0.15s ease;
+  }
+  .past-deadlines[open] > summary::after{transform:rotate(90deg);}
+  .past-timeline{margin-top:8px;}
+
+  ul.tasks{margin:0;padding-left:18px;color:var(--ink);}
+  .step.done ul.tasks{color:var(--passed);}
+  ul.tasks li{margin:3px 0;font-size:0.92rem;}
+
+  .howto{margin:2px 0 8px;}
+  .howto summary{
+    cursor:pointer;font-size:0.78rem;font-weight:600;color:var(--steel);
+    list-style:none;display:inline-flex;align-items:center;gap:4px;
+    padding:2px 0;
+  }
+  .howto summary::-webkit-details-marker{display:none;}
+  .howto summary::before{
+    content:"▸";display:inline-block;font-size:0.7rem;
+    transition:transform 0.15s ease;
+  }
+  .howto[open] summary::before{transform:rotate(90deg);}
+  .howto .howto-body{
+    margin:6px 0 4px 14px;padding:8px 12px;
+    background:var(--card);border-left:2px solid var(--steel);
+    border-radius:4px;font-size:0.85rem;color:var(--ink);
+  }
+  .step.done .howto .howto-body{color:var(--muted);}
+  .howto .howto-body a{color:var(--steel);}
+  @media (prefers-reduced-motion: reduce){
+    .howto summary::before{transition:none;}
+  }
+
+  .timeline-note{
+    max-width:860px;margin:0 auto 18px;padding:0 24px;
+    color:var(--muted);font-size:0.8rem;
+  }
+  .site-footer{
+    width:100%;min-height:60px;margin:0;padding:0;
+    background:var(--footer-bg);color:var(--footer-muted);text-align:center;
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+    font-size:16px;line-height:60px;
+  }
+  .site-footer .container{width:100%;margin:0 auto;padding:0 15px;}
+  @media (min-width:576px){.site-footer .container{max-width:540px;}}
+  @media (min-width:768px){.site-footer .container{max-width:720px;}}
+  @media (min-width:992px){.site-footer .container{max-width:960px;}}
+  @media (min-width:1200px){.site-footer .container{max-width:1140px;}}
+  .site-footer-muted{color:var(--footer-muted);}
+  .site-footer a{color:var(--footer-link);text-decoration:none;}
+  .site-footer a:hover{color:var(--footer-link-hover);text-decoration:underline;}
+  .site-footer a:focus-visible{outline:2px solid var(--footer-link);outline-offset:3px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hero-image-wrap">
+    <a href="https://3dvconf.github.io/2027/" target="_blank" rel="noopener noreferrer" aria-label="Visit the 3DV 2027 main site">
+      <img src="https://3dvconf.github.io/img/2027/3dv2027_banner.jpg" alt="3DV 2027 teaser banner">
+    </a>
+  </div>
+  <header>
+    <h1>Reviewer Timeline</h1>
+    <div class="today-controls">
+      <div class="today-badge"><span class="dot"></span><span id="todayLabel"></span></div>
+      <div class="header-controls">
+        <button id="themeToggle" type="button" class="ghost theme-toggle" aria-label="Toggle light and dark mode">
+          <svg class="theme-icon eye-open" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M2 12s3.6-6 10-6 10 6 10 6-3.6 6-10 6S2 12 2 12Z"/>
+            <circle cx="12" cy="12" r="2.5"/>
+          </svg>
+          <svg class="theme-icon eye-closed" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M3 14c2.5-2.2 5.5-3.3 9-3.3s6.5 1.1 9 3.3"/>
+            <path d="m7 14.2-1 2M12 13.7v2.5m5-2-1 2"/>
+          </svg>
+          <span class="theme-label">Dark mode</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="timeline" id="timeline"></div>
+
+</div>
+<p class="timeline-note">Status updates automatically based on the date you open this page. Refresh the page to update to current date.</p>
+<footer class="site-footer">
+  <div class="container">
+    <span class="site-footer-muted">© 3DV 2027 </span>
+    <span class="site-footer-muted"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/3DVconf">Twitter</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://bsky.app/profile/3dvconf.bsky.social">Bluesky</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/company/international-conference-on-3d-vision-3dv">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.xiaohongshu.com/user/profile/6360cac9000000001f018c8c">Xiaohongshu (小红书)</a></span>
+  </div>
+</footer>
+
+<script>
+// [ label, start "YYYY-MM-DD", end "YYYY-MM-DD" or null, whatTasks[] ]
+const steps = [
+  ["Reviewer assignments released", "2026-09-24", null,
+    [
+      {text:"Check your assigned papers in OpenReview",
+       howTo:{type:"text", body:"Your assignments are listed in the <a href=\"https://openreview.net/group?id=3DV/2027/Conference/Reviewers#assigned-submissions\" target=\"_blank\" rel=\"noopener noreferrer\">OpenReview Reviewer Console</a>. Skim each paper early so there is time to resolve any problems before the reviewing period gets busy."}},
+      {text:"Flag conflicts of interest or expertise mismatches to your AC right away",
+       howTo:{type:"text", body:"Contact the Area Chair of the paper directly through OpenReview if you have a conflict of interest or the paper is clearly outside your expertise. ACs can only replace reviewers for a real conflict or expertise mismatch, so raise it as early as possible."}},
+      {text:"Familiarize yourself with the reviewer guidelines",
+       howTo:{type:"link", label:"3DV 2027 reviewer guidelines", url:"https://3dvconf.github.io/2027/reviewer-guidelines/"}},
+    ]],
+  ["Reviewing in progress", "2026-09-27", "2026-10-16",
+    [
+      {text:"Write substantive, constructive reviews",
+        howTo:{type:"text", body:"ACs check the length, substance, and usefulness of each review. A good review gives the AC enough to support a decision about the paper: summarize the contribution, explain strengths and weaknesses with concrete evidence, and justify your rating. See the <a href=\"https://3dvconf.github.io/2027/reviewer-guidelines/\" target=\"_blank\" rel=\"noopener noreferrer\">reviewer guidelines</a>."}},
+      {text:"Identify any points that need author clarification",
+       howTo:{type:"text", body:"A short author response is optional and intended only for papers that truly need clarification. If you think authors need to clarify something, state the specific questions clearly in your review. The AC will use them when deciding whether to request a response."}},
+      {text:"Do not use LLMs to write your reviews",
+       howTo:{type:"text", body:"ACs actively check for signs of LLM-generated text in reviews."}},
+      {text:"Tell your AC early if you expect to be late",
+       howTo:{type:"text", body:"The deadline is strict. Grace periods are only considered if you contact your AC well in advance, so flag any delays as early as possible."}},
+    ], "Reviewing Period"],
+  ["Reviews due", "2026-10-16", null, []],
+  ["Emergency reviews and pre-rebuttal discussion", "2026-10-17", "2026-10-25",
+    [
+      {text:"Respond if your AC asks you to provide an emergency review",
+       howTo:{type:"text", body:"ACs use this window to secure emergency reviews for papers missing coverage. If you are invited and have the expertise and time, please accept and submit promptly."}},
+      {text:"Reply to your AC about whether author clarification is needed",
+       howTo:{type:"text", body:"Your AC may discuss with you which papers need author input before the initial decision. Point to the specific questions in your review that need clarification."}},
+    ]],
+  ["Reviews and preliminary decisions released to authors", "2026-10-27", null, []],
+  ["Author rebuttals due", "2026-11-01", null, []],
+  ["Reviewer / AC discussions", "2026-11-02", "2026-11-20",
+    [
+      {text:"Read the author responses and other reviews",
+       howTo:{type:"text", body:"Once you have submitted your review and discussion starts, you can see the other submitted reviews. For papers with author responses, factor the responses into your final assessment."}},
+      {text:"Engage in discussion, especially for papers with diverging scores",
+       howTo:{type:"text", body:"Discussion is mandatory for papers with diverging scores. Skipping discussion on these papers is highly irresponsible and may lead to desk rejection of your own submission. Respond to your AC's questions and explain whether and why your assessment has changed."}},
+      {text:"Update your review and score if your assessment has changed"},
+      {text:"For questions, contact your AC through OpenReview or email the PCs at <a href=\"mailto:3dv27-pcs@googlegroups.com\"><strong>3dv27-pcs@googlegroups.com</strong></a>"},
+    ]],
+  ["Final reviews due", "2026-11-20", null,
+    [{text:"Finalize your reviews and discussion replies",
+      howTo:{type:"text", body:"This is the last day for reviewers to finalize their reviews and reply in discussions. After this, ACs will make final decisions using the reviews and discussion as they stand."}}]],
+  ["Author notifications", "2026-12-02", null, ["Thank you for your service!"]],
+];
+
+function fmt(d){
+  return d.toLocaleDateString('en-US',{month:'short',day:'numeric'});
+}
+function parseDate(s){
+  const [y,m,d] = s.split('-').map(Number);
+  return new Date(y, m-1, d, 0,0,0,0);
+}
+function calendarDaysBetween(start, end){
+  const startUtc = Date.UTC(start.getFullYear(), start.getMonth(), start.getDate());
+  const endUtc = Date.UTC(end.getFullYear(), end.getMonth(), end.getDate());
+  return Math.round((endUtc - startUtc) / 86400000);
+}
+
+const container = document.getElementById('timeline');
+const todayLabelEl = document.getElementById('todayLabel');
+const themeToggle = document.getElementById('themeToggle');
+
+function applyTheme(theme){
+  const normalized = theme === 'dark' ? 'dark' : 'light';
+  document.documentElement.setAttribute('data-theme', normalized);
+  const nextTheme = normalized === 'dark' ? 'light' : 'dark';
+  themeToggle.dataset.nextTheme = nextTheme;
+  themeToggle.querySelector('.theme-label').textContent = nextTheme === 'light' ? 'Light mode' : 'Dark mode';
+  localStorage.setItem('acTimelineTheme', normalized);
+}
+
+function realToday(){
+  const d = new Date();
+  d.setHours(0,0,0,0);
+  return d;
+}
+
+function render(refDate){
+  todayLabelEl.textContent = "Today — " +
+    refDate.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+
+  container.innerHTML = '';
+  const pastSteps = [];
+  steps.forEach(([label, startStr, endStr, tasks, inactiveLabel])=>{
+    const start = parseDate(startStr);
+    const end = endStr ? parseDate(endStr) : start;
+
+    let status = 'upcoming';
+    if (refDate > end) status = 'done';
+    else if (refDate >= start && refDate <= end) status = 'current';
+
+    const rangeText = endStr ? `${fmt(start)} – ${fmt(end)}` : fmt(start);
+    const daysLeft = calendarDaysBetween(refDate, end);
+    const tag = status === 'done' ? 'Completed' : status === 'current'
+      ? `Active now · ${daysLeft} ${daysLeft === 1 ? 'day' : 'days'} left`
+      : 'Upcoming';
+    const isPeriod = Boolean(endStr && endStr !== startStr);
+    const metaLabel = isPeriod ? 'Review period' : 'Milestone';
+    const displayLabel = status === 'current' ? label : inactiveLabel || label;
+
+    const el = document.createElement('div');
+    const isCurrent = status === 'current';
+    el.className = `step ${status}${isPeriod ? ' period' : ' milestone'}${isCurrent ? ' current' : ''}`;
+
+    let contentHtml = '';
+    if (isCurrent || !tasks.length) {
+      contentHtml = `
+        <span class="status-tag">${tag}</span>
+        <p class="title">${displayLabel}</p>
+        ${tasks.length ? `<ul class="tasks">${tasks.map(t=>{
+          if (typeof t === 'string') return `<li>${t}</li>`;
+          let howtoHtml = '';
+          if (t.howTo){
+            const body = t.howTo.type === 'link'
+              ? `<a href="${t.howTo.url}" target="_blank" rel="noopener">${t.howTo.label}</a>`
+              : t.howTo.body;
+            howtoHtml = `<details class="howto"><summary>How to do it</summary><div class="howto-body">${body}</div></details>`;
+          }
+          return `<li>${t.text}${howtoHtml}</li>`;
+        }).join('')}</ul>` : ''}
+      `;
+    } else {
+      contentHtml = `
+        <details class="step-details">
+          <summary>
+            <span class="status-tag">${tag}</span>
+            <p class="title">${displayLabel}</p>
+          </summary>
+          ${tasks.length ? `<ul class="tasks">${tasks.map(t=>{
+            if (typeof t === 'string') return `<li>${t}</li>`;
+            let howtoHtml = '';
+            if (t.howTo){
+              const body = t.howTo.type === 'link'
+                ? `<a href="${t.howTo.url}" target="_blank" rel="noopener">${t.howTo.label}</a>`
+                : t.howTo.body;
+              howtoHtml = `<details class="howto"><summary>How to do it</summary><div class="howto-body">${body}</div></details>`;
+            }
+            return `<li>${t.text}${howtoHtml}</li>`;
+          }).join('')}</ul>` : ''}
+        </details>
+      `;
+    }
+
+    el.innerHTML = `
+      <div class="datecol">
+        <div class="range">${rangeText}</div>
+        <div class="meta">${metaLabel}</div>
+      </div>
+      <div class="marker"></div>
+      <div class="content">${contentHtml}</div>
+    `;
+    if (status === 'done') pastSteps.push(el);
+    else container.appendChild(el);
+  });
+
+  if (pastSteps.length) {
+    const pastGroup = document.createElement('div');
+    pastGroup.className = 'step done past-group-row';
+    pastGroup.innerHTML = `
+      <div class="datecol"></div>
+      <div class="marker"></div>
+      <div class="content">
+        <details class="past-deadlines">
+          <summary>
+            <span class="past-label">Past Deadlines</span>
+            <span class="past-count">${pastSteps.length} ${pastSteps.length === 1 ? 'entry' : 'entries'}</span>
+          </summary>
+          <div class="timeline past-timeline"></div>
+        </details>
+      </div>
+    `;
+    const pastTimeline = pastGroup.querySelector('.past-timeline');
+    pastSteps.forEach(step => pastTimeline.appendChild(step));
+    container.prepend(pastGroup);
+  }
+}
+
+themeToggle.addEventListener('click', ()=>{
+  const nextTheme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+  applyTheme(nextTheme);
+});
+
+const savedTheme = localStorage.getItem('acTimelineTheme') || 'light';
+applyTheme(savedTheme);
+render(realToday(), false);
+</script>
+</body>
+</html>
