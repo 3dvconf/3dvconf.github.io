@@ -40,6 +40,11 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
         <img alt="{{chair.name}}" src="{{site.url}}/img/2027/people/KN-leo.jpg"></a>
         <b>Leonidas Guibas</b><br><br><br>
     </div>
+    <div class="col-md-4 align-self-center profile crop" >
+        <a href="https://georgiagkioxari.com/">
+        <img alt="Georgia Gkioxari" src="{{site.url}}/img/2027/people/KN-georgia.jpg"></a>
+        <b>Georgia Gkioxari</b><br><br><br>
+    </div>
     <div class="col-md-3 align-self-center profile crop" >
         <a href="{{site.url}}">
         <img alt="{{chair.name}}" src="{{site.url}}/img/2027/people/KN-personX.png"></a>
