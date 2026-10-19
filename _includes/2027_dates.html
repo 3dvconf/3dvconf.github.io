@@ -2,10 +2,13 @@
 year = site.data.3dv.current-year %} {% endif %}
 
 <h3><i class="fas fa-calendar-alt"></i> &nbsp; Important Dates</h3>
-<b>The Abstract Registration, Paper Submission and Supplementary Material deadlines are 23:59 Anywhere on Earth (AoE). All other deadlines are 11:00 am Pacific Time (PDT). No extensions will be granted.</b>
+<b>{% unless include.sidebar %}The Abstract Registration, Paper Submission and Supplementary Material deadlines are 23:59 Anywhere on Earth (AoE). {% endunless %}All other deadlines are 11:00 am Pacific Time (PDT). No extensions will be granted.</b>
 <br/>
 <table style="border-collapse: collapse; border: none; width: 100%">
+  {% assign nowsec = 'now' | date: '%s' | plus: 0 %}
   {% for deadline in site.data.dates[year] %}
+  {% assign dlsec = deadline.countdown | date: '%s' | plus: 0 %}
+  {% unless include.sidebar and dlsec < nowsec %}
   <tr height="40px">
     <th style="border: none">{{ deadline.name }}</th>
     <td style="border: none">
@@ -25,5 +28,6 @@ year = site.data.3dv.current-year %} {% endif %}
       </script>
     </td>
   </tr>
+  {% endunless %}
   {% endfor %}
 </table>
