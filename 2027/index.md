@@ -45,6 +45,11 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
         <img alt="Georgia Gkioxari" src="{{site.url}}/img/2027/people/KN-georgia.jpg"></a>
         <b>Georgia Gkioxari</b><br><br><br>
     </div>
+    <div class="col-md-4 align-self-center profile crop" >
+        <a href="https://gulvarol.github.io/">
+        <img alt="Gül Varol" src="{{site.url}}/img/2027/people/KN-gul.jpg"></a>
+        <b>Gül Varol</b><br><br><br>
+    </div>
     <div class="col-md-3 align-self-center profile crop" >
         <a href="{{site.url}}">
         <img alt="{{chair.name}}" src="{{site.url}}/img/2027/people/KN-personX.png"></a>
