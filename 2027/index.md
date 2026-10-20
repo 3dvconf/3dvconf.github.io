@@ -35,17 +35,17 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
 </div>
 <br>
 <div class="row">
-    <div class="col-md-4 align-self-center profile crop" >
+    <div class="col-md-3 align-self-center profile crop" >
         <a href="https://geometry.stanford.edu/?member=guibas">
         <img alt="{{chair.name}}" src="{{site.url}}/img/2027/people/KN-leo.jpg"></a>
         <b>Leonidas Guibas</b><br><br><br>
     </div>
-    <div class="col-md-4 align-self-center profile crop" >
+    <div class="col-md-3 align-self-center profile crop" >
         <a href="https://georgiagkioxari.com/">
         <img alt="Georgia Gkioxari" src="{{site.url}}/img/2027/people/KN-georgia.jpg"></a>
         <b>Georgia Gkioxari</b><br><br><br>
     </div>
-    <div class="col-md-4 align-self-center profile crop" >
+    <div class="col-md-3 align-self-center profile crop" >
         <a href="https://gulvarol.github.io/">
         <img alt="Gül Varol" src="{{site.url}}/img/2027/people/KN-gul.jpg"></a>
         <b>Gül Varol</b><br><br><br>
@@ -73,6 +73,8 @@ Since 2013, under the name 3DV, this event has been a platform for disseminating
         3DV 2027 is organized under the auspices of the School of <a href="https://ece.auth.gr/en/home/" target="_blank">Electrical and Computer Engineering</a> (ECE), <a href="https://www.auth.gr/en/" target="_blank">Aristotle University of Thessaloniki</a> (AUTh).
     </div>
 </div>
+
+<br>
 
 <!-- <br>
 <h4><a href="https://www.youtube.com/playlist?list=PLb1ccx6HcRw_XB-rLg9yyhunpS17uL-3f">Keynote and Award Talk Video Playlist</a></h4>
